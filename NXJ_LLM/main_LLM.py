@@ -204,7 +204,7 @@ def run_interactive_mode():
         # 시스템 초기화
         print("시스템 초기화 중... (시간이 걸릴 수 있습니다)")
         rag_system = LLMRAGSystem()
-        rag_system.initialize_system(sample_size=500)  # 빠른 테스트를 위해 500개 문서만 사용
+
         
         # 시스템 정보 출력
         print("\n시스템 정보:")

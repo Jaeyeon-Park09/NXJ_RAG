@@ -7,7 +7,10 @@ LangChain의 LLMChain을 사용하여 PromptTemplate과 LLM 객체를 결합합�
 
 import logging
 from typing import Dict, Any, List
-
+from langchain_core.language_models import BaseLanguageModel
+from langchain_core.prompts.prompt import PromptTemplate
+from langchain.chains.llm import LLMChain
+from langchain.schema import Document
 
 logger = logging.getLogger(__name__)
 

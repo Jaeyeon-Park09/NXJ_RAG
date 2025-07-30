@@ -8,6 +8,7 @@ import logging
 from typing import Optional, Dict, Any
 
 from langchain_community.llms import Ollama
+from langchain_core.language_models import BaseLanguageModel
 
 logger = logging.getLogger(__name__)
 
@@ -101,5 +102,3 @@ def get_llm_info(llm: BaseLanguageModel) -> Dict[str, Any]:
     except Exception as e:
         logger.error(f"LLM 정보 수집 중 오류 발생: {str(e)}")
         return {"error": str(e)}
-
-

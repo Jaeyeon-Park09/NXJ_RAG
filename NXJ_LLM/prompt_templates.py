@@ -7,7 +7,7 @@ LangChain의 PromptTemplate을 사용하여 문서 기반 응답 생성을 위�
 
 import logging
 from typing import List, Dict, Any
-
+from langchain_core.prompts.prompt import PromptTemplate
 from langchain.schema import Document
 
 logger = logging.getLogger(__name__)
