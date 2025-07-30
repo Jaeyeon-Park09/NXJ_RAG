@@ -2,14 +2,15 @@
 
 ## 📋 프로젝트 개요
 
-NXJ_RAG는 의료제품 인허가 관련 문서를 기반으로 한 질의응답 시스템입니다. LangChain을 기반으로 구축된 완전한 RAG(Retrieval-Augmented Generation) 시스템으로, 문서 검색과 LLM을 결합하여 정확하고 신뢰할 수 있는 답변을 제공합니다.
+NXJ_RAG는 의료제품 인허가 지원을 위한 LLM 챗봇입니다. LangChain을 기반으로 구축된 RAG(Retrieval-Augmented Generation) 시스템으로, 문서 검색과 LLM을 결합하여 정확하고 신뢰할 수 있는 답변을 제공합니다.
 
 ## 🏗️ 시스템 아키텍처
 
 ```
 NXJ_RAG/
-├── NXJ_Embed/          # 문서 임베딩 및 벡터 저장소
-├── NXJ_Retriever/      # 문서 검색 및 압축 시스템
+├── NXJ_Parser_Text/   # PDF 파싱 툴 (텍스트 한정)
+├── NXJ_Embed/         # 문서 임베딩 및 벡터 저장소
+├── NXJ_Retriever/     # 문서 검색 및 압축 시스템
 ├── NXJ_LLM/           # LLM 통합 및 QA 체인
 └── NXJ_Web/           # Streamlit 웹 인터페이스
 ```
@@ -19,12 +20,38 @@ NXJ_RAG/
 ```
 사용자 질문 → Ensemble Retriever → Document Compression → LLM → 답변
                 ↓
-        [FAISS + BM25] → [LongContextReorder + LLMChainExtractor] → [Ollama LLM]
+        [Sparse + Dense] → [LongContextReorder + LLMChainExtractor] → [Ollama LLM]
 ```
 
 ## 🔧 주요 컴포넌트
 
-### 1. NXJ_Embed: 문서 임베딩 시스템
+### 1. NXJ_Parser_Text: PDF 파싱 시스템
+
+**기능:**
+- PDF 문서 텍스트 추출
+- 텍스트 전처리 및 정제
+- 메타데이터 추출 (페이지 번호, 파일명 등)
+- 다국어 지원 (한국어, 영어)
+
+**주요 특징:**
+- **PyPDF2** 기반 PDF 파싱
+- **정규표현식**을 통한 텍스트 정제
+- **SentenceWindowNodeParser**를 통한 문맥 보존 청킹
+- **메타데이터 보존**으로 출처 추적
+
+**SentenceWindowNodeParser 원리:**
+- **문장 단위 분할**: 자연스러운 문장 경계에서 문서를 분할
+- **컨텍스트 윈도우**: 각 노드(=문장) 주변에 이전/다음 문장들을 포함하여 문맥 보존
+- **중복 제거**: 윈도우 간 중복되는 문장들을 효율적으로 처리
+- **문맥 연속성**: 문장 간의 논리적 연결성을 유지하여 검색 품질 향상
+
+**SentenceWindowNodeParser 하이퍼파라미터:**
+- **window_size**: 3 (각 노드 전후로 3개 문장씩 포함)
+- **window_metadata_key**: "window" (윈도우 정보 저장 키)
+- **original_text_metadata_key**: "original_text" (원본 텍스트 저장 키)
+- **sentence_splitter**: 한국어/영어 문장 분할기
+
+### 2. NXJ_Embed: 문서 임베딩 시스템
 
 **사용 모델:**
 - **임베딩 모델**: `intfloat/multilingual-e5-base`
@@ -32,32 +59,33 @@ NXJ_RAG/
 - **차원**: 768차원
 
 **주요 하이퍼파라미터:**
-- **Chunk Size**: 1000 토큰
-- **Chunk Overlap**: 200 토큰
+- **SentenceWindowNodeParser**: window_size=2, 문맥 보존 청킹
+- **임베딩 모델**: intfloat/multilingual-e5-base
 - **Device**: CPU (GPU 지원 가능)
 - **Normalize**: True
+- **Chunk Overlap**: 문장 단위 자동 처리
 
 **기능:**
 - PDF 문서 텍스트 추출
-- 청킹 및 임베딩 생성
+- SentenceWindowNodeParser를 통한 문맥 보존 청킹
+- 임베딩 생성 및 벡터화
 - FAISS 벡터 인덱스 구축
-- 메타데이터 저장
+- 메타데이터 저장 (윈도우 정보 포함)
 
-### 2. NXJ_Retriever: 문서 검색 시스템
+### 3. NXJ_Retriever: 문서 검색 시스템
 
-#### 2.1 Ensemble Retriever
+#### 3.1 Ensemble Retriever
 
 **구성 요소:**
-- **FAISS Retriever**: 벡터 유사도 검색
-- **BM25 Retriever**: 키워드 기반 검색
+- **FAISS Retriever**: 벡터 유사도 검색 - 의미적 유사성 기반 검색에 효과적
+- **BM25 Retriever**: 키워드 기반 검색 - 키워드 기반 검색에 효과적
 
 **하이퍼파라미터:**
 - **FAISS 가중치**: 0.6
 - **BM25 가중치**: 0.4
 - **Top-k**: 10개 문서
-- **BM25 샘플 크기**: 500개 문서
 
-#### 2.2 Document Compression Pipeline
+#### 3.2 Document Compression Pipeline
 
 **구성 요소:**
 1. **LongContextReorder**: 문서 중요도 순 재정렬
@@ -68,18 +96,17 @@ NXJ_RAG/
 문서 → LongContextReorder → LLMChainExtractor → 압축된 문서
 ```
 
-#### 2.3 Contextual Compression Retriever
+#### 3.3 Contextual Compression Retriever
 
 **기능:**
 - 검색된 문서를 질문에 맞게 압축
 - 관련성 높은 내용만 추출
 - 컨텍스트 품질 향상
 
-### 3. NXJ_LLM: LLM 통합 시스템
+### 4. NXJ_LLM: LLM 통합 시스템
 
 **사용 모델:**
 - **기본 모델**: `command-r:35b` (Ollama)
-- **대안 모델**: `llama3.2:3b`, `qwen2.5:7b`
 
 **주요 하이퍼파라미터:**
 - **Temperature**: 0.1 (일관성 있는 답변)
@@ -92,7 +119,7 @@ NXJ_RAG/
 - **Return Source Documents**: True
 - **Chain Verbose**: False
 
-### 4. NXJ_Web: 웹 인터페이스
+### 5. NXJ_Web: 웹 인터페이스
 
 **기술 스택:**
 - **Framework**: Streamlit
@@ -104,6 +131,8 @@ NXJ_RAG/
 - 고급 설정 (Retriever 타입, 가중치 조정)
 - 결과 시각화
 - 소스 문서 표시
+
+
 
 ## 🚀 설치 및 실행
 
@@ -147,91 +176,6 @@ cd NXJ_Web
 streamlit run streamlit_app.py
 ```
 
-## 📊 성능 최적화
-
-### 1. 검색 성능
-- **Ensemble 가중치 조정**: FAISS 60%, BM25 40%
-- **문서 압축**: 관련성 높은 내용만 추출
-- **재정렬**: LongContextReorder로 중요도 순 정렬
-
-### 2. 응답 품질
-- **Temperature 조정**: 0.1로 일관성 확보
-- **프롬프트 엔지니어링**: 의료제품 인허가 특화
-- **소스 문서 제공**: 답변의 신뢰성 검증
-
-### 3. 처리 속도
-- **청킹 최적화**: 1000 토큰 단위로 분할
-- **병렬 처리**: FAISS와 BM25 동시 실행
-- **캐싱**: 임베딩 및 인덱스 재사용
-
-## 🔍 주요 기능
-
-### 1. 다중 검색 전략
-- **벡터 검색**: 의미적 유사도 기반
-- **키워드 검색**: 정확한 용어 매칭
-- **앙상블**: 두 방식의 장점 결합
-
-### 2. 문서 압축 및 재정렬
-- **LongContextReorder**: 문서 중요도 순 정렬
-- **LLMChainExtractor**: 관련 내용 추출
-- **파이프라인 처리**: 순차적 압축
-
-### 3. 대화형 인터페이스
-- **실시간 응답**: 즉시 답변 생성
-- **소스 표시**: 답변 근거 제공
-- **설정 조정**: 사용자 맞춤 설정
-
-## 📈 시스템 성능
-
-### 검색 정확도
-- **Ensemble Retriever**: 단일 검색 대비 15% 향상
-- **Document Compression**: 관련성 25% 향상
-- **Contextual Compression**: 답변 품질 30% 향상
-
-### 처리 속도
-- **초기 로딩**: ~30초 (모델 및 인덱스 로드)
-- **질의 응답**: ~5-10초 (문서 검색 + LLM 생성)
-- **웹 인터페이스**: 실시간 응답
-
-## 🛠️ 기술 스택
-
-### 백엔드
-- **LangChain**: RAG 파이프라인 구축
-- **FAISS**: 벡터 검색 엔진
-- **Ollama**: 로컬 LLM 실행
-- **Sentence Transformers**: 임베딩 생성
-
-### 프론트엔드
-- **Streamlit**: 웹 인터페이스
-- **HTML/CSS**: UI 커스터마이징
-
-### 데이터 처리
-- **PyPDF2**: PDF 텍스트 추출
-- **NumPy/Pandas**: 데이터 처리
-- **JSON**: 메타데이터 저장
-
-## 🔧 커스터마이징
-
-### 모델 변경
-```python
-# LLM 모델 변경
-llm = build_llm("llama3.2:3b")  # 더 빠른 모델
-llm = build_llm("qwen2.5:7b")   # 더 정확한 모델
-
-# 임베딩 모델 변경
-embedding_model = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2"
-)
-```
-
-### 하이퍼파라미터 조정
-```python
-# Ensemble 가중치 조정
-ensemble_weights = [0.7, 0.3]  # FAISS 70%, BM25 30%
-
-# Temperature 조정
-llm = build_llm("command-r:35b", temperature=0.2)  # 더 창의적
-```
 
 ## 📝 라이선스
 
@@ -244,7 +188,3 @@ llm = build_llm("command-r:35b", temperature=0.2)  # 더 창의적
 ## 📞 문의
 
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
-
----
-
-**NXJ_RAG**: 의료제품 인허가를 위한 지능형 문서 검색 및 질의응답 시스템 
