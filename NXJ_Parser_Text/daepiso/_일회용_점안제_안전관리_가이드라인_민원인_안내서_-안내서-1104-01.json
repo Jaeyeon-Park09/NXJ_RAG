@@ -1,0 +1,4647 @@
+{
+  "file_name": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+  "total_pages": 10,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "9.951866149902344": 8,
+      "23.98040008544922": 2,
+      "20.02363395690918": 1,
+      "18.944515228271484": 1,
+      "17.02608299255371": 5,
+      "11.030982971191406": 59,
+      "12.94941520690918": 97,
+      "11.99020004272461": 12,
+      "8.992650032043457": 4,
+      "14.028532981872559": 14,
+      "14.987749099731445": 4,
+      "23.021183013916016": 1,
+      "15.946965217590332": 3,
+      "9.712061882019043": 4,
+      "8.752802848815918": 9
+    },
+    "heading_sizes": [
+      23.98040008544922,
+      17.02608299255371,
+      15.946965217590332,
+      14.987749099731445,
+      14.028532981872559
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 1,
+    "tables_info": [
+      {
+        "bbox": [
+          67.88320922851562,
+          359.3515625,
+          492.57305908203125,
+          750.7678833007812
+        ],
+        "num_rows": 6,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "- 1 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일회용 점안제 안전관리 가이드라인",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        105.06305694580078,
+        322.7257385253906,
+        489.6946105957031,
+        346.69952392578125
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(민원인 안내서)",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        214.92352294921875,
+        361.0838317871094,
+        379.8584899902344,
+        385.0576171875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2021. 2.",
+      "font_size": 20.02363395690918,
+      "font_name": "H2hdrM",
+      "bbox": [
+        259.0596008300781,
+        497.29425048828125,
+        335.7857360839844,
+        517.3123779296875
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의 약 품 정 책 과",
+      "font_size": 18.944515228271484,
+      "font_name": "H2hdrM",
+      "bbox": [
+        178.82308959960938,
+        690.7299194335938,
+        408.0172119140625,
+        709.669189453125
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 2 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 2,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서ᆞ안내서 제ᆞ개정 점검표",
+      "font_size": 17.02608299255371,
+      "font_name": "H2hdrM",
+      "bbox": [
+        155.67562866210938,
+        115.68646240234375,
+        410.5382385253906,
+        132.70787048339844
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        82.39534759521484,
+        153.17691040039062,
+        441.5920104980469,
+        167.84494018554688
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일회용 점안제 안전관리 가이드라인(민원인 안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        82.39534759521484,
+        153.17691040039062,
+        441.5920104980469,
+        167.84494018554688
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        152.7971954345703,
+        180.14743041992188,
+        413.9050598144531,
+        194.81546020507812
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        70.64171600341797,
+        324.1100769042969,
+        114.65752410888672,
+        338.7781066894531
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "여부",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        81.67573547363281,
+        341.7308349609375,
+        103.7437744140625,
+        356.39886474609375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        201.96359252929688,
+        419.3336486816406,
+        216.63162231445312
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서ㆍ안내서가 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.92037963867188,
+        218.5054931640625,
+        293.1621398925781,
+        233.1735382080078
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        202.56292724609375,
+        476.3815002441406,
+        232.57418823242188
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        202.56292724609375,
+        476.3815002441406,
+        232.57418823242188
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        236.48583984375,
+        500.36859130859375,
+        251.1538848876953
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "적으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        253.02777099609375,
+        500.36883544921875,
+        284.11785888671875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        253.02777099609375,
+        500.36883544921875,
+        284.11785888671875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사유 :                                                         )",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        285.9917297363281,
+        478.4244689941406,
+        314.4447021484375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        285.9917297363281,
+        478.4244689941406,
+        314.4447021484375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "예규)의 내용을 단순 편집 또는 나열한 것입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.92037963867188,
+        316.318603515625,
+        381.6741638183594,
+        330.98663330078125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        300.37603759765625,
+        476.3815002441406,
+        330.3872985839844
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        300.37603759765625,
+        476.3815002441406,
+        330.3872985839844
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        330.1035461425781,
+        476.3815002441406,
+        360.11480712890625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        330.1035461425781,
+        476.3815002441406,
+        360.11480712890625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        330.1035461425781,
+        476.3815002441406,
+        360.11480712890625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        359.3515625,
+        397.86529541015625,
+        374.01959228515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "해당하는 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        374.6947937011719,
+        255.61941528320312,
+        389.3628234863281
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        359.3515625,
+        476.3815002441406,
+        389.3628234863281
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        359.3515625,
+        476.3815002441406,
+        389.3628234863281
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        388.479736328125,
+        476.3815002441406,
+        418.4909973144531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        388.479736328125,
+        476.3815002441406,
+        418.4909973144531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        388.479736328125,
+        476.3815002441406,
+        418.4909973144531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        417.727783203125,
+        408.2999572753906,
+        432.39581298828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "쉽게 정리한 자료입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        433.0710144042969,
+        276.01141357421875,
+        447.7390441894531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        417.727783203125,
+        476.3815002441406,
+        447.7390441894531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        417.727783203125,
+        476.3815002441406,
+        447.7390441894531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        449.2533264160156,
+        500.36883544921875,
+        463.9213562011719
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "닙니다. 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        144.161865234375,
+        465.6753845214844,
+        462.0046081542969,
+        480.3434143066406
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        67.04366302490234,
+        517.8184204101562,
+        118.25634002685547,
+        532.4864501953125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "서 구분",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        77.11820220947266,
+        535.4391479492188,
+        108.18180084228516,
+        550.107177734375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        484.73455810546875,
+        420.533447265625,
+        499.402587890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행정사무의 세부기준이나 절차를 제시하는 것입니까? (공",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        500.0777893066406,
+        416.7741394042969,
+        530.0890502929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무원용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        500.0777893066406,
+        416.7741394042969,
+        530.0890502929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        492.4061584472656,
+        500.8892517089844,
+        522.41748046875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        492.4061584472656,
+        500.8892517089844,
+        522.41748046875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        536.3981323242188,
+        420.53338623046875,
+        551.066162109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        551.7413330078125,
+        420.5306701660156,
+        581.7526245117188
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "입장을 기술하는 것입니까? (민원인용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        551.7413330078125,
+        420.5306701660156,
+        581.7526245117188
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예(☞안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        544.0697631835938,
+        501.1291198730469,
+        574.0809936523438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        544.0697631835938,
+        501.1291198730469,
+        574.0809936523438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        67.88320922851562,
+        603.4049072265625,
+        117.41636657714844,
+        618.0729370117188
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        81.67573547363281,
+        621.025634765625,
+        103.7437744140625,
+        635.6936645507812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        589.3801879882812,
+        416.7738037109375,
+        604.0482177734375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나 민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        604.7234497070312,
+        349.1687316894531,
+        619.3914794921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        589.3801879882812,
+        476.3815002441406,
+        619.3914794921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        426.9685974121094,
+        589.3801879882812,
+        476.3815002441406,
+        619.3914794921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        129.6497344970703,
+        622.8236694335938,
+        500.36883544921875,
+        637.49169921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        146.2007598876953,
+        639.3656005859375,
+        398.9187927246094,
+        654.0336303710938
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        201.0110626220703,
+        657.22607421875,
+        366.6506652832031,
+        671.8941040039062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2021년    2월    일",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        210.84573364257812,
+        691.5086059570312,
+        345.2928771972656,
+        706.1766357421875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        314.7094421386719,
+        721.715576171875,
+        389.54022216796875,
+        750.7678833007812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        314.7094421386719,
+        721.715576171875,
+        389.54022216796875,
+        750.7678833007812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "정욱진",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        459.4709777832031,
+        720.1572875976562,
+        492.57305908203125,
+        734.8253173828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "채규한",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.9912414550781,
+        737.6581420898438,
+        492.5721740722656,
+        752.326171875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서에",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대한",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의견이나",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "문의사항이",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있을",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "경우",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품정책과에",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.72438049316406,
+        495.4731140136719,
+        542.7020874023438,
+        512.692138671875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "문의하시기 바랍니다.",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        91.75027465820312,
+        516.2105102539062,
+        217.99685668945312,
+        533.4295043945312
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화번호: 043-719-2609",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.75352478027344,
+        536.9478149414062,
+        238.7271270751953,
+        554.1668090820312
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "팩스번호: 043-719-2606",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.75352478027344,
+        557.8050537109375,
+        238.72874450683594,
+        575.0240478515625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "공익신고자 보호제도란?",
+      "font_size": 11.99020004272461,
+      "font_name": "Gulim",
+      "bbox": [
+        131.68862915039062,
+        667.5696411132812,
+        542.4627685546875,
+        728.5182495117188
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "-공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,",
+      "font_size": 8.992650032043457,
+      "font_name": "Batang",
+      "bbox": [
+        131.68862915039062,
+        667.5696411132812,
+        542.4627685546875,
+        728.5182495117188
+      ],
+      "page_num": 3,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도",
+      "font_size": 8.992650032043457,
+      "font_name": "Batang",
+      "bbox": [
+        131.68862915039062,
+        667.5696411132812,
+        542.4627685546875,
+        728.5182495117188
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "♣보호조치 요구 방법",
+      "font_size": 8.992650032043457,
+      "font_name": "Batang",
+      "bbox": [
+        131.68862915039062,
+        667.5696411132812,
+        542.4627685546875,
+        728.5182495117188
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567",
+      "font_size": 8.992650032043457,
+      "font_name": "Batang",
+      "bbox": [
+        131.68862915039062,
+        667.5696411132812,
+        542.4627685546875,
+        728.5182495117188
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        170.7725372314453,
+        530.2329711914062,
+        189.42645263671875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        200.14044189453125,
+        312.92669677734375,
+        218.7943572998047
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        239.4574737548828,
+        530.2330932617188,
+        258.11138916015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한, 본",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        268.82537841796875,
+        535.1658935546875,
+        287.4792785644531
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        298.1932678222656,
+        530.2320556640625,
+        316.84716796875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        327.5611877441406,
+        530.2332763671875,
+        346.215087890625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "될 수 있음을 알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        356.9290771484375,
+        221.05581665039062,
+        375.5829772949219
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        409.0475769042969,
+        530.1127319335938,
+        426.2665710449219
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        88.63196563720703,
+        425.9490966796875,
+        534.6664428710938,
+        460.06964111328125
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        88.63196563720703,
+        425.9490966796875,
+        534.6664428710938,
+        460.06964111328125
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 4 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 4,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정 이력",
+      "font_size": 17.02608299255371,
+      "font_name": "H2gtrE",
+      "bbox": [
+        242.1487579345703,
+        96.86702728271484,
+        352.609619140625,
+        113.888427734375
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일회용 점안제 안전관리 가이드라인(민원인 안내서)",
+      "font_size": 14.987749099731445,
+      "font_name": "T8",
+      "bbox": [
+        106.50228118896484,
+        154.1515350341797,
+        487.6706848144531,
+        172.1318817138672
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제․개정번호",
+      "font_size": 14.028532981872559,
+      "font_name": "T8",
+      "bbox": [
+        86.35319519042969,
+        209.770751953125,
+        429.6068115234375,
+        226.60035705566406
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 14.028532981872559,
+      "font_name": "T8",
+      "bbox": [
+        86.35319519042969,
+        209.770751953125,
+        429.6068115234375,
+        226.60035705566406
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요 내용",
+      "font_size": 14.028532981872559,
+      "font_name": "T8",
+      "bbox": [
+        86.35319519042969,
+        209.770751953125,
+        429.6068115234375,
+        226.60035705566406
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서-1104-01",
+      "font_size": 14.028532981872559,
+      "font_name": "T9",
+      "bbox": [
+        82.9950180053711,
+        240.57708740234375,
+        511.88330078125,
+        268.55450439453125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2021.2.22.",
+      "font_size": 14.028532981872559,
+      "font_name": "T9",
+      "bbox": [
+        82.9950180053711,
+        240.57708740234375,
+        511.88330078125,
+        268.55450439453125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일회용 점안제 안전관리 가이드라인",
+      "font_size": 14.028532981872559,
+      "font_name": "T9",
+      "bbox": [
+        82.9950180053711,
+        240.57708740234375,
+        511.88330078125,
+        268.55450439453125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제정",
+      "font_size": 14.028532981872559,
+      "font_name": "T9",
+      "bbox": [
+        281.24755859375,
+        262.87274169921875,
+        308.3525390625,
+        279.70233154296875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "목    차",
+      "font_size": 23.021183013916016,
+      "font_name": "H2gtrE",
+      "bbox": [
+        254.9818115234375,
+        105.38732147216797,
+        346.9719543457031,
+        128.4021759033203
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": " 목적 ·······························································································  6",
+      "font_size": 14.987749099731445,
+      "font_name": "H2hdrM",
+      "bbox": [
+        66.56392669677734,
+        170.91317749023438,
+        523.9811401367188,
+        186.8557586669922
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": " 제조(수입)와 유통 ·······································································  6",
+      "font_size": 14.987749099731445,
+      "font_name": "H2hdrM",
+      "bbox": [
+        66.56392669677734,
+        206.87387084960938,
+        523.9811401367188,
+        222.8164520263672
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 점안제의 정의와 특징 ··························································································· 6",
+      "font_size": 11.99020004272461,
+      "font_name": "H2hdrM",
+      "bbox": [
+        66.56392669677734,
+        242.8186492919922,
+        523.9121704101562,
+        257.8022766113281
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7",
+      "font_size": 11.99020004272461,
+      "font_name": "H2hdrM",
+      "bbox": [
+        66.56392669677734,
+        276.7416076660156,
+        523.9121704101562,
+        291.7252197265625
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": " 소비자 사용 ··················································································· 9",
+      "font_size": 14.987749099731445,
+      "font_name": "H2hdrM",
+      "bbox": [
+        66.56392669677734,
+        310.7843933105469,
+        523.9811401367188,
+        325.76800537109375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 1회용 점안제의 사용 ···························································································· 9",
+      "font_size": 11.99020004272461,
+      "font_name": "H2hdrM",
+      "bbox": [
+        66.56392669677734,
+        344.7624206542969,
+        523.9121704101562,
+        356.74932861328125
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 사용 후 폐기 ········································································································ 10",
+      "font_size": 11.99020004272461,
+      "font_name": "H2hdrM",
+      "bbox": [
+        66.56392669677734,
+        372.69189453125,
+        523.9121704101562,
+        384.6788024902344
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 6 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 15.946965217590332,
+      "font_name": "H2gtrE",
+      "bbox": [
+        70.40184783935547,
+        92.6716079711914,
+        143.68284606933594,
+        109.69300842285156
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "목적",
+      "font_size": 17.02608299255371,
+      "font_name": "H2gtrE",
+      "bbox": [
+        70.40184783935547,
+        92.6716079711914,
+        143.68284606933594,
+        109.69300842285156
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        141.97763061523438,
+        544.7453002929688,
+        158.80723571777344
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        83.95449829101562,
+        168.07882690429688,
+        544.6253662109375,
+        181.73265075683594
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사용을 도모하려는 것임",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        83.95449829101562,
+        191.45327758789062,
+        227.15689086914062,
+        205.1071014404297
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        214.82772827148438,
+        544.6251831054688,
+        228.48155212402344
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.7551498413086,
+        238.2021942138672,
+        445.4385681152344,
+        251.85601806640625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 15.946965217590332,
+      "font_name": "H2gtrE",
+      "bbox": [
+        70.40184783935547,
+        292.61309814453125,
+        252.70376586914062,
+        309.6344909667969
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제조(수입)와 유통",
+      "font_size": 17.02608299255371,
+      "font_name": "H2gtrE",
+      "bbox": [
+        70.40184783935547,
+        292.61309814453125,
+        252.70376586914062,
+        309.6344909667969
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 점안제의 정의와 특징",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        341.6491394042969,
+        209.406494140625,
+        355.3029479980469
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 정의1)",
+      "font_size": 9.712061882019043,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        379.4078674316406,
+        119.97274780273438,
+        393.0616760253906
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        411.7724914550781,
+        544.6253662109375,
+        425.4263000488281
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        84.07443237304688,
+        435.1469421386719,
+        522.6898193359375,
+        448.8007507324219
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. 특징2)",
+      "font_size": 9.712061882019043,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        472.90570068359375,
+        119.97274780273438,
+        486.55950927734375
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        505.2702941894531,
+        538.1483764648438,
+        518.9241333007812
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.63521575927734,
+        528.644775390625,
+        534.190185546875,
+        542.2986450195312
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        561.0093994140625,
+        544.7447509765625,
+        574.6632690429688
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.7551498413086,
+        584.3838500976562,
+        449.9964294433594,
+        598.0377197265625
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        616.7484741210938,
+        544.6248168945312,
+        630.40234375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "따라 시험할 때 적합하여야 함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.87508392333984,
+        640.1229248046875,
+        268.1877746582031,
+        653.7767944335938
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        672.487548828125,
+        544.6248168945312,
+        686.1414184570312
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.87508392333984,
+        695.8619995117188,
+        443.5327453613281,
+        709.515869140625
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1) 대한민국약전, 별표2. 제제총칙(제2019-11호)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        735.2308959960938,
+        239.96397399902344,
+        755.96826171875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2) 대한민국약전, 별표2. 제제총칙(제2019-11호)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        735.2308959960938,
+        239.96397399902344,
+        755.96826171875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 7 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        93.87989807128906,
+        544.6253662109375,
+        107.53372955322266
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "불용성미립자시헙법에 따라 시험할 때 적합하여야 함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        81.67573547363281,
+        117.25435638427734,
+        403.3545227050781,
+        130.90818786621094
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        149.61898803710938,
+        453.6072998046875,
+        163.27281188964844
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        181.98362731933594,
+        538.1480712890625,
+        195.637451171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용기에 보존함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.7551498413086,
+        205.3580780029297,
+        170.6806182861328,
+        219.01190185546875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 1회용 점안제의 정의와 제조 및 품질관리와 유통",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        252.10699462890625,
+        371.7984924316406,
+        265.76080322265625
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 정의3)4)",
+      "font_size": 9.712061882019043,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        289.86572265625,
+        127.88793182373047,
+        303.51953125
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        322.2303466796875,
+        544.6248168945312,
+        335.8841552734375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.9950180053711,
+        345.60479736328125,
+        544.6248168945312,
+        359.25860595703125
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.9950180053711,
+        368.9792785644531,
+        538.1488647460938,
+        382.6330871582031
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하도록 의료용 목적으로 제조 또는 수입된 제제임",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.9950180053711,
+        392.3537292480469,
+        381.9934997558594,
+        406.0075378417969
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 제조 및 품질관리5)6)7)8)9)",
+      "font_size": 9.712061882019043,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        430.1124572753906,
+        229.71327209472656,
+        443.7662658691406
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 고려사항",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        462.4770812988281,
+        134.44766235351562,
+        476.1308898925781
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        494.8417053222656,
+        544.6253662109375,
+        508.4955139160156
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        89.95124816894531,
+        518.2161254882812,
+        544.6251220703125,
+        531.8699951171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "점안제의 제조 및 품질관리 지침을 함께 고려함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        89.95124816894531,
+        541.590576171875,
+        380.0871276855469,
+        555.2444458007812
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅇ 제조 및 품질관리",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        573.9552001953125,
+        186.3795166015625,
+        587.6090698242188
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        606.3198852539062,
+        538.148193359375,
+        619.9737548828125
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        89.11170196533203,
+        629.6943359375,
+        544.74609375,
+        643.3482055664062
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3) 대한민국약전, 별표2. 제제총칙(제2019-11호)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        676.135498046875,
+        495.4906311035156,
+        755.96826171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020. 3. 4, 일부개정)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        676.135498046875,
+        495.4906311035156,
+        755.96826171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        676.135498046875,
+        495.4906311035156,
+        755.96826171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "6) 대한민국약전, 별표2. 일반시험법(제2019-11호)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        676.135498046875,
+        495.4906311035156,
+        755.96826171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        676.135498046875,
+        495.4906311035156,
+        755.96826171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018. 12. 28., 일부개정), 별표1",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        676.135498046875,
+        495.4906311035156,
+        755.96826171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)",
+      "font_size": 8.752802848815918,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        676.135498046875,
+        495.4906311035156,
+        755.96826171875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 8 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        89.11170196533203,
+        84.88972473144531,
+        417.6268005371094,
+        98.5435562133789
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용",
+      "font_size": 11.99020004272461,
+      "font_name": "T9",
+      "bbox": [
+        56.609317779541016,
+        116.3927993774414,
+        538.268310546875,
+        130.90818786621094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는",
+      "font_size": 11.99020004272461,
+      "font_name": "T9",
+      "bbox": [
+        93.42936706542969,
+        138.92816162109375,
+        538.1483154296875,
+        153.3124542236328
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터",
+      "font_size": 11.99020004272461,
+      "font_name": "T9",
+      "bbox": [
+        93.42936706542969,
+        160.50457763671875,
+        538.1483154296875,
+        174.8888702392578
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "홀더를 쓴다.”로 규정하고 있음",
+      "font_size": 11.99020004272461,
+      "font_name": "T9",
+      "bbox": [
+        93.42936706542969,
+        182.08102416992188,
+        262.5377197265625,
+        196.46530151367188
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        214.34825134277344,
+        534.67041015625,
+        228.0020751953125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 용기",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        246.712890625,
+        108.54170227050781,
+        260.36669921875
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        279.0775146484375,
+        544.7447509765625,
+        292.7313232421875
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용량인 0.5mL 이하로 정함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        89.23163604736328,
+        302.45196533203125,
+        250.43739318847656,
+        316.10577392578125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로",
+      "font_size": 11.99020004272461,
+      "font_name": "T9",
+      "bbox": [
+        56.609317779541016,
+        324.96484375,
+        538.268310546875,
+        339.480224609375
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을",
+      "font_size": 11.99020004272461,
+      "font_name": "T9",
+      "bbox": [
+        94.14897155761719,
+        347.5002136230469,
+        538.1483154296875,
+        361.8844909667969
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수 없는 형태의 용기로 하는 것이 보다 바람직함",
+      "font_size": 11.99020004272461,
+      "font_name": "T9",
+      "bbox": [
+        94.14897155761719,
+        369.07666015625,
+        364.0027160644531,
+        383.4609375
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "∙ 휴대용 보관 용기 동봉은 금함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        401.3439025878906,
+        274.3044738769531,
+        414.9977111816406
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 표시 및 기재 사항",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        433.7085266113281,
+        192.85546875,
+        447.3623352050781
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        466.0731506347656,
+        459.23162841796875,
+        479.7269592285156
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        498.4377746582031,
+        467.2667541503906,
+        512.0916137695312
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        529.0043334960938,
+        536.3488159179688,
+        542.658203125
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        552.3787841796875,
+        544.6248168945312,
+        566.0326538085938
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "눌러 1~2 방울을 사용(점안)하지 않고 버린다",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        102.54442596435547,
+        575.7532348632812,
+        370.4792175292969,
+        589.4071044921875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 용기의 끝 부분이 눈에 닿지 않도록 한다",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        599.1277465820312,
+        348.6510314941406,
+        612.7816162109375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "다. 유통",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        636.886474609375,
+        112.019287109375,
+        650.5403442382812
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        669.2510986328125,
+        538.1483764648438,
+        682.9049682617188
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.63521575927734,
+        692.6255493164062,
+        536.8421630859375,
+        706.2794189453125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 9 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3",
+      "font_size": 15.946965217590332,
+      "font_name": "H2gtrE",
+      "bbox": [
+        70.40184783935547,
+        92.6716079711914,
+        203.16989135742188,
+        109.69300842285156
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "소비자 사용",
+      "font_size": 17.02608299255371,
+      "font_name": "H2gtrE",
+      "bbox": [
+        70.40184783935547,
+        92.6716079711914,
+        203.16989135742188,
+        109.69300842285156
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 1회용 점안제의 사용",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        142.42684936523438,
+        202.93002319335938,
+        156.08067321777344
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        174.79148864746094,
+        544.6251220703125,
+        188.4453125
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "준수할 것을 권장함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        84.07443237304688,
+        198.1659393310547,
+        204.38235473632812,
+        211.81976318359375
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 보관",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        235.9246826171875,
+        118.49577331542969,
+        249.57850646972656
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        268.289306640625,
+        544.7447509765625,
+        281.943115234375
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또는 포장에 표시된 저장방법에 따라 적합하게 보관함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.9950180053711,
+        291.66375732421875,
+        411.1502990722656,
+        305.31756591796875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. 사용 시 주의사항",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        329.4224853515625,
+        196.4540557861328,
+        343.0762939453125
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 손 위생",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        361.7871398925781,
+        127.97064208984375,
+        375.4409484863281
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        394.1517639160156,
+        544.74462890625,
+        407.8055725097656
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        91.0306625366211,
+        417.5262145996094,
+        544.7453002929688,
+        431.1800231933594
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사용하여 씻고 말림.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        91.0306625366211,
+        440.9006652832031,
+        217.92218017578125,
+        454.5544738769531
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅇ 1회용 점안제 사용",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        473.2652893066406,
+        192.9759521484375,
+        486.9190979003906
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        505.6299133300781,
+        544.7453002929688,
+        519.2837524414062
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함. 단, 개봉 시",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        90.07118225097656,
+        529.0043334960938,
+        544.6248168945312,
+        542.658203125
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용기의 끝이 손이 닿아 오염되지 않도록 주의.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        90.07118225097656,
+        552.3787841796875,
+        366.29461669921875,
+        566.0326538085938
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        584.7434692382812,
+        453.6072998046875,
+        598.3973388671875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        617.1080932617188,
+        544.6236572265625,
+        630.761962890625
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주의해서 투약함",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        89.71138000488281,
+        640.4825439453125,
+        181.94024658203125,
+        654.1364135742188
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 10 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        280.40802001953125,
+        788.5885009765625,
+        314.4545593261719,
+        798.5376586914062
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "다. 1회용 점안제의 안전사용",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        312.7607116699219,
+        241.90940856933594,
+        326.4145202636719
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        345.1253356933594,
+        544.6248168945312,
+        358.7791442871094
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "생길 수 있음.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.7551498413086,
+        368.4997863769531,
+        164.20411682128906,
+        382.1535949707031
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        400.8644104003906,
+        544.6253662109375,
+        414.5182189941406
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        83.95449829101562,
+        424.2388916015625,
+        537.6686401367188,
+        437.8927001953125
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        456.603515625,
+        538.1486206054688,
+        470.25732421875
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.87508392333984,
+        479.97796630859375,
+        534.4434204101562,
+        493.63177490234375
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "라. 1회용 점안제 사용 후 약물이상반응 및 이상사례 보고",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        526.7268676757812,
+        410.77789306640625,
+        540.3807373046875
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        559.0914916992188,
+        544.6248168945312,
+        572.745361328125
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가능한 빠른 시일 내에 의사 또는 약사와 상담할 것",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        81.91560363769531,
+        582.4659423828125,
+        393.62664794921875,
+        596.1198120117188
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        614.83056640625,
+        452.755126953125,
+        628.4844360351562
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 사용 후 폐기",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        654.3873291015625,
+        157.47463989257812,
+        668.0411987304688
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        686.751953125,
+        544.6248168945312,
+        700.4058227539062
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "바로 즉시 폐기함",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.39534759521484,
+        710.1264038085938,
+        186.25958251953125,
+        723.7802734375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        733.5008544921875,
+        381.27386474609375,
+        747.1547241210938
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    }
+  ],
+  "markdown_content": "- - 1 -\n<!-- PAGE_1 -->\n# 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2021. 2.\n의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n□ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n(사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n□ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n□ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음. | 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까?**\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까?**\n**사용하여 씻고 말림.**\n**닙니다. 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.**\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까? (공 | 무원용) |\n**문의하시기 바랍니다.**\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함.**\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의. | 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까? (민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함.**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까? |\n**사항**\n| 따라 시험할 때 적합하여야 함. | 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다. |\n**상기 사항에 대하여 확인하였음.**\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함.**\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n- -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n<!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1. 점안제의 정의와 특징 ··························································································· 6\n- 2. 1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1. 1회용 점안제의 사용 ···························································································· 9\n- 2. 사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1. 점안제의 정의와 특징\n- 가. 정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n- 나. 특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\nㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2. 제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2. 제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\nㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\nㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n- 2. 1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가. 정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나. 제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2. 제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020. 3. 4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2. 일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018. 12. 28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n* 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n* 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\nㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다. 유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n- - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1. 1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n- 가. 보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n- 나. 사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함. 단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다. 1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n- 라. 1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2. 사용 후 폐기\nㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는\n\nㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "- - 1 -\n<!-- PAGE_1 -->\n# 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2021. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 83,
+        "word_count": 20,
+        "page_number": 1,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2021.  2.\n 의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n",
+        "original_sentence": "- - 1 -\n<!-- PAGE_1 -->\n# 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2021. "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "2.\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 3,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2021.  2.\n 의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다. ",
+        "original_sentence": "2.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 120,
+        "word_count": 29,
+        "page_number": 2,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2021.  2.\n 의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+        "original_sentence": "의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2021.  2.\n 의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n",
+        "original_sentence": "등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "□ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 71,
+        "word_count": 17,
+        "page_number": 2,
+        "window_text": "2.\n 의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n □ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n",
+        "original_sentence": "□ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 59,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "의 약 품 정 책 과\n\n- - 2 -\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n □ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n □ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음. ",
+        "original_sentence": "그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "(사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 127,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "등록대상\n\n여부\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n □ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n □ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음.  | 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까?",
+        "original_sentence": "(사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "□ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 44,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "□ 예\n\n■ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선\n\n적으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n □ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n □ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음.  | 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까? **\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "□ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "□ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 102,
+        "word_count": 33,
+        "page_number": 2,
+        "window_text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제\n\n정이 필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n □ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n □ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음.  | 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까? **\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까?",
+        "original_sentence": "□ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음. "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까?",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 44,
+        "word_count": 12,
+        "page_number": 2,
+        "window_text": "(사유 :                                                         )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ\n\n예규)의 내용을 단순 편집 또는 나열한 것입니까?\n\n □ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n □ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음.  | 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까? **\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까? **\n**사용하여 씻고 말림.",
+        "original_sentence": "| 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "**\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 61,
+        "word_count": 16,
+        "page_number": 6,
+        "window_text": "□ 예\n\n■ 아니오\n\n□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?\n\n □ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음.  | 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까? **\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까? **\n**사용하여 씻고 말림. **\n**닙니다. ",
+        "original_sentence": "**\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까?",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 27,
+        "page_number": 2,
+        "window_text": "□ 예\n\n■ 아니오\n\n**[표 시작]**\n\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 생길 수 있음.  | 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까? **\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까? **\n**사용하여 씻고 말림. **\n**닙니다.  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "**\n**사용하여 씻고 말림.",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 16,
+        "word_count": 4,
+        "page_number": 9,
+        "window_text": "| 수 없는 형태의 용기로 하는 것이 보다 바람직함 |\n**해당하는 내용입니까? **\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까? **\n**사용하여 씻고 말림. **\n**닙니다.  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. **\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "**\n**사용하여 씻고 말림."
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "**\n**닙니다. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 10,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "**\n| 하도록 의료용 목적으로 제조 또는 수입된 제제임 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까? **\n**사용하여 씻고 말림. **\n**닙니다.  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. **\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까?  (공 | 무원용) |\n**문의하시기 바랍니다.",
+        "original_sentence": "**\n**닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 31,
+        "word_count": 6,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 | □ 예 | ■ 아니오 |\n**쉽게 정리한 자료입니까? **\n**사용하여 씻고 말림. **\n**닙니다.  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. **\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까?  (공 | 무원용) |\n**문의하시기 바랍니다. **\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함.",
+        "original_sentence": "지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "**\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 69,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "**\n**사용하여 씻고 말림. **\n**닙니다.  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. **\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까?  (공 | 무원용) |\n**문의하시기 바랍니다. **\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함. **\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의. ",
+        "original_sentence": "**\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "(공 | 무원용) |\n**문의하시기 바랍니다.",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 25,
+        "word_count": 6,
+        "page_number": 2,
+        "window_text": "**\n**닙니다.  지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. **\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까?  (공 | 무원용) |\n**문의하시기 바랍니다. **\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함. **\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의.  | 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까? ",
+        "original_sentence": "(공 | 무원용) |\n**문의하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "**\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함.",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 96,
+        "word_count": 24,
+        "page_number": 2,
+        "window_text": "지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. **\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까?  (공 | 무원용) |\n**문의하시기 바랍니다. **\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함. **\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의.  | 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까?  (민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함.",
+        "original_sentence": "**\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함."
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "**\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 31,
+        "word_count": 9,
+        "page_number": 9,
+        "window_text": "**\n**□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로**\n| 행정사무의 세부기준이나 절차를 제시하는 것입니까?  (공 | 무원용) |\n**문의하시기 바랍니다. **\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함. **\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의.  | 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까?  (민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까? ",
+        "original_sentence": "**\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의. "
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까? ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 51,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "(공 | 무원용) |\n**문의하시기 바랍니다. **\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함. **\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의.  | 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까?  (민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n| 따라 시험할 때 적합하여야 함. ",
+        "original_sentence": "| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "(민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함.",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 130,
+        "word_count": 27,
+        "page_number": 3,
+        "window_text": "**\n| 서 구분 | 전화번호: 043-719-2609 | □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 |\n**점안제의 제조 및 품질관리 지침을 함께 고려함. **\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의.  | 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까?  (민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n| 따라 시험할 때 적합하여야 함.  | 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다. ",
+        "original_sentence": "(민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함."
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까? ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 83,
+        "word_count": 25,
+        "page_number": 2,
+        "window_text": "**\n| 용기의 끝이 손이 닿아 오염되지 않도록 주의.  | 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까?  (민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n| 따라 시험할 때 적합하여야 함.  | 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음.",
+        "original_sentence": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "|\n**사항**\n| 따라 시험할 때 적합하여야 함. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 29,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 | 입장을 기술하는 것입니까?  (민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n| 따라 시험할 때 적합하여야 함.  | 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함.",
+        "original_sentence": "|\n**사항**\n| 따라 시험할 때 적합하여야 함. "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "| 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "(민원인용) |\n**팩스번호: 043-719-2606**\n**눌러 1~2 방울을 사용(점안)하지 않고 버린다**\n**가능한 빠른 시일 내에 의사 또는 약사와 상담할 것**\n**제제의 조성이나 저장법을 고려하여 가능한 한 신속하게 함. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n| 따라 시험할 때 적합하여야 함.  | 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함. **\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n",
+        "original_sentence": "| 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "|\n**상기 사항에 대하여 확인하였음.",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 21,
+        "word_count": 5,
+        "page_number": 2,
+        "window_text": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거 | □ 예 | ■ 아니오 |\n| 기타 확인 | 나 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n| 따라 시험할 때 적합하여야 함.  | 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함. **\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n - -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "|\n**상기 사항에 대하여 확인하였음."
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "**\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함.",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 12,
+        "page_number": 2,
+        "window_text": "|\n**사항**\n| 따라 시험할 때 적합하여야 함.  | 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함. **\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n - -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  ",
+        "original_sentence": "**\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함."
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "**\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 257,
+        "word_count": 59,
+        "page_number": 2,
+        "window_text": "| 주의해서 투약함 | 침서ㆍ안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함. **\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n - -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.   또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n",
+        "original_sentence": "**\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "- -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 284,
+        "word_count": 53,
+        "page_number": 3,
+        "window_text": "|\n**상기 사항에 대하여 확인하였음. **\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함. **\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n - -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.   또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n",
+        "original_sentence": "- -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 125,
+        "word_count": 25,
+        "page_number": 3,
+        "window_text": "**\n**2021년    2월    일**\n**없는 한 불용성이물시험법에 따라 시험할 때 적합하여야 함. **\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n - -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.   또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n <!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1. ",
+        "original_sentence": "<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  "
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 183,
+        "word_count": 42,
+        "page_number": 3,
+        "window_text": "**\n**바로 즉시 폐기함**\n| 담당자 | 확  인(부서장) | 정욱진 |\n\n**[표 끝]**\n\n☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아\n\n지침서ㆍ안내\n\n□ 예(☞지침서)\n\n■ 아니오\n\n■ 예(☞안내서)\n\n□ 아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지\n\n채규한\n\n※\n\n본\n\n지침서에\n\n대한\n\n의견이나\n\n문의사항이\n\n있을\n\n경우\n\n의약품정책과에\n\n공익신고자 보호제도란?\n\n - -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.   또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n <!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1.  점안제의 정의와 특징 ··························································································· 6\n- 2. ",
+        "original_sentence": "또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 364,
+        "word_count": 72,
+        "page_number": 4,
+        "window_text": "- -공익신고자등(친족 또는 동거인 포함)이 공익신고등으로 인하여 피해를 받지 않도록 비밀보장,\n불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화 02-360-3761 /우편 (120-705) 서울시 서대문구 통일로 81 국민권익위원회 공익보호지원과/팩스 02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 일회용 점안제 안전관리에 대하여 알기 쉽게 설명하거나 식품\n\n<!-- PAGE_3 -->\n##### 의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.   또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n <!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1.  점안제의 정의와 특징 ··························································································· 6\n- 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1. ",
+        "original_sentence": "※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "<!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 317,
+        "word_count": 34,
+        "page_number": 4,
+        "window_text": "<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.   또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n <!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1.  점안제의 정의와 특징 ··························································································· 6\n- 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1.  1회용 점안제의 사용 ···························································································· 9\n- 2. ",
+        "original_sentence": "<!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "점안제의 정의와 특징 ··························································································· 6\n- 2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 111,
+        "word_count": 7,
+        "page_number": 5,
+        "window_text": "또한, 본\n\n<!-- PAGE_3 -->\n##### 안내서는 2021년 2월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성\n\n<!-- PAGE_3 -->\n##### 되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용\n\n<!-- PAGE_3 -->\n##### 될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n <!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1.  점안제의 정의와 특징 ··························································································· 6\n- 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1.  1회용 점안제의 사용 ···························································································· 9\n- 2.  사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1. ",
+        "original_sentence": "점안제의 정의와 특징 ··························································································· 6\n- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 192,
+        "word_count": 20,
+        "page_number": 5,
+        "window_text": "※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알\n\n기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을 기술하는\n\n것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)\n\n- - 4 -\n<!-- PAGE_4 -->\n## 제·개정 이력\n\n<!-- PAGE_4 -->\n#### 일회용 점안제 안전관리 가이드라인(민원인 안내서)\n\n<!-- PAGE_4 -->\n##### 제․개정번호\n\n<!-- PAGE_4 -->\n##### 승인일자\n\n<!-- PAGE_4 -->\n##### 주요 내용\n\n<!-- PAGE_4 -->\n##### 안내서-1104-01\n\n<!-- PAGE_4 -->\n##### 2021.2.22.\n\n <!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1.  점안제의 정의와 특징 ··························································································· 6\n- 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1.  1회용 점안제의 사용 ···························································································· 9\n- 2.  사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1.  점안제의 정의와 특징\n- 가. ",
+        "original_sentence": "1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "1회용 점안제의 사용 ···························································································· 9\n- 2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 112,
+        "word_count": 7,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_4 -->\n##### 일회용 점안제 안전관리 가이드라인\n\n<!-- PAGE_4 -->\n##### 제정\n\n목    차\n\n<!-- PAGE_5 -->\n####  목적 ·······························································································  6\n\n<!-- PAGE_5 -->\n####  제조(수입)와 유통 ·······································································  6\n\n- 1.  점안제의 정의와 특징 ··························································································· 6\n- 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1.  1회용 점안제의 사용 ···························································································· 9\n- 2.  사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1.  점안제의 정의와 특징\n- 가.  정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n",
+        "original_sentence": "1회용 점안제의 사용 ···························································································· 9\n- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 408,
+        "word_count": 73,
+        "page_number": 6,
+        "window_text": "점안제의 정의와 특징 ··························································································· 6\n- 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1.  1회용 점안제의 사용 ···························································································· 9\n- 2.  사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1.  점안제의 정의와 특징\n- 가.  정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n - 나. ",
+        "original_sentence": "사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "점안제의 정의와 특징\n- 가. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 17,
+        "word_count": 5,
+        "page_number": 1,
+        "window_text": "1회용 점안제의 정의와 제조 및 품질관리와 유통 ········································ 7\n<!-- PAGE_5 -->\n####  소비자 사용 ··················································································· 9\n\n- 1.  1회용 점안제의 사용 ···························································································· 9\n- 2.  사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1.  점안제의 정의와 특징\n- 가.  정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n - 나.  특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n",
+        "original_sentence": "점안제의 정의와 특징\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 88,
+        "word_count": 21,
+        "page_number": 3,
+        "window_text": "1회용 점안제의 사용 ···························································································· 9\n- 2.  사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1.  점안제의 정의와 특징\n- 가.  정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n - 나.  특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2. ",
+        "original_sentence": "정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "- 나. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "사용 후 폐기 ········································································································ 10\n- - 6 -\n<!-- PAGE_6 -->\n### 1\n\n<!-- PAGE_6 -->\n## 목적\n\nㅇ 이 가이드라인의 목적은 1회용 점안제(點眼劑)의 제조·품질관리 및 안전\n\n사용을 위해 준수해야 할 사항을 안내함으로서 이를 사용하는 국민의 안전\n\n사용을 도모하려는 것임\n\nㅇ 이 가이드라인은 1회용 점안제를 제조·수입하는 기업을 위한 생산·유통 부분과\n\n1회용 점안제 소비자를 위한 안전 사용의 두 부분으로 구성됨\n\n<!-- PAGE_6 -->\n### 2\n\n<!-- PAGE_6 -->\n## 제조(수입)와 유통\n\n- 1.  점안제의 정의와 특징\n- 가.  정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n - 나.  특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2. ",
+        "original_sentence": "- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 91,
+        "word_count": 24,
+        "page_number": 6,
+        "window_text": "점안제의 정의와 특징\n- 가.  정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n - 나.  특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n",
+        "original_sentence": "특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 152,
+        "word_count": 38,
+        "page_number": 6,
+        "window_text": "정의1)\nㅇ 대한민국약전 제제총칙에 따른 점안제란 결막낭 등의 눈 조직에 적용하는\n\n액상의 무균제제 또는 쓸 때 녹이거나 현탁하여 쓰는 고형의 무균제제임.\n\n - 나.  특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n",
+        "original_sentence": "ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 4,
+        "page_number": 3,
+        "window_text": "- 나.  특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n",
+        "original_sentence": "제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 99,
+        "word_count": 24,
+        "page_number": 6,
+        "window_text": "특징2)\nㅇ 이 제제는 보통 주성분에 첨가제를 넣고 용제 등에 녹이거나 현탁하여 일정\n\n용량으로 한 것 또는 주성분에 첨가제를 넣은 것을 용기에 충전하여 만듬.\n\n ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n - 2. ",
+        "original_sentence": "제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 38,
+        "word_count": 9,
+        "page_number": 7,
+        "window_text": "ㅇ 미생물 오염이 되지 않도록 충분히 주의하고 조제에서부터 멸균까지의 조작은\n\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 무균시험법에\n\nㅇ 이 제제의 수용액이나 이 제제에 첨부하는 용해액 또는 현탁용액은 따로 규정이\n\n1) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n - 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가. ",
+        "original_sentence": "ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 55,
+        "word_count": 14,
+        "page_number": 7,
+        "window_text": "제제총칙(제2019-11호)\n\n2) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n - 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가.  정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나. ",
+        "original_sentence": "ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "- 2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 6,
+        "window_text": "제제총칙(제2019-11호)\n\n- - 7 -\nㅇ 이 제제 및 첨부된 용해액 또는 현탁용액은 따로 규정이 없는 한 점안제의\n\n불용성미립자시헙법에 따라 시험할 때 적합하여야 함.\n\n ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n - 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가.  정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나.  제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2. ",
+        "original_sentence": "- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 9,
+        "page_number": 6,
+        "window_text": "ㅇ 현탁점안제 중의 입자의 최대입자크기는 보통 75 μm 이하임.\n\n ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n - 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가.  정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나.  제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020. ",
+        "original_sentence": "1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_048",
+      "text": "정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 47,
+        "window_size": 3,
+        "char_count": 144,
+        "word_count": 34,
+        "page_number": 2,
+        "window_text": "ㅇ 이 제제는 불용성이물시험법 중 점안제 시험에 영향을 주지 않는 투명한 기밀\n\n용기에 보존함.\n\n - 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가.  정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나.  제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020.  3. ",
+        "original_sentence": "정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_049",
+      "text": "제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 48,
+        "window_size": 3,
+        "char_count": 222,
+        "word_count": 47,
+        "page_number": 2,
+        "window_text": "- 2.  1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가.  정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나.  제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020.  3.  4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2. ",
+        "original_sentence": "제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_050",
+      "text": "제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 49,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 8,
+        "page_number": 6,
+        "window_text": "1회용 점안제의 정의와 제조 및 품질관리와 유통\n- 가.  정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나.  제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020.  3.  4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2.  일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018. ",
+        "original_sentence": "제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020. "
+      }
+    },
+    {
+      "chunk_id": "chunk_051",
+      "text": "3. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 50,
+        "window_size": 3,
+        "char_count": 3,
+        "word_count": 1,
+        "page_number": 7,
+        "window_text": "정의3)4)\nㅇ 대한민국약전 및 의료법에 정의된 점안제와 1회용 의료기기 사용에 관한 사항을\n\n근거하여 정의할 때, 대한민국약전에 따른 점안제 중 1회만 사용하도록 고안된\n\n용기에 약 액이 충전된 보존제가 포함되지 아니하고 1명의 환자에게만 사용\n\n- 나.  제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020.  3.  4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2.  일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018.  12. ",
+        "original_sentence": "3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_052",
+      "text": "4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 51,
+        "window_size": 3,
+        "char_count": 68,
+        "word_count": 14,
+        "page_number": 3,
+        "window_text": "제조 및 품질관리5)6)7)8)9)\nㅇ 고려사항\n\n∙ 1회용 점안제는 「대한민국약전」에 기재된 점안제의 제조 및 품질관리에\n\n관한 사항을 따르며 이와 함께 1회용 용기를 사용하는 제제이므로 1회용\n\nㅇ 제조 및 품질관리\n\n∙ 1회용 점안제는 점안제의 제조 시 무균시험법, 불용성이물시험법, 불용성\n\n미립자시헙법을 따르며 이중 불용성미립자시험법의 경우 1회용 점안제의\n\n3) 대한민국약전, 별표2.  제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020.  3.  4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2.  일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018.  12.  28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n",
+        "original_sentence": "4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_053",
+      "text": "일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 52,
+        "window_size": 3,
+        "char_count": 109,
+        "word_count": 14,
+        "page_number": 6,
+        "window_text": "제제총칙(제2019-11호)\n\n4) 국가법령정보센터, 의료법 제4조 (법률 제17069호, 2020.  3.  4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2.  일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018.  12.  28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n * 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n",
+        "original_sentence": "일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018. "
+      }
+    },
+    {
+      "chunk_id": "chunk_054",
+      "text": "12. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 53,
+        "window_size": 3,
+        "char_count": 4,
+        "word_count": 1,
+        "page_number": 6,
+        "window_text": "3.  4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2.  일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018.  12.  28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n * 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n * 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n",
+        "original_sentence": "12. "
+      }
+    },
+    {
+      "chunk_id": "chunk_055",
+      "text": "28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 54,
+        "window_size": 3,
+        "char_count": 98,
+        "word_count": 22,
+        "page_number": 3,
+        "window_text": "4, 일부개정)\n\n5) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n6) 대한민국약전, 별표2.  일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018.  12.  28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n * 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n * 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다. ",
+        "original_sentence": "28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_056",
+      "text": "* 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 55,
+        "window_size": 3,
+        "char_count": 271,
+        "word_count": 62,
+        "page_number": 3,
+        "window_text": "일반시험법(제2019-11호)\n\n7) 식품의약품안전처, 주사제 안전사용 가이드라인 (2016)\n\n8) 국가법령정보센터, 의약품 표준제조기준, (식품의약품안전처고시 제2018-114호, 2018.  12.  28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n * 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n * 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다.  유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n",
+        "original_sentence": "* 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_057",
+      "text": "* 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 56,
+        "window_size": 3,
+        "char_count": 116,
+        "word_count": 32,
+        "page_number": 6,
+        "window_text": "12.  28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n * 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n * 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다.  유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n - - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1. ",
+        "original_sentence": "* 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_058",
+      "text": "ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 57,
+        "window_size": 3,
+        "char_count": 210,
+        "word_count": 60,
+        "page_number": 2,
+        "window_text": "28., 일부개정), 별표1\n\n9) 1회용 점안제 취급지침(1992년 2월 7일, 일본 약심 제34호)\n\n- - 8 -\n불용성미립자시험법*에 따른 확인 자료를 첨부해야 함.\n\n * 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n * 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다.  유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n - - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1.  1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n",
+        "original_sentence": "ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_059",
+      "text": "유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 58,
+        "window_size": 3,
+        "char_count": 92,
+        "word_count": 24,
+        "page_number": 2,
+        "window_text": "* 참고로, 대한민국약전 일반시험법에는 “점안제의 불용성미립자시험법 중 1회용\n\n점안제의 불용성 미립자 시험법의 경우 조작은 수성점안액제에 따르되, 검체 수는\n\n10개로 하고, 멤브레인필터는 지름 13 mm 및 미립자 포집구경 4 mm의 필터\n\n홀더를 쓴다.”로 규정하고 있음\n\n∙ 보존제는 재사용을 위한 보존목적이므로 일회용 점안제에는 사용되어서는 안됨\n\nㅇ 용기\n\n∙ 1회용 점안액의 용량 기준은 용법용량에 따라 1회 사용 시 잔량이 남지 않는\n\n용량인 0.5mL 이하로 정함.\n\n * 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다.  유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n - - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1.  1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n - 가. ",
+        "original_sentence": "유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_060",
+      "text": "- - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 59,
+        "window_size": 3,
+        "char_count": 63,
+        "word_count": 17,
+        "page_number": 9,
+        "window_text": "* 참고로, 용기의 형태 보다는 점안액의 용량을 1회 사용 적정량인 0.5mL 이하로\n\n하는 것이 우선 시 되어야 할 것이며, 용기의 형태는 개봉 후 다시 뚜껑을 덮을\n\n∙ 휴대용 보관 용기 동봉은 금함.\n\n ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다.  유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n - - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1.  1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n - 가.  보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n",
+        "original_sentence": "- - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_061",
+      "text": "1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 60,
+        "window_size": 3,
+        "char_count": 68,
+        "word_count": 18,
+        "page_number": 6,
+        "window_text": "ㅇ 표시 및 기재 사항\n\n∙ 제품명에는 ‘1회용’을 병기하고 제품명은 용기 라벨도 기재\n\n∙ 첨부문서(사용상의 주의사항) 및 용기 등에는 다음 문구를 기재\n\n- - 개봉 후에는 1회만 즉시 사용하고, 남은 액과 용기는 바로 버리도록 한다\n- - 자른 곳에 요철이 생길 수 있어 용기파편을 제거하기 위해 사용 전에 살짝\n- - 용기의 끝 부분이 눈에 닿지 않도록 한다\n- 다.  유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n - - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1.  1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n - 가.  보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n - 나. ",
+        "original_sentence": "1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_062",
+      "text": "- 가. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 61,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "유통\nㅇ 제조 및 품질관리를 통해 제조된 1회용 점안제는 출하 후 유통 단계도 허가\n\n사항에 기재된 적정한 보관조건을 준수하여 무균을 유지한 채로 공급되어야 함.\n\n - - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1.  1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n - 가.  보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n - 나.  사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함. ",
+        "original_sentence": "- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_063",
+      "text": "보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 62,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 19,
+        "page_number": 6,
+        "window_text": "- - 9 -\n<!-- PAGE_9 -->\n### 3\n\n<!-- PAGE_9 -->\n## 소비자 사용\n\n- 1.  1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n - 가.  보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n - 나.  사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함.  단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n",
+        "original_sentence": "보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_064",
+      "text": "- 나. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 63,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "1회용 점안제의 사용\nㅇ 1회용 점안제 사용시 발생할 수 있는 감염을 예방하기 위해 다음 사항을\n\n준수할 것을 권장함.\n\n - 가.  보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n - 나.  사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함.  단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n ∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다. ",
+        "original_sentence": "- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_065",
+      "text": "사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 64,
+        "window_size": 3,
+        "char_count": 191,
+        "word_count": 49,
+        "page_number": 2,
+        "window_text": "- 가.  보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n - 나.  사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함.  단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n ∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다.  1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n",
+        "original_sentence": "사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함. "
+      }
+    },
+    {
+      "chunk_id": "chunk_066",
+      "text": "단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 65,
+        "window_size": 3,
+        "char_count": 48,
+        "word_count": 13,
+        "page_number": 6,
+        "window_text": "보관\nㅇ 1회용 점안제의 보관 장소는 청결하게 유지하도록 하고 1회용 점안제는 용기\n\n또는 포장에 표시된 저장방법에 따라 적합하게 보관함.\n\n - 나.  사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함.  단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n ∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다.  1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n - 라. ",
+        "original_sentence": "단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_067",
+      "text": "∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 66,
+        "window_size": 3,
+        "char_count": 61,
+        "word_count": 20,
+        "page_number": 9,
+        "window_text": "- 나.  사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함.  단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n ∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다.  1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n - 라.  1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2. ",
+        "original_sentence": "∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_068",
+      "text": "1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 67,
+        "window_size": 3,
+        "char_count": 233,
+        "word_count": 60,
+        "page_number": 6,
+        "window_text": "사용 시 주의사항\nㅇ 손 위생\n\n∙ 손은 단백질성 물질, 체액 등으로 오염되기 쉬우며 육안으로 확인되지\n\n않지만 오염의 가능성이 상존하므로 점안제 사용 전에는 항상 비누 등을\n\nㅇ 1회용 점안제 사용\n\n∙ 한 손으로 제품상단의 손잡이를, 다른 손으로 제품 하단의 손잡이를 잡고\n\n돌리는 방법으로 사용할 1회용 점안제의 용기와 뚜껑을 분리함.  단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n ∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다.  1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n - 라.  1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2.  사용 후 폐기\nㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는\n\nㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함\n",
+        "original_sentence": "1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_069",
+      "text": "- 라. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 68,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "단, 개봉 시\n\n∙ 용기 파편의 제거를 위해 처음 1~2방울은 사용하지 않고 버림.\n\n ∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다.  1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n - 라.  1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2.  사용 후 폐기\nㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는\n\nㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함\n",
+        "original_sentence": "- 라. "
+      }
+    },
+    {
+      "chunk_id": "chunk_070",
+      "text": "1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2. ",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 69,
+        "window_size": 3,
+        "char_count": 114,
+        "word_count": 27,
+        "page_number": 6,
+        "window_text": "∙ 약액 오염과 안구손상 방지를 위해 점안 시 용기의 끝이 직접 눈에 닿지 않도록\n\n- - 10 -\n- 다.  1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n - 라.  1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2.  사용 후 폐기\nㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는\n\nㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함\n",
+        "original_sentence": "1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_071",
+      "text": "사용 후 폐기\nㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는\n\nㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함\n",
+      "metadata": {
+        "source": "☆일회용+점안제+안전관리+가이드라인(민원인+안내서)-안내서-1104-01.pdf",
+        "chunk_index": 70,
+        "window_size": 3,
+        "char_count": 83,
+        "word_count": 24,
+        "page_number": 6,
+        "window_text": "1회용 점안제의 안전사용\nㅇ 1회용 점안제를 여러 번 사용하면 제품내 미생물이 증가하여 안전성에 문제가\n\nㅇ 1회용 점안제는 일단 개봉이 되면 더 이상 밀봉상태가 유지되지 않으므로\n\n무균상태라 할 수 없으며, 이후 미생물 증식으로 인해 2차 감염이 발생 가능\n\nㅇ 점안제 사용 시 눈썹이나 눈꺼풀 또는 손에 용기 끝이 닿으면서 약액이 오염\n\n되어 손에 상주하는 균주와 동일한 균이 개봉된 점안제에서 확인되기도 함.\n\n - 라.  1회용 점안제 사용 후 약물이상반응 및 이상사례 보고\nㅇ 1회용 점안제를 사용하는 도중에 생각하지 못했던 증상이 나타나는 경우에는\n\nㅇ 해당 점안제와 발생한 부작용은 한국의약품안전관리원에 신고\n\n- 2.  사용 후 폐기\nㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는\n\nㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함\n",
+        "original_sentence": "사용 후 폐기\nㅇ 개봉한 후에는 즉시 한쪽 또는 양쪽 눈에 1회만 사용하고, 남은 액과 용기는\n\nㅇ 나누어 쓰거나 보관 후 재사용하지 않도록 주의함\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 71,
+    "avg_chunk_length": 96.59154929577464,
+    "min_chunk_length": 3,
+    "max_chunk_length": 408,
+    "total_characters": 6858,
+    "total_words": 1483,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 224,
+    "heading_count": 28,
+    "paragraph_count": 119,
+    "list_item_count": 30,
+    "table_cell_count": 47,
+    "tables_detected": 1,
+    "chunks_generated": 71
+  }
+}

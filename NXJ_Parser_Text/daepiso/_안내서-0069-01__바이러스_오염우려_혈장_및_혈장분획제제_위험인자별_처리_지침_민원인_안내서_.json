@@ -1,0 +1,2322 @@
+{
+  "file_name": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+  "total_pages": 3,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "14.987749099731445": 1,
+      "12.94941520690918": 10,
+      "11.99020004272461": 29,
+      "17.02608299255371": 1,
+      "11.030982971191406": 68,
+      "14.028532981872559": 8
+    },
+    "heading_sizes": [
+      14.028532981872559,
+      12.94941520690918,
+      11.99020004272461
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 1,
+    "tables_info": [
+      {
+        "bbox": [
+          69.44236755371094,
+          342.6897888183594,
+          535.5504760742188,
+          738.6611328125
+        ],
+        "num_rows": 8,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침",
+      "font_size": 14.987749099731445,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.39534759521484,
+        98.96121978759766,
+        512.4822387695312,
+        114.76426696777344
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]",
+      "font_size": 12.94941520690918,
+      "font_name": "T2",
+      "bbox": [
+        191.53619384765625,
+        121.18755340576172,
+        538.2509155273438,
+        136.70962524414062
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 일반지침",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        177.88560485839844,
+        124.73292541503906,
+        193.4076690673828
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "헌혈자 혈장조건",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        104.58332061767578,
+        206.65414428710938,
+        526.3947143554688,
+        228.81793212890625
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "pooling이전 혈장",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        104.58332061767578,
+        206.65414428710938,
+        526.3947143554688,
+        228.81793212890625
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "pooling이후 혈장 또는 해당",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        104.58332061767578,
+        206.65414428710938,
+        526.3947143554688,
+        228.81793212890625
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈장분획제제",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        406.09991455078125,
+        223.92279052734375,
+        478.0609130859375,
+        236.56521606445312
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "HCV",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        136.00628662109375,
+        247.64935302734375,
+        485.59283447265625,
+        262.02166748046875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전량폐기",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        136.00628662109375,
+        247.64935302734375,
+        485.59283447265625,
+        262.02166748046875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "별도 조치 불요.",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        136.00628662109375,
+        247.64935302734375,
+        485.59283447265625,
+        262.02166748046875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "HBV",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        136.48602294921875,
+        283.61004638671875,
+        485.59283447265625,
+        297.98236083984375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전량폐기",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        136.48602294921875,
+        283.61004638671875,
+        485.59283447265625,
+        297.98236083984375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "별도 조치 불요.",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        136.48602294921875,
+        283.61004638671875,
+        485.59283447265625,
+        297.98236083984375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "HIV",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        138.1651153564453,
+        319.69061279296875,
+        485.59283447265625,
+        334.06292724609375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전량폐기",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        138.1651153564453,
+        319.69061279296875,
+        485.59283447265625,
+        334.06292724609375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "별도 조치 불요.",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        138.1651153564453,
+        319.69061279296875,
+        485.59283447265625,
+        334.06292724609375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "CJD진단, v-CJD의 위험요소가",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        66.9237289428711,
+        347.8598327636719,
+        238.0709686279297,
+        362.2321472167969
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있거나, v-CJD 위험지역을",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        77.83781433105469,
+        363.44281005859375,
+        227.15689086914062,
+        377.81512451171875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "여행한 경우",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        116.57682037353516,
+        380.7114562988281,
+        182.5410614013672,
+        393.3538818359375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전량폐기",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        273.09197998046875,
+        365.12847900390625,
+        490.05438232421875,
+        377.7709045410156
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "별도 조치 불요",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        273.09197998046875,
+        365.12847900390625,
+        490.05438232421875,
+        377.7709045410156
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "v-CJD 진단, v-CJD 의심진단",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        77.11820220947266,
+        405.8764343261719,
+        515.6005859375,
+        420.2487487792969
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전량폐기",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        77.11820220947266,
+        405.8764343261719,
+        515.6005859375,
+        420.2487487792969
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "즉시 격리, 회수 및 폐기",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        77.11820220947266,
+        405.8764343261719,
+        515.6005859375,
+        420.2487487792969
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 지침 운영시 유의사항",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        463.053955078125,
+        209.1671600341797,
+        478.5760498046875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.6060676574707,
+        486.54827880859375,
+        544.1450805664062,
+        500.92059326171875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "경우에는 폐기처분",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        83.71463012695312,
+        509.8103332519531,
+        185.6593780517578,
+        522.4527587890625
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.6060676574707,
+        551.277587890625,
+        538.1483154296875,
+        565.6498413085938
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        83.71463012695312,
+        572.85400390625,
+        544.2650146484375,
+        587.2262573242188
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        83.71463012695312,
+        596.1160278320312,
+        538.268310546875,
+        608.7584838867188
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "라 다음과 같이 조치",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        83.71463012695312,
+        617.6924438476562,
+        197.6528778076172,
+        630.3348999023438
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 개별혈장 보관 단계 : 전량폐기",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        74.59957122802734,
+        637.583251953125,
+        255.4615478515625,
+        651.9555053710938
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        74.59957122802734,
+        659.15966796875,
+        448.3170166015625,
+        673.5319213867188
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서ᆞ안내서 제ᆞ개정 점검표",
+      "font_size": 17.02608299255371,
+      "font_name": "H2hdrM",
+      "bbox": [
+        170.78744506835938,
+        108.85392761230469,
+        425.6492919921875,
+        125.87532806396484
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.95449829101562,
+        146.4642333984375,
+        490.65386962890625,
+        161.13226318359375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.95449829101562,
+        146.4642333984375,
+        490.65386962890625,
+        161.13226318359375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        167.7890625,
+        173.31488037109375,
+        429.0168762207031,
+        187.98292541503906
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        72.20086669921875,
+        326.9869384765625,
+        116.2166748046875,
+        341.65496826171875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "여부",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        344.4878234863281,
+        105.30292510986328,
+        359.1558532714844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        192.37405395507812,
+        423.6513366699219,
+        207.04209899902344
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서ㆍ안내서가 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        151.238037109375,
+        208.79611206054688,
+        297.5997314453125,
+        223.4641571044922
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        192.85354614257812,
+        507.804443359375,
+        222.98468017578125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        192.85354614257812,
+        507.804443359375,
+        222.98468017578125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        192.85354614257812,
+        507.804443359375,
+        222.98468017578125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        228.33474731445312,
+        531.6714477539062,
+        243.00279235839844
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        244.75680541992188,
+        535.5512084960938,
+        275.9667663574219
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        244.75680541992188,
+        535.5512084960938,
+        275.9667663574219
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사유 :                                                                 )",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        277.84063720703125,
+        526.6383666992188,
+        292.5086669921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 법령(법ㆍ시행령ㆍ시행규칙) 또는",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        295.8210144042969,
+        315.94976806640625,
+        310.4890441894531
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        151.238037109375,
+        312.3629150390625,
+        416.93505859375,
+        343.4530029296875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나열한 것입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        151.238037109375,
+        312.3629150390625,
+        416.93505859375,
+        343.4530029296875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        304.6913146972656,
+        507.804443359375,
+        334.70257568359375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        304.6913146972656,
+        507.804443359375,
+        334.70257568359375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        304.6913146972656,
+        507.804443359375,
+        334.70257568359375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        342.6897888183594,
+        507.804443359375,
+        372.7010498046875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        342.6897888183594,
+        507.804443359375,
+        372.7010498046875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        342.6897888183594,
+        507.804443359375,
+        372.7010498046875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        342.6897888183594,
+        507.804443359375,
+        372.7010498046875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        371.8179626464844,
+        451.71612548828125,
+        386.4859924316406
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        387.16119384765625,
+        210.643798828125,
+        401.8292236328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        371.8179626464844,
+        507.804443359375,
+        401.8292236328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        371.8179626464844,
+        507.804443359375,
+        401.8292236328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        371.8179626464844,
+        507.804443359375,
+        401.8292236328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        401.06597900390625,
+        507.804443359375,
+        431.0772399902344
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        401.06597900390625,
+        507.804443359375,
+        431.0772399902344
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        401.06597900390625,
+        507.804443359375,
+        431.0772399902344
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        401.06597900390625,
+        507.804443359375,
+        431.0772399902344
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        430.19415283203125,
+        440.0824279785156,
+        444.8621826171875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "정리한 자료입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        445.5373840332031,
+        252.8639678955078,
+        460.2054138183594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        430.19415283203125,
+        507.804443359375,
+        460.2054138183594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        430.19415283203125,
+        507.804443359375,
+        460.2054138183594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        430.19415283203125,
+        507.804443359375,
+        460.2054138183594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        461.7196960449219,
+        528.8347778320312,
+        492.9296569824219
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        461.7196960449219,
+        528.8347778320312,
+        492.9296569824219
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        64.64496612548828,
+        519.2568359375,
+        127.65259552001953,
+        533.9248657226562
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.67411041259766,
+        536.8775634765625,
+        103.74420166015625,
+        551.5455932617188
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        496.721435546875,
+        448.0770263671875,
+        511.38946533203125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        512.064697265625,
+        432.84918212890625,
+        526.7327270507812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        496.721435546875,
+        534.4710693359375,
+        526.7327270507812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        496.721435546875,
+        534.4710693359375,
+        526.7327270507812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        496.721435546875,
+        534.4710693359375,
+        526.7327270507812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        529.5656127929688,
+        451.956298828125,
+        544.233642578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        544.9088134765625,
+        448.1968078613281,
+        575.0399169921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하는 것입니까? (민원인용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        544.9088134765625,
+        448.1968078613281,
+        575.0399169921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        537.2371826171875,
+        535.5504760742188,
+        567.3683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "√  예(☞안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        537.2371826171875,
+        535.5504760742188,
+        567.3683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        537.2371826171875,
+        535.5504760742188,
+        567.3683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.44236755371094,
+        594.7742919921875,
+        118.97551727294922,
+        609.4423217773438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        612.3950805664062,
+        105.30292510986328,
+        627.0631103515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        579.3112182617188,
+        434.6850280761719,
+        593.979248046875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        594.6544799804688,
+        337.0552978515625,
+        609.322509765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        579.3112182617188,
+        507.804443359375,
+        609.322509765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        579.3112182617188,
+        507.804443359375,
+        609.322509765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "√  아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        579.3112182617188,
+        507.804443359375,
+        609.322509765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        613.59375,
+        531.6718139648438,
+        628.2617797851562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서 제ㆍ개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        630.1356811523438,
+        372.0533752441406,
+        644.8037109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        216.0029296875,
+        646.6776123046875,
+        381.7624816894531,
+        661.3456420898438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2017 년   6 월   1 일",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        225.71766662597656,
+        678.083251953125,
+        360.6445617675781,
+        692.7512817382812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.4209289550781,
+        709.7286987304688,
+        405.2516784667969,
+        738.6611328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.4209289550781,
+        709.7286987304688,
+        405.2516784667969,
+        738.6611328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "박지원",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        490.8939514160156,
+        708.050537109375,
+        523.9959716796875,
+        722.7185668945312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "김기만",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        490.4142150878906,
+        725.6712646484375,
+        523.9951782226562,
+        740.3392944335938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        65.72438049316406,
+        443.2102355957031,
+        538.1489868164062,
+        460.4292297363281
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "오의약품품질관리과에 문의하시기 바랍니다.",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        83.71463012695312,
+        464.06744384765625,
+        311.18634033203125,
+        481.28643798828125
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화번호: 043-719-3654",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        85.75352478027344,
+        484.8047790527344,
+        232.13070678710938,
+        502.0237731933594
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "팩스번호: 043-719-3650",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        85.75352478027344,
+        505.5421447753906,
+        232.13070678710938,
+        522.7611694335938
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        101.48825073242188,
+        524.595703125,
+        120.14216613769531
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        130.8561553955078,
+        524.5961303710938,
+        149.51007080078125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한 것입니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        160.22406005859375,
+        146.4562530517578,
+        178.8779754638672
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        199.6609649658203,
+        524.5961303710938,
+        218.31488037109375
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        229.02886962890625,
+        529.5296020507812,
+        247.6827850341797
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2011년 5월 25일 현재의",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        258.3967590332031,
+        529.5289916992188,
+        277.0506591796875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        287.7646789550781,
+        529.4091186523438,
+        306.4185791015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        317.132568359375,
+        518.0148315429688,
+        335.7864685058594
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        369.1311950683594,
+        524.4757690429688,
+        386.3501892089844
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        88.63196563720703,
+        386.03271484375,
+        524.4765625,
+        420.15325927734375
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        88.63196563720703,
+        386.03271484375,
+        524.4765625,
+        420.15325927734375
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    }
+  ],
+  "markdown_content": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n<!-- PAGE_1 -->\n## [바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]\n\n<!-- PAGE_1 -->\n## 1. 일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n<!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n<!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n<!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2. 지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가. 제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까? |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까?**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. |\n**오의약품품질관리과에 문의하시기 바랍니다.**\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? |\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다.**\n**상기 사항에 대하여 확인하였음.**\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n□ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n(사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n□ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n<!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n<!-- PAGE_3 -->\n## ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n<!-- PAGE_1 -->\n## [바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 100,
+        "word_count": 16,
+        "page_number": 1,
+        "window_text": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n<!-- PAGE_1 -->\n## [바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]\n\n <!-- PAGE_1 -->\n## 1.  일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n",
+        "original_sentence": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n<!-- PAGE_1 -->\n## [바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "<!-- PAGE_1 -->\n## 1. ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 1,
+        "window_text": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n<!-- PAGE_1 -->\n## [바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]\n\n <!-- PAGE_1 -->\n## 1.  일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n",
+        "original_sentence": "<!-- PAGE_1 -->\n## 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 220,
+        "word_count": 43,
+        "page_number": 1,
+        "window_text": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n<!-- PAGE_1 -->\n## [바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]\n\n <!-- PAGE_1 -->\n## 1.  일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2. ",
+        "original_sentence": "일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "<!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 82,
+        "word_count": 17,
+        "page_number": 1,
+        "window_text": "바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n<!-- PAGE_1 -->\n## [바이오의약품정책과-2554호 (개정 ‘11.5.25, 시행 ’11.5.30.)]\n\n <!-- PAGE_1 -->\n## 1.  일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2.  지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가. ",
+        "original_sentence": "<!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "<!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 82,
+        "word_count": 17,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n## 1.  일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2.  지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가.  제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+        "original_sentence": "<!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "<!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2. ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 289,
+        "word_count": 59,
+        "page_number": 1,
+        "window_text": "일반지침\n\n<!-- PAGE_1 -->\n### 헌혈자 혈장조건\n\n<!-- PAGE_1 -->\n### pooling이전 혈장\n\n<!-- PAGE_1 -->\n### pooling이후 혈장 또는 해당\n\n<!-- PAGE_1 -->\n### 혈장분획제제\n\n<!-- PAGE_1 -->\n### HCV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2.  지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가.  제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "<!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가. ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 36,
+        "word_count": 8,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n### HBV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2.  지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가.  제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까? ",
+        "original_sentence": "지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 505,
+        "word_count": 103,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n### HIV\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요.\n\n <!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2.  지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가.  제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까?  |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 56,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n### CJD진단, v-CJD의 위험요소가\n\n<!-- PAGE_1 -->\n### 있거나, v-CJD 위험지역을\n\n<!-- PAGE_1 -->\n### 여행한 경우\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 별도 조치 불요\n\n<!-- PAGE_1 -->\n### v-CJD 진단, v-CJD 의심진단\n\n<!-- PAGE_1 -->\n### 전량폐기\n\n<!-- PAGE_1 -->\n### 즉시 격리, 회수 및 폐기\n\n<!-- PAGE_1 -->\n## 2.  지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가.  제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까?  |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까?",
+        "original_sentence": "등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까? ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 199,
+        "word_count": 59,
+        "page_number": 2,
+        "window_text": "지침 운영시 유의사항\n\n<!-- PAGE_1 -->\n### 가.  제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까?  |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "| □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "|\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 31,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "제조업소의 원료입고(혈장 또는 최종원액)에 따른 품질검사과정에서 양성 판정된\n\n<!-- PAGE_1 -->\n### 경우에는 폐기처분\n\n<!-- PAGE_1 -->\n### 나. Look-back 대상으로 결정된 공여자(donor)의 혈장분(1년 이내)에 대하여 혈액원에\n\n<!-- PAGE_1 -->\n### 서 보관하고 있는 혈장으로 핵산증폭검사(NAT) 또는 효소면역검사(EIA)를 가장\n\n<!-- PAGE_1 -->\n### 최근에 공여된 순서대로 실시하고 그중 양성으로 확인된 경우에는 각 상태에 따\n\n<!-- PAGE_1 -->\n### 라 다음과 같이 조치\n\n<!-- PAGE_1 -->\n### - 개별혈장 보관 단계 : 전량폐기\n\n<!-- PAGE_1 -->\n### - 제조업소 Pooling(수집혈장) 이후 공정 진행 단계 : 별도조치 불요\n\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처리지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까?  |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "|\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까?",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 89,
+        "word_count": 31,
+        "page_number": 2,
+        "window_text": "등록대상\n\n**[표 시작]**\n\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까?  |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**오의약품품질관리과에 문의하시기 바랍니다.",
+        "original_sentence": "| □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 15,
+        "page_number": 2,
+        "window_text": "| □ 예 | □ | √  아니오 |\n| --- | --- | --- | --- | --- |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | □ | √  아니오 |\n| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) | 내용입니까?  |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**오의약품품질관리과에 문의하시기 바랍니다. **\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "|\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**오의약품품질관리과에 문의하시기 바랍니다. **\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+        "original_sentence": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "|\n**오의약품품질관리과에 문의하시기 바랍니다.",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 4,
+        "page_number": 3,
+        "window_text": "| □ 예 | □ | √  아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | □ | √  아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**오의약품품질관리과에 문의하시기 바랍니다. **\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+        "original_sentence": "|\n**오의약품품질관리과에 문의하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "**\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 141,
+        "word_count": 28,
+        "page_number": 2,
+        "window_text": "**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**오의약품품질관리과에 문의하시기 바랍니다. **\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다.",
+        "original_sentence": "**\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "(공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 130,
+        "word_count": 32,
+        "page_number": 2,
+        "window_text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**오의약품품질관리과에 문의하시기 바랍니다. **\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음.",
+        "original_sentence": "(공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 93,
+        "word_count": 27,
+        "page_number": 2,
+        "window_text": "|\n**오의약품품질관리과에 문의하시기 바랍니다. **\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n",
+        "original_sentence": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "|\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다.",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 18,
+        "page_number": 2,
+        "window_text": "**\n**전화번호: 043-719-3654**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | □ | √  아니오 |\n**팩스번호: 043-719-3650**\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다. ",
+        "original_sentence": "|\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "**\n**상기 사항에 대하여 확인하였음.",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 2,
+        "window_text": "(공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | □ | √  예(☞안내서) | □ 아니오 |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+        "original_sentence": "**\n**상기 사항에 대하여 확인하였음."
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "**\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 111,
+        "word_count": 26,
+        "page_number": 2,
+        "window_text": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | □ | √  아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n",
+        "original_sentence": "**\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "□ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 75,
+        "word_count": 18,
+        "page_number": 2,
+        "window_text": "|\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n**안내서 제ㆍ개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n □ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n",
+        "original_sentence": "□ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "**\n**상기 사항에 대하여 확인하였음. **\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n □ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n <!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다. ",
+        "original_sentence": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "(사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 135,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "**\n**2017 년   6 월   1 일**\n| 담당자 | 확  인(부서장) | 박지원 |\n\n**[표 끝]**\n\n□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의\n\n지침서ㆍ안내서가 있습니까?\n\n □ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n □ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n <!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n",
+        "original_sentence": "(사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "□ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 238,
+        "word_count": 53,
+        "page_number": 3,
+        "window_text": "□ 예\n\n□\n\n√  아니오\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n □ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n <!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n## ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n",
+        "original_sentence": "□ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "<!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다. ",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 157,
+        "word_count": 34,
+        "page_number": 3,
+        "window_text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n (사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n □ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n <!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n## ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n",
+        "original_sentence": "<!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 154,
+        "word_count": 37,
+        "page_number": 3,
+        "window_text": "(사유 :                                                                 )\n\n□ 법령(법ㆍ시행령ㆍ시행규칙) 또는\n\n행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는\n\n나열한 것입니까?\n\n □ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n <!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n## ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n",
+        "original_sentence": "또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "<!-- PAGE_3 -->\n## ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n",
+      "metadata": {
+        "source": "[안내서-0069-01]+바이러스+오염우려+혈장+및+혈장분획제제+위험인자별+처리+지침(민원인+안내서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 62,
+        "word_count": 14,
+        "page_number": 3,
+        "window_text": "□ 예\n\n□\n\n√  아니오\n\n지침서ㆍ안내서\n\n김기만\n\n<!-- PAGE_3 -->\n## ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국 바이\n\n<!-- PAGE_3 -->\n# 이 안내서는 바이러스 오염우려 혈장 및 혈장분획제제 위험인자별 처\n\n<!-- PAGE_3 -->\n# 리지침에 대하여 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술\n\n<!-- PAGE_3 -->\n# 한 것입니다.\n\n <!-- PAGE_3 -->\n# 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n# 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n# 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2011년 5월 25일 현재의\n\n<!-- PAGE_3 -->\n# 과학적ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정\n\n<!-- PAGE_3 -->\n# 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n## ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n",
+        "original_sentence": "<!-- PAGE_3 -->\n## ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 28,
+    "avg_chunk_length": 117.46428571428571,
+    "min_chunk_length": 22,
+    "max_chunk_length": 505,
+    "total_characters": 3289,
+    "total_words": 723,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 117,
+    "heading_count": 42,
+    "paragraph_count": 23,
+    "list_item_count": 0,
+    "table_cell_count": 52,
+    "tables_detected": 1,
+    "chunks_generated": 28
+  }
+}

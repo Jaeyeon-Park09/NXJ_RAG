@@ -1,0 +1,3592 @@
+{
+  "file_name": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+  "total_pages": 7,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "11.030982971191406": 60,
+      "26.49616050720215": 2,
+      "23.98040008544922": 1,
+      "15.946965217590332": 9,
+      "17.02608299255371": 2,
+      "14.028532981872559": 17,
+      "12.94941520690918": 15,
+      "9.951866149902344": 3,
+      "14.987749099731445": 45,
+      "11.99020004272461": 25,
+      "13.184832572937012": 2,
+      "13.296097755432129": 1,
+      "13.308635711669922": 8,
+      "11.37490177154541": 2,
+      "15.210904121398926": 1
+    },
+    "heading_sizes": [
+      26.49616050720215,
+      17.02608299255371,
+      15.946965217590332,
+      14.987749099731445,
+      14.028532981872559,
+      13.308635711669922,
+      13.184832572937012,
+      12.94941520690918,
+      11.99020004272461,
+      11.37490177154541
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 2,
+    "tables_info": [
+      {
+        "bbox": [
+          133.3677215576172,
+          166.84194946289062,
+          533.75146484375,
+          595.6574096679688
+        ],
+        "num_rows": 6,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          56.609317779541016,
+          265.38995361328125,
+          543.809326171875,
+          641.5728149414062
+        ],
+        "num_rows": 7,
+        "num_cols": 3
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "등 록 번 호",
+      "font_size": 11.030982971191406,
+      "font_name": "Gulim",
+      "bbox": [
+        456.8323974609375,
+        76.35983276367188,
+        517.2796630859375,
+        87.38777923583984
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서-0071-01",
+      "font_size": 11.030982971191406,
+      "font_name": "Gulim",
+      "bbox": [
+        444.7189636230469,
+        95.77861022949219,
+        529.373779296875,
+        106.80655670166016
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "국가출하승인의약품 검정 부적합 시",
+      "font_size": 26.49616050720215,
+      "font_name": "H2hdrM",
+      "bbox": [
+        91.87020874023438,
+        231.57017517089844,
+        511.5545349121094,
+        258.54071044921875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사후조치에 대한 세부지침(공무원 지침서)",
+      "font_size": 26.49616050720215,
+      "font_name": "H2hdrM",
+      "bbox": [
+        60.32730484008789,
+        272.08587646484375,
+        534.52587890625,
+        299.056396484375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2016. 9. 30.",
+      "font_size": 23.98040008544922,
+      "font_name": "T3",
+      "bbox": [
+        234.71279907226562,
+        419.901123046875,
+        360.2367858886719,
+        448.64569091796875
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "바이오생약국 바이오의약품품질관리과",
+      "font_size": 15.946965217590332,
+      "font_name": "HYwulM",
+      "bbox": [
+        157.4746551513672,
+        718.7145385742188,
+        437.2821350097656,
+        734.6571044921875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서ᆞ안내서 제ᆞ개정 점검표",
+      "font_size": 17.02608299255371,
+      "font_name": "H2hdrM",
+      "bbox": [
+        169.94789123535156,
+        80.5648422241211,
+        424.81048583984375,
+        97.58624267578125
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        118.1751480102539,
+        531.1834106445312,
+        132.8431854248047
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        118.1751480102539,
+        531.1834106445312,
+        132.8431854248047
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        167.0694580078125,
+        145.02581787109375,
+        428.17730712890625,
+        159.69384765625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.48126220703125,
+        298.9375915527344,
+        115.49706268310547,
+        313.6056213378906
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "여부",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        82.5152816772461,
+        316.4384765625,
+        104.46304321289062,
+        331.10650634765625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        166.84194946289062,
+        422.93170166015625,
+        181.50999450683594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서가 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        183.38388061523438,
+        296.880126953125,
+        198.0519256591797
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        167.44131469726562,
+        507.0848388671875,
+        197.45257568359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        167.44131469726562,
+        507.0848388671875,
+        197.45257568359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        208.43649291992188,
+        530.9518432617188,
+        223.1045379638672
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.79881286621094,
+        224.97842407226562,
+        534.8316040039062,
+        256.1883850097656
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.79881286621094,
+        224.97842407226562,
+        534.8316040039062,
+        256.1883850097656
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사유 :                                                                 )",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        257.9423828125,
+        525.918701171875,
+        272.61041259765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        278.7995910644531,
+        450.037353515625,
+        293.4676208496094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용을 단순 편집 또는 나열한 것입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        295.3415222167969,
+        344.3743896484375,
+        310.0095520019531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        279.3989562988281,
+        507.0848388671875,
+        309.41021728515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        279.3989562988281,
+        507.0848388671875,
+        309.41021728515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        309.12646484375,
+        507.0848388671875,
+        339.2575988769531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        309.12646484375,
+        507.0848388671875,
+        339.2575988769531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        309.12646484375,
+        507.0848388671875,
+        339.2575988769531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        338.37451171875,
+        450.9964904785156,
+        353.04254150390625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.79881286621094,
+        353.7177429199219,
+        209.9241943359375,
+        368.3857727050781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        338.37451171875,
+        507.0848388671875,
+        368.3857727050781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        338.37451171875,
+        507.0848388671875,
+        368.3857727050781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        367.5026550292969,
+        507.0848388671875,
+        397.6337890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        367.5026550292969,
+        507.0848388671875,
+        397.6337890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        367.5026550292969,
+        507.0848388671875,
+        397.6337890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        396.7507019042969,
+        439.36279296875,
+        411.4187316894531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "정리한 자료입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.79881286621094,
+        412.09393310546875,
+        252.1443634033203,
+        426.761962890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        396.7507019042969,
+        507.0848388671875,
+        426.761962890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        396.7507019042969,
+        507.0848388671875,
+        426.761962890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        431.0332336425781,
+        528.1151733398438,
+        462.2431945800781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        431.0332336425781,
+        528.1151733398438,
+        462.2431945800781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        63.92535400390625,
+        497.0810546875,
+        126.9329833984375,
+        511.74908447265625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.95449829101562,
+        514.7018432617188,
+        103.02459716796875,
+        529.369873046875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        471.6688232421875,
+        447.3573913574219,
+        486.33685302734375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.9187469482422,
+        487.1319274902344,
+        432.1295471191406,
+        501.7999572753906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 예(☞지침서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        471.6688232421875,
+        533.75146484375,
+        501.7999572753906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        471.6688232421875,
+        533.75146484375,
+        501.7999572753906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        510.2666320800781,
+        451.2366943359375,
+        524.9346923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.9187469482422,
+        525.6099243164062,
+        447.3572692871094,
+        555.6211547851562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하는 것입니까? (민원인용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.9187469482422,
+        525.6099243164062,
+        447.3572692871094,
+        555.6211547851562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        517.9382934570312,
+        534.8308715820312,
+        547.9495239257812
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        517.9382934570312,
+        534.8308715820312,
+        547.9495239257812
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        68.7227554321289,
+        583.986083984375,
+        118.25590515136719,
+        598.6541137695312
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        82.5152816772461,
+        601.4869995117188,
+        104.46304321289062,
+        616.155029296875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        565.5263061523438,
+        433.9654235839844,
+        580.1943359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.9187469482422,
+        580.9893798828125,
+        336.335693359375,
+        595.6574096679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        565.5263061523438,
+        507.0848388671875,
+        595.6574096679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☑ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        457.5520324707031,
+        565.5263061523438,
+        507.0848388671875,
+        595.6574096679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        133.3677215576172,
+        605.5625610351562,
+        530.9522094726562,
+        620.2305908203125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서 제ㆍ개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        149.79881286621094,
+        622.1044311523438,
+        371.333740234375,
+        636.7724609375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        215.2833251953125,
+        644.2802124023438,
+        381.0428771972656,
+        658.9482421875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2017년     6월     1일",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        230.39512634277344,
+        678.562744140625,
+        354.4079284667969,
+        693.2307739257812
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        329.7013244628906,
+        708.7697143554688,
+        404.5320739746094,
+        737.822021484375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        329.7013244628906,
+        708.7697143554688,
+        404.5320739746094,
+        737.822021484375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "윤 지 상",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        479.26025390625,
+        707.21142578125,
+        523.2763671875,
+        721.8794555664062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "김 기 만",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        478.5406494140625,
+        724.7123413085938,
+        523.2763671875,
+        739.38037109375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        115.033447265625,
+        529.5283813476562,
+        133.68736267089844
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        144.40135192871094,
+        474.77392578125,
+        163.05526733398438
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        183.7183837890625,
+        524.595703125,
+        202.37229919433594
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        213.08628845214844,
+        529.5288696289062,
+        231.74020385742188
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항이 아님을 알려드립니다.  또한, 본 지침서는 2016년 9월 30일 현재 유효한",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        242.45419311523438,
+        529.4086303710938,
+        261.10809326171875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        271.82208251953125,
+        529.5284423828125,
+        290.4759826660156
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수 있음을 알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        301.19000244140625,
+        207.98291015625,
+        319.8439025878906
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        64.52503204345703,
+        353.3085021972656,
+        524.4750366210938,
+        370.5274963378906
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        88.51203155517578,
+        370.21002197265625,
+        529.1497802734375,
+        404.3305358886719
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관한 규정 제2조)",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        88.51203155517578,
+        370.21002197265625,
+        529.1497802734375,
+        404.3305358886719
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        65.72438049316406,
+        467.66351318359375,
+        542.701904296875,
+        484.88250732421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "바이오의약품품질관리과에 문의하시기 바랍니다.",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        82.7551498413086,
+        488.4008483886719,
+        348.48614501953125,
+        505.6198425292969
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전화번호: 043-719-3651~3665, 3667~3668",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        85.75352478027344,
+        509.1382141113281,
+        342.5952453613281,
+        526.3572387695312
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "팩스번호: 043-719-3650",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        85.75352478027344,
+        529.9954223632812,
+        229.13742065429688,
+        547.2144165039062
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 2 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 4,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 15.946965217590332,
+      "font_name": "T8",
+      "bbox": [
+        68.60282135009766,
+        76.83602905273438,
+        199.451904296875,
+        95.95118713378906
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "배경 및 목적",
+      "font_size": 15.946965217590332,
+      "font_name": "H2gtrE",
+      "bbox": [
+        68.60282135009766,
+        76.83602905273438,
+        199.451904296875,
+        95.95118713378906
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        115.673583984375,
+        537.4287109375,
+        133.6539306640625
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        79.15709686279297,
+        133.6539306640625,
+        537.5486450195312,
+        151.61929321289062
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "*「약사법」 제53조에 따라 국가가 직접 검정, 제조",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        69.56230163574219,
+        151.993896484375,
+        388.9491882324219,
+        167.52891540527344
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "품질관리 자료 검토 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        395.5456237792969,
+        151.993896484375,
+        538.1483764648438,
+        167.52891540527344
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        87.31267547607422,
+        167.57687377929688,
+        450.95611572265625,
+        183.1118927001953
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        64.0452880859375,
+        192.8692169189453,
+        538.1483154296875,
+        210.83457946777344
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        80.1165771484375,
+        210.8495635986328,
+        517.5794677734375,
+        228.81492614746094
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "*「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        69.56230163574219,
+        231.10743713378906,
+        538.1488647460938,
+        246.6424560546875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기준 I. 일반기준 제12호사목",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        87.31267547607422,
+        246.69041442871094,
+        256.06121826171875,
+        262.2254333496094
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        271.9827880859375,
+        537.5486450195312,
+        289.963134765625
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        79.51690673828125,
+        289.963134765625,
+        501.6881103515625,
+        307.9284973144531
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        64.0452880859375,
+        312.85809326171875,
+        537.4287109375,
+        330.8234558105469
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        78.55742645263672,
+        330.8384704589844,
+        538.1483154296875,
+        366.7841796875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명성 및 효율성 확보",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        78.55742645263672,
+        330.8384704589844,
+        538.1483154296875,
+        366.7841796875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 15.946965217590332,
+      "font_name": "T8",
+      "bbox": [
+        68.60282135009766,
+        390.0537414550781,
+        175.46490478515625,
+        409.16888427734375
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관련 규정",
+      "font_size": 15.946965217590332,
+      "font_name": "H2gtrE",
+      "bbox": [
+        68.60282135009766,
+        390.0537414550781,
+        175.46490478515625,
+        409.16888427734375
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○「약사법」제53조(국가출하승인의약품),",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        56.609317779541016,
+        422.17864990234375,
+        538.2682495117188,
+        440.15899658203125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제69조(보고와",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        422.17864990234375,
+        538.2682495117188,
+        440.15899658203125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "검사",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        422.17864990234375,
+        538.2682495117188,
+        440.15899658203125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등),",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        56.609317779541016,
+        422.17864990234375,
+        538.2682495117188,
+        440.15899658203125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제71조(폐기 명령 등)",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        86.59307098388672,
+        440.15899658203125,
+        231.41458129882812,
+        458.1243591308594
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        460.5367126464844,
+        538.1483154296875,
+        478.5170593261719
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "품의 범위),",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        86.59307098388672,
+        478.5170593261719,
+        538.1483154296875,
+        496.482421875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제64조(의약품의 국가출하승인 신청),",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        86.59307098388672,
+        478.5170593261719,
+        538.1483154296875,
+        496.482421875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제65조(시료의",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        86.59307098388672,
+        478.5170593261719,
+        538.1483154296875,
+        496.482421875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        86.59307098388672,
+        496.4974060058594,
+        535.2098999023438,
+        514.4627685546875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        56.609317779541016,
+        516.8751220703125,
+        538.2083129882812,
+        534.85546875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[별표8] 행정처분의 기준 I. 일반기준 제12호사목",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        86.59307098388672,
+        534.85546875,
+        420.0123596191406,
+        552.8208618164062
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」",
+      "font_size": 14.987749099731445,
+      "font_name": "T14",
+      "bbox": [
+        56.609317779541016,
+        555.2332153320312,
+        538.1483154296875,
+        573.2135620117188
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(식약처고시 제2015-99호)",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        86.59307098388672,
+        573.2135620117188,
+        258.87969970703125,
+        591.178955078125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○「민원",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        593.5912475585938,
+        538.268310546875,
+        611.5715942382812
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "처리에",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        593.5912475585938,
+        538.268310546875,
+        611.5715942382812
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관한",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        593.5912475585938,
+        538.268310546875,
+        611.5715942382812
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "법률",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        593.5912475585938,
+        538.268310546875,
+        611.5715942382812
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시행령」(대통령령)",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        56.609317779541016,
+        593.5912475585938,
+        538.268310546875,
+        611.5715942382812
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제25조(민원문서의",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        593.5912475585938,
+        538.268310546875,
+        611.5715942382812
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반려 등), 제29조(처리결과의 통지방법 등)",
+      "font_size": 14.987749099731445,
+      "font_name": "T3",
+      "bbox": [
+        86.59307098388672,
+        611.5716552734375,
+        374.9767761230469,
+        629.5370483398438
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)",
+      "font_size": 14.028532981872559,
+      "font_name": "T3",
+      "bbox": [
+        56.609317779541016,
+        631.9493408203125,
+        481.6402282714844,
+        649.9296875
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3",
+      "font_size": 15.946965217590332,
+      "font_name": "T8",
+      "bbox": [
+        68.60282135009766,
+        658.080810546875,
+        175.46490478515625,
+        677.1959228515625
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "세부 지침",
+      "font_size": 15.946965217590332,
+      "font_name": "H2gtrE",
+      "bbox": [
+        68.60282135009766,
+        658.080810546875,
+        175.46490478515625,
+        677.1959228515625
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        710.9430541992188,
+        537.5486450195312,
+        728.9234008789062
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관한 세부기준",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        81.91560363769531,
+        729.642578125,
+        183.1407470703125,
+        747.6079711914062
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 3 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 신청민원 : 반려 처리",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        64.0452880859375,
+        73.59956359863281,
+        225.71768188476562,
+        91.56493377685547
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        64.0452880859375,
+        102.36812591552734,
+        484.29754638671875,
+        120.33349609375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "*「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        69.56230163574219,
+        126.34192657470703,
+        538.1483764648438,
+        141.876953125
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "처분의 기준 I. 일반기준 제12호사목",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        86.59307098388672,
+        142.6441192626953,
+        300.7974853515625,
+        158.17913818359375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 폐기 : 해당 제품은 폐기 명령",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        64.0452880859375,
+        168.5358123779297,
+        284.1260070800781,
+        186.5011749267578
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "*「약사법」제71조(폐기명령 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T13",
+      "bbox": [
+        69.56230163574219,
+        197.5441131591797,
+        257.182373046875,
+        213.07913208007812
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 8,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○ 행정처리 및 폐기 등 관련 업무 절차",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        223.43582153320312,
+        344.45330810546875,
+        241.41616821289062
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시판 전 검정",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        72.44074249267578,
+        265.38995361328125,
+        395.1858215332031,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "부적합 판정",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        72.44074249267578,
+        265.38995361328125,
+        395.1858215332031,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "➡",
+      "font_size": 11.99020004272461,
+      "font_name": "T10",
+      "bbox": [
+        72.44074249267578,
+        265.38995361328125,
+        395.1858215332031,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "해당 지방청에",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        72.44074249267578,
+        265.38995361328125,
+        395.1858215332031,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행정조치 의뢰",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        72.44074249267578,
+        265.38995361328125,
+        395.1858215332031,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "➡",
+      "font_size": 11.99020004272461,
+      "font_name": "T10",
+      "bbox": [
+        72.44074249267578,
+        265.38995361328125,
+        395.1858215332031,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "해당 제약사에",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        72.44074249267578,
+        265.38995361328125,
+        395.1858215332031,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "폐기명령",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        332.2199401855469,
+        265.38995361328125,
+        515.9603271484375,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "➡",
+      "font_size": 11.99020004272461,
+      "font_name": "T10",
+      "bbox": [
+        332.2199401855469,
+        265.38995361328125,
+        515.9603271484375,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행정명령",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        332.2199401855469,
+        265.38995361328125,
+        515.9603271484375,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이행 여부 확인",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        452.7546081542969,
+        279.77423095703125,
+        532.9910888671875,
+        294.14654541015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "평가원",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        90.43099212646484,
+        334.7940979003906,
+        126.41149139404297,
+        349.1664123535156
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(백신검정과/",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        72.80054473876953,
+        349.17840576171875,
+        143.98196411132812,
+        363.55072021484375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈액제제검정과)",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        64.40509796142578,
+        363.56268310546875,
+        152.3414306640625,
+        377.93499755859375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "평가원",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        211.56533813476562,
+        341.98626708984375,
+        247.54583740234375,
+        356.35858154296875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(운영지원과)",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        195.49404907226562,
+        356.37054443359375,
+        263.52117919921875,
+        370.74285888671875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "서울지방청",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        326.22320556640625,
+        327.6019592285156,
+        386.1907043457031,
+        341.9742736816406
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(의약품안전관리과)",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        305.23455810546875,
+        341.98626708984375,
+        407.20330810546875,
+        385.12713623046875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "그 외 5개 지방청",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        305.23455810546875,
+        341.98626708984375,
+        407.20330810546875,
+        385.12713623046875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(의료제품안전과)",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        305.23455810546875,
+        341.98626708984375,
+        407.20330810546875,
+        385.12713623046875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "서울지방청",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        462.9490966796875,
+        327.6019592285156,
+        522.9166259765625,
+        341.9742736816406
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(의약품안전관리과)",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        441.9604797363281,
+        341.98626708984375,
+        543.809326171875,
+        385.12713623046875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "그 외 5개 지방청",
+      "font_size": 11.99020004272461,
+      "font_name": "T11",
+      "bbox": [
+        441.9604797363281,
+        341.98626708984375,
+        543.809326171875,
+        385.12713623046875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(의료제품안전과)",
+      "font_size": 11.99020004272461,
+      "font_name": "T3",
+      "bbox": [
+        441.9604797363281,
+        341.98626708984375,
+        543.809326171875,
+        385.12713623046875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유",
+      "font_size": 11.99020004272461,
+      "font_name": "Gungsuh",
+      "bbox": [
+        63.08580780029297,
+        396.66571044921875,
+        535.14990234375,
+        408.6526184082031
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        64.0452880859375,
+        421.69915771484375,
+        538.268310546875,
+        439.67950439453125
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "폐기’에 준하여 폐기",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        127.61083984375,
+        440.5185852050781,
+        260.4988098144531,
+        458.48394775390625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○ 변경 전",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        469.16729736328125,
+        133.8474578857422,
+        487.14764404296875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "후 비교",
+      "font_size": 14.987749099731445,
+      "font_name": "T12",
+      "bbox": [
+        142.84259033203125,
+        469.16729736328125,
+        196.81332397460938,
+        487.1326599121094
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "변경 전 (현 행)",
+      "font_size": 13.184832572937012,
+      "font_name": "Haansoft Batang",
+      "bbox": [
+        213.60423278808594,
+        508.72406005859375,
+        311.0723876953125,
+        525.5396118164062
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "➜",
+      "font_size": 13.296097755432129,
+      "font_name": "Haansoft Batang",
+      "bbox": [
+        335.45819091796875,
+        575.918701171875,
+        348.0635681152344,
+        589.943359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "변경 후 (개 선)",
+      "font_size": 13.184832572937012,
+      "font_name": "Haansoft Batang",
+      "bbox": [
+        395.9054260253906,
+        508.72406005859375,
+        493.253662109375,
+        525.5396118164062
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원신청건",
+      "font_size": 13.308635711669922,
+      "font_name": "T12",
+      "bbox": [
+        96.66761016845703,
+        535.57470703125,
+        452.31146240234375,
+        552.3902587890625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "•  신청서류 반려",
+      "font_size": 13.308635711669922,
+      "font_name": "T11",
+      "bbox": [
+        96.66761016845703,
+        535.57470703125,
+        452.31146240234375,
+        552.3902587890625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "•  현행과 같음",
+      "font_size": 13.308635711669922,
+      "font_name": "T11",
+      "bbox": [
+        96.66761016845703,
+        535.57470703125,
+        452.31146240234375,
+        552.3902587890625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "해당 제조번호",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        86.47313690185547,
+        564.463134765625,
+        172.2263946533203,
+        581.2786865234375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제품 폐기",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        99.54605102539062,
+        572.8539428710938,
+        452.31146240234375,
+        600.218017578125
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "•  폐기",
+      "font_size": 13.308635711669922,
+      "font_name": "T11",
+      "bbox": [
+        99.54605102539062,
+        572.8539428710938,
+        452.31146240234375,
+        600.218017578125
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "•  현행과 같음",
+      "font_size": 13.308635711669922,
+      "font_name": "T11",
+      "bbox": [
+        99.54605102539062,
+        572.8539428710938,
+        452.31146240234375,
+        600.218017578125
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행정처분",
+      "font_size": 13.308635711669922,
+      "font_name": "T12",
+      "bbox": [
+        103.26403045654297,
+        624.7572631835938,
+        155.47044372558594,
+        641.5728149414062
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "•  행정처분 실시",
+      "font_size": 13.308635711669922,
+      "font_name": "T11",
+      "bbox": [
+        203.04995727539062,
+        610.2531127929688,
+        325.2597351074219,
+        641.318359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "* 처분 기준에 따라 감경",
+      "font_size": 11.37490177154541,
+      "font_name": "Gungsuh",
+      "bbox": [
+        203.04995727539062,
+        610.2531127929688,
+        325.2597351074219,
+        641.318359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "또는 면제",
+      "font_size": 11.37490177154541,
+      "font_name": "Gungsuh",
+      "bbox": [
+        222.71929931640625,
+        642.9965209960938,
+        265.1759338378906,
+        654.9834594726562
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 10,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "•  행정처분 면제",
+      "font_size": 13.308635711669922,
+      "font_name": "T11",
+      "bbox": [
+        361.8439025878906,
+        624.7572631835938,
+        464.9046325683594,
+        641.5728149414062
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "4",
+      "font_size": 15.946965217590332,
+      "font_name": "T8",
+      "bbox": [
+        68.60282135009766,
+        681.5751342773438,
+        215.40325927734375,
+        700.6902465820312
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기타 행정 사항",
+      "font_size": 15.946965217590332,
+      "font_name": "H2gtrE",
+      "bbox": [
+        68.60282135009766,
+        681.5751342773438,
+        215.40325927734375,
+        700.6902465820312
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        719.9332275390625,
+        487.41583251953125,
+        737.91357421875
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        750.8594360351562,
+        538.268310546875,
+        768.8397827148438
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 4 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        80.3564453125,
+        68.5650634765625,
+        538.268310546875,
+        86.53043365478516
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "침·가이드라인 및 업무수행편람(MaPP)에 따름",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        80.3564453125,
+        92.53886413574219,
+        398.1842041015625,
+        110.51921844482422
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립",
+      "font_size": 15.210904121398926,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        121.54716491699219,
+        518.9281005859375,
+        139.5275115966797
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제‧개정 이력",
+      "font_size": 17.02608299255371,
+      "font_name": "H2gtrE",
+      "bbox": [
+        249.2249298095703,
+        111.49104309082031,
+        345.65264892578125,
+        128.512451171875
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -",
+      "font_size": 14.987749099731445,
+      "font_name": "T18",
+      "bbox": [
+        80.3564453125,
+        177.88558959960938,
+        513.651611328125,
+        195.86593627929688
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록번호",
+      "font_size": 14.028532981872559,
+      "font_name": "T18",
+      "bbox": [
+        94.50878143310547,
+        237.70022583007812,
+        428.1676025390625,
+        254.5298309326172
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 14.028532981872559,
+      "font_name": "T18",
+      "bbox": [
+        94.50878143310547,
+        237.70022583007812,
+        428.1676025390625,
+        254.5298309326172
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요 내용",
+      "font_size": 14.028532981872559,
+      "font_name": "T18",
+      "bbox": [
+        94.50878143310547,
+        237.70022583007812,
+        428.1676025390625,
+        254.5298309326172
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서-0071-01",
+      "font_size": 14.028532981872559,
+      "font_name": "T13",
+      "bbox": [
+        79.39697265625,
+        267.427734375,
+        492.09332275390625,
+        295.4051513671875
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2016. 9. 30.",
+      "font_size": 14.028532981872559,
+      "font_name": "T13",
+      "bbox": [
+        79.39697265625,
+        267.427734375,
+        492.09332275390625,
+        295.4051513671875
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "국가출하승인의약품 검정 부적합 시",
+      "font_size": 14.028532981872559,
+      "font_name": "T13",
+      "bbox": [
+        79.39697265625,
+        267.427734375,
+        492.09332275390625,
+        295.4051513671875
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사후조치에 관한 세부지침 마련",
+      "font_size": 14.028532981872559,
+      "font_name": "T13",
+      "bbox": [
+        309.91204833984375,
+        289.723388671875,
+        480.45941162109375,
+        306.552978515625
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    }
+  ],
+  "markdown_content": "등 록 번 호\n\n지침서-0071-01\n\n<!-- PAGE_1 -->\n# 국가출하승인의약품 검정 부적합 시\n\n<!-- PAGE_1 -->\n# 사후조치에 대한 세부지침(공무원 지침서)\n\n- 2016. 9. 30.\n<!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까?**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까?**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까? | (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까?**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까?**\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n상기 사항에 대하여 확인하였음.\n\n2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n<!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.  또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n<!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n<!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I. 일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I. 일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I. 일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016. 9. 30. | 국가출하승인의약품 검정 부적합 시 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n**평가원**\n| (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) |\n**(백신검정과/**\n**혈액제제검정과)**\n**※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유**\n**- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의**\n**폐기’에 준하여 폐기**\n**○ 변경 전**\n| 민원신청건 | •  신청서류 반려 | •  현행과 같음 |\n**해당 제조번호**\n| 제품 폐기 | •  폐기 | •  현행과 같음 |\n| •  행정처분 실시 | * 처분 기준에 따라 감경 |\n| 행정처분 | •  행정처분 면제 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n###### 또는 면제\n\n<!-- PAGE_5 -->\n### 4\n\n<!-- PAGE_5 -->\n### 기타 행정 사항\n\n<!-- PAGE_5 -->\n#### ○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용\n\n<!-- PAGE_5 -->\n#### ○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무\n\n- - 4 -\n<!-- PAGE_6 -->\n#### 수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지\n\n<!-- PAGE_6 -->\n#### 침·가이드라인 및 업무수행편람(MaPP)에 따름\n\n- ○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립\n<!-- PAGE_7 -->\n## 제‧개정 이력\n\n<!-- PAGE_7 -->\n#### - 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -\n\n<!-- PAGE_7 -->\n##### 등록번호\n\n<!-- PAGE_7 -->\n##### 승인일자\n\n<!-- PAGE_7 -->\n##### 주요 내용\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "등 록 번 호\n\n지침서-0071-01\n\n<!-- PAGE_1 -->\n# 국가출하승인의약품 검정 부적합 시\n\n<!-- PAGE_1 -->\n# 사후조치에 대한 세부지침(공무원 지침서)\n\n- 2016. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 110,
+        "word_count": 23,
+        "page_number": 1,
+        "window_text": "등 록 번 호\n\n지침서-0071-01\n\n<!-- PAGE_1 -->\n# 국가출하승인의약품 검정 부적합 시\n\n<!-- PAGE_1 -->\n# 사후조치에 대한 세부지침(공무원 지침서)\n\n- 2016.  9.  30.\n <!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+        "original_sentence": "등 록 번 호\n\n지침서-0071-01\n\n<!-- PAGE_1 -->\n# 국가출하승인의약품 검정 부적합 시\n\n<!-- PAGE_1 -->\n# 사후조치에 대한 세부지침(공무원 지침서)\n\n- 2016. "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "9. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 3,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "등 록 번 호\n\n지침서-0071-01\n\n<!-- PAGE_1 -->\n# 국가출하승인의약품 검정 부적합 시\n\n<!-- PAGE_1 -->\n# 사후조치에 대한 세부지침(공무원 지침서)\n\n- 2016.  9.  30.\n <!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까?",
+        "original_sentence": "9. "
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "30.\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 4,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "등 록 번 호\n\n지침서-0071-01\n\n<!-- PAGE_1 -->\n# 국가출하승인의약품 검정 부적합 시\n\n<!-- PAGE_1 -->\n# 사후조치에 대한 세부지침(공무원 지침서)\n\n- 2016.  9.  30.\n <!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까? **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까?",
+        "original_sentence": "30.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "<!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 153,
+        "word_count": 28,
+        "page_number": 1,
+        "window_text": "등 록 번 호\n\n지침서-0071-01\n\n<!-- PAGE_1 -->\n# 국가출하승인의약품 검정 부적합 시\n\n<!-- PAGE_1 -->\n# 사후조치에 대한 세부지침(공무원 지침서)\n\n- 2016.  9.  30.\n <!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까? **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "<!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까?",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 106,
+        "word_count": 28,
+        "page_number": 2,
+        "window_text": "9.  30.\n <!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까? **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까? ",
+        "original_sentence": "등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까?",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 256,
+        "word_count": 47,
+        "page_number": 2,
+        "window_text": "30.\n <!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까? **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까?  | (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 36,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n### 바이오생약국 바이오의약품품질관리과\n\n<!-- PAGE_2 -->\n## 지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부지침(공무원 지침서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까? **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까?  | (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까?",
+        "original_sentence": "**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "| □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까? ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 139,
+        "word_count": 42,
+        "page_number": 2,
+        "window_text": "등록대상\n\n여부\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ☑ 아니오 |\n| --- | --- | --- |\n**지침서ㆍ안내서가 있습니까? **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까?  | (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "| □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "| (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 10,
+        "page_number": 2,
+        "window_text": "**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n**(사유 :                                                                 )**\n| 폐기명령 | ➡ | 행정명령 |\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)의 | 이행 여부 확인 | □ 예 | ☑ 아니오 |\n**사후조치에 관한 세부지침 마련**\n**내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까?  | (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "| (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까?",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 27,
+        "page_number": 2,
+        "window_text": "**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까?  | (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "| □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 15,
+        "page_number": 2,
+        "window_text": "| □ 예 | ☑ 아니오 |\n| 서울지방청 | 서울지방청 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | 평가원 | (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) | □ 예 | ☑ 아니오 |\n| 내용입니까?  | (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+        "original_sentence": "**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "| (운영지원과) |\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까?",
+        "original_sentence": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "|\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 96,
+        "word_count": 25,
+        "page_number": 2,
+        "window_text": "| □ 예 | ☑ 아니오 |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ☑ 아니오 |\n**정리한 자료입니까? **\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까? **\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. ",
+        "original_sentence": "|\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "(공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 124,
+        "word_count": 33,
+        "page_number": 2,
+        "window_text": "**\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까? **\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+        "original_sentence": "(공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까?",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 85,
+        "word_count": 22,
+        "page_number": 2,
+        "window_text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까? **\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n",
+        "original_sentence": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "**\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 6,
+        "page_number": 1,
+        "window_text": "|\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | 후 비교 | ☑ 예(☞지침서) | □ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까? **\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n",
+        "original_sentence": "**\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "(공무원용)**\n| □ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서 | 변경 전 (현 행) | 변경 후 (개 선) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까? **\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n",
+        "original_sentence": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 114,
+        "word_count": 25,
+        "page_number": 2,
+        "window_text": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ☑ 아니오 |\n**➜**\n**민원인을 구속하는 내용이 있습니까? **\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.  ",
+        "original_sentence": "지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "상기 사항에 대하여 확인하였음.\n\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 4,
+        "page_number": 2,
+        "window_text": "**\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.   또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n",
+        "original_sentence": "상기 사항에 대하여 확인하였음.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 179,
+        "word_count": 40,
+        "page_number": 3,
+        "window_text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.   또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n",
+        "original_sentence": "2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "<!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.  ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 170,
+        "word_count": 34,
+        "page_number": 3,
+        "window_text": "지침서ㆍ안내서\n\n구분\n\n□ 예(☞안내서)\n\n☑ 아니오\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.   또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I. ",
+        "original_sentence": "<!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.  "
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 136,
+        "word_count": 31,
+        "page_number": 3,
+        "window_text": "상기 사항에 대하여 확인하였음.\n\n 2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.   또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I. ",
+        "original_sentence": "또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "<!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 287,
+        "word_count": 53,
+        "page_number": 3,
+        "window_text": "2017년     6월     1일\n\n담당자\n\n확  인(부서장)\n\n윤 지 상\n\n김 기 만\n\n<!-- PAGE_3 -->\n##### 이 지침서는 국가출하승인의약품 검정 부적합 시 사후조치에 대한 세부 지침을\n\n<!-- PAGE_3 -->\n##### 정한 것으로서 식약처 관련 부서 담당 직원의 업무처리를 위한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.   또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I. ",
+        "original_sentence": "<!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "<!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 644,
+        "word_count": 128,
+        "page_number": 3,
+        "window_text": "<!-- PAGE_3 -->\n##### 본 지침서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n##### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야 하는\n\n<!-- PAGE_3 -->\n##### 사항이 아님을 알려드립니다.   또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016. ",
+        "original_sentence": "<!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I. "
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 819,
+        "word_count": 157,
+        "page_number": 4,
+        "window_text": "또한, 본 지침서는 2016년 9월 30일 현재 유효한\n\n<!-- PAGE_3 -->\n##### 법규를 토대로 작성되었으므로 이후 최신 개정 법규 내용 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016.  9. ",
+        "original_sentence": "일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I. "
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 728,
+        "word_count": 144,
+        "page_number": 4,
+        "window_text": "<!-- PAGE_3 -->\n###### ※ “공무원 지침서”란 내부적으로 행정사무의 통일을 기하기 위하여 반복적 행정사무\n\n<!-- PAGE_3 -->\n###### 의 세부기준이나 절차를 제시하는 것임(식품의약품안전처 지침서등의 관리에\n\n<!-- PAGE_3 -->\n###### 관한 규정 제2조)\n\n<!-- PAGE_3 -->\n###### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 바이오생약국\n\n<!-- PAGE_3 -->\n###### 바이오의약품품질관리과에 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016.  9.  30. ",
+        "original_sentence": "일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I. "
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 234,
+        "word_count": 57,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_3 -->\n###### 전화번호: 043-719-3651~3665, 3667~3668\n\n<!-- PAGE_3 -->\n###### 팩스번호: 043-719-3650\n\n- - 2 -\n<!-- PAGE_4 -->\n### 1\n\n<!-- PAGE_4 -->\n### 배경 및 목적\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 출하승인 신청 건에 대하여 검정결과\n\n<!-- PAGE_4 -->\n#### 부적합 시 신청민원 반려, 행정처분 및 해당 제조번호 제품 폐기\n\n<!-- PAGE_4 -->\n###### *「약사법」 제53조에 따라 국가가 직접 검정, 제조\n\n<!-- PAGE_4 -->\n###### 품질관리 자료 검토 등\n\n<!-- PAGE_4 -->\n###### 종합적으로 평가한 결과 적합한 의약품에 대하여 출하승인함\n\n<!-- PAGE_4 -->\n#### - 제조(수입) 후 유통하지 않은 경우 감면할 수 있는 처분기준*을\n\n<!-- PAGE_4 -->\n#### 적용하여 행정처분을 실시하고 있음(‘10.6월 이후 감경사례 5건)\n\n<!-- PAGE_4 -->\n###### *「의약품 등의 안전에 관한 규칙」제95조(행정처분기준) [별표8] 행정처분의\n\n<!-- PAGE_4 -->\n###### 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016.  9.  30.  | 국가출하승인의약품 검정 부적합 시 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n**평가원**\n| (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) |\n**(백신검정과/**\n**혈액제제검정과)**\n**※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유**\n**- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의**\n**폐기’에 준하여 폐기**\n**○ 변경 전**\n| 민원신청건 | •  신청서류 반려 | •  현행과 같음 |\n**해당 제조번호**\n| 제품 폐기 | •  폐기 | •  현행과 같음 |\n| •  행정처분 실시 | * 처분 기준에 따라 감경 |\n| 행정처분 | •  행정처분 면제 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n###### 또는 면제\n\n<!-- PAGE_5 -->\n### 4\n\n<!-- PAGE_5 -->\n### 기타 행정 사항\n\n<!-- PAGE_5 -->\n#### ○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용\n\n<!-- PAGE_5 -->\n#### ○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무\n\n- - 4 -\n<!-- PAGE_6 -->\n#### 수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지\n\n<!-- PAGE_6 -->\n#### 침·가이드라인 및 업무수행편람(MaPP)에 따름\n\n- ○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립\n<!-- PAGE_7 -->\n## 제‧개정 이력\n\n<!-- PAGE_7 -->\n#### - 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -\n\n<!-- PAGE_7 -->\n##### 등록번호\n\n<!-- PAGE_7 -->\n##### 승인일자\n\n<!-- PAGE_7 -->\n##### 주요 내용\n",
+        "original_sentence": "일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016. "
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "9. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 3,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 시 시중 유통되지 않은\n\n<!-- PAGE_4 -->\n#### 의약품임을 고려하여 처리방법에 대한 합리적인 개선 필요\n\n<!-- PAGE_4 -->\n#### - 행정처분은 면제하되, 부적합의 근본 원인 파악을 통한 개선대책\n\n<!-- PAGE_4 -->\n#### 마련을 통해 민원 편의 증진 및 국가출하승인 업무의 일관성, 투\n\n<!-- PAGE_4 -->\n#### 명성 및 효율성 확보\n\n<!-- PAGE_4 -->\n### 2\n\n<!-- PAGE_4 -->\n### 관련 규정\n\n<!-- PAGE_4 -->\n#### ○「약사법」제53조(국가출하승인의약품),\n\n<!-- PAGE_4 -->\n#### 제69조(보고와\n\n<!-- PAGE_4 -->\n#### 검사\n\n<!-- PAGE_4 -->\n#### 등),\n\n<!-- PAGE_4 -->\n#### 제71조(폐기 명령 등)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제63조(국가출하승인의약\n\n<!-- PAGE_4 -->\n#### 품의 범위),\n\n<!-- PAGE_4 -->\n#### 제64조(의약품의 국가출하승인 신청),\n\n<!-- PAGE_4 -->\n#### 제65조(시료의\n\n<!-- PAGE_4 -->\n#### 채취 등), 제66조(국가출하승인의 통지 등), 제90조(회수제품의 폐기)\n\n<!-- PAGE_4 -->\n#### ○「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준)\n\n<!-- PAGE_4 -->\n#### [별표8] 행정처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016.  9.  30.  | 국가출하승인의약품 검정 부적합 시 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n**평가원**\n| (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) |\n**(백신검정과/**\n**혈액제제검정과)**\n**※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유**\n**- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의**\n**폐기’에 준하여 폐기**\n**○ 변경 전**\n| 민원신청건 | •  신청서류 반려 | •  현행과 같음 |\n**해당 제조번호**\n| 제품 폐기 | •  폐기 | •  현행과 같음 |\n| •  행정처분 실시 | * 처분 기준에 따라 감경 |\n| 행정처분 | •  행정처분 면제 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n###### 또는 면제\n\n<!-- PAGE_5 -->\n### 4\n\n<!-- PAGE_5 -->\n### 기타 행정 사항\n\n<!-- PAGE_5 -->\n#### ○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용\n\n<!-- PAGE_5 -->\n#### ○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무\n\n- - 4 -\n<!-- PAGE_6 -->\n#### 수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지\n\n<!-- PAGE_6 -->\n#### 침·가이드라인 및 업무수행편람(MaPP)에 따름\n\n- ○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립\n<!-- PAGE_7 -->\n## 제‧개정 이력\n\n<!-- PAGE_7 -->\n#### - 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -\n\n<!-- PAGE_7 -->\n##### 등록번호\n\n<!-- PAGE_7 -->\n##### 승인일자\n\n<!-- PAGE_7 -->\n##### 주요 내용\n",
+        "original_sentence": "9. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "30. ",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 4,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "일반기준 제12호사목\n\n<!-- PAGE_4 -->\n#### ○「국가출하승인의약품 지정, 승인 절차 및 방법 등에 관한 규정」\n\n<!-- PAGE_4 -->\n#### (식약처고시 제2015-99호)\n\n<!-- PAGE_4 -->\n#### ○「민원\n\n<!-- PAGE_4 -->\n#### 처리에\n\n<!-- PAGE_4 -->\n#### 관한\n\n<!-- PAGE_4 -->\n#### 법률\n\n<!-- PAGE_4 -->\n#### 시행령」(대통령령)\n\n<!-- PAGE_4 -->\n#### 제25조(민원문서의\n\n<!-- PAGE_4 -->\n#### 반려 등), 제29조(처리결과의 통지방법 등)\n\n<!-- PAGE_4 -->\n##### ○「식품의약품안전처와 그 소속기관 직제 시행규칙」(총리령)\n\n<!-- PAGE_4 -->\n### 3\n\n<!-- PAGE_4 -->\n### 세부 지침\n\n<!-- PAGE_4 -->\n#### ○ 국가출하승인의약품의 시판 전 검정 부적합 판정 시 사후조치에\n\n<!-- PAGE_4 -->\n#### 관한 세부기준\n\n- - 3 -\n<!-- PAGE_5 -->\n#### - 신청민원 : 반려 처리\n\n<!-- PAGE_5 -->\n#### - 행정처분 : 시중 유통되지 않은 제품이므로 행정처분 면제\n\n<!-- PAGE_5 -->\n###### *「의약품 등의 안전에 관한 규칙」(총리령) 제95조(행정처분기준) [별표8] 행정\n\n<!-- PAGE_5 -->\n###### 처분의 기준 I.  일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016.  9.  30.  | 국가출하승인의약품 검정 부적합 시 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n**평가원**\n| (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) |\n**(백신검정과/**\n**혈액제제검정과)**\n**※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유**\n**- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의**\n**폐기’에 준하여 폐기**\n**○ 변경 전**\n| 민원신청건 | •  신청서류 반려 | •  현행과 같음 |\n**해당 제조번호**\n| 제품 폐기 | •  폐기 | •  현행과 같음 |\n| •  행정처분 실시 | * 처분 기준에 따라 감경 |\n| 행정처분 | •  행정처분 면제 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n###### 또는 면제\n\n<!-- PAGE_5 -->\n### 4\n\n<!-- PAGE_5 -->\n### 기타 행정 사항\n\n<!-- PAGE_5 -->\n#### ○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용\n\n<!-- PAGE_5 -->\n#### ○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무\n\n- - 4 -\n<!-- PAGE_6 -->\n#### 수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지\n\n<!-- PAGE_6 -->\n#### 침·가이드라인 및 업무수행편람(MaPP)에 따름\n\n- ○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립\n<!-- PAGE_7 -->\n## 제‧개정 이력\n\n<!-- PAGE_7 -->\n#### - 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -\n\n<!-- PAGE_7 -->\n##### 등록번호\n\n<!-- PAGE_7 -->\n##### 승인일자\n\n<!-- PAGE_7 -->\n##### 주요 내용\n",
+        "original_sentence": "30. "
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "| 국가출하승인의약품 검정 부적합 시 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n**평가원**\n| (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) |\n**(백신검정과/**\n**혈액제제검정과)**\n**※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유**\n**- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의**\n**폐기’에 준하여 폐기**\n**○ 변경 전**\n| 민원신청건 | •  신청서류 반려 | •  현행과 같음 |\n**해당 제조번호**\n| 제품 폐기 | •  폐기 | •  현행과 같음 |\n| •  행정처분 실시 | * 처분 기준에 따라 감경 |\n| 행정처분 | •  행정처분 면제 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n###### 또는 면제\n\n<!-- PAGE_5 -->\n### 4\n\n<!-- PAGE_5 -->\n### 기타 행정 사항\n\n<!-- PAGE_5 -->\n#### ○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용\n\n<!-- PAGE_5 -->\n#### ○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무\n\n- - 4 -\n<!-- PAGE_6 -->\n#### 수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지\n\n<!-- PAGE_6 -->\n#### 침·가이드라인 및 업무수행편람(MaPP)에 따름\n\n- ○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립\n<!-- PAGE_7 -->\n## 제‧개정 이력\n\n<!-- PAGE_7 -->\n#### - 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -\n\n<!-- PAGE_7 -->\n##### 등록번호\n\n<!-- PAGE_7 -->\n##### 승인일자\n\n<!-- PAGE_7 -->\n##### 주요 내용\n",
+      "metadata": {
+        "source": "국가출하승인의약품의+검정+부적합+시+사후조치에+대한+세부지침(공무원+지침서).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 950,
+        "word_count": 228,
+        "page_number": 5,
+        "window_text": "일반기준 제12호사목\n\n<!-- PAGE_5 -->\n#### - 폐기 : 해당 제품은 폐기 명령\n\n<!-- PAGE_5 -->\n###### *「약사법」제71조(폐기명령 등)\n\n<!-- PAGE_5 -->\n#### ○ 행정처리 및 폐기 등 관련 업무 절차\n\n**[표 시작]**\n\n| 시판 전 검정 | 부적합 판정 | ➡ | 해당 지방청에 | 행정조치 의뢰 | ➡ | 해당 제약사에 | 지침서-0071-01 | 2016.  9.  30.  | 국가출하승인의약품 검정 부적합 시 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n**평가원**\n| (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) |\n**(백신검정과/**\n**혈액제제검정과)**\n**※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유**\n**- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의**\n**폐기’에 준하여 폐기**\n**○ 변경 전**\n| 민원신청건 | •  신청서류 반려 | •  현행과 같음 |\n**해당 제조번호**\n| 제품 폐기 | •  폐기 | •  현행과 같음 |\n| •  행정처분 실시 | * 처분 기준에 따라 감경 |\n| 행정처분 | •  행정처분 면제 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n###### 또는 면제\n\n<!-- PAGE_5 -->\n### 4\n\n<!-- PAGE_5 -->\n### 기타 행정 사항\n\n<!-- PAGE_5 -->\n#### ○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용\n\n<!-- PAGE_5 -->\n#### ○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무\n\n- - 4 -\n<!-- PAGE_6 -->\n#### 수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지\n\n<!-- PAGE_6 -->\n#### 침·가이드라인 및 업무수행편람(MaPP)에 따름\n\n- ○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립\n<!-- PAGE_7 -->\n## 제‧개정 이력\n\n<!-- PAGE_7 -->\n#### - 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -\n\n<!-- PAGE_7 -->\n##### 등록번호\n\n<!-- PAGE_7 -->\n##### 승인일자\n\n<!-- PAGE_7 -->\n##### 주요 내용\n",
+        "original_sentence": "| 국가출하승인의약품 검정 부적합 시 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n**평가원**\n| (의약품안전관리과) | 그 외 5개 지방청 | (의료제품안전과) |\n**(백신검정과/**\n**혈액제제검정과)**\n**※ 평가원과 해당 지방청은 관련 사항에 대하여 바이오의약품품질관리과에 진행상황 공유**\n**- 폐기 : ‘「의약품 등의 안전에 관한 규칙」(총리령) 제90조 회수제품의**\n**폐기’에 준하여 폐기**\n**○ 변경 전**\n| 민원신청건 | •  신청서류 반려 | •  현행과 같음 |\n**해당 제조번호**\n| 제품 폐기 | •  폐기 | •  현행과 같음 |\n| •  행정처분 실시 | * 처분 기준에 따라 감경 |\n| 행정처분 | •  행정처분 면제 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n###### 또는 면제\n\n<!-- PAGE_5 -->\n### 4\n\n<!-- PAGE_5 -->\n### 기타 행정 사항\n\n<!-- PAGE_5 -->\n#### ○ 시행일 : 동 지침 제정 이후 검정 부적합 판정 건부터 적용\n\n<!-- PAGE_5 -->\n#### ○ 본 지침 이외 국가출하승인의약품의 출하승인 관련 지침 및 업무\n\n- - 4 -\n<!-- PAGE_6 -->\n#### 수행 절차는 평가원(백신검정과, 혈액제제검정과)의 별도 제정 지\n\n<!-- PAGE_6 -->\n#### 침·가이드라인 및 업무수행편람(MaPP)에 따름\n\n- ○ 기타 검정 부적합 원인 조사 등은 필요시 별도 점검계획 수립\n<!-- PAGE_7 -->\n## 제‧개정 이력\n\n<!-- PAGE_7 -->\n#### - 국가출하승인의약품 검정 부적합 시 사후조치에 관한 세부지침 -\n\n<!-- PAGE_7 -->\n##### 등록번호\n\n<!-- PAGE_7 -->\n##### 승인일자\n\n<!-- PAGE_7 -->\n##### 주요 내용\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 30,
+    "avg_chunk_length": 189.96666666666667,
+    "min_chunk_length": 3,
+    "max_chunk_length": 950,
+    "total_characters": 5699,
+    "total_words": 1240,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 193,
+    "heading_count": 81,
+    "paragraph_count": 23,
+    "list_item_count": 5,
+    "table_cell_count": 84,
+    "tables_detected": 2,
+    "chunks_generated": 30
+  }
+}

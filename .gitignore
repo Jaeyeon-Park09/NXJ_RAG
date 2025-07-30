@@ -1,0 +1,102 @@
+# NXJ_RAG 통합 .gitignore
+# 모든 모듈의 gitignore 설정을 통합한 파일
+
+# ===== Python 공통 =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ===== 프로젝트 특정 파일/폴더 =====
+# 로그 파일
+logs/
+*.log
+
+<<<<<<< HEAD
+# 출력 파일
+output/
+
+# PDF 파일
+pdf_files/
+
+# 임베딩 파일
+emb/
+
+=======
+# PDF 파일
+pdf_files/
+
+>>>>>>> 60b74fa (2)
+# JSON 파일 (필요에 따라 조정)
+# *.json
+
+# ===== IDE 설정 =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== OS 특정 파일 =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===== 가상환경 =====
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ===== 임시 파일 =====
+*.tmp
+*.temp
+.cache/
+
+# ===== 데이터베이스 =====
+*.db
+*.sqlite
+*.sqlite3
+
+<<<<<<< HEAD
+=======
+NXJ_Embed/emb/*.bin
+NXJ_Embed/emb/*.faiss
+NXJ_Embed/emb/*.pkl
+NXJ_Embed/emb/*.json
+
+
+>>>>>>> 60b74fa (2)
+# ===== 설정 파일 (민감한 정보 포함) =====
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===== 백업 파일 =====
+*.bak
+*.backup
+*.old 

@@ -1,0 +1,3357 @@
+{
+  "file_name": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+  "total_pages": 8,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "23.98040008544922": 4,
+      "21.94206428527832": 1,
+      "20.02363395690918": 2,
+      "17.02608299255371": 2,
+      "11.030982971191406": 103,
+      "14.028532981872559": 9,
+      "12.94941520690918": 22,
+      "11.99020004272461": 16,
+      "9.951866149902344": 4,
+      "14.987749099731445": 1
+    },
+    "heading_sizes": [
+      23.98040008544922,
+      20.02363395690918,
+      17.02608299255371,
+      14.028532981872559,
+      12.94941520690918,
+      11.99020004272461
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 2,
+    "tables_info": [
+      {
+        "bbox": [
+          69.44236755371094,
+          161.2081298828125,
+          535.5504760742188,
+          580.6737670898438
+        ],
+        "num_rows": 8,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          85.0339126586914,
+          509.1061096191406,
+          514.3985595703125,
+          600.6748046875
+        ],
+        "num_rows": 4,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "약물동태학: 반복투여 조직분포시험",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        102.54442596435547,
+        207.65150451660156,
+        500.3210144042969,
+        231.62530517578125
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가이드라인",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        237.47129821777344,
+        246.00958251953125,
+        357.4062805175781,
+        269.9833679199219
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[민원인 안내서]",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        218.88137817382812,
+        287.3643798828125,
+        383.98406982421875,
+        311.3381652832031
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2021. 10.",
+      "font_size": 21.94206428527832,
+      "font_name": "H2hdrM",
+      "bbox": [
+        248.86512756347656,
+        438.11077880859375,
+        346.0202941894531,
+        460.04681396484375
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품심사부 순환신경계약품과",
+      "font_size": 20.02363395690918,
+      "font_name": "H2hdrM",
+      "bbox": [
+        165.9900360107422,
+        683.9302368164062,
+        428.88714599609375,
+        703.9483642578125
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침·안내서 제‧개정 점검표",
+      "font_size": 17.02608299255371,
+      "font_name": "H2hdrM",
+      "bbox": [
+        186.25904846191406,
+        80.5648422241211,
+        410.0584716796875,
+        97.58624267578125
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.95449829101562,
+        118.1751480102539,
+        455.0330810546875,
+        132.8431854248047
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약물동태학 : 반복투여 조직분포시험 가이드라인",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.95449829101562,
+        118.1751480102539,
+        455.0330810546875,
+        132.8431854248047
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        167.7890625,
+        143.70724487304688,
+        429.0168762207031,
+        158.3752899169922
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        72.20086669921875,
+        287.550048828125,
+        116.2166748046875,
+        302.21807861328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "여부",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        305.1707763671875,
+        105.30292510986328,
+        319.83880615234375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 이미 등록된 지침·안내서 중 동일·유사한 내용의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        161.2081298828125,
+        395.4665832519531,
+        175.87615966796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서가 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.238037109375,
+        177.75003051757812,
+        278.0503234863281,
+        192.41807556152344
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        161.80746459960938,
+        507.804443359375,
+        191.81874084472656
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        161.80746459960938,
+        507.804443359375,
+        191.81874084472656
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        197.1688232421875,
+        535.55029296875,
+        211.83685302734375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.51841735839844,
+        213.71075439453125,
+        535.5506591796875,
+        244.8008270263672
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.51841735839844,
+        213.71075439453125,
+        535.5506591796875,
+        244.8008270263672
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사유 :                                                                 )",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        246.67471313476562,
+        526.6383666992188,
+        261.3427429199219
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        264.7749328613281,
+        436.1248779296875,
+        279.4429626464844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용을 단순 편집 또는 나열한 것입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.238037109375,
+        281.1969909667969,
+        355.40838623046875,
+        295.8650207519531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        265.25439453125,
+        507.804443359375,
+        295.3855285644531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        265.25439453125,
+        507.804443359375,
+        295.3855285644531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        294.9819030761719,
+        507.804443359375,
+        325.113037109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        294.9819030761719,
+        507.804443359375,
+        325.113037109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        294.9819030761719,
+        507.804443359375,
+        325.113037109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        324.2299499511719,
+        443.0807800292969,
+        338.8979797363281
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.51841735839844,
+        339.57318115234375,
+        210.643798828125,
+        354.2412109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        324.2299499511719,
+        507.804443359375,
+        354.2412109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        324.2299499511719,
+        507.804443359375,
+        354.2412109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        353.3581237792969,
+        507.804443359375,
+        383.4892578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        353.3581237792969,
+        507.804443359375,
+        383.4892578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        353.3581237792969,
+        507.804443359375,
+        383.4892578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 정보제공 등 직원 교육용 자료입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        382.6061706542969,
+        507.804443359375,
+        412.617431640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        382.6061706542969,
+        507.804443359375,
+        412.617431640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        382.6061706542969,
+        507.804443359375,
+        412.617431640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        414.1317138671875,
+        530.2739868164062,
+        445.3416442871094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        414.1317138671875,
+        530.2739868164062,
+        445.3416442871094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        65.48451232910156,
+        471.6688232421875,
+        126.81218719482422,
+        486.33685302734375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        489.2895812988281,
+        105.30292510986328,
+        503.9576110839844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        449.1334533691406,
+        448.0770263671875,
+        463.8014831542969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.6383514404297,
+        464.4766845703125,
+        432.84918212890625,
+        479.14471435546875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        449.1334533691406,
+        529.4337768554688,
+        479.14471435546875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        449.1334533691406,
+        529.4337768554688,
+        479.14471435546875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        481.9775695800781,
+        451.9553527832031,
+        496.6455993652344
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.6383514404297,
+        497.32080078125,
+        451.9564514160156,
+        527.4519653320312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식약처의 입장을 기술하는 것입니까? (민원인용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.6383514404297,
+        497.32080078125,
+        451.9564514160156,
+        527.4519653320312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예(☞안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        489.649169921875,
+        535.5504760742188,
+        519.6604614257812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        489.649169921875,
+        535.5504760742188,
+        519.6604614257812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.44236755371094,
+        547.1863403320312,
+        118.97551727294922,
+        561.8543701171875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        564.8070678710938,
+        105.30292510986328,
+        579.47509765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        531.6033325195312,
+        426.0497131347656,
+        546.2713623046875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.6383514404297,
+        547.0664672851562,
+        337.0552978515625,
+        561.7344970703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        531.6033325195312,
+        507.804443359375,
+        561.7344970703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.3915710449219,
+        531.6033325195312,
+        507.804443359375,
+        561.7344970703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.0873260498047,
+        566.0057373046875,
+        531.6868286132812,
+        580.6737670898438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서 제·개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.51841735839844,
+        582.5476684570312,
+        375.1716613769531,
+        597.2156982421875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        216.0029296875,
+        604.7234497070312,
+        381.7624816894531,
+        619.3914794921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2021  년   10  월   18  일",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        219.60098266601562,
+        641.762939453125,
+        366.64129638671875,
+        656.4309692382812
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.4209289550781,
+        676.0455322265625,
+        493.77239990234375,
+        706.6561279296875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.4209289550781,
+        676.0455322265625,
+        493.77239990234375,
+        706.6561279296875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "김 호 정",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        330.4209289550781,
+        676.0455322265625,
+        493.77239990234375,
+        706.6561279296875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        86.71300506591797,
+        90.74083709716797,
+        521.8377075195312,
+        107.57044219970703
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        73.04041290283203,
+        113.15633392333984,
+        289.0031433105469,
+        129.98594665527344
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        85.75352478027344,
+        135.57183837890625,
+        521.838134765625,
+        152.4014434814453
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        73.04041290283203,
+        157.8674774169922,
+        521.838134765625,
+        174.69708251953125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "준수하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2021년",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        73.04041290283203,
+        180.28297424316406,
+        521.837158203125,
+        197.11257934570312
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        73.04041290283203,
+        202.698486328125,
+        521.839111328125,
+        219.52809143066406
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        73.04041290283203,
+        224.99411010742188,
+        521.7177124023438,
+        241.82371520996094
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "적용될 수 있음을 알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "T6",
+      "bbox": [
+        73.04041290283203,
+        247.4096221923828,
+        271.2527770996094,
+        264.2392272949219
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        73.04041290283203,
+        291.2163391113281,
+        526.271240234375,
+        308.4353332519531
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "“행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        97.14734649658203,
+        308.1178894042969,
+        521.7172241210938,
+        342.2384033203125
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하여 식품의약품안전처의 입장을 기술하는 것",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        97.14734649658203,
+        308.1178894042969,
+        521.7172241210938,
+        342.2384033203125
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품",
+      "font_size": 11.99020004272461,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.48613357543945,
+        652.3271484375,
+        538.1483154296875,
+        666.71142578125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.",
+      "font_size": 11.99020004272461,
+      "font_name": "T8",
+      "bbox": [
+        86.71300506591797,
+        671.5061645507812,
+        461.48590087890625,
+        685.87841796875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전화 : 043-719-3001~3022",
+      "font_size": 11.99020004272461,
+      "font_name": "T8",
+      "bbox": [
+        86.59307098388672,
+        690.6851806640625,
+        224.25445556640625,
+        705.0574340820312
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "팩스 : 043-719-3000",
+      "font_size": 11.99020004272461,
+      "font_name": "T8",
+      "bbox": [
+        86.59307098388672,
+        709.8642578125,
+        193.0713653564453,
+        724.2365112304688
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "목  차",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        263.85699462890625,
+        73.51809692382812,
+        331.0205993652344,
+        97.49189758300781
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약물동태학: 반복투여 조직분포시험 가이드라인",
+      "font_size": 14.028532981872559,
+      "font_name": "HYwulM",
+      "bbox": [
+        67.40347290039062,
+        105.36485290527344,
+        371.7991943359375,
+        122.18043518066406
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "서론 ····································································································································· 1",
+      "font_size": 11.99020004272461,
+      "font_name": "T12",
+      "bbox": [
+        75.43911743164062,
+        141.2056884765625,
+        516.7999267578125,
+        155.5899658203125
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1",
+      "font_size": 11.99020004272461,
+      "font_name": "T12",
+      "bbox": [
+        74.9593734741211,
+        166.617919921875,
+        515.7205200195312,
+        181.002197265625
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "반복투여 조직분포시험 설계와 실시 ··········································································· 1",
+      "font_size": 11.99020004272461,
+      "font_name": "T12",
+      "bbox": [
+        74.9593734741211,
+        188.1943359375,
+        515.7205200195312,
+        202.57861328125
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "요약 ····································································································································· 2",
+      "font_size": 11.99020004272461,
+      "font_name": "T12",
+      "bbox": [
+        74.9593734741211,
+        209.770751953125,
+        515.7205200195312,
+        224.155029296875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 1 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약물동태학: 반복투여 조직분포시험 가이드라인",
+      "font_size": 17.02608299255371,
+      "font_name": "HYwulM",
+      "bbox": [
+        114.4179916381836,
+        70.61571502685547,
+        480.46014404296875,
+        87.63711547851562
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "서론",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        140.47897338867188,
+        78.67736053466797,
+        152.11001586914062
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        156.42904663085938,
+        543.6646728515625,
+        169.6515655517578
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "중요하다. 조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        174.04978942871094,
+        538.2679443359375,
+        187.27230834960938
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        191.6705322265625,
+        538.267578125,
+        204.89305114746094
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "설계하고 그 시험결과를 해석하는데 유용할 수 있다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        209.17140197753906,
+        323.08282470703125,
+        222.3939208984375
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        245.9636993408203,
+        538.2682495117188,
+        257.5947265625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의가 이루어져 있다. 대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        261.91375732421875,
+        543.6650390625,
+        275.1362609863281
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정보를 제공한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        279.5345153808594,
+        141.74110412597656,
+        292.75701904296875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        314.6561279296875,
+        538.2682495117188,
+        327.8786315917969
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "요한 정보를 얻을 수 있는 경우가 있을 수 있다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        332.27685546875,
+        301.0148010253906,
+        345.4993591308594
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        368.94927978515625,
+        538.1483154296875,
+        380.580322265625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "공한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        385.01922607421875,
+        92.327880859375,
+        398.2417297363281
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반복투여 조직분포시험을 고려해야 할 상황",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        421.691650390625,
+        276.4501647949219,
+        433.32269287109375
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1)",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        437.7615966796875,
+        538.2678833007812,
+        450.9841003417969
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "단회투여 조직분포시험결과,",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        437.7615966796875,
+        538.2678833007812,
+        450.9841003417969
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        437.7615966796875,
+        538.2678833007812,
+        450.9841003417969
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        76.03878784179688,
+        455.38232421875,
+        543.6650390625,
+        468.6048278808594
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        76.03878784179688,
+        472.8832092285156,
+        523.7340698242188,
+        486.105712890625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        490.5039367675781,
+        543.664306640625,
+        503.7264404296875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        72.56067657470703,
+        509.6755065917969,
+        538.1484375,
+        521.3065185546875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "분포시험을 고려해야 한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        72.56067657470703,
+        525.6255493164062,
+        207.22560119628906,
+        538.8480834960938
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        543.246337890625,
+        538.2682495117188,
+        556.4688720703125
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        71.48126220703125,
+        560.8670654296875,
+        543.6650390625,
+        574.089599609375
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반복투여 조직분포시험이 도움이 될 수 있다. 이 경우에는 병변의 발현부위인 장기나 조직이",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        71.48126220703125,
+        578.367919921875,
+        538.1483764648438,
+        591.5904541015625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시험의 주 대상이 될 것이다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        71.48126220703125,
+        595.9886474609375,
+        217.06027221679688,
+        609.211181640625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        613.6094360351562,
+        538.00634765625,
+        626.8319702148438
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반복투여 조직분포시험 설계와 실시",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        650.2817993164062,
+        237.95071411132812,
+        661.912841796875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        667.9025268554688,
+        538.2679443359375,
+        679.5335693359375
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "갖는 다른 방법을 사용하여 달성될 수 있을 것이다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        683.8526611328125,
+        317.5658264160156,
+        697.0751953125
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        720.6448974609375,
+        543.6650390625,
+        732.2759399414062
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        736.5950317382812,
+        81.29386138916016,
+        749.8175659179688
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 2 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        70.71521759033203,
+        538.268310546875,
+        82.34625244140625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "근거로 설정하여야 한다. 일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        86.78515625,
+        538.1076049804688,
+        100.0076675415039
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        104.2860336303711,
+        538.2682495117188,
+        117.508544921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "해야 한다. 일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        121.90677642822266,
+        413.7536926269531,
+        135.12928771972656
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        157.02838134765625,
+        543.6650390625,
+        170.2509002685547
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        174.6491241455078,
+        524.8134765625,
+        187.87164306640625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "요약",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        211.32156372070312,
+        78.67736053466797,
+        222.95260620117188
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다. 대부분의 시험물질은",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        227.39149475097656,
+        543.7849731445312,
+        240.614013671875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        246.56304931640625,
+        543.7849731445312,
+        258.194091796875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대한 적절한 평가가 가능할 것으로 예측된다. 따라서 반복투여 조직분포시험은 모든 시험물질에",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        262.5130920410156,
+        538.267578125,
+        275.735595703125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        280.13385009765625,
+        543.7849731445312,
+        293.3563537597656
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "실시되어야 한다. 단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        297.7546081542969,
+        538.2682495117188,
+        310.97711181640625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        315.2554626464844,
+        543.7849731445312,
+        328.47796630859375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "조직분포시험이 고려될 수 있다. 반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        332.876220703125,
+        543.6650390625,
+        346.0987243652344
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적",
+      "font_size": 11.030982971191406,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        352.0477600097656,
+        538.1483154296875,
+        363.6788024902344
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "절할 수 있다. 반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "T8",
+      "bbox": [
+        56.609317779541016,
+        367.9978332519531,
+        485.1150207519531,
+        381.2203369140625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 3 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정 이력",
+      "font_size": 20.02363395690918,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        240.22979736328125,
+        66.07667541503906,
+        354.6477966308594,
+        92.70233917236328
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "연번",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        159.20545959472656,
+        432.84539794921875,
+        175.14898681640625
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정번호",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        159.20545959472656,
+        432.84539794921875,
+        175.14898681640625
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        159.20545959472656,
+        432.84539794921875,
+        175.14898681640625
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요내용",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        159.20545959472656,
+        432.84539794921875,
+        175.14898681640625
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.1165771484375,
+        193.24826049804688,
+        420.8518981933594,
+        209.1917724609375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서-1163-01",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.1165771484375,
+        193.24826049804688,
+        420.8518981933594,
+        209.1917724609375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2021.10.",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.1165771484375,
+        193.24826049804688,
+        420.8518981933594,
+        209.1917724609375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제정",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.1165771484375,
+        193.24826049804688,
+        420.8518981933594,
+        209.1917724609375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 4 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "“약물동태학 : 반복투여 조직분포시험 가이드라인”",
+      "font_size": 14.987749099731445,
+      "font_name": "Batang",
+      "bbox": [
+        129.28993225097656,
+        430.2937927246094,
+        470.3402099609375,
+        445.27740478515625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        483.09454345703125,
+        169.948486328125,
+        496.74835205078125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        483.09454345703125,
+        169.948486328125,
+        496.74835205078125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "일",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        483.09454345703125,
+        169.948486328125,
+        496.74835205078125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        509.1061096191406,
+        169.948486328125,
+        522.7599487304688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        509.1061096191406,
+        169.948486328125,
+        522.7599487304688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "인",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        509.1061096191406,
+        169.948486328125,
+        522.7599487304688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편 집 위 원 장",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        535.11767578125,
+        169.948486328125,
+        548.7715454101562
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        561.0093994140625,
+        169.94976806640625,
+        574.6632690429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "집",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        561.0093994140625,
+        169.94976806640625,
+        574.6632690429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "위",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        561.0093994140625,
+        169.94976806640625,
+        574.6632690429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        561.0093994140625,
+        169.94976806640625,
+        574.6632690429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        587.0209350585938,
+        169.948486328125,
+        600.6748046875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        587.0209350585938,
+        169.948486328125,
+        600.6748046875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "처",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        587.0209350585938,
+        169.948486328125,
+        600.6748046875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2021 년  10 월",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        481.2740173339844,
+        283.2864685058594,
+        496.7961120605469
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "서 경 원",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        509.1061096191406,
+        244.42752075195312,
+        522.7599487304688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "박 윤 주",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        535.11767578125,
+        244.42752075195312,
+        548.7715454101562
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전평가원 의약품심사부 순환신경계약품과",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        561.0093994140625,
+        514.3985595703125,
+        574.6632690429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전평가원 의약품심사부 순환신경계약품과",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        587.0209350585938,
+        514.3985595703125,
+        600.6748046875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    }
+  ],
+  "markdown_content": "<!-- PAGE_1 -->\n# 약물동태학: 반복투여 조직분포시험\n\n<!-- PAGE_1 -->\n# 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2021. 10.\n<!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2021년 | 지침·안내서가 있습니까? |\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10. | 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다. | (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까?**\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까? | □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. |\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다.**\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? (민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다.**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n상기 사항에 대하여 확인하였음.\n\n2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n<!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다. 조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다. 대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다. 이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n- - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다. 일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다. 일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다. 대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다. 따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다. 단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다. 반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다. 반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n- - 3 -\n<!-- PAGE_7 -->\n## 제·개정 이력\n\n<!-- PAGE_7 -->\n###### 연번\n\n<!-- PAGE_7 -->\n###### 제·개정번호\n\n<!-- PAGE_7 -->\n###### 승인일자\n\n<!-- PAGE_7 -->\n###### 주요내용\n\n- - 4 -\n**[표 시작]**\n\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| --- | --- | --- | --- |\n\n**[표 끝]**\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "<!-- PAGE_1 -->\n# 약물동태학: 반복투여 조직분포시험\n\n<!-- PAGE_1 -->\n# 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2021. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 100,
+        "word_count": 20,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 약물동태학: 반복투여 조직분포시험\n\n<!-- PAGE_1 -->\n# 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2021.  10.\n <!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다. ",
+        "original_sentence": "<!-- PAGE_1 -->\n# 약물동태학: 반복투여 조직분포시험\n\n<!-- PAGE_1 -->\n# 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2021. "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "10.\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 4,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 약물동태학: 반복투여 조직분포시험\n\n<!-- PAGE_1 -->\n# 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2021.  10.\n <!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2021년 | 지침·안내서가 있습니까? ",
+        "original_sentence": "10.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "<!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 133,
+        "word_count": 25,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 약물동태학: 반복투여 조직분포시험\n\n<!-- PAGE_1 -->\n# 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2021.  10.\n <!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2021년 | 지침·안내서가 있습니까?  |\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10. ",
+        "original_sentence": "<!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 197,
+        "word_count": 37,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n# 약물동태학: 반복투여 조직분포시험\n\n<!-- PAGE_1 -->\n# 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2021.  10.\n <!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2021년 | 지침·안내서가 있습니까?  |\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10.  | 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다. ",
+        "original_sentence": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "또한, 본 안내서는 2021년 | 지침·안내서가 있습니까? ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "10.\n <!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2021년 | 지침·안내서가 있습니까?  |\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10.  | 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다.  | (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까?",
+        "original_sentence": "또한, 본 안내서는 2021년 | 지침·안내서가 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "|\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 132,
+        "word_count": 13,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_1 -->\n## 의약품심사부 순환신경계약품과\n\n<!-- PAGE_2 -->\n### 지침·안내서 제‧개정 점검표\n\n명칭\n\n약물동태학 : 반복투여 조직분포시험 가이드라인\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2021년 | 지침·안내서가 있습니까?  |\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10.  | 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다.  | (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까? **\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "|\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10. "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "| 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 302,
+        "word_count": 43,
+        "page_number": 2,
+        "window_text": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**반복투여 조직분포시험을 고려해야 할 상황 ····························································· 1**\n| 준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2021년 | 지침·안내서가 있습니까?  |\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10.  | 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다.  | (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까? **\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?",
+        "original_sentence": "| 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "| (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까?",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 154,
+        "word_count": 23,
+        "page_number": 1,
+        "window_text": "또한, 본 안내서는 2021년 | 지침·안내서가 있습니까?  |\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10.  | 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다.  | (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까? **\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "| (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "**\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 87,
+        "word_count": 21,
+        "page_number": 2,
+        "window_text": "|\n**반복투여 조직분포시험 설계와 실시 ··········································································· 1**\n| 1 | 안내서-1163-01 | 2021.10.  | 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다.  | (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까? **\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+        "original_sentence": "**\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 153,
+        "word_count": 43,
+        "page_number": 2,
+        "window_text": "| 제정 | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 |\n**10월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으**\n**요약 ····································································································································· 2**\n**므로 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리**\n| 적용될 수 있음을 알려드립니다.  | (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까? **\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "| (사유 :                                                                 ) |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n**내용을 단순 편집 또는 나열한 것입니까? **\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "**\n| 등록대상 | ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "| □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 70,
+        "word_count": 21,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n**여부**\n| “행정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대 | 하여 식품의약품안전처의 입장을 기술하는 것 |\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다.",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다. **\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+        "original_sentence": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "|\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 120,
+        "word_count": 27,
+        "page_number": 1,
+        "window_text": "| □ 예 | ■ 아니오 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다. **\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다.",
+        "original_sentence": "|\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "(공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다.",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 12,
+        "page_number": 8,
+        "window_text": "| □ 예 | ■ 아니오 |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다. **\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+        "original_sentence": "(공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다."
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "**\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 160,
+        "word_count": 49,
+        "page_number": 2,
+        "window_text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다. **\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다. ",
+        "original_sentence": "**\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "(민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다.",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 47,
+        "word_count": 16,
+        "page_number": 5,
+        "window_text": "|\n**“약물동태학 : 반복투여 조직분포시험 가이드라인”**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다. **\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+        "original_sentence": "(민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 104,
+        "word_count": 35,
+        "page_number": 2,
+        "window_text": "(공무원용)**\n**투여간격보다 2배 이상 길어진 경우에 반복투여 조직분포시험의 실시가 적절할 수 있다. **\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n",
+        "original_sentence": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "|\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 126,
+        "word_count": 33,
+        "page_number": 1,
+        "window_text": "**\n| □ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한 | 2021 년  10 월 |\n| 발 | 행 | 일 |\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n",
+        "original_sentence": "|\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "(민원인용) |\n| 발 | 행 | 인 | 서 경 원 |\n**분포시험을 고려해야 한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 6,
+        "page_number": 2,
+        "window_text": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 편 집 위 원 장 | 박 윤 주 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n",
+        "original_sentence": "지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "상기 사항에 대하여 확인하였음.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 4,
+        "page_number": 2,
+        "window_text": "|\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| 사항 | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침· |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다. ",
+        "original_sentence": "상기 사항에 대하여 확인하였음.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 147,
+        "word_count": 31,
+        "page_number": 3,
+        "window_text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다.  조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n",
+        "original_sentence": "2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "<!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 248,
+        "word_count": 47,
+        "page_number": 3,
+        "window_text": "지침·안내서\n\n안내서 제·개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다.  조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n 비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다. ",
+        "original_sentence": "<!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "<!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 439,
+        "word_count": 62,
+        "page_number": 3,
+        "window_text": "상기 사항에 대하여 확인하였음.\n\n 2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다.  조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n 비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다.  대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n",
+        "original_sentence": "<!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 129,
+        "word_count": 30,
+        "page_number": 8,
+        "window_text": "2021  년   10  월   18  일\n\n담당자\n\n확  인(부서장)\n\n김 호 정\n\n<!-- PAGE_3 -->\n#### 이 안내서는 의약품의 ‘반복투여 조직분포시험’에 대한 식품의약품\n\n<!-- PAGE_3 -->\n#### 안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다.  조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n 비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다.  대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n 반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n",
+        "original_sentence": "조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 62,
+        "word_count": 13,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_3 -->\n#### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n#### 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시\n\n<!-- PAGE_3 -->\n###### ※ 본 가이드라인에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 식품의약품\n\n<!-- PAGE_3 -->\n###### 안전평가원 의약품심사부 순환신경계약품과로 문의하시기 바랍니다.\n\n <!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다.  조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n 비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다.  대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n 반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n 이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n",
+        "original_sentence": "비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 49,
+        "word_count": 9,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_3 -->\n###### 전화 : 043-719-3001~3022\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-3000\n\n<!-- PAGE_4 -->\n# 목  차\n\n<!-- PAGE_4 -->\n#### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n<!-- PAGE_4 -->\n###### 서론 ····································································································································· 1\n\n- - 1 -\n<!-- PAGE_5 -->\n### 약물동태학: 반복투여 조직분포시험 가이드라인\n\n서론\n\n시험물질의 흡수, 분포, 대사 및 배설에 대한 종합적인 지식은 약리 및 독성시험의 해석에서\n\n중요하다.  조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n 비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다.  대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n 반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n 이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n 반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다. ",
+        "original_sentence": "대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 80,
+        "word_count": 19,
+        "page_number": 5,
+        "window_text": "조직분포시험은 특히 잠재적 작용 부위와 관련해서 해당 시험물질 및/또는 대사체의\n\n분포 및 축적에 관한 정보를 제공하는데 있어서 필수적이고, 이러한 정보는 독성 및 약리시험을\n\n설계하고 그 시험결과를 해석하는데 유용할 수 있다.\n\n 비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다.  대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n 반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n 이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n 반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다.  이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n",
+        "original_sentence": "반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 56,
+        "word_count": 12,
+        "page_number": 5,
+        "window_text": "비임상시험 프로그램의 일부로서 단회투여 조직분포시험이 필요하다는 점에 대해 일반적인 합\n\n의가 이루어져 있다.  대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n 반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n 이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n 반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다.  이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n 4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n",
+        "original_sentence": "이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 359,
+        "word_count": 73,
+        "page_number": 5,
+        "window_text": "대부분의 경우 단회투여 조직분포시험만으로도 조직분포에 대한 충분한\n\n정보를 제공한다.\n\n 반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n 이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n 반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다.  이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n 4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n 반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n",
+        "original_sentence": "반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 44,
+        "word_count": 11,
+        "page_number": 5,
+        "window_text": "반복투여 조직분포시험을 일관되게 요구하고 있지는 않으나, 반복투여에서 얻어진 결과에서 중\n\n요한 정보를 얻을 수 있는 경우가 있을 수 있다.\n\n 이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n 반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다.  이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n 4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n 반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n 투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n",
+        "original_sentence": "이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 55,
+        "word_count": 13,
+        "page_number": 5,
+        "window_text": "이 가이드라인은 반복투여 조직분포시험을 고려해야 하는 상황과 시험실시에 대한 안내를 제\n\n공한다.\n\n 반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다.  이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n 4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n 반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n 투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n - - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다. ",
+        "original_sentence": "4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 101,
+        "word_count": 23,
+        "page_number": 5,
+        "window_text": "반복투여 조직분포시험을 고려해야 할 상황\n\n1)\n\n단회투여 조직분포시험결과,\n\n장기 또는 조직에서 시험물질(및/또는 대사체)의 겉보기\n\n(apparent) 반감기가 혈장의 소실기에서 겉보기 반감기보다 확연히 길어진 경우와 독성시험의\n\n2) 반복투여 약물동태시험 또는 독성동태시험에서 얻어진 시험물질/대사체의 항정상태에서의\n\n혈중농도가 단회투여 동태시험을 통해 예측된 수준보다 현저히 높을 경우에는 반복투여 조직\n\n3) 시험물질의 안전성 평가에 있어서 중요한 조직병리 변화가 관찰되었으나, 그것이 단기 독성\n\n시험, 단회투여 조직분포시험 및 약리시험을 통해 예측되지 않을 경우, 그 결과의 해석에\n\n반복투여 조직분포시험이 도움이 될 수 있다.  이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n 4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n 반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n 투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n - - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다.  일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다. ",
+        "original_sentence": "반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 55,
+        "word_count": 12,
+        "page_number": 5,
+        "window_text": "이 경우에는 병변의 발현부위인 장기나 조직이\n\n시험의 주 대상이 될 것이다.\n\n 4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n 반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n 투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n - - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다.  일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다.  일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n",
+        "original_sentence": "투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "- - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 72,
+        "word_count": 16,
+        "page_number": 6,
+        "window_text": "4) 표적 지향형 제제를 개발할 경우에는 반복투여 조직분포시험을 실시하는 것이 적절할 수 있다.\n\n 반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n 투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n - - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다.  일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다.  일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n 장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n",
+        "original_sentence": "- - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 97,
+        "word_count": 21,
+        "page_number": 7,
+        "window_text": "반복투여 조직분포시험 설계와 실시\n\n이 시험의 목적은 방사성 동위원소가 표지된 시험물질을 사용하거나 충분한 민감성과 특이성을\n\n갖는 다른 방법을 사용하여 달성될 수 있을 것이다.\n\n 투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n - - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다.  일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다.  일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n 장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n 요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다. ",
+        "original_sentence": "일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 6,
+        "page_number": 6,
+        "window_text": "투여용량 및 시험동물 종은 반복투여 조직분포시험을 실시하게 된 사유를 고려해서 선택해야\n\n한다.\n\n - - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다.  일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다.  일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n 장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n 요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다.  대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다. ",
+        "original_sentence": "일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 104,
+        "word_count": 26,
+        "page_number": 6,
+        "window_text": "- - 2 -\n반복투여 조직분포시험에서 투여기간은 선행된 약물동태시험 및 독성동태시험에서 얻은 정보를\n\n근거로 설정하여야 한다.  일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다.  일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n 장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n 요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다.  대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다.  따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다. ",
+        "original_sentence": "장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 42,
+        "word_count": 8,
+        "page_number": 6,
+        "window_text": "일반적으로 최소 1주일의 투여기간을 고려하지만, 해당 시험물질 및/\n\n또는 대사체의 혈액/혈장 농도가 항정상태에 도달하지 않았을 경우에는 투여기간 연장을 고려\n\n해야 한다.  일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n 장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n 요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다.  대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다.  따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다.  단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다. ",
+        "original_sentence": "요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 86,
+        "word_count": 17,
+        "page_number": 1,
+        "window_text": "일반적으로 3주 이상의 투여기간은 불필요하다고 여겨진다.\n\n 장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n 요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다.  대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다.  따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다.  단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다.  반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다. ",
+        "original_sentence": "대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 89,
+        "word_count": 19,
+        "page_number": 8,
+        "window_text": "장기 및 조직 내 현저한 축적이 발생하거나, 표적 장기의 독성기전을 규명할 수 있을 것으로\n\n판단될 때, 장기 또는 조직 내에서의 모시험물질 및/또는 대사체의 측정을 고려하여야 한다.\n\n 요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다.  대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다.  따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다.  단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다.  반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다.  반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n",
+        "original_sentence": "따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 110,
+        "word_count": 23,
+        "page_number": 1,
+        "window_text": "요약\n\n조직분포시험은 비임상 약물동태 프로그램을 구성하는 중요한 요소이다.  대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다.  따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다.  단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다.  반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다.  반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n - - 3 -\n<!-- PAGE_7 -->\n## 제·개정 이력\n\n<!-- PAGE_7 -->\n###### 연번\n\n<!-- PAGE_7 -->\n###### 제·개정번호\n\n<!-- PAGE_7 -->\n###### 승인일자\n\n<!-- PAGE_7 -->\n###### 주요내용\n\n- - 4 -\n**[표 시작]**\n\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| --- | --- | --- | --- |\n\n**[표 끝]**\n",
+        "original_sentence": "단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다. ",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 94,
+        "word_count": 22,
+        "page_number": 1,
+        "window_text": "대부분의 시험물질은\n\n민감성과 특이성이 충분히 뒷받침된 단회투여 조직분포시험만으로 조직분포와 축적 가능성에\n\n대한 적절한 평가가 가능할 것으로 예측된다.  따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다.  단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다.  반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다.  반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n - - 3 -\n<!-- PAGE_7 -->\n## 제·개정 이력\n\n<!-- PAGE_7 -->\n###### 연번\n\n<!-- PAGE_7 -->\n###### 제·개정번호\n\n<!-- PAGE_7 -->\n###### 승인일자\n\n<!-- PAGE_7 -->\n###### 주요내용\n\n- - 4 -\n**[표 시작]**\n\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| --- | --- | --- | --- |\n\n**[표 끝]**\n",
+        "original_sentence": "반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 38,
+        "word_count": 7,
+        "page_number": 5,
+        "window_text": "따라서 반복투여 조직분포시험은 모든 시험물질에\n\n대해서 일률적으로 요구되는 것이 아니라, 다른 시험에서 적절한 자료를 얻지 못하는 경우에만\n\n실시되어야 한다.  단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다.  반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다.  반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n - - 3 -\n<!-- PAGE_7 -->\n## 제·개정 이력\n\n<!-- PAGE_7 -->\n###### 연번\n\n<!-- PAGE_7 -->\n###### 제·개정번호\n\n<!-- PAGE_7 -->\n###### 승인일자\n\n<!-- PAGE_7 -->\n###### 주요내용\n\n- - 4 -\n**[표 시작]**\n\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| --- | --- | --- | --- |\n\n**[표 끝]**\n",
+        "original_sentence": "반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "- - 3 -\n<!-- PAGE_7 -->\n## 제·개정 이력\n\n<!-- PAGE_7 -->\n###### 연번\n\n<!-- PAGE_7 -->\n###### 제·개정번호\n\n<!-- PAGE_7 -->\n###### 승인일자\n\n<!-- PAGE_7 -->\n###### 주요내용\n\n- - 4 -\n**[표 시작]**\n\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| --- | --- | --- | --- |\n\n**[표 끝]**\n",
+      "metadata": {
+        "source": "약동학+반복투여+조직분포시험+가이드라인+(민원인+안내서).pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 252,
+        "word_count": 58,
+        "page_number": 7,
+        "window_text": "단회투여 조직분포시험, 독성시험 및 독성동태시험으로부터 얻은 자료에 근\n\n거할 때 ‘반복투여 조직분포시험을 고려해야 할 상황’에서 언급된 상황이 발생되면 반복투여\n\n조직분포시험이 고려될 수 있다.  반복투여 조직분포시험은 명확히 긴 반감기를 갖거나, 소실이\n\n불완전하거나 또는 예기치 않은 장기독성이 나타난 시험물질에 대해서 실시하는 것이 가장 적\n\n절할 수 있다.  반복투여 조직분포시험의 설계와 수행시기는 사례별로 결정해야 한다.\n\n - - 3 -\n<!-- PAGE_7 -->\n## 제·개정 이력\n\n<!-- PAGE_7 -->\n###### 연번\n\n<!-- PAGE_7 -->\n###### 제·개정번호\n\n<!-- PAGE_7 -->\n###### 승인일자\n\n<!-- PAGE_7 -->\n###### 주요내용\n\n- - 4 -\n**[표 시작]**\n\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| --- | --- | --- | --- |\n\n**[표 끝]**\n",
+        "original_sentence": "- - 3 -\n<!-- PAGE_7 -->\n## 제·개정 이력\n\n<!-- PAGE_7 -->\n###### 연번\n\n<!-- PAGE_7 -->\n###### 제·개정번호\n\n<!-- PAGE_7 -->\n###### 승인일자\n\n<!-- PAGE_7 -->\n###### 주요내용\n\n- - 4 -\n**[표 시작]**\n\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 순환신경계약품과 |\n| --- | --- | --- | --- |\n\n**[표 끝]**\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 47,
+    "avg_chunk_length": 107.17021276595744,
+    "min_chunk_length": 4,
+    "max_chunk_length": 439,
+    "total_characters": 5037,
+    "total_words": 1056,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 164,
+    "heading_count": 22,
+    "paragraph_count": 57,
+    "list_item_count": 5,
+    "table_cell_count": 80,
+    "tables_detected": 2,
+    "chunks_generated": 47
+  }
+}

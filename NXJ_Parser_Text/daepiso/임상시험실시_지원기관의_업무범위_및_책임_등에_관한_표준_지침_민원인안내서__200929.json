@@ -1,0 +1,5647 @@
+{
+  "file_name": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+  "total_pages": 7,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "27.001049041748047": 2,
+      "24.000900268554688": 2,
+      "20.04075050354004": 3,
+      "9.96037483215332": 1,
+      "9.530784606933594": 1,
+      "17.040674209594727": 7,
+      "11.040450096130371": 138,
+      "12.960525512695312": 16,
+      "12.000450134277344": 11,
+      "9.000374794006348": 15,
+      "14.04052448272705": 129
+    },
+    "heading_sizes": [
+      27.001049041748047,
+      24.000900268554688,
+      20.04075050354004,
+      17.040674209594727,
+      14.04052448272705,
+      12.960525512695312,
+      12.000450134277344
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 4,
+    "tables_info": [
+      {
+        "bbox": [
+          81.60000610351562,
+          179.74380493164062,
+          534.165283203125,
+          611.428466796875
+        ],
+        "num_rows": 12,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          54.959999084472656,
+          254.93392944335938,
+          538.6268310546875,
+          602.38232421875
+        ],
+        "num_rows": 3,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          54.959999084472656,
+          490.4939270019531,
+          545.5352172851562,
+          715.7822875976562
+        ],
+        "num_rows": 5,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          54.959999084472656,
+          205.73391723632812,
+          538.5680541992188,
+          578.142333984375
+        ],
+        "num_rows": 6,
+        "num_cols": 3
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "임상시험실시 지원기관의 업무범위 및",
+      "font_size": 27.001049041748047,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        60.47999954223633,
+        269.622314453125,
+        541.9899291992188,
+        296.6233825683594
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "책임 등에 관한 표준 지침",
+      "font_size": 27.001049041748047,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        134.75999450683594,
+        302.0223388671875,
+        458.7725830078125,
+        329.0234069824219
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[민원인 안내서",
+      "font_size": 24.000900268554688,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        215.63998413085938,
+        344.43768310546875,
+        377.71826171875,
+        368.4385681152344
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "]",
+      "font_size": 24.000900268554688,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        215.63998413085938,
+        344.43768310546875,
+        377.71826171875,
+        368.4385681152344
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품안전국 임상정책과",
+      "font_size": 20.04075050354004,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        189.24000549316406,
+        722.3570556640625,
+        419.3078308105469,
+        742.3978271484375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록번호",
+      "font_size": 9.96037483215332,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        442.91998291015625,
+        95.73002624511719,
+        482.86114501953125,
+        105.6904067993164
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서-1057-01",
+      "font_size": 9.530784606933594,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        427.6795959472656,
+        117.08880615234375,
+        498.1380615234375,
+        127.04884338378906
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서",
+      "font_size": 17.040674209594727,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        169.20001220703125,
+        94.81231689453125,
+        424.1284484863281,
+        111.85298919677734
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서 제",
+      "font_size": 17.040674209594727,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        169.20001220703125,
+        94.81231689453125,
+        424.1284484863281,
+        111.85298919677734
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "개정 점검표",
+      "font_size": 17.040674209594727,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        169.20001220703125,
+        94.81231689453125,
+        424.1284484863281,
+        111.85298919677734
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 17.040674209594727,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        169.20001220703125,
+        94.81231689453125,
+        424.1284484863281,
+        111.85298919677734
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 17.040674209594727,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        169.20001220703125,
+        94.81231689453125,
+        424.1284484863281,
+        111.85298919677734
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        82.31999969482422,
+        132.46380615234375,
+        496.3367614746094,
+        147.14846801757812
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        82.31999969482422,
+        132.46380615234375,
+        496.3367614746094,
+        147.14846801757812
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        166.20001220703125,
+        159.34381103515625,
+        427.5464782714844,
+        174.02847290039062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        70.55999755859375,
+        317.3838195800781,
+        114.61138916015625,
+        332.0684814453125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "여부",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        81.60000610351562,
+        335.0238037109375,
+        103.68090057373047,
+        349.7084655761719
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이미 등록된 지침서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        179.74380493164062,
+        422.18841552734375,
+        194.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서 중 동일",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        179.74380493164062,
+        422.18841552734375,
+        194.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "유사한 내용의",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        179.74380493164062,
+        422.18841552734375,
+        194.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        179.74380493164062,
+        422.18841552734375,
+        194.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        179.74380493164062,
+        422.18841552734375,
+        194.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        179.74380493164062,
+        422.18841552734375,
+        194.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        196.30381774902344,
+        296.04266357421875,
+        210.9884796142578
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ안내서가 있습니까",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        196.30381774902344,
+        296.04266357421875,
+        210.9884796142578
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "?",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        196.30381774902344,
+        296.04266357421875,
+        210.9884796142578
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        180.3438262939453,
+        484.4404602050781,
+        195.0284881591797
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        180.3438262939453,
+        484.4404602050781,
+        195.0284881591797
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        195.7038116455078,
+        506.4109191894531,
+        210.3884735107422
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        195.7038116455078,
+        506.4109191894531,
+        210.3884735107422
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상기 질문에 예 라고 답하신 경우 기존의 지침서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        218.62379455566406,
+        530.285888671875,
+        233.30845642089844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서의 개정을 우선적",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        218.62379455566406,
+        530.285888671875,
+        233.30845642089844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "‘",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        218.62379455566406,
+        530.285888671875,
+        233.30845642089844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "’",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        218.62379455566406,
+        530.285888671875,
+        233.30845642089844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        218.62379455566406,
+        530.285888671875,
+        233.30845642089844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        218.62379455566406,
+        530.285888671875,
+        233.30845642089844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "으로 고려하시기 바랍니다",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        235.18382263183594,
+        534.1386108398438,
+        249.8684844970703
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "그럼에도 불구하고 동 지침서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        235.18382263183594,
+        534.1386108398438,
+        249.8684844970703
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서의 제정이",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        235.18382263183594,
+        534.1386108398438,
+        249.8684844970703
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ".",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        235.18382263183594,
+        534.1386108398438,
+        249.8684844970703
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        235.18382263183594,
+        534.1386108398438,
+        249.8684844970703
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        251.62379455566406,
+        431.7625427246094,
+        266.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(사유",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        268.1838073730469,
+        525.2264404296875,
+        282.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ":                                                                 )",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        268.1838073730469,
+        525.2264404296875,
+        282.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령 법",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        287.623779296875,
+        314.43365478515625,
+        302.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "시행령",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        287.623779296875,
+        314.43365478515625,
+        302.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "시행규칙 또는",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        287.623779296875,
+        314.43365478515625,
+        302.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        287.623779296875,
+        314.43365478515625,
+        302.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ")",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        287.623779296875,
+        314.43365478515625,
+        302.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        287.623779296875,
+        314.43365478515625,
+        302.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        287.623779296875,
+        314.43365478515625,
+        302.3084411621094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행정규칙 고시",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "훈령",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예규 의",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ")",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용을 단순 편집 또는",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        304.1838073730469,
+        415.484619140625,
+        318.86846923828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나열한 것입니까?",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.63999938964844,
+        320.7438049316406,
+        237.7596435546875,
+        335.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        296.5037841796875,
+        484.4404602050781,
+        311.1884460449219
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        296.5037841796875,
+        484.4404602050781,
+        311.1884460449219
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        311.8638000488281,
+        506.4109191894531,
+        326.5484619140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        311.8638000488281,
+        506.4109191894531,
+        326.5484619140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        334.5437927246094,
+        484.4404602050781,
+        356.908447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        334.5437927246094,
+        484.4404602050781,
+        356.908447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        334.5437927246094,
+        484.4404602050781,
+        356.908447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        349.9037780761719,
+        506.4109191894531,
+        364.58843994140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        349.9037780761719,
+        506.4109191894531,
+        364.58843994140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "년 이내 한시적 적용 또는 일회성 지시",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        363.70379638671875,
+        450.27886962890625,
+        378.3884582519531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "명령에 해당하는",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        363.70379638671875,
+        450.27886962890625,
+        378.3884582519531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        363.70379638671875,
+        450.27886962890625,
+        378.3884582519531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        363.70379638671875,
+        450.27886962890625,
+        378.3884582519531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        379.18377685546875,
+        209.09002685546875,
+        393.8684387207031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        363.70379638671875,
+        484.4404602050781,
+        378.3884582519531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        363.70379638671875,
+        484.4404602050781,
+        378.3884582519531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        379.18377685546875,
+        506.4109191894531,
+        393.8684387207031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        379.18377685546875,
+        506.4109191894531,
+        393.8684387207031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        392.9837951660156,
+        484.4404602050781,
+        415.34844970703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        392.9837951660156,
+        484.4404602050781,
+        415.34844970703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        392.9837951660156,
+        484.4404602050781,
+        415.34844970703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        408.3437805175781,
+        506.4109191894531,
+        423.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        408.3437805175781,
+        506.4109191894531,
+        423.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        422.143798828125,
+        438.638671875,
+        436.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        422.143798828125,
+        438.638671875,
+        436.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "정리한 자료입니까?",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        437.6238098144531,
+        251.2822265625,
+        452.3084716796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        422.143798828125,
+        484.4404602050781,
+        436.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        422.143798828125,
+        484.4404602050781,
+        436.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        437.6238098144531,
+        506.4109191894531,
+        452.3084716796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        437.6238098144531,
+        506.4109191894531,
+        452.3084716796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        455.143798828125,
+        527.4765014648438,
+        469.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "‘ ’",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        455.143798828125,
+        527.4765014648438,
+        469.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ".",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        455.143798828125,
+        527.4765014648438,
+        469.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        455.143798828125,
+        527.4765014648438,
+        469.8284606933594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        471.7038269042969,
+        435.0848388671875,
+        486.38848876953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서 제",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        471.7038269042969,
+        435.0848388671875,
+        486.38848876953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        471.7038269042969,
+        435.0848388671875,
+        486.38848876953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        471.7038269042969,
+        435.0848388671875,
+        486.38848876953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        471.7038269042969,
+        435.0848388671875,
+        486.38848876953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서 안내서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        63.0,
+        517.0638427734375,
+        126.05819702148438,
+        531.7484741210938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        63.0,
+        517.0638427734375,
+        126.05819702148438,
+        531.7484741210938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        83.04000091552734,
+        534.5838012695312,
+        102.13997650146484,
+        549.2684326171875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        492.9438171386719,
+        446.6913757324219,
+        507.62847900390625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사무의 세부기준이나 절차를 제시하는 것입니까",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        508.4237976074219,
+        431.40130615234375,
+        523.1084594726562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "? (공무원용",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        508.4237976074219,
+        431.40130615234375,
+        523.1084594726562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ")",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        508.4237976074219,
+        431.40130615234375,
+        523.1084594726562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침서)",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        492.9438171386719,
+        533.09765625,
+        507.62847900390625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        508.4237976074219,
+        506.4109191894531,
+        523.1084594726562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        508.4237976074219,
+        506.4109191894531,
+        523.1084594726562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        528.703857421875,
+        450.52142333984375,
+        543.3884887695312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        528.703857421875,
+        450.52142333984375,
+        543.3884887695312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        528.703857421875,
+        450.52142333984375,
+        543.3884887695312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        544.1837768554688,
+        446.8010559082031,
+        574.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하는 것입니까? 민원인용",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        544.1837768554688,
+        446.8010559082031,
+        574.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        544.1837768554688,
+        446.8010559082031,
+        574.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ")",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        544.1837768554688,
+        446.8010559082031,
+        574.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        536.3838500976562,
+        534.165283203125,
+        551.0684814453125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(☞안내서)",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        536.3838500976562,
+        534.165283203125,
+        551.0684814453125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        551.8638305664062,
+        506.4109191894531,
+        566.5484619140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        551.8638305664062,
+        506.4109191894531,
+        566.5484619140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        67.80000305175781,
+        598.3038330078125,
+        117.37162780761719,
+        612.9884643554688
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        81.60000610351562,
+        615.8237915039062,
+        103.68090057373047,
+        630.5084228515625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "상위 법령을 일탈하여 새로운 규제를 신설",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        581.2637939453125,
+        433.2288513183594,
+        595.9484252929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "강화하거나",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        581.2637939453125,
+        433.2288513183594,
+        595.9484252929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        581.2637939453125,
+        433.2288513183594,
+        595.9484252929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        581.2637939453125,
+        433.2288513183594,
+        595.9484252929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        149.04000854492188,
+        596.7438354492188,
+        335.51287841796875,
+        611.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        581.2637939453125,
+        488.32183837890625,
+        595.9484252929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        581.2637939453125,
+        488.32183837890625,
+        595.9484252929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "아니오",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        596.7438354492188,
+        506.4109191894531,
+        611.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        456.96002197265625,
+        596.7438354492188,
+        506.4109191894531,
+        611.428466796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        618.5838012695312,
+        530.32177734375,
+        633.2684326171875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "‘",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        618.5838012695312,
+        530.32177734375,
+        633.2684326171875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "’",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        618.5838012695312,
+        530.32177734375,
+        633.2684326171875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        132.47999572753906,
+        618.5838012695312,
+        530.32177734375,
+        633.2684326171875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서 제",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        635.0238037109375,
+        370.59857177734375,
+        649.7084350585938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        635.0238037109375,
+        370.59857177734375,
+        649.7084350585938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        148.9199981689453,
+        635.0238037109375,
+        370.59857177734375,
+        649.7084350585938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        214.44000244140625,
+        654.4638061523438,
+        380.2866516113281,
+        669.1484375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "년",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        212.8800048828125,
+        687.3438110351562,
+        370.4682922363281,
+        702.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "월",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        212.8800048828125,
+        687.3438110351562,
+        370.4682922363281,
+        702.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        212.8800048828125,
+        687.3438110351562,
+        370.4682922363281,
+        702.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2020",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        212.8800048828125,
+        687.3438110351562,
+        370.4682922363281,
+        702.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "9",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        212.8800048828125,
+        687.3438110351562,
+        370.4682922363281,
+        702.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "29",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        212.8800048828125,
+        687.3438110351562,
+        370.4682922363281,
+        702.0284423828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        328.91998291015625,
+        717.5838012695312,
+        522.5585327148438,
+        748.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확  인 부서장",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        328.91998291015625,
+        717.5838012695312,
+        522.5585327148438,
+        748.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        328.91998291015625,
+        717.5838012695312,
+        522.5585327148438,
+        748.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": ")",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F3",
+      "bbox": [
+        328.91998291015625,
+        717.5838012695312,
+        522.5585327148438,
+        748.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "김 정 미",
+      "font_size": 11.040450096130371,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        328.91998291015625,
+        717.5838012695312,
+        522.5585327148438,
+        748.2284545898438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        64.08000183105469,
+        459.17401123046875,
+        538.435302734375,
+        476.4125061035156
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정책과에 문의하시기 바랍니다",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        82.08000183105469,
+        479.93402099609375,
+        243.51657104492188,
+        497.1725158691406
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ".",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        82.08000183105469,
+        479.93402099609375,
+        243.51657104492188,
+        497.1725158691406
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화번호: 043-719-1854",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        84.12000274658203,
+        500.81402587890625,
+        230.56787109375,
+        518.0525512695312
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "팩스번호: 043-719-1850",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        84.12000274658203,
+        521.5740356445312,
+        230.56787109375,
+        538.8125610351562
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "공익신고자 보호제도란?",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F5",
+      "bbox": [
+        133.6800079345703,
+        667.81884765625,
+        531.12109375,
+        693.4503784179688
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "-공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        667.81884765625,
+        531.12109375,
+        693.4503784179688
+      ],
+      "page_num": 3,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        667.81884765625,
+        531.12109375,
+        693.4503784179688
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": ")",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        667.81884765625,
+        531.12109375,
+        693.4503784179688
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "비밀보",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        667.81884765625,
+        531.12109375,
+        693.4503784179688
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        144.83999633789062,
+        696.4341430664062,
+        401.97454833984375,
+        705.4345092773438
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "♣보호조치 요구 방법",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전화",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "우편",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "서울시 서대문구 통일로",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "국민권익위원회 공익보호지원과팩스",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "02-360-3761 /",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(120-705)",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "81",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "/",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "02-360-3567",
+      "font_size": 9.000374794006348,
+      "font_name": "CIDFont+F2",
+      "bbox": [
+        133.6800079345703,
+        708.194091796875,
+        526.8970336914062,
+        728.83447265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        92.47858428955078,
+        528.1251831054688,
+        111.15357971191406
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        121.87859344482422,
+        480.7478942871094,
+        140.5535888671875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        151.27859497070312,
+        523.2689819335938,
+        169.95358276367188
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "방식",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        180.6785888671875,
+        523.2689819335938,
+        199.35357666015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하여야 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        180.6785888671875,
+        523.2689819335938,
+        199.35357666015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등 에도 불구하고 민원인 여러분께서 반드시 준수",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        180.6785888671875,
+        523.2689819335938,
+        199.35357666015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(‘",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        180.6785888671875,
+        523.2689819335938,
+        199.35357666015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "’",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        180.6785888671875,
+        523.2689819335938,
+        199.35357666015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": ")",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        180.6785888671875,
+        523.2689819335938,
+        199.35357666015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∼",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        180.6785888671875,
+        523.2689819335938,
+        199.35357666015625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        210.07861328125,
+        523.1649169921875,
+        228.75360107421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "년 월",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        210.07861328125,
+        523.1649169921875,
+        228.75360107421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": ".",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        210.07861328125,
+        523.1649169921875,
+        228.75360107421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": ",",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        210.07861328125,
+        523.1649169921875,
+        228.75360107421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2020",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        210.07861328125,
+        523.1649169921875,
+        228.75360107421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "9",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        210.07861328125,
+        523.1649169921875,
+        228.75360107421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "29",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        210.07861328125,
+        523.1649169921875,
+        228.75360107421875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일 현재의 과학적",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        239.47857666015625,
+        528.0012817382812,
+        258.153564453125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기술적 사실 및 유효한 법규를 토대로 작성되었으므로",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        239.47857666015625,
+        528.0012817382812,
+        258.153564453125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        239.47857666015625,
+        528.0012817382812,
+        258.153564453125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        268.87860107421875,
+        527.9492797851562,
+        287.5535888671875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수 있음을 알려드립니다.",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        298.2785949707031,
+        219.3134002685547,
+        316.9535827636719
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서 란 대내외적으로 법령 또는 고시",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        350.33404541015625,
+        527.7564086914062,
+        367.5725402832031
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "훈령",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        350.33404541015625,
+        527.7564086914062,
+        367.5725402832031
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "예규 등을 알기 쉽게",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        350.33404541015625,
+        527.7564086914062,
+        367.5725402832031
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "”",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        350.33404541015625,
+        527.7564086914062,
+        367.5725402832031
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        350.33404541015625,
+        527.7564086914062,
+        367.5725402832031
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        62.87999725341797,
+        350.33404541015625,
+        527.7564086914062,
+        367.5725402832031
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        87.0,
+        367.2540588378906,
+        523.1217041015625,
+        384.4925537109375
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(식품의약품안전처 지침서등의 관리에",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        87.0,
+        384.17401123046875,
+        411.4107666015625,
+        401.4125061035156
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "관한 규정 제 조",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        87.0,
+        384.17401123046875,
+        411.4107666015625,
+        401.4125061035156
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        87.0,
+        384.17401123046875,
+        411.4107666015625,
+        401.4125061035156
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": ")",
+      "font_size": 12.960525512695312,
+      "font_name": "CIDFont+F4",
+      "bbox": [
+        87.0,
+        384.17401123046875,
+        411.4107666015625,
+        401.4125061035156
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 개정 이력",
+      "font_size": 17.040674209594727,
+      "font_name": "CIDFont+F1",
+      "bbox": [
+        248.51998901367188,
+        106.93231201171875,
+        344.9701843261719,
+        123.97298431396484
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "‧",
+      "font_size": 17.040674209594727,
+      "font_name": "CIDFont+F6",
+      "bbox": [
+        248.51998901367188,
+        106.93231201171875,
+        344.9701843261719,
+        123.97298431396484
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "연번",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        72.0,
+        215.53883361816406,
+        447.8418273925781,
+        227.53927612304688
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        72.0,
+        215.53883361816406,
+        447.8418273925781,
+        227.53927612304688
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "·개정번호",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        72.0,
+        215.53883361816406,
+        447.8418273925781,
+        227.53927612304688
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        72.0,
+        215.53883361816406,
+        447.8418273925781,
+        227.53927612304688
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요내용",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        72.0,
+        215.53883361816406,
+        447.8418273925781,
+        227.53927612304688
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        80.27999877929688,
+        250.2188262939453,
+        435.889892578125,
+        262.2192687988281
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서-1057-01",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        80.27999877929688,
+        250.2188262939453,
+        435.889892578125,
+        262.2192687988281
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2020. 9. 29.",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        80.27999877929688,
+        250.2188262939453,
+        435.889892578125,
+        262.2192687988281
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제정",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F7",
+      "bbox": [
+        80.27999877929688,
+        250.2188262939453,
+        435.889892578125,
+        262.2192687988281
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험실시 지원기관의 업무범위 및 책임 등에",
+      "font_size": 20.04075050354004,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        71.76000213623047,
+        94.85748291015625,
+        531.6953125,
+        115.99420928955078
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관한 표준 지침",
+      "font_size": 20.04075050354004,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        226.79998779296875,
+        130.85748291015625,
+        366.8848571777344,
+        151.9942169189453
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제정",
+      "font_size": 12.000450134277344,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        514.5599975585938,
+        182.52711486816406,
+        538.5609130859375,
+        195.183837890625
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제 조 목적",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        254.93392944335938,
+        120.95046997070312,
+        269.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 지침은",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        132.36000061035156,
+        254.93392944335938,
+        525.0734252929688,
+        269.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "약사법",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        132.36000061035156,
+        254.93392944335938,
+        525.0734252929688,
+        269.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        132.36000061035156,
+        254.93392944335938,
+        525.0734252929688,
+        269.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "조",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        132.36000061035156,
+        254.93392944335938,
+        525.0734252929688,
+        269.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의약품 등의 안전에 관한 규칙",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        132.36000061035156,
+        254.93392944335938,
+        525.0734252929688,
+        269.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        281.57391357421875,
+        504.25634765625,
+        296.38226318359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "조 및",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        281.57391357421875,
+        504.25634765625,
+        296.38226318359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "별표",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        281.57391357421875,
+        504.25634765625,
+        296.38226318359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의 규정에 따라",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        281.57391357421875,
+        504.25634765625,
+        296.38226318359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "임상시험실시 지원기관",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        281.57391357421875,
+        504.25634765625,
+        296.38226318359375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이하 지원기관 이라 한다 의 업무범위",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        291.3600158691406,
+        308.09393310546875,
+        545.634033203125,
+        322.90228271484375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        334.7339172363281,
+        453.99127197265625,
+        349.5422668457031
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 조 용어정의",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        371.3339538574219,
+        150.57598876953125,
+        386.1423034667969
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 지침에서 사용하는 용어의 정의는 다음과 같다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        162.24000549316406,
+        371.3339538574219,
+        484.1893615722656,
+        386.1423034667969
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지원기관 이란 임상시험실시기관",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        99.12000274658203,
+        407.9339294433594,
+        538.5884399414062,
+        422.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이하 시험기관 이라 한다 의",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        99.12000274658203,
+        407.9339294433594,
+        538.5884399414062,
+        422.7422790527344
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        92.76000213623047,
+        434.5739440917969,
+        487.57965087890625,
+        449.3822937011719
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "를 시험기관에 배치하여 시험책임자의 책임",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        268.32000732421875,
+        461.09393310546875,
+        538.6002197265625,
+        475.90228271484375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        92.76000213623047,
+        487.73394775390625,
+        504.56866455078125,
+        502.54229736328125
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 본 지침에 기재된 용어의 정의는",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        91.55999755859375,
+        524.3339233398438,
+        525.552490234375,
+        539.142333984375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의약품 등의 안전에 관한 규칙",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        91.55999755859375,
+        524.3339233398438,
+        525.552490234375,
+        539.142333984375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "별표",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        96.12000274658203,
+        550.973876953125,
+        375.2456970214844,
+        565.7822875976562
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의약품 임상시험 관리기준에 의한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        96.12000274658203,
+        550.973876953125,
+        375.2456970214844,
+        565.7822875976562
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 조 업무 범위",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        587.5739135742188,
+        157.3154296875,
+        602.38232421875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지원기관은 시험기관으로부터 업무를 위임 받아 지원기관",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        169.0800018310547,
+        587.5739135742188,
+        538.6268310546875,
+        602.38232421875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        614.0939331054688,
+        538.5151977539062,
+        628.90234375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "업무를 수행하게 할 수 있다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        640.7339477539062,
+        545.5355834960938,
+        655.5423583984375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "다만",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        640.7339477539062,
+        545.5355834960938,
+        655.5423583984375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시험책임자가 임상시험에 관련하여",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        640.7339477539062,
+        545.5355834960938,
+        655.5423583984375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "위임한 업무 이외의 직접적인 지시",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        667.3739013671875,
+        545.5355224609375,
+        682.1823120117188
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명령은 임상시험코디네이터의 업무",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        667.3739013671875,
+        545.5355224609375,
+        682.1823120117188
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "범위에 포함되지 않으며",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        693.8939208984375,
+        538.5152587890625,
+        708.7023315429688
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의료인에게 업무를 위임하는 경우에는 위임받",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        693.8939208984375,
+        538.5152587890625,
+        708.7023315429688
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "는 자의 면허범위 내의 업무만을 위임하여야 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        720.5338745117188,
+        390.9493103027344,
+        735.34228515625
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험심사위원회와",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        91.44000244140625,
+        94.97392272949219,
+        538.4902954101562,
+        109.78228759765625
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이하 심사위원회 라",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        91.44000244140625,
+        94.97392272949219,
+        538.4902954101562,
+        109.78228759765625
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한다 의 의사소통과 관련된 업무 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        92.76000213623047,
+        118.7339096069336,
+        335.5207214355469,
+        133.5422821044922
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험대상자에 대한 임상시험의 설명 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        152.5739288330078,
+        384.7286682128906,
+        167.38229370117188
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험대상자의 일정 조정 및 대응 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        186.2939453125,
+        363.6678771972656,
+        201.10231018066406
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "임상시험과 관련된 업무 검사를 위한 채혈 관찰 등",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        220.13394165039062,
+        467.5677490234375,
+        234.9423065185547
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        220.13394165039062,
+        467.5677490234375,
+        234.9423065185547
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "임상시험 중 발생한 이상반응의 보고 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        253.97393798828125,
+        363.6678771972656,
+        268.78228759765625
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "문서 수집 및 관리 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        287.6939392089844,
+        244.7445831298828,
+        302.5022888183594
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "검체 보관 및 관리 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        321.5339050292969,
+        244.7445831298828,
+        336.3422546386719
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "증례기록서",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        355.3739318847656,
+        459.4241943359375,
+        370.1822814941406
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의 데이터 입력 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        355.3739318847656,
+        459.4241943359375,
+        370.1822814941406
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        90.72000122070312,
+        389.09393310546875,
+        521.343017578125,
+        403.90228271484375
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "각종 자료 작성 및 보관 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        97.68000793457031,
+        422.9339294433594,
+        286.6654968261719,
+        437.7422790527344
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 임상시험과 관련된 제반 업무 지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        97.68000793457031,
+        456.77392578125,
+        356.7277526855469,
+        471.582275390625
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 조 비밀 유지",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        490.4939270019531,
+        159.14068603515625,
+        505.3022766113281
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지원기관 및 임상시험 코디네이터는 위임 받은 업무의",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        173.04000854492188,
+        490.4939270019531,
+        545.5352172851562,
+        505.3022766113281
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        68.76000213623047,
+        514.3739013671875,
+        545.4359741210938,
+        529.1823120117188
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "업무상의",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        68.76000213623047,
+        514.3739013671875,
+        545.4359741210938,
+        529.1823120117188
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "비밀을 기밀로 유지하여야 하며",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        68.76000213623047,
+        538.1338500976562,
+        538.5560302734375,
+        552.9422607421875
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이를 공개",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        68.76000213623047,
+        538.1338500976562,
+        538.5560302734375,
+        552.9422607421875
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "누설 또는 이용하여서는 아",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        68.76000213623047,
+        538.1338500976562,
+        538.5560302734375,
+        552.9422607421875
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "니된다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        68.76000213623047,
+        561.8939208984375,
+        110.88157653808594,
+        576.7023315429688
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 조 책임 및 준수사항",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        595.7339477539062,
+        210.38861083984375,
+        610.5423583984375
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지원기관은 임상시험 코디네이터를 관리",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        246.36001586914062,
+        595.7339477539062,
+        538.5433959960938,
+        610.5423583984375
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "감",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        246.36001586914062,
+        595.7339477539062,
+        538.5433959960938,
+        610.5423583984375
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "독하며",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.23999786376953,
+        619.493896484375,
+        212.7341766357422,
+        634.3023071289062
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이를 위하여",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.23999786376953,
+        619.493896484375,
+        212.7341766357422,
+        634.3023071289062
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "필요한 경우 시험기관에 현장관리인을 둘 수 있",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        214.55999755859375,
+        619.493896484375,
+        538.615234375,
+        634.3023071289062
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.23999786376953,
+        643.3739013671875,
+        83.28052520751953,
+        658.1823120117188
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "시험기관 및 시험책임자는 필요한 경우 지원기관의 관리",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        95.52000427246094,
+        643.3739013671875,
+        545.51904296875,
+        658.1823120117188
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "감독자 또는",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        95.52000427246094,
+        643.3739013671875,
+        545.51904296875,
+        658.1823120117188
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "현장관리인과 협의하여 업무를 처리한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.23999786376953,
+        667.1338500976562,
+        323.2331237792969,
+        681.9422607421875
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지원",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        85.31999969482422,
+        700.973876953125,
+        113.2606430053711,
+        715.7822875976562
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기관은 위임 받은 업무와 관련한 표준작업지침서",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        113.27999877929688,
+        700.973876953125,
+        415.8533020019531,
+        715.7822875976562
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "를 작성하여야 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        173.39999389648438,
+        724.7339477539062,
+        299.48394775390625,
+        739.5423583984375
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        83.52000427246094,
+        94.97392272949219,
+        538.5736694335938,
+        109.78228759765625
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        62.040000915527344,
+        120.1739273071289,
+        545.5958862304688,
+        134.9822998046875
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        62.040000915527344,
+        145.37393188476562,
+        538.5755615234375,
+        160.1822967529297
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "야 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        62.040000915527344,
+        170.5739288330078,
+        110.6202163696289,
+        185.38229370117188
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        83.04000091552734,
+        205.73391723632812,
+        97.08052825927734,
+        220.5422821044922
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        97.08000183105469,
+        205.73391723632812,
+        518.7168579101562,
+        220.5422821044922
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "대",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        524.4000244140625,
+        205.73391723632812,
+        538.4405517578125,
+        220.5422821044922
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        61.91999816894531,
+        230.93392944335938,
+        490.4367370605469,
+        245.74229431152344
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "준수하",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        496.8000183105469,
+        230.93392944335938,
+        538.5004272460938,
+        245.74229431152344
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        61.91999816894531,
+        256.1339416503906,
+        446.2092590332031,
+        270.9422912597656
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        85.19999694824219,
+        291.2939453125,
+        99.24052429199219,
+        306.102294921875
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        99.24000549316406,
+        291.2939453125,
+        538.5680541992188,
+        306.102294921875
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        61.91999816894531,
+        316.4939270019531,
+        504.196533203125,
+        331.3022766113281
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "관련",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        510.72003173828125,
+        316.4939270019531,
+        538.520263671875,
+        331.3022766113281
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하여 근로기준법 등 노동관계법령을 준수하여야 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        61.91999816894531,
+        341.6939392089844,
+        401.279541015625,
+        356.5022888183594
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 조 계약의 체결",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        376.9739074707031,
+        170.79434204101562,
+        391.7822570800781
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지원기관은 시험기관과 문서로 계약을 체결하여야 하며",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        182.8800048828125,
+        376.9739074707031,
+        535.2972412109375,
+        391.7822570800781
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "계약서에는 시험기관과 지원기관의 의무사항",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        402.1739196777344,
+        538.5153198242188,
+        416.9822692871094
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "임상시험 코디네이터의 자",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        402.1739196777344,
+        538.5153198242188,
+        416.9822692871094
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "격",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        427.3739318847656,
+        545.395263671875,
+        442.1822814941406
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "해당 임상시험 및 업무범위",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        427.3739318847656,
+        545.395263671875,
+        442.1822814941406
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "배치될 임상시험 코디네이터의 규모 및",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        427.3739318847656,
+        545.395263671875,
+        442.1822814941406
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시간",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        452.5739440917969,
+        545.5355224609375,
+        467.3822937011719
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "업무 수행시의 준수사항",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        452.5739440917969,
+        545.5355224609375,
+        467.3822937011719
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "재정에 관한 사항 임상시험 코디네이터가",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        452.5739440917969,
+        545.5355224609375,
+        467.3822937011719
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        477.77392578125,
+        538.5153198242188,
+        492.582275390625
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "용을 포함한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        502.9739074707031,
+        545.395263671875,
+        517.7822875976562
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "위임 업무 수행에 문제가 발생하는 경우의 조치 기준에",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        502.9739074707031,
+        545.395263671875,
+        517.7822875976562
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "관한 사항 등을 포함하여야 한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        528.1738891601562,
+        276.6593933105469,
+        542.9822998046875
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 조 기타 사항",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        563.3339233398438,
+        159.42152404785156,
+        578.142333984375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 본 지침에서 규정하지 아니한 사항에 대하여는 의",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        173.04000854492188,
+        563.3339233398438,
+        538.5150756835938,
+        578.142333984375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.23999786376953,
+        588.5338745117188,
+        538.6149291992188,
+        603.34228515625
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의 계약에서 정하는 바에 따른다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.23999786376953,
+        613.7339477539062,
+        277.0397644042969,
+        628.5423583984375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "부칙",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        54.959999084472656,
+        684.1738891601562,
+        89.92091369628906,
+        698.9822998046875
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 지침은",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        719.3339233398438,
+        289.1554870605469,
+        734.142333984375
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "부터 시행한다",
+      "font_size": 14.04052448272705,
+      "font_name": "CIDFont+F8",
+      "bbox": [
+        69.0,
+        719.3339233398438,
+        289.1554870605469,
+        734.142333984375
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    }
+  ],
+  "markdown_content": "<!-- PAGE_1 -->\n# 임상시험실시 지원기관의 업무범위 및\n\n<!-- PAGE_1 -->\n# 책임 등에 관한 표준 지침\n\n<!-- PAGE_1 -->\n## [민원인 안내서\n\n<!-- PAGE_1 -->\n## ]\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상정책과\n\n등록번호\n\n안내서-1057-01\n\n<!-- PAGE_2 -->\n#### 지침서\n\n<!-- PAGE_2 -->\n#### 안내서 제\n\n<!-- PAGE_2 -->\n#### 개정 점검표\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n명칭\n\n임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ? | 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | . | ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.**\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까? |\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까? | 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까? | 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | . | ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다. | ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | . |\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ? (공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? 민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까? | 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\nㆍ\n\n상기 사항에 대하여 확인하였음.\n\n년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n- -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n<!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n<!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020. 9. 29.\n\n<!-- PAGE_4 -->\n###### 제정\n\n<!-- PAGE_5 -->\n### 임상시험실시 지원기관의 업무범위 및 책임 등에\n\n<!-- PAGE_5 -->\n### 관한 표준 지침\n\n<!-- PAGE_5 -->\n###### 제정\n\n**[표 시작]**\n\n| 제 조 목적 | 고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다 |\n| --- | --- |\n| 제 | 조 및 | 별표 | 의 규정에 따라 | 임상시험실시 지원기관 |\n**원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의**\n| 사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와 | 관련 |\n**및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다**\n**하여 근로기준법 등 노동관계법령을 준수하여야 한다**\n**제 조 용어정의**\n| 제 조 계약의 체결 | 지원기관은 시험기관과 문서로 계약을 체결하여야 하며 |\n| 계약서에는 시험기관과 지원기관의 의무사항 | 임상시험 코디네이터의 자 |\n| 지원기관 이란 임상시험실시기관 | 이하 시험기관 이라 한다 의 |\n**를 시험기관에 배치하여 시험책임자의 책임**\n**시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비**\n**제 조 비밀 유지**\n**관한 사항 등을 포함하여야 한다**\n| 비밀을 기밀로 유지하여야 하며 | 이를 공개 | 누설 또는 이용하여서는 아 |\n**니된다**\n| 제 조 기타 사항 | 기타 본 지침에서 규정하지 아니한 사항에 대하여는 의 |\n| 제 조 업무 범위 | 지원기관은 시험기관으로부터 업무를 위임 받아 지원기관 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n##### 이하 지원기관 이라 한다 의 업무범위\n\n<!-- PAGE_5 -->\n##### 소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의\n\n<!-- PAGE_5 -->\n##### 업무를 수행하게 할 수 있다\n\n<!-- PAGE_5 -->\n##### 다만\n\n<!-- PAGE_5 -->\n##### 시험책임자가 임상시험에 관련하여\n\n<!-- PAGE_5 -->\n##### 위임한 업무 이외의 직접적인 지시\n\n<!-- PAGE_5 -->\n##### 명령은 임상시험코디네이터의 업무\n\n<!-- PAGE_5 -->\n##### 범위에 포함되지 않으며\n\n<!-- PAGE_5 -->\n##### 의료인에게 업무를 위임하는 경우에는 위임받\n\n<!-- PAGE_5 -->\n##### 는 자의 면허범위 내의 업무만을 위임하여야 한다\n\n<!-- PAGE_6 -->\n##### 임상시험심사위원회와\n\n<!-- PAGE_6 -->\n##### 이하 심사위원회 라\n\n<!-- PAGE_6 -->\n##### 한다 의 의사소통과 관련된 업무 지원\n\n<!-- PAGE_6 -->\n##### 임상시험대상자에 대한 임상시험의 설명 지원\n\n**[표 시작]**\n\n**지원기관 및 임상시험 코디네이터는 위임 받은 업무의**\n| 용을 포함한다 | 위임 업무 수행에 문제가 발생하는 경우의 조치 기준에 |\n| 수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료 | 업무상의 |\n**약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간**\n| 제 조 책임 및 준수사항 | 지원기관은 임상시험 코디네이터를 관리 | 감 |\n**의 계약에서 정하는 바에 따른다**\n| 독하며 | 이를 위하여 | 필요한 경우 시험기관에 현장관리인을 둘 수 있 |\n| 다 | 시험기관 및 시험책임자는 필요한 경우 지원기관의 관리 | 감독자 또는 |\n**현장관리인과 협의하여 업무를 처리한다**\n**부칙**\n| 지원 | 기관은 위임 받은 업무와 관련한 표준작업지침서 |\n\n**[표 끝]**\n\n<!-- PAGE_6 -->\n##### 를 작성하여야 한다\n\n<!-- PAGE_7 -->\n##### 지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하\n\n<!-- PAGE_7 -->\n##### 여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어\n\n<!-- PAGE_7 -->\n##### 야 한다\n\n**[표 시작]**\n\n**대**\n| 한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을 | 준수하 |\n\n**[표 끝]**\n\n<!-- PAGE_7 -->\n##### 격\n\n<!-- PAGE_7 -->\n##### 해당 임상시험 및 업무범위\n\n<!-- PAGE_7 -->\n##### 배치될 임상시험 코디네이터의 규모 및\n\n<!-- PAGE_7 -->\n##### 시간\n\n<!-- PAGE_7 -->\n##### 업무 수행시의 준수사항\n\n<!-- PAGE_7 -->\n##### 재정에 관한 사항 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 이 지침은\n\n<!-- PAGE_7 -->\n##### 부터 시행한다\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "<!-- PAGE_1 -->\n# 임상시험실시 지원기관의 업무범위 및\n\n<!-- PAGE_1 -->\n# 책임 등에 관한 표준 지침\n\n<!-- PAGE_1 -->\n## [민원인 안내서\n\n<!-- PAGE_1 -->\n## ]\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상정책과\n\n등록번호\n\n안내서-1057-01\n\n<!-- PAGE_2 -->\n#### 지침서\n\n<!-- PAGE_2 -->\n#### 안내서 제\n\n<!-- PAGE_2 -->\n#### 개정 점검표\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n명칭\n\n임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 377,
+        "word_count": 79,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험실시 지원기관의 업무범위 및\n\n<!-- PAGE_1 -->\n# 책임 등에 관한 표준 지침\n\n<!-- PAGE_1 -->\n## [민원인 안내서\n\n<!-- PAGE_1 -->\n## ]\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상정책과\n\n등록번호\n\n안내서-1057-01\n\n<!-- PAGE_2 -->\n#### 지침서\n\n<!-- PAGE_2 -->\n#### 안내서 제\n\n<!-- PAGE_2 -->\n#### 개정 점검표\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n명칭\n\n임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ?  | 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | .  | ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+        "original_sentence": "<!-- PAGE_1 -->\n# 임상시험실시 지원기관의 업무범위 및\n\n<!-- PAGE_1 -->\n# 책임 등에 관한 표준 지침\n\n<!-- PAGE_1 -->\n## [민원인 안내서\n\n<!-- PAGE_1 -->\n## ]\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상정책과\n\n등록번호\n\n안내서-1057-01\n\n<!-- PAGE_2 -->\n#### 지침서\n\n<!-- PAGE_2 -->\n#### 안내서 제\n\n<!-- PAGE_2 -->\n#### 개정 점검표\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n명칭\n\n임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 174,
+        "word_count": 55,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험실시 지원기관의 업무범위 및\n\n<!-- PAGE_1 -->\n# 책임 등에 관한 표준 지침\n\n<!-- PAGE_1 -->\n## [민원인 안내서\n\n<!-- PAGE_1 -->\n## ]\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상정책과\n\n등록번호\n\n안내서-1057-01\n\n<!-- PAGE_2 -->\n#### 지침서\n\n<!-- PAGE_2 -->\n#### 안내서 제\n\n<!-- PAGE_2 -->\n#### 개정 점검표\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n명칭\n\n임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ?  | 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | .  | ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까? ",
+        "original_sentence": "등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ? "
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "| 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | . ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 204,
+        "word_count": 65,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험실시 지원기관의 업무범위 및\n\n<!-- PAGE_1 -->\n# 책임 등에 관한 표준 지침\n\n<!-- PAGE_1 -->\n## [민원인 안내서\n\n<!-- PAGE_1 -->\n## ]\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상정책과\n\n등록번호\n\n안내서-1057-01\n\n<!-- PAGE_2 -->\n#### 지침서\n\n<!-- PAGE_2 -->\n#### 안내서 제\n\n<!-- PAGE_2 -->\n#### 개정 점검표\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n명칭\n\n임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ?  | 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | .  | ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까?  |\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "| 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | . "
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "| ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 38,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험실시 지원기관의 업무범위 및\n\n<!-- PAGE_1 -->\n# 책임 등에 관한 표준 지침\n\n<!-- PAGE_1 -->\n## [민원인 안내서\n\n<!-- PAGE_1 -->\n## ]\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상정책과\n\n등록번호\n\n안내서-1057-01\n\n<!-- PAGE_2 -->\n#### 지침서\n\n<!-- PAGE_2 -->\n#### 안내서 제\n\n<!-- PAGE_2 -->\n#### 개정 점검표\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n<!-- PAGE_2 -->\n#### ㆍ\n\n명칭\n\n임상시험실시 지원기관의 업무범위 및 책임 등에 관한 표준 지침\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ?  | 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | .  | ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까?  |\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까? ",
+        "original_sentence": "| ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "**\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 317,
+        "word_count": 97,
+        "page_number": 4,
+        "window_text": "등록대상\n\n**[표 시작]**\n\n| 이미 등록된 지침서 | 안내서 중 동일 | 유사한 내용의 | □ | ㆍ | ㆍ | 예 | □ |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n**임상시험대상자의 일정 조정 및 대응 지원**\n| 지침서 | ㆍ안내서가 있습니까 | ?  | 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | .  | ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까?  |\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까?  | 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "**\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "|\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 40,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "| 아니오 | ■ |\n| 지 | 원기관은 임상시험 코디네이터에 대해 임상시험 및 관련된 전문 지식에 |\n| 임상시험과 관련된 업무 검사를 위한 채혈 관찰 등 | 지원 | 상기 질문에 예 라고 답하신 경우 기존의 지침서 | 안내서의 개정을 우선적 | ‘ | ’ | ☞ | ㆍ |\n| 으로 고려하시기 바랍니다 | 그럼에도 불구하고 동 지침서 | 안내서의 제정이 | .  | ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까?  |\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까?  | 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까? ",
+        "original_sentence": "|\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "| 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 186,
+        "word_count": 58,
+        "page_number": 2,
+        "window_text": "| ㆍ |\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까?  |\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까?  | 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까?  | 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | . ",
+        "original_sentence": "| 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "| 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 125,
+        "word_count": 36,
+        "page_number": 2,
+        "window_text": "**\n| 임상시험 중 발생한 이상반응의 보고 지원 | 이 지침은 | 약사법 | 제 | 조 | 의약품 등의 안전에 관한 규칙 |\n| (사유 | :                                                                 ) |\n| 지 | 문서 수집 및 관리 지원 | □ 법령 법 | 시행령 | 시행규칙 또는 | ( | ) | ㆍ | ㆍ |\n| 예 | □ |\n| 행정규칙 고시 | 훈령 | 예규 의 | ( | ) | ㆍ | ㆍ | 내용을 단순 편집 또는 |\n| 아니오 | ■ |\n| 검체 보관 및 관리 지원 | 나열한 것입니까?  |\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까?  | 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까?  | 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | .  | ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "| 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "| 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 139,
+        "word_count": 44,
+        "page_number": 2,
+        "window_text": "|\n| 여부 | □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까?  | 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까?  | 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | .  | ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다.  | ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | . ",
+        "original_sentence": "| 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | . ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 98,
+        "word_count": 32,
+        "page_number": 2,
+        "window_text": "| 예 | □ |\n| 아니오 | ■ |\n| 증례기록서 | 의 데이터 입력 지원 |\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하는 것 | 년 이내 한시적 적용 또는 일회성 지시 | 명령에 해당하는 | □ 1 | ㆍ | 예 | □ |\n**이 지침에서 사용하는 용어의 정의는 다음과 같다**\n| 내용입니까?  | 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까?  | 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | .  | ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다.  | ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | .  |\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ? ",
+        "original_sentence": "| 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | . "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "| ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 44,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "| 아니오 | ■ |\n| (식품의약품안전처 지침서등의 관리에 | 관한 규정 제 조 | 2 | ) |\n**모니터링 또는 점검 규제당국이 실시하는 실사 준비 및 대응 지원**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까?  | 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | .  | ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다.  | ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | .  |\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ?  (공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+        "original_sentence": "| ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | . ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "| 예 | □ |\n| 아니오 | ■ |\n| 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ | 예 | □ |\n**각종 자료 작성 및 보관 지원**\n**장과 계약에 따라 경험과 지식을 갖춘 임상시험 코디네이터**\n| 정리한 자료입니까?  | 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | .  | ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다.  | ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | .  |\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ?  (공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까? ",
+        "original_sentence": "| ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | . "
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "|\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 146,
+        "word_count": 33,
+        "page_number": 2,
+        "window_text": "| 아니오 | ■ |\n| 기타 임상시험과 관련된 제반 업무 지원 | ☞ 상기 사항 중 어느 하나라도 예에 해당되는 경우에 지침서 안내서 등록 대상이 아닙니다 | ‘ ’ | .  | ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다.  | ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | .  |\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ?  (공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까?  | 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n",
+        "original_sentence": "|\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ? "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "(공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 208,
+        "word_count": 60,
+        "page_number": 2,
+        "window_text": "| ㆍ |\n| 지침서 | 안내서 제 | 개정 절차를 적용하실 필요는 없습니다.  | ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | .  |\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ?  (공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까?  | 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n",
+        "original_sentence": "(공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까? ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 126,
+        "word_count": 41,
+        "page_number": 2,
+        "window_text": "| ㆍ | ㆍ |\n| 정책과에 문의하시기 바랍니다 | .  |\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ?  (공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까?  | 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n 년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n",
+        "original_sentence": "민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "| 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 127,
+        "word_count": 34,
+        "page_number": 1,
+        "window_text": "|\n**하에 위임받은 업무를 수행할 수 있도록 지원하는 기관을 말한다**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) |\n**전화번호: 043-719-1854**\n| 사무의 세부기준이나 절차를 제시하는 것입니까 | ?  (공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까?  | 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n 년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n - -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "| 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 2,
+        "window_text": "(공무원용 | ) | 아니오 | □ |\n**팩스번호: 043-719-1850**\n| 기타 본 지침에 기재된 용어의 정의는 | 의약품 등의 안전에 관한 규칙 |\n| □ 대내외적으로 법령 또는 고시 훈령 예규 등을 알기 쉽게 풀어서 | ㆍ | ㆍ |\n| 구분 | ■ 예 | (☞안내서) |\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까?  | 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n 년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n - -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n",
+        "original_sentence": "ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 159,
+        "word_count": 36,
+        "page_number": 3,
+        "window_text": "민원인용 | ( | ) |\n| 별표 | 의약품 임상시험 관리기준에 의한다 | 아니오 | □ |\n| 상위 법령을 일탈하여 새로운 규제를 신설 | 강화하거나 | □ | ㆍ | 예 | □ |\n| 민원인을 구속하는 내용이 있습니까?  | 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n 년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n - -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n <!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n",
+        "original_sentence": "년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "- -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 313,
+        "word_count": 62,
+        "page_number": 3,
+        "window_text": "| 아니오 | ■ |\n\n**[표 끝]**\n\n지침서 안내서\n\nㆍ\n\n기타 확인\n\n사항\n\n☞ 상기 질문에 예 라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서\n\n‘\n\n’\n\nㆍ\n\n안내서 제\n\n개정 절차를 진행하시기 바랍니다.\n\n ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n 년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n - -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n <!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020. ",
+        "original_sentence": "- -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 376,
+        "word_count": 79,
+        "page_number": 3,
+        "window_text": "ㆍ\n\n상기 사항에 대하여 확인하였음.\n\n 년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n - -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n <!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020.  9. ",
+        "original_sentence": "<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "<!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 314,
+        "word_count": 66,
+        "page_number": 3,
+        "window_text": "년\n\n월\n\n일\n\n2020\n\n9\n\n29\n\n담당자\n\n확  인 부서장\n\n(\n\n)\n\n김 정 미\n\n<!-- PAGE_3 -->\n###### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국 임상\n\n<!-- PAGE_3 -->\n###### 공익신고자 보호제도란?\n\n - -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n <!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020.  9.  29.\n\n",
+        "original_sentence": "<!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "<!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020. ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 480,
+        "word_count": 92,
+        "page_number": 3,
+        "window_text": "- -공익신고자등 친족 또는 동거인 포함 이 공익신고등으로 인하여 피해를 받지 않도록\n(\n\n)\n\n비밀보\n\n장, 불이익보호조치, 신변보호조치 등을 통하여 보호하는 제도\n\n♣보호조치 요구 방법\n\n전화\n\n우편\n\n서울시 서대문구 통일로\n\n국민권익위원회 공익보호지원과팩스\n\n02-360-3761 /\n\n(120-705)\n\n81\n\n/\n\n02-360-3567\n\n<!-- PAGE_3 -->\n##### 이 안내서는 임상시험실시 지원기관의 업무범위 및 책임 등에 대하여\n\n<!-- PAGE_3 -->\n##### 알기 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n <!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020.  9.  29.\n\n <!-- PAGE_4 -->\n###### 제정\n\n<!-- PAGE_5 -->\n### 임상시험실시 지원기관의 업무범위 및 책임 등에\n\n<!-- PAGE_5 -->\n### 관한 표준 지침\n\n<!-- PAGE_5 -->\n###### 제정\n\n**[표 시작]**\n\n| 제 조 목적 | 고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다 |\n| --- | --- |\n| 제 | 조 및 | 별표 | 의 규정에 따라 | 임상시험실시 지원기관 |\n**원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의**\n| 사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와 | 관련 |\n**및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다**\n**하여 근로기준법 등 노동관계법령을 준수하여야 한다**\n**제 조 용어정의**\n| 제 조 계약의 체결 | 지원기관은 시험기관과 문서로 계약을 체결하여야 하며 |\n| 계약서에는 시험기관과 지원기관의 의무사항 | 임상시험 코디네이터의 자 |\n| 지원기관 이란 임상시험실시기관 | 이하 시험기관 이라 한다 의 |\n**를 시험기관에 배치하여 시험책임자의 책임**\n**시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비**\n**제 조 비밀 유지**\n**관한 사항 등을 포함하여야 한다**\n| 비밀을 기밀로 유지하여야 하며 | 이를 공개 | 누설 또는 이용하여서는 아 |\n**니된다**\n| 제 조 기타 사항 | 기타 본 지침에서 규정하지 아니한 사항에 대하여는 의 |\n| 제 조 업무 범위 | 지원기관은 시험기관으로부터 업무를 위임 받아 지원기관 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n##### 이하 지원기관 이라 한다 의 업무범위\n\n<!-- PAGE_5 -->\n##### 소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의\n\n<!-- PAGE_5 -->\n##### 업무를 수행하게 할 수 있다\n\n<!-- PAGE_5 -->\n##### 다만\n\n<!-- PAGE_5 -->\n##### 시험책임자가 임상시험에 관련하여\n\n<!-- PAGE_5 -->\n##### 위임한 업무 이외의 직접적인 지시\n\n<!-- PAGE_5 -->\n##### 명령은 임상시험코디네이터의 업무\n\n<!-- PAGE_5 -->\n##### 범위에 포함되지 않으며\n\n<!-- PAGE_5 -->\n##### 의료인에게 업무를 위임하는 경우에는 위임받\n\n<!-- PAGE_5 -->\n##### 는 자의 면허범위 내의 업무만을 위임하여야 한다\n\n<!-- PAGE_6 -->\n##### 임상시험심사위원회와\n\n<!-- PAGE_6 -->\n##### 이하 심사위원회 라\n\n<!-- PAGE_6 -->\n##### 한다 의 의사소통과 관련된 업무 지원\n\n<!-- PAGE_6 -->\n##### 임상시험대상자에 대한 임상시험의 설명 지원\n\n**[표 시작]**\n\n**지원기관 및 임상시험 코디네이터는 위임 받은 업무의**\n| 용을 포함한다 | 위임 업무 수행에 문제가 발생하는 경우의 조치 기준에 |\n| 수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료 | 업무상의 |\n**약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간**\n| 제 조 책임 및 준수사항 | 지원기관은 임상시험 코디네이터를 관리 | 감 |\n**의 계약에서 정하는 바에 따른다**\n| 독하며 | 이를 위하여 | 필요한 경우 시험기관에 현장관리인을 둘 수 있 |\n| 다 | 시험기관 및 시험책임자는 필요한 경우 지원기관의 관리 | 감독자 또는 |\n**현장관리인과 협의하여 업무를 처리한다**\n**부칙**\n| 지원 | 기관은 위임 받은 업무와 관련한 표준작업지침서 |\n\n**[표 끝]**\n\n<!-- PAGE_6 -->\n##### 를 작성하여야 한다\n\n<!-- PAGE_7 -->\n##### 지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하\n\n<!-- PAGE_7 -->\n##### 여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어\n\n<!-- PAGE_7 -->\n##### 야 한다\n\n**[표 시작]**\n\n**대**\n| 한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을 | 준수하 |\n\n**[표 끝]**\n\n<!-- PAGE_7 -->\n##### 격\n\n<!-- PAGE_7 -->\n##### 해당 임상시험 및 업무범위\n\n<!-- PAGE_7 -->\n##### 배치될 임상시험 코디네이터의 규모 및\n\n<!-- PAGE_7 -->\n##### 시간\n\n<!-- PAGE_7 -->\n##### 업무 수행시의 준수사항\n\n<!-- PAGE_7 -->\n##### 재정에 관한 사항 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 이 지침은\n\n<!-- PAGE_7 -->\n##### 부터 시행한다\n",
+        "original_sentence": "<!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020. "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "9. ",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 3,
+        "word_count": 1,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_3 -->\n##### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술\n\n<!-- PAGE_3 -->\n##### 방식\n\n<!-- PAGE_3 -->\n##### 하여야 한다\n\n<!-- PAGE_3 -->\n##### 등 에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n##### (‘\n\n<!-- PAGE_3 -->\n##### ’\n\n<!-- PAGE_3 -->\n##### )\n\n<!-- PAGE_3 -->\n##### ∼\n\n<!-- PAGE_3 -->\n##### 하셔야 하는 사항이 아님을 알려드립니다 또한 본 안내서는\n\n<!-- PAGE_3 -->\n##### 년 월\n\n<!-- PAGE_3 -->\n##### .\n\n <!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020.  9.  29.\n\n <!-- PAGE_4 -->\n###### 제정\n\n<!-- PAGE_5 -->\n### 임상시험실시 지원기관의 업무범위 및 책임 등에\n\n<!-- PAGE_5 -->\n### 관한 표준 지침\n\n<!-- PAGE_5 -->\n###### 제정\n\n**[표 시작]**\n\n| 제 조 목적 | 고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다 |\n| --- | --- |\n| 제 | 조 및 | 별표 | 의 규정에 따라 | 임상시험실시 지원기관 |\n**원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의**\n| 사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와 | 관련 |\n**및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다**\n**하여 근로기준법 등 노동관계법령을 준수하여야 한다**\n**제 조 용어정의**\n| 제 조 계약의 체결 | 지원기관은 시험기관과 문서로 계약을 체결하여야 하며 |\n| 계약서에는 시험기관과 지원기관의 의무사항 | 임상시험 코디네이터의 자 |\n| 지원기관 이란 임상시험실시기관 | 이하 시험기관 이라 한다 의 |\n**를 시험기관에 배치하여 시험책임자의 책임**\n**시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비**\n**제 조 비밀 유지**\n**관한 사항 등을 포함하여야 한다**\n| 비밀을 기밀로 유지하여야 하며 | 이를 공개 | 누설 또는 이용하여서는 아 |\n**니된다**\n| 제 조 기타 사항 | 기타 본 지침에서 규정하지 아니한 사항에 대하여는 의 |\n| 제 조 업무 범위 | 지원기관은 시험기관으로부터 업무를 위임 받아 지원기관 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n##### 이하 지원기관 이라 한다 의 업무범위\n\n<!-- PAGE_5 -->\n##### 소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의\n\n<!-- PAGE_5 -->\n##### 업무를 수행하게 할 수 있다\n\n<!-- PAGE_5 -->\n##### 다만\n\n<!-- PAGE_5 -->\n##### 시험책임자가 임상시험에 관련하여\n\n<!-- PAGE_5 -->\n##### 위임한 업무 이외의 직접적인 지시\n\n<!-- PAGE_5 -->\n##### 명령은 임상시험코디네이터의 업무\n\n<!-- PAGE_5 -->\n##### 범위에 포함되지 않으며\n\n<!-- PAGE_5 -->\n##### 의료인에게 업무를 위임하는 경우에는 위임받\n\n<!-- PAGE_5 -->\n##### 는 자의 면허범위 내의 업무만을 위임하여야 한다\n\n<!-- PAGE_6 -->\n##### 임상시험심사위원회와\n\n<!-- PAGE_6 -->\n##### 이하 심사위원회 라\n\n<!-- PAGE_6 -->\n##### 한다 의 의사소통과 관련된 업무 지원\n\n<!-- PAGE_6 -->\n##### 임상시험대상자에 대한 임상시험의 설명 지원\n\n**[표 시작]**\n\n**지원기관 및 임상시험 코디네이터는 위임 받은 업무의**\n| 용을 포함한다 | 위임 업무 수행에 문제가 발생하는 경우의 조치 기준에 |\n| 수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료 | 업무상의 |\n**약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간**\n| 제 조 책임 및 준수사항 | 지원기관은 임상시험 코디네이터를 관리 | 감 |\n**의 계약에서 정하는 바에 따른다**\n| 독하며 | 이를 위하여 | 필요한 경우 시험기관에 현장관리인을 둘 수 있 |\n| 다 | 시험기관 및 시험책임자는 필요한 경우 지원기관의 관리 | 감독자 또는 |\n**현장관리인과 협의하여 업무를 처리한다**\n**부칙**\n| 지원 | 기관은 위임 받은 업무와 관련한 표준작업지침서 |\n\n**[표 끝]**\n\n<!-- PAGE_6 -->\n##### 를 작성하여야 한다\n\n<!-- PAGE_7 -->\n##### 지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하\n\n<!-- PAGE_7 -->\n##### 여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어\n\n<!-- PAGE_7 -->\n##### 야 한다\n\n**[표 시작]**\n\n**대**\n| 한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을 | 준수하 |\n\n**[표 끝]**\n\n<!-- PAGE_7 -->\n##### 격\n\n<!-- PAGE_7 -->\n##### 해당 임상시험 및 업무범위\n\n<!-- PAGE_7 -->\n##### 배치될 임상시험 코디네이터의 규모 및\n\n<!-- PAGE_7 -->\n##### 시간\n\n<!-- PAGE_7 -->\n##### 업무 수행시의 준수사항\n\n<!-- PAGE_7 -->\n##### 재정에 관한 사항 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 이 지침은\n\n<!-- PAGE_7 -->\n##### 부터 시행한다\n",
+        "original_sentence": "9. "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "29.\n\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 1,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_3 -->\n##### ,\n\n<!-- PAGE_3 -->\n##### 2020\n\n<!-- PAGE_3 -->\n##### 9\n\n<!-- PAGE_3 -->\n##### 29\n\n<!-- PAGE_3 -->\n##### 일 현재의 과학적\n\n<!-- PAGE_3 -->\n##### 기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n##### ㆍ\n\n<!-- PAGE_3 -->\n##### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n##### 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020.  9.  29.\n\n <!-- PAGE_4 -->\n###### 제정\n\n<!-- PAGE_5 -->\n### 임상시험실시 지원기관의 업무범위 및 책임 등에\n\n<!-- PAGE_5 -->\n### 관한 표준 지침\n\n<!-- PAGE_5 -->\n###### 제정\n\n**[표 시작]**\n\n| 제 조 목적 | 고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다 |\n| --- | --- |\n| 제 | 조 및 | 별표 | 의 규정에 따라 | 임상시험실시 지원기관 |\n**원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의**\n| 사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와 | 관련 |\n**및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다**\n**하여 근로기준법 등 노동관계법령을 준수하여야 한다**\n**제 조 용어정의**\n| 제 조 계약의 체결 | 지원기관은 시험기관과 문서로 계약을 체결하여야 하며 |\n| 계약서에는 시험기관과 지원기관의 의무사항 | 임상시험 코디네이터의 자 |\n| 지원기관 이란 임상시험실시기관 | 이하 시험기관 이라 한다 의 |\n**를 시험기관에 배치하여 시험책임자의 책임**\n**시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비**\n**제 조 비밀 유지**\n**관한 사항 등을 포함하여야 한다**\n| 비밀을 기밀로 유지하여야 하며 | 이를 공개 | 누설 또는 이용하여서는 아 |\n**니된다**\n| 제 조 기타 사항 | 기타 본 지침에서 규정하지 아니한 사항에 대하여는 의 |\n| 제 조 업무 범위 | 지원기관은 시험기관으로부터 업무를 위임 받아 지원기관 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n##### 이하 지원기관 이라 한다 의 업무범위\n\n<!-- PAGE_5 -->\n##### 소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의\n\n<!-- PAGE_5 -->\n##### 업무를 수행하게 할 수 있다\n\n<!-- PAGE_5 -->\n##### 다만\n\n<!-- PAGE_5 -->\n##### 시험책임자가 임상시험에 관련하여\n\n<!-- PAGE_5 -->\n##### 위임한 업무 이외의 직접적인 지시\n\n<!-- PAGE_5 -->\n##### 명령은 임상시험코디네이터의 업무\n\n<!-- PAGE_5 -->\n##### 범위에 포함되지 않으며\n\n<!-- PAGE_5 -->\n##### 의료인에게 업무를 위임하는 경우에는 위임받\n\n<!-- PAGE_5 -->\n##### 는 자의 면허범위 내의 업무만을 위임하여야 한다\n\n<!-- PAGE_6 -->\n##### 임상시험심사위원회와\n\n<!-- PAGE_6 -->\n##### 이하 심사위원회 라\n\n<!-- PAGE_6 -->\n##### 한다 의 의사소통과 관련된 업무 지원\n\n<!-- PAGE_6 -->\n##### 임상시험대상자에 대한 임상시험의 설명 지원\n\n**[표 시작]**\n\n**지원기관 및 임상시험 코디네이터는 위임 받은 업무의**\n| 용을 포함한다 | 위임 업무 수행에 문제가 발생하는 경우의 조치 기준에 |\n| 수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료 | 업무상의 |\n**약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간**\n| 제 조 책임 및 준수사항 | 지원기관은 임상시험 코디네이터를 관리 | 감 |\n**의 계약에서 정하는 바에 따른다**\n| 독하며 | 이를 위하여 | 필요한 경우 시험기관에 현장관리인을 둘 수 있 |\n| 다 | 시험기관 및 시험책임자는 필요한 경우 지원기관의 관리 | 감독자 또는 |\n**현장관리인과 협의하여 업무를 처리한다**\n**부칙**\n| 지원 | 기관은 위임 받은 업무와 관련한 표준작업지침서 |\n\n**[표 끝]**\n\n<!-- PAGE_6 -->\n##### 를 작성하여야 한다\n\n<!-- PAGE_7 -->\n##### 지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하\n\n<!-- PAGE_7 -->\n##### 여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어\n\n<!-- PAGE_7 -->\n##### 야 한다\n\n**[표 시작]**\n\n**대**\n| 한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을 | 준수하 |\n\n**[표 끝]**\n\n<!-- PAGE_7 -->\n##### 격\n\n<!-- PAGE_7 -->\n##### 해당 임상시험 및 업무범위\n\n<!-- PAGE_7 -->\n##### 배치될 임상시험 코디네이터의 규모 및\n\n<!-- PAGE_7 -->\n##### 시간\n\n<!-- PAGE_7 -->\n##### 업무 수행시의 준수사항\n\n<!-- PAGE_7 -->\n##### 재정에 관한 사항 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 이 지침은\n\n<!-- PAGE_7 -->\n##### 부터 시행한다\n",
+        "original_sentence": "29.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "<!-- PAGE_4 -->\n###### 제정\n\n<!-- PAGE_5 -->\n### 임상시험실시 지원기관의 업무범위 및 책임 등에\n\n<!-- PAGE_5 -->\n### 관한 표준 지침\n\n<!-- PAGE_5 -->\n###### 제정\n\n**[표 시작]**\n\n| 제 조 목적 | 고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다 |\n| --- | --- |\n| 제 | 조 및 | 별표 | 의 규정에 따라 | 임상시험실시 지원기관 |\n**원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의**\n| 사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와 | 관련 |\n**및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다**\n**하여 근로기준법 등 노동관계법령을 준수하여야 한다**\n**제 조 용어정의**\n| 제 조 계약의 체결 | 지원기관은 시험기관과 문서로 계약을 체결하여야 하며 |\n| 계약서에는 시험기관과 지원기관의 의무사항 | 임상시험 코디네이터의 자 |\n| 지원기관 이란 임상시험실시기관 | 이하 시험기관 이라 한다 의 |\n**를 시험기관에 배치하여 시험책임자의 책임**\n**시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비**\n**제 조 비밀 유지**\n**관한 사항 등을 포함하여야 한다**\n| 비밀을 기밀로 유지하여야 하며 | 이를 공개 | 누설 또는 이용하여서는 아 |\n**니된다**\n| 제 조 기타 사항 | 기타 본 지침에서 규정하지 아니한 사항에 대하여는 의 |\n| 제 조 업무 범위 | 지원기관은 시험기관으로부터 업무를 위임 받아 지원기관 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n##### 이하 지원기관 이라 한다 의 업무범위\n\n<!-- PAGE_5 -->\n##### 소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의\n\n<!-- PAGE_5 -->\n##### 업무를 수행하게 할 수 있다\n\n<!-- PAGE_5 -->\n##### 다만\n\n<!-- PAGE_5 -->\n##### 시험책임자가 임상시험에 관련하여\n\n<!-- PAGE_5 -->\n##### 위임한 업무 이외의 직접적인 지시\n\n<!-- PAGE_5 -->\n##### 명령은 임상시험코디네이터의 업무\n\n<!-- PAGE_5 -->\n##### 범위에 포함되지 않으며\n\n<!-- PAGE_5 -->\n##### 의료인에게 업무를 위임하는 경우에는 위임받\n\n<!-- PAGE_5 -->\n##### 는 자의 면허범위 내의 업무만을 위임하여야 한다\n\n<!-- PAGE_6 -->\n##### 임상시험심사위원회와\n\n<!-- PAGE_6 -->\n##### 이하 심사위원회 라\n\n<!-- PAGE_6 -->\n##### 한다 의 의사소통과 관련된 업무 지원\n\n<!-- PAGE_6 -->\n##### 임상시험대상자에 대한 임상시험의 설명 지원\n\n**[표 시작]**\n\n**지원기관 및 임상시험 코디네이터는 위임 받은 업무의**\n| 용을 포함한다 | 위임 업무 수행에 문제가 발생하는 경우의 조치 기준에 |\n| 수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료 | 업무상의 |\n**약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간**\n| 제 조 책임 및 준수사항 | 지원기관은 임상시험 코디네이터를 관리 | 감 |\n**의 계약에서 정하는 바에 따른다**\n| 독하며 | 이를 위하여 | 필요한 경우 시험기관에 현장관리인을 둘 수 있 |\n| 다 | 시험기관 및 시험책임자는 필요한 경우 지원기관의 관리 | 감독자 또는 |\n**현장관리인과 협의하여 업무를 처리한다**\n**부칙**\n| 지원 | 기관은 위임 받은 업무와 관련한 표준작업지침서 |\n\n**[표 끝]**\n\n<!-- PAGE_6 -->\n##### 를 작성하여야 한다\n\n<!-- PAGE_7 -->\n##### 지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하\n\n<!-- PAGE_7 -->\n##### 여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어\n\n<!-- PAGE_7 -->\n##### 야 한다\n\n**[표 시작]**\n\n**대**\n| 한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을 | 준수하 |\n\n**[표 끝]**\n\n<!-- PAGE_7 -->\n##### 격\n\n<!-- PAGE_7 -->\n##### 해당 임상시험 및 업무범위\n\n<!-- PAGE_7 -->\n##### 배치될 임상시험 코디네이터의 규모 및\n\n<!-- PAGE_7 -->\n##### 시간\n\n<!-- PAGE_7 -->\n##### 업무 수행시의 준수사항\n\n<!-- PAGE_7 -->\n##### 재정에 관한 사항 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 이 지침은\n\n<!-- PAGE_7 -->\n##### 부터 시행한다\n",
+      "metadata": {
+        "source": "임상시험실시+지원기관의+업무범위+및+책임+등에+관한+표준+지침(민원인안내서)_200929.pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 2405,
+        "word_count": 562,
+        "page_number": 4,
+        "window_text": "<!-- PAGE_3 -->\n###### ※ “민원인 안내서 란 대내외적으로 법령 또는 고시\n\n<!-- PAGE_3 -->\n###### 훈령\n\n<!-- PAGE_3 -->\n###### 예규 등을 알기 쉽게\n\n<!-- PAGE_3 -->\n###### ”\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_3 -->\n###### ㆍ\n\n<!-- PAGE_4 -->\n#### 제 개정 이력\n\n<!-- PAGE_4 -->\n#### ‧\n\n<!-- PAGE_4 -->\n###### 연번\n\n<!-- PAGE_4 -->\n###### 제\n\n<!-- PAGE_4 -->\n###### ·개정번호\n\n<!-- PAGE_4 -->\n###### 승인일자\n\n<!-- PAGE_4 -->\n###### 주요내용\n\n<!-- PAGE_4 -->\n###### 1\n\n<!-- PAGE_4 -->\n###### 안내서-1057-01\n\n<!-- PAGE_4 -->\n###### 2020.  9.  29.\n\n <!-- PAGE_4 -->\n###### 제정\n\n<!-- PAGE_5 -->\n### 임상시험실시 지원기관의 업무범위 및 책임 등에\n\n<!-- PAGE_5 -->\n### 관한 표준 지침\n\n<!-- PAGE_5 -->\n###### 제정\n\n**[표 시작]**\n\n| 제 조 목적 | 고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다 |\n| --- | --- |\n| 제 | 조 및 | 별표 | 의 규정에 따라 | 임상시험실시 지원기관 |\n**원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의**\n| 사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와 | 관련 |\n**및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다**\n**하여 근로기준법 등 노동관계법령을 준수하여야 한다**\n**제 조 용어정의**\n| 제 조 계약의 체결 | 지원기관은 시험기관과 문서로 계약을 체결하여야 하며 |\n| 계약서에는 시험기관과 지원기관의 의무사항 | 임상시험 코디네이터의 자 |\n| 지원기관 이란 임상시험실시기관 | 이하 시험기관 이라 한다 의 |\n**를 시험기관에 배치하여 시험책임자의 책임**\n**시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비**\n**제 조 비밀 유지**\n**관한 사항 등을 포함하여야 한다**\n| 비밀을 기밀로 유지하여야 하며 | 이를 공개 | 누설 또는 이용하여서는 아 |\n**니된다**\n| 제 조 기타 사항 | 기타 본 지침에서 규정하지 아니한 사항에 대하여는 의 |\n| 제 조 업무 범위 | 지원기관은 시험기관으로부터 업무를 위임 받아 지원기관 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n##### 이하 지원기관 이라 한다 의 업무범위\n\n<!-- PAGE_5 -->\n##### 소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의\n\n<!-- PAGE_5 -->\n##### 업무를 수행하게 할 수 있다\n\n<!-- PAGE_5 -->\n##### 다만\n\n<!-- PAGE_5 -->\n##### 시험책임자가 임상시험에 관련하여\n\n<!-- PAGE_5 -->\n##### 위임한 업무 이외의 직접적인 지시\n\n<!-- PAGE_5 -->\n##### 명령은 임상시험코디네이터의 업무\n\n<!-- PAGE_5 -->\n##### 범위에 포함되지 않으며\n\n<!-- PAGE_5 -->\n##### 의료인에게 업무를 위임하는 경우에는 위임받\n\n<!-- PAGE_5 -->\n##### 는 자의 면허범위 내의 업무만을 위임하여야 한다\n\n<!-- PAGE_6 -->\n##### 임상시험심사위원회와\n\n<!-- PAGE_6 -->\n##### 이하 심사위원회 라\n\n<!-- PAGE_6 -->\n##### 한다 의 의사소통과 관련된 업무 지원\n\n<!-- PAGE_6 -->\n##### 임상시험대상자에 대한 임상시험의 설명 지원\n\n**[표 시작]**\n\n**지원기관 및 임상시험 코디네이터는 위임 받은 업무의**\n| 용을 포함한다 | 위임 업무 수행에 문제가 발생하는 경우의 조치 기준에 |\n| 수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료 | 업무상의 |\n**약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간**\n| 제 조 책임 및 준수사항 | 지원기관은 임상시험 코디네이터를 관리 | 감 |\n**의 계약에서 정하는 바에 따른다**\n| 독하며 | 이를 위하여 | 필요한 경우 시험기관에 현장관리인을 둘 수 있 |\n| 다 | 시험기관 및 시험책임자는 필요한 경우 지원기관의 관리 | 감독자 또는 |\n**현장관리인과 협의하여 업무를 처리한다**\n**부칙**\n| 지원 | 기관은 위임 받은 업무와 관련한 표준작업지침서 |\n\n**[표 끝]**\n\n<!-- PAGE_6 -->\n##### 를 작성하여야 한다\n\n<!-- PAGE_7 -->\n##### 지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하\n\n<!-- PAGE_7 -->\n##### 여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어\n\n<!-- PAGE_7 -->\n##### 야 한다\n\n**[표 시작]**\n\n**대**\n| 한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을 | 준수하 |\n\n**[표 끝]**\n\n<!-- PAGE_7 -->\n##### 격\n\n<!-- PAGE_7 -->\n##### 해당 임상시험 및 업무범위\n\n<!-- PAGE_7 -->\n##### 배치될 임상시험 코디네이터의 규모 및\n\n<!-- PAGE_7 -->\n##### 시간\n\n<!-- PAGE_7 -->\n##### 업무 수행시의 준수사항\n\n<!-- PAGE_7 -->\n##### 재정에 관한 사항 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 이 지침은\n\n<!-- PAGE_7 -->\n##### 부터 시행한다\n",
+        "original_sentence": "<!-- PAGE_4 -->\n###### 제정\n\n<!-- PAGE_5 -->\n### 임상시험실시 지원기관의 업무범위 및 책임 등에\n\n<!-- PAGE_5 -->\n### 관한 표준 지침\n\n<!-- PAGE_5 -->\n###### 제정\n\n**[표 시작]**\n\n| 제 조 목적 | 고 위임 받은 업무를 적절히 수행할 수 있도록 하여야 한다 |\n| --- | --- |\n| 제 | 조 및 | 별표 | 의 규정에 따라 | 임상시험실시 지원기관 |\n**원기관은 임상시험 코디네이터에 대한 근로기준법 등 노동관계법령 상의**\n| 사용자로서 근태관리 휴가 평가 등에 대한 권한 및 책임을 가지며 이와 | 관련 |\n**및 책임 등에 관한 표준 지침을 규정함을 그 목적으로 한다**\n**하여 근로기준법 등 노동관계법령을 준수하여야 한다**\n**제 조 용어정의**\n| 제 조 계약의 체결 | 지원기관은 시험기관과 문서로 계약을 체결하여야 하며 |\n| 계약서에는 시험기관과 지원기관의 의무사항 | 임상시험 코디네이터의 자 |\n| 지원기관 이란 임상시험실시기관 | 이하 시험기관 이라 한다 의 |\n**를 시험기관에 배치하여 시험책임자의 책임**\n**시험기관에서 사용한 설비 기구에 대한 비용 사무실 임차료 등 제반 비**\n**제 조 비밀 유지**\n**관한 사항 등을 포함하여야 한다**\n| 비밀을 기밀로 유지하여야 하며 | 이를 공개 | 누설 또는 이용하여서는 아 |\n**니된다**\n| 제 조 기타 사항 | 기타 본 지침에서 규정하지 아니한 사항에 대하여는 의 |\n| 제 조 업무 범위 | 지원기관은 시험기관으로부터 업무를 위임 받아 지원기관 |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n##### 이하 지원기관 이라 한다 의 업무범위\n\n<!-- PAGE_5 -->\n##### 소속의 임상시험 코디네이터로 하여금 임상시험과 관련하여 다음 각 호의\n\n<!-- PAGE_5 -->\n##### 업무를 수행하게 할 수 있다\n\n<!-- PAGE_5 -->\n##### 다만\n\n<!-- PAGE_5 -->\n##### 시험책임자가 임상시험에 관련하여\n\n<!-- PAGE_5 -->\n##### 위임한 업무 이외의 직접적인 지시\n\n<!-- PAGE_5 -->\n##### 명령은 임상시험코디네이터의 업무\n\n<!-- PAGE_5 -->\n##### 범위에 포함되지 않으며\n\n<!-- PAGE_5 -->\n##### 의료인에게 업무를 위임하는 경우에는 위임받\n\n<!-- PAGE_5 -->\n##### 는 자의 면허범위 내의 업무만을 위임하여야 한다\n\n<!-- PAGE_6 -->\n##### 임상시험심사위원회와\n\n<!-- PAGE_6 -->\n##### 이하 심사위원회 라\n\n<!-- PAGE_6 -->\n##### 한다 의 의사소통과 관련된 업무 지원\n\n<!-- PAGE_6 -->\n##### 임상시험대상자에 대한 임상시험의 설명 지원\n\n**[표 시작]**\n\n**지원기관 및 임상시험 코디네이터는 위임 받은 업무의**\n| 용을 포함한다 | 위임 업무 수행에 문제가 발생하는 경우의 조치 기준에 |\n| 수행 과정에서 알게 된 시험기관과 관련한 모든 정보와 자료 | 업무상의 |\n**약품 임상시험 관리기준 을 포함한 관련법령 및 지원기관과 시험기관 간**\n| 제 조 책임 및 준수사항 | 지원기관은 임상시험 코디네이터를 관리 | 감 |\n**의 계약에서 정하는 바에 따른다**\n| 독하며 | 이를 위하여 | 필요한 경우 시험기관에 현장관리인을 둘 수 있 |\n| 다 | 시험기관 및 시험책임자는 필요한 경우 지원기관의 관리 | 감독자 또는 |\n**현장관리인과 협의하여 업무를 처리한다**\n**부칙**\n| 지원 | 기관은 위임 받은 업무와 관련한 표준작업지침서 |\n\n**[표 끝]**\n\n<!-- PAGE_6 -->\n##### 를 작성하여야 한다\n\n<!-- PAGE_7 -->\n##### 지원기관은 임상시험 코디네이터가 수행하게 될 업무범위 등에 대하\n\n<!-- PAGE_7 -->\n##### 여 시험기관과 사전에 협의하여 결정한다 이 경우 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 수행하는 업무는 시험책임자 및 시험담당자가 수행하는 업무와 구분되어\n\n<!-- PAGE_7 -->\n##### 야 한다\n\n**[표 시작]**\n\n**대**\n| 한 교육 훈련 등을 제공하여 해당 임상시험 코디네이터가 관련 규정을 | 준수하 |\n\n**[표 끝]**\n\n<!-- PAGE_7 -->\n##### 격\n\n<!-- PAGE_7 -->\n##### 해당 임상시험 및 업무범위\n\n<!-- PAGE_7 -->\n##### 배치될 임상시험 코디네이터의 규모 및\n\n<!-- PAGE_7 -->\n##### 시간\n\n<!-- PAGE_7 -->\n##### 업무 수행시의 준수사항\n\n<!-- PAGE_7 -->\n##### 재정에 관한 사항 임상시험 코디네이터가\n\n<!-- PAGE_7 -->\n##### 이 지침은\n\n<!-- PAGE_7 -->\n##### 부터 시행한다\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 25,
+    "avg_chunk_length": 258.32,
+    "min_chunk_length": 3,
+    "max_chunk_length": 2405,
+    "total_characters": 6458,
+    "total_words": 1585,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 325,
+    "heading_count": 81,
+    "paragraph_count": 43,
+    "list_item_count": 1,
+    "table_cell_count": 200,
+    "tables_detected": 4,
+    "chunks_generated": 25
+  }
+}

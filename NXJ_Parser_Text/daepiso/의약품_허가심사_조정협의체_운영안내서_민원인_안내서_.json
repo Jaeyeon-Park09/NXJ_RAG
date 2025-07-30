@@ -1,0 +1,4730 @@
+{
+  "file_name": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+  "total_pages": 9,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "27.959999084472656": 2,
+      "24.0": 1,
+      "21.959999084472656": 2,
+      "11.039999961853027": 79,
+      "9.960000038146973": 7,
+      "17.03999900817871": 1,
+      "12.960000038146973": 107,
+      "14.039999961853027": 7,
+      "20.03999900817871": 1,
+      "15.0": 1,
+      "12.0": 17,
+      "15.960000038146973": 1
+    },
+    "heading_sizes": [
+      27.959999084472656,
+      21.959999084472656,
+      14.039999961853027
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 1,
+    "tables_info": [
+      {
+        "bbox": [
+          69.47999572753906,
+          181.18429565429688,
+          534.7606811523438,
+          615.748291015625
+        ],
+        "num_rows": 6,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "의약품 허가·심사 조정협의체",
+      "font_size": 27.959999084472656,
+      "font_name": "H2hdrM",
+      "bbox": [
+        101.5199966430664,
+        260.1591796875,
+        502.871337890625,
+        288.1191711425781
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "운영안내서",
+      "font_size": 27.959999084472656,
+      "font_name": "H2hdrM",
+      "bbox": [
+        227.51998901367188,
+        296.5191650390625,
+        367.5604553222656,
+        324.4791564941406
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(민원인안내서)",
+      "font_size": 24.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        218.51998901367188,
+        338.9184265136719,
+        376.5843811035156,
+        362.9184265136719
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2024. 06.",
+      "font_size": 21.959999084472656,
+      "font_name": "H2hdrM",
+      "bbox": [
+        251.75999450683594,
+        455.98956298828125,
+        343.4478454589844,
+        477.9495544433594
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품허가총괄과",
+      "font_size": 21.959999084472656,
+      "font_name": "H2hdrM",
+      "bbox": [
+        171.1199951171875,
+        654.9495849609375,
+        424.0823669433594,
+        676.9095458984375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "민원인 안내서 등록번호",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        72.47999572753906,
+        111.82429504394531,
+        198.95965576171875,
+        126.50835418701172
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서-1359-01",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        98.4000015258789,
+        133.06430053710938,
+        176.07864379882812,
+        147.7483673095703
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 2 -",
+      "font_size": 9.960000038146973,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.1199951171875,
+        786.5027465820312,
+        310.0413513183594,
+        799.4507446289062
+      ],
+      "page_num": 2,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서ᆞ안내서 제ᆞ개정 점검표",
+      "font_size": 17.03999900817871,
+      "font_name": "H2hdrM",
+      "bbox": [
+        170.87998962402344,
+        104.65289306640625,
+        425.8800048828125,
+        121.69288635253906
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.0,
+        135.2242889404297,
+        472.91131591796875,
+        149.90835571289062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 허가·심사조정협의체 운영 안내서[민원인안내서]",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.0,
+        135.2242889404297,
+        472.91131591796875,
+        149.90835571289062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        167.87998962402344,
+        159.34429931640625,
+        429.2493591308594,
+        174.0283660888672
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        72.23999786376953,
+        314.624267578125,
+        116.2796630859375,
+        329.308349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "여부",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        332.144287109375,
+        105.36000061035156,
+        346.828369140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        181.18429565429688,
+        423.88092041015625,
+        195.8683624267578
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서가 있습니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.3199920654297,
+        197.74429321289062,
+        297.7610168457031,
+        212.42835998535156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        181.7843017578125,
+        508.07965087890625,
+        211.82835388183594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        181.7843017578125,
+        508.07965087890625,
+        211.82835388183594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        215.74429321289062,
+        531.9595947265625,
+        230.42835998535156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        232.30429077148438,
+        535.8414306640625,
+        246.9883575439453
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        248.8643035888672,
+        433.4549865722656,
+        263.5483703613281
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(사유 :                                                                 )",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        265.3042907714844,
+        526.9237670898438,
+        293.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령(법ㆍ시행령ㆍ시행규칙) 또는",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        265.3042907714844,
+        526.9237670898438,
+        293.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.3199920654297,
+        295.6642761230469,
+        417.1610107421875,
+        326.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나열한 것입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.3199920654297,
+        295.6642761230469,
+        417.1610107421875,
+        326.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        287.9842834472656,
+        508.07965087890625,
+        318.0283508300781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        287.9842834472656,
+        508.07965087890625,
+        318.0283508300781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        326.0242614746094,
+        508.07965087890625,
+        356.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        326.0242614746094,
+        508.07965087890625,
+        356.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        326.0242614746094,
+        508.07965087890625,
+        356.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        355.30426025390625,
+        451.9609375,
+        369.98834228515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        370.6642761230469,
+        210.75796508789062,
+        385.3483581542969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        355.30426025390625,
+        508.07965087890625,
+        385.3483581542969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        355.30426025390625,
+        508.07965087890625,
+        385.3483581542969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        384.4642639160156,
+        508.07965087890625,
+        414.50836181640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        384.4642639160156,
+        508.07965087890625,
+        414.50836181640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        384.4642639160156,
+        508.07965087890625,
+        414.50836181640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        413.7442626953125,
+        440.3209228515625,
+        428.4283447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "정리한 자료입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        429.1042785644531,
+        253.0010223388672,
+        443.7883605957031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        413.7442626953125,
+        508.07965087890625,
+        443.7883605957031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        413.7442626953125,
+        508.07965087890625,
+        443.7883605957031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        448.06427001953125,
+        529.121337890625,
+        479.308349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        448.06427001953125,
+        529.121337890625,
+        479.308349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        64.68000030517578,
+        514.184326171875,
+        127.72350311279297,
+        528.8683471679688
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.72000122070312,
+        531.8242797851562,
+        103.80043029785156,
+        546.50830078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        488.7442626953125,
+        448.3198547363281,
+        503.4283447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        504.1042785644531,
+        433.083740234375,
+        518.788330078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침서)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        488.7442626953125,
+        534.7606811523438,
+        518.788330078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        488.7442626953125,
+        534.7606811523438,
+        518.788330078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        527.38427734375,
+        452.20123291015625,
+        542.0682983398438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        542.7443237304688,
+        448.439697265625,
+        572.788330078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하는 것입니까? (민원인용)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        542.7443237304688,
+        448.439697265625,
+        572.788330078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예(☞안내서)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        535.0643310546875,
+        535.8406982421875,
+        565.1083374023438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        535.0643310546875,
+        535.8406982421875,
+        565.1083374023438
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.47999572753906,
+        601.0642700195312,
+        119.04000091552734,
+        615.748291015625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사항",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        618.7042846679688,
+        105.36000061035156,
+        633.3883056640625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        582.7042846679688,
+        434.9202880859375,
+        597.3883056640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        598.184326171875,
+        337.23797607421875,
+        612.8683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        582.7042846679688,
+        508.07965087890625,
+        612.8683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        582.7042846679688,
+        508.07965087890625,
+        612.8683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        622.7843017578125,
+        531.9615478515625,
+        637.4683227539062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서 제ㆍ개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        639.3442993164062,
+        372.2550048828125,
+        654.0283203125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        216.1199951171875,
+        661.5443115234375,
+        381.9693603515625,
+        676.2283325195312
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2024 년  06 월  13 일",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        230.75999450683594,
+        695.8643188476562,
+        355.9200134277344,
+        710.54833984375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.6000061035156,
+        726.1043090820312,
+        494.0400085449219,
+        756.748291015625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.6000061035156,
+        726.1043090820312,
+        494.0400085449219,
+        756.748291015625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "김 영 주",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        330.6000061035156,
+        726.1043090820312,
+        494.0400085449219,
+        756.748291015625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 3 -",
+      "font_size": 9.960000038146973,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.1199951171875,
+        786.5027465820312,
+        310.0413513183594,
+        799.4507446289062
+      ],
+      "page_num": 3,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.76000213623047,
+        468.53460693359375,
+        538.4405517578125,
+        485.77239990234375
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안전국 의약품허가총괄과에 문의하시기 바랍니다.",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        82.79999542236328,
+        489.29461669921875,
+        378.0749816894531,
+        506.53240966796875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화번호 : 043-719-2316, 2318",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.79999542236328,
+        530.9345703125,
+        273.7792663574219,
+        548.1724243164062
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "팩스번호 : 043-719-2300",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.79999542236328,
+        551.694580078125,
+        235.74159240722656,
+        568.9324340820312
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        143.47915649414062,
+        524.8800048828125,
+        162.15345764160156
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        172.879150390625,
+        442.21563720703125,
+        191.55345153808594
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        212.35916137695312,
+        524.8804321289062,
+        231.03346252441406
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        241.75917053222656,
+        529.8165283203125,
+        260.4334716796875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2024년 6월 현재의 과학적",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        271.1591491699219,
+        524.760009765625,
+        289.8334655761719
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        300.55914306640625,
+        529.8165283203125,
+        319.23345947265625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        329.9591369628906,
+        488.5362854003906,
+        348.6334533691406
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.55999755859375,
+        382.0146179199219,
+        524.760009765625,
+        399.2524108886719
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        88.68000030517578,
+        398.9346008300781,
+        524.7608032226562,
+        433.0924072265625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        88.68000030517578,
+        398.9346008300781,
+        524.7608032226562,
+        433.0924072265625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제·개정 이력",
+      "font_size": 20.03999900817871,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        240.36000061035156,
+        94.46888732910156,
+        354.8399963378906,
+        121.12364959716797
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)",
+      "font_size": 15.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        100.19999694824219,
+        179.27430725097656,
+        495.80865478515625,
+        199.22547912597656
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "연번",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        231.3794403076172,
+        440.1600036621094,
+        247.3403778076172
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제·개정번호",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        231.3794403076172,
+        440.1600036621094,
+        247.3403778076172
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "승인일자",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        231.3794403076172,
+        440.1600036621094,
+        247.3403778076172
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "주요내용",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        231.3794403076172,
+        440.1600036621094,
+        247.3403778076172
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        269.0594482421875,
+        431.1600036621094,
+        285.0203857421875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서-1359-01",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        269.0594482421875,
+        431.1600036621094,
+        285.0203857421875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2024.06.13",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        269.0594482421875,
+        431.1600036621094,
+        285.0203857421875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 정",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        269.0594482421875,
+        431.1600036621094,
+        285.0203857421875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 5 -",
+      "font_size": 9.960000038146973,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.1199951171875,
+        786.5027465820312,
+        310.0413513183594,
+        799.4507446289062
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 목적",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        101.45279693603516,
+        99.57090759277344,
+        118.30079650878906
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        127.25279235839844,
+        542.4470825195312,
+        144.10079956054688
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제외한다.) 품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        148.01278686523438,
+        542.3280029296875,
+        164.8607940673828
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        168.77279663085938,
+        542.3276977539062,
+        185.6208038330078
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        189.6527862548828,
+        542.4476928710938,
+        206.50079345703125
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "운영 등 필요한 사항을 규정함을 목적으로 한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        210.4127960205078,
+        355.9683532714844,
+        227.26080322265625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2. 협의체의 기능",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        249.1728057861328,
+        156.45089721679688,
+        266.02081298828125
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        274.9728088378906,
+        538.5072021484375,
+        291.82080078125
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        295.8528137207031,
+        542.4479370117188,
+        312.7008056640625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        316.61279296875,
+        542.4473876953125,
+        333.4607849121094
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        337.372802734375,
+        542.3280029296875,
+        354.2207946777344
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "신청인에게 통보한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        358.2528076171875,
+        193.627197265625,
+        375.1007995605469
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3. 조정 대상",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        397.0128173828125,
+        135.1674041748047,
+        413.8608093261719
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        422.81280517578125,
+        542.4473876953125,
+        439.6607971191406
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대상으로 한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        69.5999984741211,
+        443.57281494140625,
+        155.8271942138672,
+        460.4208068847656
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "가. 「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        469.372802734375,
+        542.4473876953125,
+        486.2207946777344
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및 시험방법 심사 자료",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        101.4000015258789,
+        490.2528076171875,
+        234.21090698242188,
+        507.1007995605469
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        516.0527954101562,
+        542.4473876953125,
+        532.9007568359375
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        100.79999542236328,
+        536.8128051757812,
+        469.0074157714844,
+        553.6607666015625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "4. 협의체의 구성 등",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        575.5728149414062,
+        179.4477081298828,
+        592.4207763671875
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        601.372802734375,
+        542.3279418945312,
+        618.2207641601562
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        82.19999694824219,
+        622.2528076171875,
+        542.3268432617188,
+        639.1007690429688
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구성·운영할 수 있다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        82.19999694824219,
+        643.0128173828125,
+        204.18719482421875,
+        659.8607788085938
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        668.8128051757812,
+        540.2879638671875,
+        685.6607666015625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 위원장 : 의약품안전국장",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        694.61279296875,
+        239.2494354248047,
+        711.4607543945312
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        720.4127807617188,
+        542.4476928710938,
+        737.2607421875
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "심사부서 과장",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        173.87998962402344,
+        741.1727905273438,
+        255.93089294433594,
+        758.020751953125
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 6 -",
+      "font_size": 9.960000038146973,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.1199951171875,
+        786.5027465820312,
+        310.0413513183594,
+        799.4507446289062
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        101.45279693603516,
+        538.4111938476562,
+        118.30079650878906
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        166.44000244140625,
+        122.21279907226562,
+        542.3270874023438,
+        139.06080627441406
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        166.44000244140625,
+        142.97279357910156,
+        533.2509155273438,
+        159.82080078125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 보건의료 및 의약품 분야의 전문지식을 갖춘 자",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        168.77279663085938,
+        397.41119384765625,
+        185.6208038330078
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 「변호사법」에 따른 변호사",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        194.5727996826172,
+        271.05059814453125,
+        211.42080688476562
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        220.37278747558594,
+        403.8908996582031,
+        237.22079467773438
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        246.1728057861328,
+        538.4094848632812,
+        263.02081298828125
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "과장으로 한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        96.36000061035156,
+        267.05279541015625,
+        186.40780639648438,
+        283.9007873535156
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "5. 위원의 의무",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        305.81280517578125,
+        143.8509063720703,
+        322.6607971191406
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        331.61279296875,
+        540.8883666992188,
+        348.4607849121094
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        357.4128112792969,
+        538.4111938476562,
+        374.26080322265625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.23999786376953,
+        378.17279052734375,
+        542.3270874023438,
+        395.0207824707031
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하여서는 아니 된다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.23999786376953,
+        399.05279541015625,
+        203.0883331298828,
+        415.9007873535156
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "6. 위원의 제척·기피·회피",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        437.81280517578125,
+        202.65089416503906,
+        454.6607971191406
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        463.61279296875,
+        542.4473876953125,
+        480.4607849121094
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "심의·의결에 참여하지 못한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.5199966430664,
+        484.372802734375,
+        256.8478088378906,
+        501.2207946777344
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        510.17279052734375,
+        538.38720703125,
+        527.020751953125
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "단체와 이해관계가 있는 사항",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        97.31999969482422,
+        531.0527954101562,
+        271.847412109375,
+        547.9007568359375
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        556.852783203125,
+        505.3674011230469,
+        573.7007446289062
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        582.6527709960938,
+        542.3280029296875,
+        599.500732421875
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있는 자와 이해관계가 있는 사항",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        96.5999984741211,
+        603.4127807617188,
+        290.2073974609375,
+        620.2607421875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        629.2127685546875,
+        538.5311889648438,
+        646.0607299804688
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.5199966430664,
+        649.9727783203125,
+        538.4111938476562,
+        666.8207397460938
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "원의 기피를 신청할 수 있다. 이 경우 위원장은 협의체의 의결을 거쳐 결정한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.5199966430664,
+        670.852783203125,
+        541.1283569335938,
+        687.7007446289062
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        696.6527709960938,
+        541.3683471679688,
+        713.500732421875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "7. 조정의 신청",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        735.4127807617188,
+        143.8509063720703,
+        752.2607421875
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 7 -",
+      "font_size": 9.960000038146973,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.1199951171875,
+        786.5027465820312,
+        310.0413513183594,
+        799.4507446289062
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        101.45279693603516,
+        542.4456176757812,
+        118.30079650878906
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.47999572753906,
+        122.21279907226562,
+        542.4473876953125,
+        139.06080627441406
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.47999572753906,
+        142.97279357910156,
+        453.0671691894531,
+        159.82080078125
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "8. 조정 대상선정",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        194.5727996826172,
+        156.4503173828125,
+        211.42080688476562
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        220.37278747558594,
+        542.328369140625,
+        237.22079467773438
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다. 이 경우",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        82.08000183105469,
+        241.25279235839844,
+        542.3280029296875,
+        258.1007995605469
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        82.08000183105469,
+        262.0128173828125,
+        469.60833740234375,
+        278.8608093261719
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        287.81280517578125,
+        542.3280029296875,
+        304.6607971191406
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.63999938964844,
+        308.57281494140625,
+        436.3678283691406,
+        325.4208068847656
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "가. 법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        334.372802734375,
+        542.4476928710938,
+        351.2207946777344
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "없는 경우 등 이에 준하는 경우",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        106.19999694824219,
+        355.2528076171875,
+        289.7709045410156,
+        372.1007995605469
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다. 즉 이미",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        381.05279541015625,
+        542.4473876953125,
+        397.9007873535156
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        107.04000091552734,
+        401.81280517578125,
+        542.3276977539062,
+        418.6607971191406
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        107.04000091552734,
+        422.57281494140625,
+        538.5311889648438,
+        439.4208068847656
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "우는 조정 대상에서 제외한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        107.04000091552734,
+        443.4527893066406,
+        281.8271789550781,
+        460.30078125
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. 약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        469.2528076171875,
+        542.3265380859375,
+        486.1007995605469
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "판단되는 경우",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        107.75999450683594,
+        490.0127868652344,
+        206.68800354003906,
+        506.86077880859375
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "9. 조정 회의",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        528.7728271484375,
+        131.25091552734375,
+        545.6207885742188
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다. 다만, 위원장이 부득",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        554.5728149414062,
+        538.4109497070312,
+        571.4207763671875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.63999938964844,
+        575.4528198242188,
+        542.447998046875,
+        592.30078125
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대행한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.63999938964844,
+        596.2127685546875,
+        139.0078125,
+        613.0607299804688
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        622.0128173828125,
+        542.3270874023438,
+        638.8607788085938
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3분의 2 이상의 찬성으로 의결한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.36000061035156,
+        642.7728271484375,
+        289.5071716308594,
+        659.6207885742188
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "10. 의견 청취 등",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        681.6527709960938,
+        157.53118896484375,
+        698.500732421875
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        707.4528198242188,
+        542.3276977539062,
+        724.30078125
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있다. 다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.5999984741211,
+        728.2127685546875,
+        542.4476928710938,
+        745.0607299804688
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.5999984741211,
+        748.9727783203125,
+        536.4672241210938,
+        765.8207397460938
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 8 -",
+      "font_size": 9.960000038146973,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.1199951171875,
+        786.5027465820312,
+        310.0413513183594,
+        799.4507446289062
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "11. 조정 결과 통보 및 처리",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        101.45279693603516,
+        220.89089965820312,
+        118.30079650878906
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        127.25279235839844,
+        542.4468383789062,
+        144.10079956054688
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "신청인에게 공문으로 통보한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.95999908447266,
+        148.01278686523438,
+        266.808349609375,
+        164.8607940673828
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        173.8127899169922,
+        542.4470825195312,
+        190.66079711914062
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "신청인에게 회신한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.95999908447266,
+        194.5727996826172,
+        209.92832946777344,
+        211.42080688476562
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "12. 수당 등 지급",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        233.45278930664062,
+        157.53089904785156,
+        250.30079650878906
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        259.2528076171875,
+        542.4473876953125,
+        276.1007995605469
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또는 여비를 지급할 수 있다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.5199966430664,
+        280.0128173828125,
+        249.18719482421875,
+        296.8608093261719
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "13. 규정 외 적용",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        318.7727966308594,
+        161.447998046875,
+        335.62078857421875
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        344.57281494140625,
+        542.4476928710938,
+        361.4208068847656
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "시행령과 같은 법 시행규칙 등에 따른다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        81.5999984741211,
+        365.4527893066406,
+        319.7471923828125,
+        382.30078125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "14. 적용례",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        412.2528076171875,
+        119.37062072753906,
+        429.1007995605469
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 본 안내서는 시행일(2024.6.17.) 이후 보완 요구되는 것부터 적용한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        438.05279541015625,
+        490.5071716308594,
+        454.9007873535156
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "15. 안내서의 재검토",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        56.63999938964844,
+        484.8528137207031,
+        176.2506103515625,
+        501.7008056640625
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        510.65277099609375,
+        542.327392578125,
+        527.500732421875
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.4000015258789,
+        531.4127807617188,
+        538.4109497070312,
+        548.2607421875
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "야 한다.",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        80.4000015258789,
+        552.1727905273438,
+        132.76834106445312,
+        569.020751953125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 9 -",
+      "font_size": 9.960000038146973,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.1199951171875,
+        786.5027465820312,
+        310.0413513183594,
+        799.4507446289062
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        56.63999938964844,
+        101.45279693603516,
+        443.130615234375,
+        118.30079650878906
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 허가·심사 조정협의체 안건 상정 신청서",
+      "font_size": 15.960000038146973,
+      "font_name": "HCRBatang-Bold",
+      "bbox": [
+        127.43999481201172,
+        139.28280639648438,
+        467.4001159667969,
+        160.0308074951172
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "◦민원접수번호",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        59.39999771118164,
+        171.60000610351562,
+        150.47999572753906,
+        187.1999969482422
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "◦민원접수일시",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        59.39999771118164,
+        192.1199951171875,
+        150.47999572753906,
+        207.71998596191406
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "◦민   원   명",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        59.39999771118164,
+        212.52000427246094,
+        151.55999755859375,
+        228.1199951171875
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "◦ 신 청",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        59.39999771118164,
+        239.52000427246094,
+        99.72000122070312,
+        255.1199951171875
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "자",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        78.95999908447266,
+        258.7200012207031,
+        100.19999694824219,
+        274.32000732421875
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "성명(법인명)",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        102.5999984741211,
+        234.47999572753906,
+        334.6653747558594,
+        250.07998657226562
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "연락처/전자우편",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        102.5999984741211,
+        257.760009765625,
+        184.67999267578125,
+        273.3600158691406
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "주소(소재지)",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        102.5999984741211,
+        281.0400085449219,
+        168.47999572753906,
+        296.6400146484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "◦ 조정 대상",
+      "font_size": 12.0,
+      "font_name": "HCRBatang",
+      "bbox": [
+        59.39999771118164,
+        310.91998291015625,
+        129.60000610351562,
+        326.5199890136719
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        191.63999938964844,
+        299.93280029296875,
+        543.9454345703125,
+        316.7807922363281
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안정성에 관한 자료",
+      "font_size": 12.960000038146973,
+      "font_name": "HCRBatang",
+      "bbox": [
+        210.2073974609375,
+        320.69281005859375,
+        329.5486755371094,
+        337.5408020019531
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "요구사유",
+      "font_size": 11.039999961853027,
+      "font_name": "HCRBatang",
+      "bbox": [
+        59.39999771118164,
+        354.42718505859375,
+        107.66908264160156,
+        368.7792053222656
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "요구내용",
+      "font_size": 11.039999961853027,
+      "font_name": "HCRBatang",
+      "bbox": [
+        59.39999771118164,
+        424.8671875,
+        107.66908264160156,
+        439.2192077636719
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(가)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        119.39999389648438,
+        628.3200073242188,
+        359.0396728515625,
+        641.5679931640625
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 필요 시 별지사용 또는 서식 조정 가능",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        119.39999389648438,
+        628.3200073242188,
+        359.0396728515625,
+        641.5679931640625
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(나)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        119.39999389648438,
+        645.8400268554688,
+        138.8889617919922,
+        659.0880126953125
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(다)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        167.87998962402344,
+        663.47998046875,
+        486.89373779296875,
+        676.7279663085938
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        167.87998962402344,
+        663.47998046875,
+        486.89373779296875,
+        676.7279663085938
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(라)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        119.39999389648438,
+        681.1199951171875,
+        138.8889617919922,
+        694.3679809570312
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(마)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        246.36000061035156,
+        698.6400146484375,
+        408.6000061035156,
+        711.8880004882812
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "20",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        246.36000061035156,
+        698.6400146484375,
+        408.6000061035156,
+        711.8880004882812
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "년",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        246.36000061035156,
+        698.6400146484375,
+        408.6000061035156,
+        711.8880004882812
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "월",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        246.36000061035156,
+        698.6400146484375,
+        408.6000061035156,
+        711.8880004882812
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        246.36000061035156,
+        698.6400146484375,
+        408.6000061035156,
+        711.8880004882812
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(바)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        312.239990234375,
+        716.280029296875,
+        331.7289733886719,
+        729.5280151367188
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        165.95999145507812,
+        733.9199829101562,
+        520.9689331054688,
+        747.16796875
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "심의요구자",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        165.95999145507812,
+        733.9199829101562,
+        520.9689331054688,
+        747.16796875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(회사명 또는 직위)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        165.95999145507812,
+        733.9199829101562,
+        520.9689331054688,
+        747.16796875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "성명",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        165.95999145507812,
+        733.9199829101562,
+        520.9689331054688,
+        747.16796875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(서명)",
+      "font_size": 11.039999961853027,
+      "font_name": "T8",
+      "bbox": [
+        165.95999145507812,
+        733.9199829101562,
+        520.9689331054688,
+        747.16796875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    }
+  ],
+  "markdown_content": "<!-- PAGE_1 -->\n# 의약품 허가·심사 조정협의체\n\n<!-- PAGE_1 -->\n# 운영안내서\n\n(민원인안내서)\n\n<!-- PAGE_1 -->\n## 2024. 06.\n\n<!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다.**\n**지침서ㆍ안내서가 있습니까?**\n**운영 등 필요한 사항을 규정함을 목적으로 한다.**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.**\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다. | 연락처/전자우편 |\n| 과장으로 한다. | (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다. | 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까? |\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다.**\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다.**\n**시행령과 같은 법 시행규칙 등에 따른다.**\n**내용입니까?**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ■ 아니오 |\n| 하여서는 아니 된다. | 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까?**\n| 대상으로 한다. | 우는 조정 대상에서 제외한다. |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. |\n**심의·의결에 참여하지 못한다.**\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다. | 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? (민원인용) |\n| 야 한다. | 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다.**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n상기 사항에 대하여 확인하였음.\n\n2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n<!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1. 목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.) 품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2. 협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3. 조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가. 「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나. 「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4. 협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n· 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n- - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5. 위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n· 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6. 위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다. 이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n· 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n- 7. 조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n- 8. 조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다. 이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가. 법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나. 1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다. 즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다. 약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9. 조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다. 다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n- 10. 의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다. 다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n- - 8 -\n- 11. 조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n· 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12. 수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13. 규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14. 적용례\n· 본 안내서는 시행일(2024.6.17.) 이후 보완 요구되는 것부터 적용한다.\n\n- 15. 안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n- (라)\n- (마)\n20\n\n년\n\n월\n\n일\n\n- (바)\n- (사)\n심의요구자\n\n(회사명 또는 직위)\n\n성명\n\n(서명)\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "<!-- PAGE_1 -->\n# 의약품 허가·심사 조정협의체\n\n<!-- PAGE_1 -->\n# 운영안내서\n\n(민원인안내서)\n\n<!-- PAGE_1 -->\n## 2024. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 95,
+        "word_count": 18,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 허가·심사 조정협의체\n\n<!-- PAGE_1 -->\n# 운영안내서\n\n(민원인안내서)\n\n<!-- PAGE_1 -->\n## 2024.  06.\n\n <!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다.",
+        "original_sentence": "<!-- PAGE_1 -->\n# 의약품 허가·심사 조정협의체\n\n<!-- PAGE_1 -->\n# 운영안내서\n\n(민원인안내서)\n\n<!-- PAGE_1 -->\n## 2024. "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "06.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 허가·심사 조정협의체\n\n<!-- PAGE_1 -->\n# 운영안내서\n\n(민원인안내서)\n\n<!-- PAGE_1 -->\n## 2024.  06.\n\n <!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다. **\n**지침서ㆍ안내서가 있습니까?",
+        "original_sentence": "06.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "<!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 146,
+        "word_count": 27,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 허가·심사 조정협의체\n\n<!-- PAGE_1 -->\n# 운영안내서\n\n(민원인안내서)\n\n<!-- PAGE_1 -->\n## 2024.  06.\n\n <!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다. **\n**지침서ㆍ안내서가 있습니까? **\n**운영 등 필요한 사항을 규정함을 목적으로 한다.",
+        "original_sentence": "<!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 93,
+        "word_count": 26,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 허가·심사 조정협의체\n\n<!-- PAGE_1 -->\n# 운영안내서\n\n(민원인안내서)\n\n<!-- PAGE_1 -->\n## 2024.  06.\n\n <!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다. **\n**지침서ㆍ안내서가 있습니까? **\n**운영 등 필요한 사항을 규정함을 목적으로 한다. **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+        "original_sentence": "**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "**\n**지침서ㆍ안내서가 있습니까?",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 3,
+        "page_number": 2,
+        "window_text": "06.\n\n <!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다. **\n**지침서ㆍ안내서가 있습니까? **\n**운영 등 필요한 사항을 규정함을 목적으로 한다. **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다. ",
+        "original_sentence": "**\n**지침서ㆍ안내서가 있습니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "**\n**운영 등 필요한 사항을 규정함을 목적으로 한다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 31,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n## 의약품허가총괄과\n\n민원인 안내서 등록번호\n\n안내서-1359-01\n\n- - 2 -\n지침서ᆞ안내서 제ᆞ개정 점검표\n\n명칭\n\n의약품 허가·심사조정협의체 운영 안내서[민원인안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다. **\n**지침서ㆍ안내서가 있습니까? **\n**운영 등 필요한 사항을 규정함을 목적으로 한다. **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다.  | 연락처/전자우편 |\n| 과장으로 한다. ",
+        "original_sentence": "**\n**운영 등 필요한 사항을 규정함을 목적으로 한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 124,
+        "word_count": 29,
+        "page_number": 2,
+        "window_text": "**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**신청인에게 회신한다. **\n**지침서ㆍ안내서가 있습니까? **\n**운영 등 필요한 사항을 규정함을 목적으로 한다. **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다.  | 연락처/전자우편 |\n| 과장으로 한다.  | (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다. ",
+        "original_sentence": "**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "**\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 45,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "**\n**지침서ㆍ안내서가 있습니까? **\n**운영 등 필요한 사항을 규정함을 목적으로 한다. **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다.  | 연락처/전자우편 |\n| 과장으로 한다.  | (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다.  | 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까? ",
+        "original_sentence": "**\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "| 연락처/전자우편 |\n| 과장으로 한다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 24,
+        "word_count": 6,
+        "page_number": 6,
+        "window_text": "**\n**운영 등 필요한 사항을 규정함을 목적으로 한다. **\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다.  | 연락처/전자우편 |\n| 과장으로 한다.  | (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다.  | 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까?  |\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다.",
+        "original_sentence": "| 연락처/전자우편 |\n| 과장으로 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 156,
+        "word_count": 25,
+        "page_number": 1,
+        "window_text": "**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 |\n**성명(법인명)**\n**필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다.  | 연락처/전자우편 |\n| 과장으로 한다.  | (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다.  | 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까?  |\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다. **\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "| (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "| 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까? ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 71,
+        "word_count": 19,
+        "page_number": 2,
+        "window_text": "**\n| 자 | 신청인에게 해당 민원의 조정 대상 선정 여부를 통지하여야 한다.  | 연락처/전자우편 |\n| 과장으로 한다.  | (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다.  | 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까?  |\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다. **\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다.",
+        "original_sentence": "| 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "|\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 36,
+        "word_count": 9,
+        "page_number": 7,
+        "window_text": "| 연락처/전자우편 |\n| 과장으로 한다.  | (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다.  | 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까?  |\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다. **\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다. **\n**시행령과 같은 법 시행규칙 등에 따른다.",
+        "original_sentence": "|\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "**\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 60,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "| (사유 :                                                                 ) | □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 |\n| 1 | 안내서-1359-01 | 2024.06.13 | 제 정 |\n| 또는 여비를 지급할 수 있다.  | 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까?  |\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다. **\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다. **\n**시행령과 같은 법 시행규칙 등에 따른다. **\n**내용입니까?",
+        "original_sentence": "**\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "| □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 108,
+        "word_count": 34,
+        "page_number": 2,
+        "window_text": "| 주소(소재지) |\n| □ 예 | ■ 아니오 |\n| 행정규칙(고시ㆍ훈령ㆍ예규)의 내용을 단순 편집 또는 | 나열한 것입니까?  |\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다. **\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다. **\n**시행령과 같은 법 시행규칙 등에 따른다. **\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "**\n**시행령과 같은 법 시행규칙 등에 따른다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 27,
+        "word_count": 7,
+        "page_number": 8,
+        "window_text": "|\n**위원장 주관 내부위원 심의를 통해 조정 대상에서 제외한다. **\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다. **\n**시행령과 같은 법 시행규칙 등에 따른다. **\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| 하여서는 아니 된다. ",
+        "original_sentence": "**\n**시행령과 같은 법 시행규칙 등에 따른다."
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "**\n**내용입니까?",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 11,
+        "word_count": 2,
+        "page_number": 2,
+        "window_text": "**\n**등록대상**\n**안정성에 관한 자료**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다. **\n**시행령과 같은 법 시행규칙 등에 따른다. **\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| 하여서는 아니 된다.  | 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까?",
+        "original_sentence": "**\n**내용입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n**여부**\n| 없는 경우 등 이에 준하는 경우 | □ 1년 이내 한시적 적용 또는 일회성 지시ㆍ명령에 해당하는 | □ 예 | ■ 아니오 |\n**신청인에게 통보한다. **\n**시행령과 같은 법 시행규칙 등에 따른다. **\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| 하여서는 아니 된다.  | 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까? **\n| 대상으로 한다. ",
+        "original_sentence": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "| □ 예 | ■ 아니오 |\n| 하여서는 아니 된다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "**\n**시행령과 같은 법 시행규칙 등에 따른다. **\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| 하여서는 아니 된다.  | 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까? **\n| 대상으로 한다.  | 우는 조정 대상에서 제외한다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| 하여서는 아니 된다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까?",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 145,
+        "word_count": 39,
+        "page_number": 2,
+        "window_text": "**\n**내용입니까? **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| 하여서는 아니 된다.  | 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까? **\n| 대상으로 한다.  | 우는 조정 대상에서 제외한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "**\n| 대상으로 한다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 14,
+        "word_count": 4,
+        "page_number": 5,
+        "window_text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| 하여서는 아니 된다.  | 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까? **\n| 대상으로 한다.  | 우는 조정 대상에서 제외한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "**\n| 대상으로 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "| 우는 조정 대상에서 제외한다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 5,
+        "page_number": 7,
+        "window_text": "| □ 예 | ■ 아니오 |\n| 하여서는 아니 된다.  | 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까? **\n| 대상으로 한다.  | 우는 조정 대상에서 제외한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**심의·의결에 참여하지 못한다.",
+        "original_sentence": "| 우는 조정 대상에서 제외한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "|\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 15,
+        "page_number": 2,
+        "window_text": "| 게 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술하 | 는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조) |\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**정리한 자료입니까? **\n| 대상으로 한다.  | 우는 조정 대상에서 제외한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**심의·의결에 참여하지 못한다. **\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다. ",
+        "original_sentence": "|\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "**\n| 대상으로 한다.  | 우는 조정 대상에서 제외한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**심의·의결에 참여하지 못한다. **\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다.  | 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "|\n**심의·의결에 참여하지 못한다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 20,
+        "word_count": 4,
+        "page_number": 6,
+        "window_text": "| 우는 조정 대상에서 제외한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**심의·의결에 참여하지 못한다. **\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다.  | 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+        "original_sentence": "|\n**심의·의결에 참여하지 못한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "**\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 31,
+        "word_count": 6,
+        "page_number": 1,
+        "window_text": "|\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**심의·의결에 참여하지 못한다. **\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다.  | 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| 야 한다. ",
+        "original_sentence": "**\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "| 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 112,
+        "word_count": 29,
+        "page_number": 5,
+        "window_text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  |\n**심의·의결에 참여하지 못한다. **\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다.  | 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| 야 한다.  | 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다.",
+        "original_sentence": "| 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "(공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 191,
+        "word_count": 42,
+        "page_number": 2,
+        "window_text": "|\n**심의·의결에 참여하지 못한다. **\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다.  | 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| 야 한다.  | 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다. **\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+        "original_sentence": "(공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "(민원인용) |\n| 야 한다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 17,
+        "word_count": 5,
+        "page_number": 8,
+        "window_text": "**\n| 안전국 의약품허가총괄과에 문의하시기 바랍니다.  | 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| 야 한다.  | 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다. **\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. ",
+        "original_sentence": "(민원인용) |\n| 야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "| 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다.",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 80,
+        "word_count": 21,
+        "page_number": 3,
+        "window_text": "| 및 시험방법 심사 자료 | 판단되는 경우 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침서) | ■ 아니오 |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| 야 한다.  | 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다. **\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n",
+        "original_sentence": "| 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "(공무원용)**\n**□ 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게 풀어서**\n| 구분 | 전화번호 : 043-719-2316, 2318 | 단체와 이해관계가 있는 사항 |\n**규정」 제7조2에 따른 재심사(자료보호) 대상 여부에 관한 자료**\n| 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | 하는 것입니까?  (민원인용) |\n| 야 한다.  | 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다. **\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n",
+        "original_sentence": "**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "|\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 29,
+        "word_count": 6,
+        "page_number": 1,
+        "window_text": "(민원인용) |\n| 야 한다.  | 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다. **\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "|\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 129,
+        "word_count": 27,
+        "page_number": 2,
+        "window_text": "| 팩스번호 : 043-719-2300 |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**대행한다. **\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다. ",
+        "original_sentence": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "상기 사항에 대하여 확인하였음.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 4,
+        "page_number": 2,
+        "window_text": "**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n",
+        "original_sentence": "상기 사항에 대하여 확인하였음.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 206,
+        "word_count": 49,
+        "page_number": 3,
+        "window_text": "|\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1. ",
+        "original_sentence": "2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "<!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 163,
+        "word_count": 34,
+        "page_number": 3,
+        "window_text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n지침서ㆍ안내서\n\n■ 예(☞안내서)\n\n□ 아니오\n\n사항\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ\n\n안내서 제ㆍ개정 절차를 진행하시기 바랍니다.\n\n 상기 사항에 대하여 확인하였음.\n\n 2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1.  목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.) ",
+        "original_sentence": "<!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 155,
+        "word_count": 37,
+        "page_number": 3,
+        "window_text": "상기 사항에 대하여 확인하였음.\n\n 2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1.  목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.)  품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2. ",
+        "original_sentence": "또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 99,
+        "word_count": 24,
+        "page_number": 3,
+        "window_text": "2024 년  06 월  13 일\n\n담당자\n\n확  인(부서장)\n\n김 영 주\n\n- - 3 -\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품\n\n<!-- PAGE_3 -->\n### 이 안내서는 의약품 허가·심사조정협의체 운영 절차에 대하여 알기 쉽\n\n<!-- PAGE_3 -->\n### 게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1.  목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.)  품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2.  협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3. ",
+        "original_sentence": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.) ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 8,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_3 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기술방\n\n<!-- PAGE_3 -->\n### 식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수하셔야\n\n<!-- PAGE_3 -->\n### 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1.  목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.)  품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2.  협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3.  조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가. ",
+        "original_sentence": "목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.) "
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 132,
+        "word_count": 31,
+        "page_number": 9,
+        "window_text": "또한, 본 안내서는 2024년 6월 현재의 과학적\n\n<!-- PAGE_3 -->\n### ㆍ기술적 사실 및 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_3 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1.  목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.)  품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2.  협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3.  조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가.  「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나. ",
+        "original_sentence": "품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 194,
+        "word_count": 48,
+        "page_number": 1,
+        "window_text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽\n\n제·개정 이력\n\n의약품 허가·심사 조정협의체 운영 안내서(민원인 안내서)\n\n- - 5 -\n- 1.  목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.)  품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2.  협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3.  조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가.  「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나.  「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4. ",
+        "original_sentence": "협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 54,
+        "word_count": 13,
+        "page_number": 1,
+        "window_text": "목적\n「약사법」(이하 ‘법’이라 한다)에 따른 의약품(생물학적제제등, 한약(생약)제제는\n\n제외한다.)  품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2.  협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3.  조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가.  「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나.  「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4.  협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n",
+        "original_sentence": "조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 46,
+        "word_count": 9,
+        "page_number": 1,
+        "window_text": "품목허가(변경 포함, 이하 동일) 신청에 따른 식품의약품안전처의 검토\n\n결과에 대하여 신청인이 조정 신청을 할 수 있도록 하고, 해당 조정을 위해\n\n의약품 허가·심사 조정협의체(이하 “협의체”라 한다)을 설치하고 그 구성 및\n\n- 2.  협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3.  조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가.  「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나.  「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4.  협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n · 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n",
+        "original_sentence": "「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 47,
+        "word_count": 10,
+        "page_number": 1,
+        "window_text": "협의체의 기능\n의약품 품목허가 신청에 대한 식품의약품안전처의 검토 결과 「의약품의 품목허가·\n\n신고·심사 규정」 제55조 제2항에 따른 보완자료 제출이 요구되는 경우(이하\n\n“보완 요구”라 한다) 등에 있어, 해당 신청인의 해당 보완 요구자료 등에 대한\n\n조정 신청을 받고 이를 조정 회의를 통해 조정하고 그 결과를 관련 부서 및 해당\n\n- 3.  조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가.  「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나.  「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4.  협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n · 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n - - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5. ",
+        "original_sentence": "「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 111,
+        "word_count": 26,
+        "page_number": 1,
+        "window_text": "조정 대상\n의약품허가총괄과에 품목허가 신청된 품목 중에서 아래에 해당하는 경우를 조정\n\n- 가.  「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나.  「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4.  협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n · 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n - - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5.  위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n",
+        "original_sentence": "협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "· 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 48,
+        "word_count": 11,
+        "page_number": 5,
+        "window_text": "「의약품의 품목허가·신고·심사 규정」 제5조에 따른 안전성·유효성과 기준\n- 나.  「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4.  협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n · 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n - - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5.  위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n · 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6. ",
+        "original_sentence": "· 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "- - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 318,
+        "word_count": 82,
+        "page_number": 5,
+        "window_text": "「의약품등의 안전에 관한 규칙」 제22조 및 「의약품의 품목허가·신고·심사\n- 4.  협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n · 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n - - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5.  위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n · 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6.  위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다. ",
+        "original_sentence": "- - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5. "
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 54,
+        "word_count": 11,
+        "page_number": 1,
+        "window_text": "협의체의 구성 등\n· 의약품안전국장(이하 “국장”이라 한다)은 제2조에 따른 조정을 위하여 관계\n\n공무원 및 관련 분야의 학식과 경험이 풍부한 관계 전문가 등으로 협의체를\n\n구성·운영할 수 있다.\n\n · 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n - - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5.  위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n · 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6.  위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다.  이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n",
+        "original_sentence": "위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_048",
+      "text": "· 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 47,
+        "window_size": 3,
+        "char_count": 93,
+        "word_count": 26,
+        "page_number": 6,
+        "window_text": "· 협의체는 위원장 1인을 포함하여 7인 내지 10인의 내·외부 위원으로 구성한다.\n\n - - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5.  위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n · 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6.  위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다.  이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n · 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n",
+        "original_sentence": "· 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6. "
+      }
+    },
+    {
+      "chunk_id": "chunk_049",
+      "text": "위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 48,
+        "window_size": 3,
+        "char_count": 314,
+        "word_count": 83,
+        "page_number": 1,
+        "window_text": "- - 위원장 : 의약품안전국장\n- - 내부위원 : 의약품심사부장, 의약품정책과장, 의약품허가총괄과장, 관련\n심사부서 과장\n\n- - 6 -\n- - 외부위원 : 아래 어느 하나에 해당하는 사람으로서 중앙약사심의위원회 위\n원으로 위촉되어 있는 전문가 중에서 해당 조정 대상 분야에\n\n대한 전문성을 고려하여 해당 조정회의 소집 시 위원장이 위촉\n\n· 보건의료 및 의약품 분야의 전문지식을 갖춘 자\n\n· 「변호사법」에 따른 변호사\n\n· 그 밖에 약사에 관한 학식과 경험이 풍부한 사람\n\n- - 협의체의 업무를 보조하기 위하여 간사 1인을 두며, 간사는 의약품허가총괄\n- 5.  위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n · 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6.  위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다.  이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n · 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n - 7. ",
+        "original_sentence": "위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_050",
+      "text": "이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 49,
+        "window_size": 3,
+        "char_count": 29,
+        "word_count": 7,
+        "page_number": 6,
+        "window_text": "위원의 의무\n· 조정협의체 위원(이하 \"위원\"이라 한다)은 공정하고 성실하게 심의하여야 한다.\n\n · 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6.  위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다.  이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n · 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n - 7.  조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n",
+        "original_sentence": "이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_051",
+      "text": "· 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 50,
+        "window_size": 3,
+        "char_count": 46,
+        "word_count": 11,
+        "page_number": 6,
+        "window_text": "· 위원은 심의에서 알게 된 비밀, 심의자료 등을 누설하거나 무단활용 또는 발\n\n표 등을 하거나 특정 기업 또는 단체 등의 이익을 대변하는 발언이나 행위를\n\n- 6.  위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다.  이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n · 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n - 7.  조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n - 8. ",
+        "original_sentence": "· 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_052",
+      "text": "- 7. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 51,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "위원의 제척·기피·회피\n· 위원은 심의의 공정을 기하기 위하여 다음 어느 하나에 해당하는 사항에 대한\n\n- - 위원 또는 위원의 배우자, 직계존비속인 사람이나 그 사람이 속한 기관·\n- - 위원이 증언, 진술 또는 감정(鑑定)을 하거나 대리인으로 관여한 사항\n- - 위원이나 위원이 속한 공공기관ㆍ법인 또는 단체 등이 조언 등 지원을 하고\n있는 자와 이해관계가 있는 사항\n\n· 신청인 또는 이해관계인은 제1항에 따른 제척사유가 있거나 심의의 공정을 기\n\n대하기 어려운 사유가 있는 위원에 대해서는 그 사유를 밝혀 협의체에 그 위\n\n원의 기피를 신청할 수 있다.  이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n · 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n - 7.  조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n - 8.  조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다. ",
+        "original_sentence": "- 7. "
+      }
+    },
+    {
+      "chunk_id": "chunk_053",
+      "text": "조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 52,
+        "window_size": 3,
+        "char_count": 140,
+        "word_count": 32,
+        "page_number": 2,
+        "window_text": "이 경우 위원장은 협의체의 의결을 거쳐 결정한다.\n\n · 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n - 7.  조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n - 8.  조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다.  이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가. ",
+        "original_sentence": "조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_054",
+      "text": "- 8. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 53,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "· 위원은 상기의 사유에 해당하는 경우에는 스스로 심의·의결을 회피할 수 있다.\n\n - 7.  조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n - 8.  조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다.  이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가.  법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나. ",
+        "original_sentence": "- 8. "
+      }
+    },
+    {
+      "chunk_id": "chunk_055",
+      "text": "조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 54,
+        "window_size": 3,
+        "char_count": 89,
+        "word_count": 18,
+        "page_number": 7,
+        "window_text": "- 7.  조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n - 8.  조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다.  이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가.  법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나.  1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다. ",
+        "original_sentence": "조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_056",
+      "text": "이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 55,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 16,
+        "page_number": 7,
+        "window_text": "조정의 신청\n- - 7 -\n· 보완 요구(1차) 받은 사항에 대하여 조정을 신청하려는 자는 보완요구일로부터\n\n14일 이내(달력 기준) 별지 제1호 서식의 의약품 허가·심사 조정협의체 안건\n\n상정 신청서를 작성하여 의약품허가총괄과에 제출하여야 한다.\n\n - 8.  조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다.  이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가.  법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나.  1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다.  즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다. ",
+        "original_sentence": "이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_057",
+      "text": "법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 56,
+        "window_size": 3,
+        "char_count": 43,
+        "word_count": 11,
+        "page_number": 1,
+        "window_text": "- 8.  조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다.  이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가.  법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나.  1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다.  즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다.  약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9. ",
+        "original_sentence": "법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_058",
+      "text": "1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 57,
+        "window_size": 3,
+        "char_count": 36,
+        "word_count": 10,
+        "page_number": 4,
+        "window_text": "조정 대상선정\n· 위원장은 제7조에 따라 조정신청을 받은 경우 아래의 제외대상을 고려하여\n\n제4조제2항제1호의 내부위원과의 심의를 통하여 조정대상을 선정한다.  이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가.  법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나.  1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다.  즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다.  약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9.  조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다. ",
+        "original_sentence": "1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_059",
+      "text": "즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 58,
+        "window_size": 3,
+        "char_count": 91,
+        "word_count": 25,
+        "page_number": 2,
+        "window_text": "이 경우\n\n· 다음 각 호의 어느 하나에 해당하는 경우에는 제3조의 조정 대상에도 불구하고\n\n- 가.  법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나.  1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다.  즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다.  약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9.  조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다.  다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n",
+        "original_sentence": "즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_060",
+      "text": "약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 59,
+        "window_size": 3,
+        "char_count": 43,
+        "word_count": 9,
+        "page_number": 4,
+        "window_text": "법령에 따라 민원 처리요건이 구체적으로 규정되어 있어 해석의 여지가\n- 나.  1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다.  즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다.  약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9.  조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다.  다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n - 10. ",
+        "original_sentence": "약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9. "
+      }
+    },
+    {
+      "chunk_id": "chunk_061",
+      "text": "조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 60,
+        "window_size": 3,
+        "char_count": 39,
+        "word_count": 9,
+        "page_number": 1,
+        "window_text": "1개 품목에 대하여는 1회에 한하여 조정 대상으로 할 수 있다.  즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다.  약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9.  조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다.  다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n - 10.  의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다. ",
+        "original_sentence": "조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_062",
+      "text": "다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 61,
+        "window_size": 3,
+        "char_count": 124,
+        "word_count": 31,
+        "page_number": 1,
+        "window_text": "즉 이미\n조정회의를 거쳐 조정결과가 통지된 품목(이미 조정결과 통지된 사항\n\n이외 다른 자료 포함), 동일 민원이 재차 신청된 경우 및 이에 준하는 경\n\n- 다.  약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9.  조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다.  다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n - 10.  의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다.  다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n",
+        "original_sentence": "다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_063",
+      "text": "- 10. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 62,
+        "window_size": 3,
+        "char_count": 6,
+        "word_count": 2,
+        "page_number": 4,
+        "window_text": "약사법 제18조에 따른 중앙약사심의위원회 자문을 받았거나 필요하다고\n- 9.  조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다.  다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n - 10.  의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다.  다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n - - 8 -\n- 11. ",
+        "original_sentence": "- 10. "
+      }
+    },
+    {
+      "chunk_id": "chunk_064",
+      "text": "의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 63,
+        "window_size": 3,
+        "char_count": 56,
+        "word_count": 16,
+        "page_number": 7,
+        "window_text": "조정 회의\n· 위원장은 협의체를 대표하고, 협의체의 회의를 주재한다.  다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n - 10.  의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다.  다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n - - 8 -\n- 11.  조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n",
+        "original_sentence": "의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_065",
+      "text": "다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 64,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 20,
+        "page_number": 9,
+        "window_text": "다만, 위원장이 부득\n\n이한 사유로 직무를 수행할 수 없는 때에는 위원장이 지명한 위원이 그 직무를\n\n· 회의는 제4조에 따라 구성된 위원의 과반수 출석으로 개최하고, 출석 위원의\n\n3분의 2 이상의 찬성으로 의결한다.\n\n - 10.  의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다.  다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n - - 8 -\n- 11.  조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n · 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12. ",
+        "original_sentence": "다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_066",
+      "text": "- - 8 -\n- 11. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 65,
+        "window_size": 3,
+        "char_count": 14,
+        "word_count": 6,
+        "page_number": 4,
+        "window_text": "- 10.  의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다.  다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n - - 8 -\n- 11.  조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n · 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12.  수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13. ",
+        "original_sentence": "- - 8 -\n- 11. "
+      }
+    },
+    {
+      "chunk_id": "chunk_067",
+      "text": "조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 66,
+        "window_size": 3,
+        "char_count": 75,
+        "word_count": 18,
+        "page_number": 1,
+        "window_text": "의견 청취 등\n· 해당 신청인이 의견 진술을 원하는 경우 회의에 출석하여 의견을 진술할 수\n\n있다.  다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n - - 8 -\n- 11.  조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n · 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12.  수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13.  규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14. ",
+        "original_sentence": "조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_068",
+      "text": "· 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 67,
+        "window_size": 3,
+        "char_count": 49,
+        "word_count": 12,
+        "page_number": 1,
+        "window_text": "다만, 해당 신청인이 원하거나 출석할 수 없는 특별한 사정이 있는\n\n경우에는 서면(전자적 방법에 의한 서면을 포함한다)으로 의견을 진술할 수 있다.\n\n - - 8 -\n- 11.  조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n · 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12.  수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13.  규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14.  적용례\n· 본 안내서는 시행일(2024.6.17.) ",
+        "original_sentence": "· 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12. "
+      }
+    },
+    {
+      "chunk_id": "chunk_069",
+      "text": "수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 68,
+        "window_size": 3,
+        "char_count": 59,
+        "word_count": 17,
+        "page_number": 9,
+        "window_text": "- - 8 -\n- 11.  조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n · 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12.  수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13.  규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14.  적용례\n· 본 안내서는 시행일(2024.6.17.)  이후 보완 요구되는 것부터 적용한다.\n\n",
+        "original_sentence": "수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13. "
+      }
+    },
+    {
+      "chunk_id": "chunk_070",
+      "text": "규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 69,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 17,
+        "page_number": 2,
+        "window_text": "조정 결과 통보 및 처리\n· 의약품허가총괄과장은 보완 기간 이내에 조정결과를 관련 부서 및 조정신청\n\n신청인에게 공문으로 통보한다.\n\n · 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12.  수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13.  규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14.  적용례\n· 본 안내서는 시행일(2024.6.17.)  이후 보완 요구되는 것부터 적용한다.\n\n - 15. ",
+        "original_sentence": "규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14. "
+      }
+    },
+    {
+      "chunk_id": "chunk_071",
+      "text": "적용례\n· 본 안내서는 시행일(2024.6.17.) ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 70,
+        "window_size": 3,
+        "char_count": 29,
+        "word_count": 5,
+        "page_number": 4,
+        "window_text": "· 의약품허가총괄과장은 협의체 조정결과를 고려하여 민원 처리 후 그 결과를\n\n- 12.  수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13.  규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14.  적용례\n· 본 안내서는 시행일(2024.6.17.)  이후 보완 요구되는 것부터 적용한다.\n\n - 15.  안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n",
+        "original_sentence": "적용례\n· 본 안내서는 시행일(2024.6.17.) "
+      }
+    },
+    {
+      "chunk_id": "chunk_072",
+      "text": "이후 보완 요구되는 것부터 적용한다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 71,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 8,
+        "window_text": "수당 등 지급\n· 협의체의 회의에 참석한 공무원이 아닌 자에 대하여 예산의 범위 안에서 수당\n\n- 13.  규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14.  적용례\n· 본 안내서는 시행일(2024.6.17.)  이후 보완 요구되는 것부터 적용한다.\n\n - 15.  안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n - (라)\n- (마)\n20\n\n년\n\n월\n\n일\n\n- (바)\n- (사)\n심의요구자\n\n(회사명 또는 직위)\n\n성명\n\n(서명)\n",
+        "original_sentence": "이후 보완 요구되는 것부터 적용한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_073",
+      "text": "- 15. ",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 72,
+        "window_size": 3,
+        "char_count": 6,
+        "word_count": 2,
+        "page_number": 4,
+        "window_text": "규정 외 적용\n· 본 안내서에 규정되지 아니한 사항은 「민원처리에 관한 법률」 및 같은 법\n\n- 14.  적용례\n· 본 안내서는 시행일(2024.6.17.)  이후 보완 요구되는 것부터 적용한다.\n\n - 15.  안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n - (라)\n- (마)\n20\n\n년\n\n월\n\n일\n\n- (바)\n- (사)\n심의요구자\n\n(회사명 또는 직위)\n\n성명\n\n(서명)\n",
+        "original_sentence": "- 15. "
+      }
+    },
+    {
+      "chunk_id": "chunk_074",
+      "text": "안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 73,
+        "window_size": 3,
+        "char_count": 348,
+        "word_count": 91,
+        "page_number": 4,
+        "window_text": "적용례\n· 본 안내서는 시행일(2024.6.17.)  이후 보완 요구되는 것부터 적용한다.\n\n - 15.  안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n - (라)\n- (마)\n20\n\n년\n\n월\n\n일\n\n- (바)\n- (사)\n심의요구자\n\n(회사명 또는 직위)\n\n성명\n\n(서명)\n",
+        "original_sentence": "안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_075",
+      "text": "- (라)\n- (마)\n20\n\n년\n\n월\n\n일\n\n- (바)\n- (사)\n심의요구자\n\n(회사명 또는 직위)\n\n성명\n\n(서명)\n",
+      "metadata": {
+        "source": "의약품+허가심사+조정협의체+운영안내서(민원인+안내서).pdf",
+        "chunk_index": 74,
+        "window_size": 3,
+        "char_count": 66,
+        "word_count": 18,
+        "page_number": 9,
+        "window_text": "이후 보완 요구되는 것부터 적용한다.\n\n - 15.  안내서의 재검토\n· 동 안내서는 2024년 6월 17일을 기준으로 1년이 되는 시점에 이 안내서 제정\n\n후의 법령이나 현실 여건의 변화 등을 검토하여 폐지, 개정 등의 조치를 하여\n\n- - 9 -\n[별지 제1호 서식] 의약품 허가·심사 조정협의체 안건 상정 신청서\n\n의약품 허가·심사 조정협의체 안건 상정 신청서\n\n- ◦민원접수번호\n- ◦민원접수일시\n- ◦민   원   명\n- ◦ 신 청\n- ◦ 조정 대상\n예) 「의약품의 품목허가신고심사 규정」 제7조제3호에 따른\n\n요구사유\n\n요구내용\n\n- (가)\n* 필요 시 별지사용 또는 서식 조정 가능\n\n- (나)\n- (다)\n위와 같이 안건을 제출하오니 심의하여 주시기 바랍니다.\n\n - (라)\n- (마)\n20\n\n년\n\n월\n\n일\n\n- (바)\n- (사)\n심의요구자\n\n(회사명 또는 직위)\n\n성명\n\n(서명)\n",
+        "original_sentence": "- (라)\n- (마)\n20\n\n년\n\n월\n\n일\n\n- (바)\n- (사)\n심의요구자\n\n(회사명 또는 직위)\n\n성명\n\n(서명)\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 75,
+    "avg_chunk_length": 76.70666666666666,
+    "min_chunk_length": 5,
+    "max_chunk_length": 348,
+    "total_characters": 5753,
+    "total_words": 1396,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 226,
+    "heading_count": 11,
+    "paragraph_count": 89,
+    "list_item_count": 46,
+    "table_cell_count": 80,
+    "tables_detected": 1,
+    "chunks_generated": 75
+  }
+}

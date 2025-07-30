@@ -1,0 +1,4495 @@
+{
+  "file_name": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+  "total_pages": 5,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "18.0": 5,
+      "9.960000038146973": 225,
+      "11.039999961853027": 6,
+      "8.039999961853027": 9
+    },
+    "heading_sizes": [
+      18.0,
+      11.039999961853027
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 4,
+    "tables_info": [
+      {
+        "bbox": [
+          91.10399627685547,
+          208.5397491455078,
+          508.08154296875,
+          731.747314453125
+        ],
+        "num_rows": 9,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          93.98400115966797,
+          265.2997131347656,
+          376.8915710449219,
+          727.4273071289062
+        ],
+        "num_rows": 8,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          118.58000183105469,
+          183.69972229003906,
+          378.6915588378906,
+          600.6773681640625
+        ],
+        "num_rows": 8,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          93.98400115966797,
+          218.4997100830078,
+          371.9715576171875,
+          739.1873168945312
+        ],
+        "num_rows": 9,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "제조 지시 및 기록서",
+      "font_size": 18.0,
+      "font_name": "Arial",
+      "bbox": [
+        226.25,
+        64.04913330078125,
+        402.27398681640625,
+        89.16595458984375
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈액관리번호",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○○○혈액원",
+      "font_size": 11.039999961853027,
+      "font_name": "±¼¸²",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Form No.: T-02 (00)",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Page: 1 of 5",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 혈액정보",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        85.10399627685547,
+        146.3797149658203,
+        141.2688751220703,
+        160.27769470214844
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "채혈백 종류",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        106.22000122070312,
+        165.93971252441406,
+        509.28155517578125,
+        179.18728637695312
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        106.22000122070312,
+        165.93971252441406,
+        509.28155517578125,
+        179.18728637695312
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈액형",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        118.69999694824219,
+        187.17970275878906,
+        422.9715576171875,
+        200.42727661132812
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        118.69999694824219,
+        187.17970275878906,
+        422.9715576171875,
+        200.42727661132812
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "채혈일시",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.66000366210938,
+        208.5397491455078,
+        157.12155151367188,
+        221.78732299804688
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "채혈장소",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        336.54998779296875,
+        208.5397491455078,
+        380.0115661621094,
+        221.78732299804688
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "채혈용량",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.66000366210938,
+        229.7797393798828,
+        380.0115661621094,
+        243.02731323242188
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 320㎖ □ 400㎖",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.66000366210938,
+        229.7797393798828,
+        380.0115661621094,
+        243.02731323242188
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "채혈장비",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.66000366210938,
+        229.7797393798828,
+        380.0115661621094,
+        243.02731323242188
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "문진자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        118.69999694824219,
+        251.1397247314453,
+        152.20155334472656,
+        264.3872985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "채혈자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        341.4700012207031,
+        251.1397247314453,
+        374.9715576171875,
+        264.3872985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2. 사용 원자재 및 장비",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        85.10399627685547,
+        289.4497375488281,
+        196.25888061523438,
+        303.3476867675781
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명 칭",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.54000091552734,
+        308.6497497558594,
+        505.5615539550781,
+        321.8973083496094
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "종류(제조사)",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.54000091552734,
+        308.6497497558594,
+        505.5615539550781,
+        321.8973083496094
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "고유번호",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.54000091552734,
+        308.6497497558594,
+        505.5615539550781,
+        321.8973083496094
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사용목적",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.54000091552734,
+        308.6497497558594,
+        505.5615539550781,
+        321.8973083496094
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "비 고",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        113.54000091552734,
+        308.6497497558594,
+        505.5615539550781,
+        321.8973083496094
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈액백",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        111.0199966430664,
+        329.7697448730469,
+        423.33154296875,
+        343.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□A사 □B사",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        111.0199966430664,
+        329.7697448730469,
+        423.33154296875,
+        343.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제조번호",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        111.0199966430664,
+        329.7697448730469,
+        423.33154296875,
+        343.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈액보관",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        111.0199966430664,
+        329.7697448730469,
+        423.33154296875,
+        343.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원심분리기",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        101.05999755859375,
+        350.7697448730469,
+        250.5115509033203,
+        364.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□A사 □B사",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        101.05999755859375,
+        350.7697448730469,
+        250.5115509033203,
+        364.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈액 분리",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        377.3500061035156,
+        350.7697448730469,
+        508.08154296875,
+        364.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제제실",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        377.3500061035156,
+        350.7697448730469,
+        508.08154296875,
+        364.0173034667969
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈장추출기",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        101.05999755859375,
+        371.8897399902344,
+        253.75155639648438,
+        385.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□수동 □자동",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        101.05999755859375,
+        371.8897399902344,
+        253.75155639648438,
+        385.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제제 분리",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        377.3500061035156,
+        371.8897399902344,
+        508.08154296875,
+        385.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제제실",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        377.3500061035156,
+        371.8897399902344,
+        508.08154296875,
+        385.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "봉합기",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        111.0199966430664,
+        392.8897399902344,
+        250.5115509033203,
+        406.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□A사 □B사",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        111.0199966430664,
+        392.8897399902344,
+        250.5115509033203,
+        406.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "백 밀봉",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        382.2699890136719,
+        392.8897399902344,
+        508.08154296875,
+        406.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제제실",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        382.2699890136719,
+        392.8897399902344,
+        508.08154296875,
+        406.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "급속동결기",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        101.05999755859375,
+        413.8897399902344,
+        154.6015625,
+        427.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "동결제제 제조",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        367.2699890136719,
+        413.8897399902344,
+        508.08154296875,
+        427.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "동결실",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        367.2699890136719,
+        413.8897399902344,
+        508.08154296875,
+        427.1372985839844
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "자동무게측정기",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        91.10399627685547,
+        435.0097351074219,
+        164.56155395507812,
+        448.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제제 무게 측정",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        364.8699951171875,
+        435.0097351074219,
+        508.08154296875,
+        448.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제제실",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        364.8699951171875,
+        435.0097351074219,
+        508.08154296875,
+        448.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무균백줄연결장치",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.06400299072266,
+        456.0097351074219,
+        508.08154296875,
+        469.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "□A사 □B사",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.06400299072266,
+        456.0097351074219,
+        508.08154296875,
+        469.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "장비관리번호",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.06400299072266,
+        456.0097351074219,
+        508.08154296875,
+        469.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "보조백 연결",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.06400299072266,
+        456.0097351074219,
+        508.08154296875,
+        469.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제제실",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.06400299072266,
+        456.0097351074219,
+        508.08154296875,
+        469.2572937011719
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 혈액 선별검사",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        85.10399627685547,
+        494.0697326660156,
+        166.2288818359375,
+        507.9676818847656
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "검사항목",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        105.62000274658203,
+        513.3897094726562,
+        512.881591796875,
+        526.6373291015625
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "검사일시",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        105.62000274658203,
+        513.3897094726562,
+        512.881591796875,
+        526.6373291015625
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "검사결과",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        105.62000274658203,
+        513.3897094726562,
+        512.881591796875,
+        526.6373291015625
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확인자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        105.62000274658203,
+        513.3897094726562,
+        512.881591796875,
+        526.6373291015625
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "검사기관",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        105.62000274658203,
+        513.3897094726562,
+        512.881591796875,
+        526.6373291015625
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈액형",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        110.54000091552734,
+        534.3897094726562,
+        144.0415496826172,
+        547.6373291015625
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "RH",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        118.45999908447266,
+        555.5097045898438,
+        136.24156188964844,
+        568.75732421875
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "NAT",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        115.0999984741211,
+        576.5097045898438,
+        139.48155212402344,
+        589.75732421875
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "HIV",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        116.77999877929688,
+        597.5097045898438,
+        137.8015594482422,
+        610.75732421875
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "HBV",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        115.22000122070312,
+        618.6296997070312,
+        139.48155212402344,
+        631.8773193359375
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "HCV",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        115.22000122070312,
+        639.6296997070312,
+        139.48155212402344,
+        652.8773193359375
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "4. 출하승인",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        85.10399627685547,
+        677.69970703125,
+        146.18887329101562,
+        691.5977172851562
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "출하 검토 및 승인일자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        92.54399871826172,
+        697.2597045898438,
+        201.07156372070312,
+        711.4673461914062
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "승 인 자(서명)",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        334.989990234375,
+        697.2597045898438,
+        405.6915588378906,
+        710.50732421875
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제 조 일 시",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        117.62000274658203,
+        718.4996948242188,
+        176.08155822753906,
+        731.747314453125
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "유 효 기 간",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        341.1099853515625,
+        718.4996948242188,
+        399.5715637207031,
+        731.747314453125
+      ],
+      "page_num": 1,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제조 지시 및 기록서",
+      "font_size": 18.0,
+      "font_name": "Arial",
+      "bbox": [
+        226.25,
+        64.04913330078125,
+        402.27398681640625,
+        89.16595458984375
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈액관리번호",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○○○혈액원",
+      "font_size": 11.039999961853027,
+      "font_name": "±¼¸²",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Form No.: T-02 (00)",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Page: 2 of 5",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5. 제조공정",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        85.10399627685547,
+        146.3797149658203,
+        141.2688751220703,
+        160.27769470214844
+      ],
+      "page_num": 2,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5-1. 농축 적혈구의 제조",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        85.10399627685547,
+        164.3797149658203,
+        200.098876953125,
+        178.27769470214844
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "단위공정",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        189.09974670410156,
+        200.4715576171875,
+        202.34732055664062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "원심분리",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        189.09974670410156,
+        200.4715576171875,
+        202.34732055664062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "순서",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        220.8997344970703,
+        537.4815673828125,
+        234.14730834960938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 절차",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        220.8997344970703,
+        537.4815673828125,
+        234.14730834960938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 내용",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        220.8997344970703,
+        537.4815673828125,
+        234.14730834960938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업일시",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        220.8997344970703,
+        537.4815673828125,
+        234.14730834960938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        220.8997344970703,
+        537.4815673828125,
+        234.14730834960938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확인자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        220.8997344970703,
+        537.4815673828125,
+        234.14730834960938
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        247.29969787597656,
+        282.0715637207031,
+        265.9472961425781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원심분리기의 온도조건을 설정하고",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        247.29969787597656,
+        282.0715637207031,
+        265.9472961425781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사전 가동시킨다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        265.2997131347656,
+        199.2715606689453,
+        278.5472717285156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 4℃ □ 22℃",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        265.2997131347656,
+        376.8915710449219,
+        278.5472717285156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        286.4497375488281,
+        366.33154296875,
+        305.0973205566406
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈액의 용량을 확인한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        286.4497375488281,
+        366.33154296875,
+        305.0973205566406
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "용량      ㎖",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        286.4497375488281,
+        366.33154296875,
+        305.0973205566406
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        318.2497253417969,
+        284.2315979003906,
+        336.8973083496094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "정해진 원심분리 조건을 선택한 후,",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        318.2497253417969,
+        284.2315979003906,
+        336.8973083496094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈액백을 넣는다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        336.249755859375,
+        199.2715606689453,
+        349.497314453125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 관련 SOP:",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        354.249755859375,
+        181.12155151367188,
+        367.497314453125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "프로그램 번호",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        318.2497253417969,
+        371.3715515136719,
+        331.4972839355469
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "번",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        336.249755859375,
+        346.29156494140625,
+        349.497314453125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "번",
+      "font_size": 11.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        390.7900085449219,
+        351.7542724609375,
+        404.6312561035156,
+        367.1372985839844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "4",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        375.3697509765625,
+        306.3115539550781,
+        394.0173034667969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원심분리기를 본 가동시킨다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        375.3697509765625,
+        306.3115539550781,
+        394.0173034667969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "5",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        407.16973876953125,
+        288.40997314453125,
+        425.8172912597656
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원심분리가 종료된 후 혈액의 분리상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        407.16973876953125,
+        288.40997314453125,
+        425.8172912597656
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "태를 확인한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        425.16973876953125,
+        189.28155517578125,
+        438.41729736328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        425.16973876953125,
+        371.3715515136719,
+        438.41729736328125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "특이",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        446.28973388671875,
+        106.58399963378906,
+        459.53729248046875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        464.30975341796875,
+        110.2015609741211,
+        477.55731201171875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "단위공정",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        508.9497375488281,
+        251.83155822753906,
+        522.1973266601562
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "농축 적혈구의 분리",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        508.9497375488281,
+        251.83155822753906,
+        522.1973266601562
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "순서",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        535.3496704101562,
+        537.4815673828125,
+        548.5972900390625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 절차",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        535.3496704101562,
+        537.4815673828125,
+        548.5972900390625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 내용",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        535.3496704101562,
+        537.4815673828125,
+        548.5972900390625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업일시",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        535.3496704101562,
+        537.4815673828125,
+        548.5972900390625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        535.3496704101562,
+        537.4815673828125,
+        548.5972900390625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확인자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        535.3496704101562,
+        537.4815673828125,
+        548.5972900390625
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "6",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        556.4697265625,
+        292.5995178222656,
+        569.7173461914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원심분리가 완료된 혈액백을 혈장추",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        556.4697265625,
+        292.5995178222656,
+        569.7173461914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "출기에 장착한 후 1~2분 정치시킨다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        574.4697265625,
+        292.3915710449219,
+        587.7173461914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 백에 연결된 줄의 이상유무 확인",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        592.4697265625,
+        282.5515441894531,
+        605.7173461914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 추출기의 종류",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        610.4697265625,
+        197.4715576171875,
+        623.7173461914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        592.4697265625,
+        376.29156494140625,
+        605.7173461914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□자동 □수동",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        610.4697265625,
+        371.3715515136719,
+        623.7173461914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "7",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        639.1497192382812,
+        292.6099853515625,
+        652.3973388671875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "분리된 적혈구와 혈장을 분절하여 혈",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        639.1497192382812,
+        292.6099853515625,
+        652.3973388671875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "장을 보조백으로 이송시킨다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        657.1797485351562,
+        254.3515625,
+        670.4273681640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 혈액의 탁도 측정",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        675.1797485351562,
+        212.4715576171875,
+        688.4273681640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        675.1797485351562,
+        371.3715515136719,
+        688.4273681640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "8",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        696.1797485351562,
+        296.2315673828125,
+        709.4273681640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈장의 이송이 완료되면 연결된 줄을",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        696.1797485351562,
+        296.2315673828125,
+        709.4273681640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "잠근 후, 무게를 측정한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        714.1796875,
+        241.5115509033203,
+        727.4273071289062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무게      g",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        714.1796875,
+        362.3715515136719,
+        727.4273071289062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제조 지시 및 기록서",
+      "font_size": 18.0,
+      "font_name": "Arial",
+      "bbox": [
+        226.25,
+        64.04913330078125,
+        402.27398681640625,
+        89.16595458984375
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈액관리번호",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○○○혈액원",
+      "font_size": 11.039999961853027,
+      "font_name": "±¼¸²",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Form No.: T-02 (00)",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Page: 3 of 5",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "9",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        147.69972229003906,
+        292.6099853515625,
+        160.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "농축 적혈구의 용량을 확인한 후, 보",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        147.69972229003906,
+        292.6099853515625,
+        160.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정이 필요한 경우 잠근 줄을 풀어 적",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        165.69972229003906,
+        292.6099853515625,
+        178.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈구 용적률을 조정한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        183.69972229003906,
+        234.31155395507812,
+        196.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 적혈구 용적률 : 70±10%",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        201.69972229003906,
+        248.23155212402344,
+        214.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "용적 확인 □",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        183.69972229003906,
+        366.33154296875,
+        196.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "용량       g",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        201.69972229003906,
+        367.41156005859375,
+        214.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "10",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        222.69972229003906,
+        292.6099853515625,
+        235.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "봉합기를 사용하여 농축 적혈구가 담",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        222.69972229003906,
+        292.6099853515625,
+        235.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "긴 백에 연결된 줄을 봉합하고 이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        240.69972229003906,
+        292.6099853515625,
+        253.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "유무를 확인한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        258.6997375488281,
+        199.2715606689453,
+        271.9472961425781
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 봉합위치 : 백으로부터 8~10㎝",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        276.7297668457031,
+        275.83154296875,
+        289.9773254394531
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        302.80999755859375,
+        240.69972229003906,
+        371.3715515136719,
+        253.94729614257812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "특이",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        297.7297668457031,
+        106.58399963378906,
+        310.9773254394531
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        315.7297668457031,
+        110.2015609741211,
+        328.9773254394531
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "단위공정",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        359.28973388671875,
+        276.0715637207031,
+        372.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "무게측정 및 보관소 이송",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        359.28973388671875,
+        276.0715637207031,
+        372.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "순서",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        380.28973388671875,
+        537.6015625,
+        393.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 절차",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        380.28973388671875,
+        537.6015625,
+        393.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 내용",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        380.28973388671875,
+        537.6015625,
+        393.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업일시",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        380.28973388671875,
+        537.6015625,
+        393.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        380.28973388671875,
+        537.6015625,
+        393.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확인자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        380.28973388671875,
+        537.6015625,
+        393.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "11",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        401.28973388671875,
+        286.9700012207031,
+        414.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "농축 적혈구가 담긴 백에 혈액원 표",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        401.28973388671875,
+        286.9700012207031,
+        414.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "시라벨 부착여부 확인 후, 자동저울",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        419.28973388671875,
+        286.83953857421875,
+        432.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "을 사용하여 무게를 측정하고 기준",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        437.28973388671875,
+        286.969970703125,
+        450.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "에 적합한지 확인한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        455.28973388671875,
+        224.3515625,
+        468.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 전혈 320㎖인 경우 218.0~261.5g",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        473.30975341796875,
+        288.1915588378906,
+        486.55731201171875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 전혈 400㎖인 경우 278.5~332.5g",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        491.30975341796875,
+        288.1915588378906,
+        504.55731201171875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "라벨부착 확인□",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        297.1700134277344,
+        419.28973388671875,
+        375.6915588378906,
+        432.53729248046875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□320㎖ □400㎖",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        297.1700134277344,
+        473.30975341796875,
+        378.6915588378906,
+        486.55731201171875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무게      g",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        297.1700134277344,
+        491.30975341796875,
+        356.7315673828125,
+        504.55731201171875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "12",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        512.4297485351562,
+        290.4715576171875,
+        525.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무게측정이 완료된 농축 적혈구를",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        512.4297485351562,
+        290.4715576171875,
+        525.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "보관용 상자에 담은 후 이송대기 장",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        530.4297485351562,
+        286.9700012207031,
+        543.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "소로 옮긴다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        548.4297485351562,
+        179.32156372070312,
+        561.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        297.1700134277344,
+        548.4297485351562,
+        365.7315673828125,
+        561.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "13",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        569.4297485351562,
+        286.95953369140625,
+        582.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "보관소로 이송할 때 제품의 이상유",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        91.2239990234375,
+        569.4297485351562,
+        286.95953369140625,
+        582.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무를 확인하고 인계한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        587.4297485351562,
+        234.31155395507812,
+        600.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        297.1700134277344,
+        587.4297485351562,
+        365.7315673828125,
+        600.6773681640625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "특이",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        608.5497436523438,
+        106.58399963378906,
+        621.79736328125
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        626.5497436523438,
+        110.2015609741211,
+        639.79736328125
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제조 지시 및 기록서",
+      "font_size": 18.0,
+      "font_name": "Arial",
+      "bbox": [
+        226.25,
+        64.04913330078125,
+        402.27398681640625,
+        89.16595458984375
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈액관리번호",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○○○혈액원",
+      "font_size": 11.039999961853027,
+      "font_name": "±¼¸²",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Form No.: T-02 (00)",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Page: 4 of 5",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5-2. (신선)동결혈장의 제조",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        146.3797149658203,
+        212.591552734375,
+        159.62728881835938
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "단위공정",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        171.09974670410156,
+        310.03155517578125,
+        184.34732055664062
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈장의 분리, 라벨 부착 및 동결",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        85.10399627685547,
+        171.09974670410156,
+        310.03155517578125,
+        184.34732055664062
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "순서",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        197.4997100830078,
+        537.4815673828125,
+        210.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 절차",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        197.4997100830078,
+        537.4815673828125,
+        210.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업 내용",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        197.4997100830078,
+        537.4815673828125,
+        210.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업일시",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        197.4997100830078,
+        537.4815673828125,
+        210.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        197.4997100830078,
+        537.4815673828125,
+        210.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확인자",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ,Bold",
+      "bbox": [
+        86.66400146484375,
+        197.4997100830078,
+        537.4815673828125,
+        210.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        218.4997100830078,
+        259.2715759277344,
+        231.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "혈장을 구분에 따라 분류한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        218.4997100830078,
+        259.2715759277344,
+        231.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 신선동결혈장은 채혈후 8시간 이내 동결",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        237.8694305419922,
+        280.1965637207031,
+        248.56326293945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 동결혈장은 채혈후 8~72시간 사이에 동결",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        255.8694305419922,
+        286.67657470703125,
+        266.5632629394531
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□신선동결혈장",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        218.4997100830078,
+        371.9715576171875,
+        231.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□동결혈장",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        236.4997100830078,
+        352.0515441894531,
+        249.74728393554688
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        275.6497497558594,
+        288.28997802734375,
+        288.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "5-1. 농축 적혈구의 제조공정 9가 완",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        275.6497497558594,
+        288.28997802734375,
+        288.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "료된 후 혈장이 담긴 백에 연결된",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        293.6497497558594,
+        291.91156005859375,
+        306.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "줄을 봉합하고 이상유무를 확인한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        311.6497497558594,
+        289.27154541015625,
+        324.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 봉합위치",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        331.0194091796875,
+        164.24656677246094,
+        341.7132568359375
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        349.0194091796875,
+        248.75656127929688,
+        359.7132568359375
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2) 분획용 : 백으로부터 3㎝",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        367.0194091796875,
+        214.07656860351562,
+        377.7132568359375
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        311.6497497558594,
+        367.0515441894531,
+        324.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        386.6497497558594,
+        288.16998291015625,
+        399.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "봉합이 완료된 혈장백에 라벨을 부",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        386.6497497558594,
+        288.16998291015625,
+        399.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "착한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        404.6497497558594,
+        154.24156188964844,
+        417.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□수혈용",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        386.6497497558594,
+        341.9715576171875,
+        399.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□분획제제용",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        404.6497497558594,
+        362.0115661621094,
+        417.8973083496094
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "4",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        425.7697448730469,
+        291.91156005859375,
+        439.0173034667969
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "라벨이 부착된 혈장백을 자동저울을",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        425.7697448730469,
+        291.91156005859375,
+        439.0173034667969
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이용하여 무게를 측정한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        443.7697448730469,
+        244.2715606689453,
+        457.0173034667969
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 기준(수혈용) :",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        463.1593933105469,
+        185.24656677246094,
+        473.8532409667969
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        481.1593933105469,
+        288.4638977050781,
+        491.8532409667969
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "㎖→ 172.5~233.0g)",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        499.1593933105469,
+        196.67657470703125,
+        509.8532409667969
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→",
+      "font_size": 8.039999961853027,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        517.159423828125,
+        288.36956787109375,
+        527.8532104492188
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "172.5~306.5g)",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        533.0697021484375,
+        173.68154907226562,
+        546.3173217773438
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□320㎖ □400㎖",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        461.78973388671875,
+        380.0115661621094,
+        475.03729248046875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무게      g",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        479.78973388671875,
+        358.0515441894531,
+        493.03729248046875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "5",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        554.7897338867188,
+        291.91156005859375,
+        568.037353515625
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "급속동결기의 운전상태 이상유무를",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        554.7897338867188,
+        291.91156005859375,
+        568.037353515625
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "확인한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        572.7897338867188,
+        164.32156372070312,
+        586.037353515625
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        572.7897338867188,
+        367.0515441894531,
+        586.037353515625
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "6",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        593.9097290039062,
+        288.16998291015625,
+        607.1573486328125
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "급속동결기에 혈장을 넣은 후 정해",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        593.9097290039062,
+        288.16998291015625,
+        607.1573486328125
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "진 방법에 따라 동결시킨다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        611.9097290039062,
+        249.31155395507812,
+        625.1573486328125
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※관련 SOP :",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        629.9097290039062,
+        183.0415496826172,
+        643.1573486328125
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        611.9097290039062,
+        367.0515441894531,
+        625.1573486328125
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "7",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        650.939697265625,
+        291.91156005859375,
+        664.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "급속동결이 완료된 혈장백을 보관용",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        650.939697265625,
+        291.91156005859375,
+        664.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상자에 담은 후 이송대기 장소로 옮",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        668.939697265625,
+        288.28997802734375,
+        682.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "긴다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        686.939697265625,
+        144.28155517578125,
+        700.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        668.939697265625,
+        367.0515441894531,
+        682.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "8",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        707.939697265625,
+        288.16998291015625,
+        721.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "보관소로 이송할 때 제품의 이상유",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        93.98400115966797,
+        707.939697265625,
+        288.16998291015625,
+        721.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무를 확인하고 인계한다.",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        118.58000183105469,
+        725.939697265625,
+        234.31155395507812,
+        739.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□정상 □이상",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        298.489990234375,
+        725.939697265625,
+        367.0515441894531,
+        739.1873168945312
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제조 지시 및 기록서",
+      "font_size": 18.0,
+      "font_name": "Arial",
+      "bbox": [
+        226.25,
+        64.04913330078125,
+        402.27398681640625,
+        89.16595458984375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "혈액관리번호",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial,Bold",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "○○○혈액원",
+      "font_size": 11.039999961853027,
+      "font_name": "±¼¸²",
+      "bbox": [
+        90.38400268554688,
+        96.93971252441406,
+        460.2563781738281,
+        111.43772888183594
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Form No.: T-02 (00)",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Page: 5 of 5",
+      "font_size": 9.960000038146973,
+      "font_name": "Arial",
+      "bbox": [
+        89.30400085449219,
+        768.18896484375,
+        537.2288818359375,
+        781.9940185546875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "특이",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        147.69972229003906,
+        106.58399963378906,
+        160.94729614257812
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 9.960000038146973,
+      "font_name": "¸¼Àº °íµñ",
+      "bbox": [
+        86.66400146484375,
+        165.69972229003906,
+        110.2015609741211,
+        178.94729614257812
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    }
+  ],
+  "markdown_content": "<!-- PAGE_1 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_1 -->\n## ○○○혈액원\n\nForm No.: T-02 (00)\n\nPage: 1 of 5\n\n- 1. 혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다. | □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다.**\n| 사전 가동시킨다. | □ 4℃ □ 22℃ |\n| 2 | 5-1. 농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다. | 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다. | □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다. | 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다. |\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다. | □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다. | □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다.**\n**에 적합한지 확인한다.**\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다. | □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다. | 확인한다. | □정상 □이상 |\n| 무를 확인하고 인계한다. | □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다. | □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다.**\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다.**\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다. | 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2. 사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3. 혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4. 출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No.: T-02 (00)\n\nPage: 2 of 5\n\n- 5. 제조공정\n5-1. 농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No.: T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다. | 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No.: T-02 (00)\n\nPage: 4 of 5\n\n5-2. (신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다. | □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No.: T-02 (00)\n\nPage: 5 of 5\n\n특이\n\n사항\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "<!-- PAGE_1 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_1 -->\n## ○○○혈액원\n\nForm No.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 74,
+        "word_count": 16,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_1 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 1 of 5\n\n- 1.  혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다.  | □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다.",
+        "original_sentence": "<!-- PAGE_1 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_1 -->\n## ○○○혈액원\n\nForm No."
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": ": T-02 (00)\n\nPage: 1 of 5\n\n- 1. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 9,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_1 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 1 of 5\n\n- 1.  혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다.  | □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다. **\n| 사전 가동시킨다. ",
+        "original_sentence": ": T-02 (00)\n\nPage: 1 of 5\n\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 160,
+        "word_count": 48,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_1 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 1 of 5\n\n- 1.  혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다.  | □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다. **\n| 사전 가동시킨다.  | □ 4℃ □ 22℃ |\n| 2 | 5-1. ",
+        "original_sentence": "혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "| □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 224,
+        "word_count": 61,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_1 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 1 of 5\n\n- 1.  혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다.  | □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다. **\n| 사전 가동시킨다.  | □ 4℃ □ 22℃ |\n| 2 | 5-1.  농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다. ",
+        "original_sentence": "| □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "**\n| 사전 가동시킨다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 15,
+        "word_count": 4,
+        "page_number": 2,
+        "window_text": ": T-02 (00)\n\nPage: 1 of 5\n\n- 1.  혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다.  | □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다. **\n| 사전 가동시킨다.  | □ 4℃ □ 22℃ |\n| 2 | 5-1.  농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다.  | 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다. ",
+        "original_sentence": "**\n| 사전 가동시킨다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "| □ 4℃ □ 22℃ |\n| 2 | 5-1. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 10,
+        "page_number": 2,
+        "window_text": "혈액정보\n채혈백 종류\n\n□ 이중백 □ 삼중백 □ 사중백 □ 성분채혈백 (□ 혈소판, □ 혈장)\n\n혈액형\n\n□ A형 □ B형 □ O형 □ AB형 / □ RH+ □ RH-\n\n**[표 시작]**\n\n| 채혈일시 | 채혈장소 |\n| --- | --- |\n| 1 | 혈장을 구분에 따라 분류한다.  | □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다. **\n| 사전 가동시킨다.  | □ 4℃ □ 22℃ |\n| 2 | 5-1.  농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다.  | 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다.  | □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다. ",
+        "original_sentence": "| □ 4℃ □ 22℃ |\n| 2 | 5-1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 63,
+        "word_count": 18,
+        "page_number": 2,
+        "window_text": "| □신선동결혈장 |\n| 10 | 봉합기를 사용하여 농축 적혈구가 담 |\n| 채혈용량 | □ 320㎖ □ 400㎖ | 채혈장비 |\n**□동결혈장**\n| 긴 백에 연결된 줄을 봉합하고 이상 | ※ 신선동결혈장은 채혈후 8시간 이내 동결 | □정상 □이상 |\n| 1 | 원심분리기의 온도조건을 설정하고 |\n| 문진자 | 채혈자 |\n**※ 동결혈장은 채혈후 8~72시간 사이에 동결**\n**유무를 확인한다. **\n| 사전 가동시킨다.  | □ 4℃ □ 22℃ |\n| 2 | 5-1.  농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다.  | 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다.  | □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다.  | 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다. ",
+        "original_sentence": "농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "| 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 95,
+        "word_count": 27,
+        "page_number": 1,
+        "window_text": "**\n| 사전 가동시킨다.  | □ 4℃ □ 22℃ |\n| 2 | 5-1.  농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다.  | 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다.  | □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다.  | 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다.  |\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다. ",
+        "original_sentence": "| 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "| □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 103,
+        "word_count": 32,
+        "page_number": 2,
+        "window_text": "| □ 4℃ □ 22℃ |\n| 2 | 5-1.  농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다.  | 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다.  | □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다.  | 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다.  |\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다.  | □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다. ",
+        "original_sentence": "| □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 165,
+        "word_count": 49,
+        "page_number": 1,
+        "window_text": "농축 적혈구의 제조공정 9가 완 | ※ 봉합위치 : 백으로부터 8~10㎝ |\n| 2 | 혈액의 용량을 확인한다.  | 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다.  | □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다.  | 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다.  |\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다.  | □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다.  | □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다.",
+        "original_sentence": "| 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "|\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 129,
+        "word_count": 43,
+        "page_number": 1,
+        "window_text": "| 용량      ㎖ |\n**료된 후 혈장이 담긴 백에 연결된**\n| 명 칭 | 종류(제조사) | 고유번호 | 사용목적 | 비 고 | 줄을 봉합하고 이상유무를 확인한다.  | □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다.  | 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다.  |\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다.  | □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다.  | □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다. **\n**에 적합한지 확인한다.",
+        "original_sentence": "|\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 108,
+        "word_count": 31,
+        "page_number": 1,
+        "window_text": "| □정상 □이상 |\n| 3 | 정해진 원심분리 조건을 선택한 후, | 프로그램 번호 |\n| 혈액백 | □A사 □B사 | 제조번호 | 혈액보관 | ※ 봉합위치 |\n| 혈액백을 넣는다.  | 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다.  |\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다.  | □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다.  | □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다. **\n**에 적합한지 확인한다. **\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다. ",
+        "original_sentence": "| □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "| □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 78,
+        "word_count": 22,
+        "page_number": 1,
+        "window_text": "| 번 |\n| 원심분리기 | □A사 □B사 | 1) 수혈용 : 백으로부터 3㎝, 8㎝, 15㎝ | 혈액 분리 | 제제실 | 번 |\n**※ 관련 SOP:**\n**2) 분획용 : 백으로부터 3㎝**\n| 혈장추출기 | □수동 □자동 | 제제 분리 | 제제실 |\n| 4 | 원심분리기를 본 가동시킨다.  |\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다.  | □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다.  | □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다. **\n**에 적합한지 확인한다. **\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다.  | □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다. ",
+        "original_sentence": "| □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "**\n**에 적합한지 확인한다.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 17,
+        "word_count": 4,
+        "page_number": 3,
+        "window_text": "|\n| 3 | 봉합이 완료된 혈장백에 라벨을 부 | □수혈용 |\n| 봉합기 | □A사 □B사 | 백 밀봉 | 제제실 |\n| 11 | 농축 적혈구가 담긴 백에 혈액원 표 |\n| 5 | 원심분리가 종료된 후 혈액의 분리상 | 착한다.  | □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다.  | □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다. **\n**에 적합한지 확인한다. **\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다.  | □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다.  | 확인한다. ",
+        "original_sentence": "**\n**에 적합한지 확인한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "**\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 319,
+        "word_count": 65,
+        "page_number": 2,
+        "window_text": "| □분획제제용 |\n| 급속동결기 | 동결제제 제조 | 동결실 |\n| 시라벨 부착여부 확인 후, 자동저울 | 라벨부착 확인□ |\n| 4 | 라벨이 부착된 혈장백을 자동저울을 | 태를 확인한다.  | □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다. **\n**에 적합한지 확인한다. **\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다.  | □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다.  | 확인한다.  | □정상 □이상 |\n| 무를 확인하고 인계한다. ",
+        "original_sentence": "**\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "| □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 126,
+        "word_count": 37,
+        "page_number": 1,
+        "window_text": "| □정상 □이상 |\n| 자동무게측정기 | 을 사용하여 무게를 측정하고 기준 | 제제 무게 측정 | 제제실 |\n**이용하여 무게를 측정한다. **\n**에 적합한지 확인한다. **\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다.  | □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다.  | 확인한다.  | □정상 □이상 |\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다. ",
+        "original_sentence": "| □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "| 확인한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 8,
+        "word_count": 2,
+        "page_number": 4,
+        "window_text": "**\n**에 적합한지 확인한다. **\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다.  | □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다.  | 확인한다.  | □정상 □이상 |\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다.  | □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다.",
+        "original_sentence": "| 확인한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "| □정상 □이상 |\n| 무를 확인하고 인계한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 28,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "**\n**□320㎖ □400㎖**\n**※ 기준(수혈용) :**\n| ※ 전혈 320㎖인 경우 218.0~261.5g | □320㎖ □400㎖ |\n| 1) 신선동결혈장 (320㎖→ 147.0~208.5g, 400 | 무게      g |\n| ※ 전혈 400㎖인 경우 278.5~332.5g | 무게      g |\n**㎖→ 172.5~233.0g)**\n| 12 | 무게측정이 완료된 농축 적혈구를 |\n**2) 동결혈장 (320㎖→ 147.0~262.0g, 400㎖→**\n**보관용 상자에 담은 후 이송대기 장**\n| 혈액형 | 172.5~306.5g) |\n| 소로 옮긴다.  | □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다.  | 확인한다.  | □정상 □이상 |\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다.  | □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다. **\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다.",
+        "original_sentence": "| □정상 □이상 |\n| 무를 확인하고 인계한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "| □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 111,
+        "word_count": 34,
+        "page_number": 2,
+        "window_text": "| □정상 □이상 |\n| 6 | 원심분리가 완료된 혈액백을 혈장추 | 5 | 급속동결기의 운전상태 이상유무를 | RH |\n| 13 | 보관소로 이송할 때 제품의 이상유 |\n| NAT | 출기에 장착한 후 1~2분 정치시킨다.  | 확인한다.  | □정상 □이상 |\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다.  | □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다. **\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다. **\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다. ",
+        "original_sentence": "| □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "| □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 122,
+        "word_count": 33,
+        "page_number": 1,
+        "window_text": "| 확인한다.  | □정상 □이상 |\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다.  | □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다. **\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다. **\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다.  | 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2. ",
+        "original_sentence": "| □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다."
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "**\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 68,
+        "word_count": 22,
+        "page_number": 2,
+        "window_text": "| □정상 □이상 |\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다.  | □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다. **\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다. **\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다.  | 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2.  사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3. ",
+        "original_sentence": "**\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다."
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "**\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 103,
+        "word_count": 33,
+        "page_number": 1,
+        "window_text": "| □정상 □이상 |\n| ※ 백에 연결된 줄의 이상유무 확인 | □정상 □이상 |\n| 6 | 급속동결기에 혈장을 넣은 후 정해 |\n**HIV**\n| ※ 추출기의 종류 | 진 방법에 따라 동결시킨다.  | □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다. **\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다. **\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다.  | 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2.  사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3.  혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4. ",
+        "original_sentence": "**\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "| 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 53,
+        "word_count": 19,
+        "page_number": 1,
+        "window_text": "| □정상 □이상 | □자동 □수동 |\n**HBV**\n**※관련 SOP :**\n| 7 | 분리된 적혈구와 혈장을 분절하여 혈 | HCV |\n| 7 | 급속동결이 완료된 혈장백을 보관용 |\n**장을 보조백으로 이송시킨다. **\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다. **\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다.  | 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2.  사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3.  혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4.  출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No.",
+        "original_sentence": "| 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 13,
+        "page_number": 1,
+        "window_text": "**\n| 상자에 담은 후 이송대기 장소로 옮 | □정상 □이상 |\n| ※ 혈액의 탁도 측정 | □정상 □이상 |\n**긴다. **\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다.  | 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2.  사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3.  혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4.  출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 2 of 5\n\n- 5. ",
+        "original_sentence": "사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 42,
+        "word_count": 9,
+        "page_number": 1,
+        "window_text": "**\n| 출하 검토 및 승인일자 | 8 | 혈장의 이송이 완료되면 연결된 줄을 | 승 인 자(서명) |\n| 8 | 보관소로 이송할 때 제품의 이상유 |\n| 잠근 후, 무게를 측정한다.  | 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2.  사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3.  혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4.  출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 2 of 5\n\n- 5.  제조공정\n5-1. ",
+        "original_sentence": "혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 17,
+        "page_number": 2,
+        "window_text": "| 무게      g |\n| 제 조 일 시 | 유 효 기 간 |\n\n**[표 끝]**\n\n- 2.  사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3.  혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4.  출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 2 of 5\n\n- 5.  제조공정\n5-1.  농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No.",
+        "original_sentence": "출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No."
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": ": T-02 (00)\n\nPage: 2 of 5\n\n- 5. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "사용 원자재 및 장비\n무균백줄연결장치\n\n□A사 □B사\n\n장비관리번호\n\n보조백 연결\n\n제제실\n\n- 3.  혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4.  출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 2 of 5\n\n- 5.  제조공정\n5-1.  농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다. ",
+        "original_sentence": ": T-02 (00)\n\nPage: 2 of 5\n\n- 5. "
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "제조공정\n5-1. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 10,
+        "word_count": 2,
+        "page_number": 2,
+        "window_text": "혈액 선별검사\n검사항목\n\n검사일시\n\n검사결과\n\n확인자\n\n검사기관\n\n- 4.  출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 2 of 5\n\n- 5.  제조공정\n5-1.  농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다.  | 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No.",
+        "original_sentence": "제조공정\n5-1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 192,
+        "word_count": 43,
+        "page_number": 3,
+        "window_text": "출하승인\n<!-- PAGE_2 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_2 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 2 of 5\n\n- 5.  제조공정\n5-1.  농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다.  | 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 4 of 5\n\n5-2. ",
+        "original_sentence": "농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No."
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": ": T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 102,
+        "word_count": 27,
+        "page_number": 2,
+        "window_text": ": T-02 (00)\n\nPage: 2 of 5\n\n- 5.  제조공정\n5-1.  농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다.  | 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 4 of 5\n\n5-2.  (신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다. ",
+        "original_sentence": ": T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "| 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 219,
+        "word_count": 55,
+        "page_number": 4,
+        "window_text": "제조공정\n5-1.  농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다.  | 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 4 of 5\n\n5-2.  (신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No.",
+        "original_sentence": "| 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No."
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": ": T-02 (00)\n\nPage: 4 of 5\n\n5-2. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "농축 적혈구의 제조\n\n단위공정\n\n원심분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n단위공정\n\n농축 적혈구의 분리\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n<!-- PAGE_3 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_3 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다.  | 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 4 of 5\n\n5-2.  (신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 5 of 5\n\n특이\n\n사항\n",
+        "original_sentence": ": T-02 (00)\n\nPage: 4 of 5\n\n5-2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "(신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다. ",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 102,
+        "word_count": 23,
+        "page_number": 2,
+        "window_text": ": T-02 (00)\n\nPage: 3 of 5\n\n9\n\n농축 적혈구의 용량을 확인한 후, 보\n\n정이 필요한 경우 잠근 줄을 풀어 적\n\n**[표 시작]**\n\n| 혈구 용적률을 조정한다.  | 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 4 of 5\n\n5-2.  (신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 5 of 5\n\n특이\n\n사항\n",
+        "original_sentence": "(신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "| □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No.",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 112,
+        "word_count": 27,
+        "page_number": 5,
+        "window_text": "| 용적 확인 □ |\n| --- | --- |\n| ※ 적혈구 용적률 : 70±10% | 용량       g |\n\n**[표 끝]**\n\n특이\n\n사항\n\n단위공정\n\n무게측정 및 보관소 이송\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n특이\n\n사항\n\n<!-- PAGE_4 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_4 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 4 of 5\n\n5-2.  (신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 5 of 5\n\n특이\n\n사항\n",
+        "original_sentence": "| □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No."
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": ": T-02 (00)\n\nPage: 5 of 5\n\n특이\n\n사항\n",
+      "metadata": {
+        "source": "별첨 1-1) 제품표준서 서식1. 제조지시 및 기록서(농축적혈구).pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": ": T-02 (00)\n\nPage: 4 of 5\n\n5-2.  (신선)동결혈장의 제조\n\n단위공정\n\n혈장의 분리, 라벨 부착 및 동결\n\n순서\n\n작업 절차\n\n작업 내용\n\n작업일시\n\n작업자\n\n확인자\n\n**[표 시작]**\n\n| 무를 확인하고 인계한다.  | □정상 □이상 |\n| --- | --- |\n\n**[표 끝]**\n\n<!-- PAGE_5 -->\n# 제조 지시 및 기록서\n\n혈액관리번호\n\n<!-- PAGE_5 -->\n## ○○○혈액원\n\nForm No. : T-02 (00)\n\nPage: 5 of 5\n\n특이\n\n사항\n",
+        "original_sentence": ": T-02 (00)\n\nPage: 5 of 5\n\n특이\n\n사항\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 35,
+    "avg_chunk_length": 92.57142857142857,
+    "min_chunk_length": 8,
+    "max_chunk_length": 319,
+    "total_characters": 3240,
+    "total_words": 869,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 245,
+    "heading_count": 10,
+    "paragraph_count": 74,
+    "list_item_count": 5,
+    "table_cell_count": 156,
+    "tables_detected": 4,
+    "chunks_generated": 35
+  }
+}

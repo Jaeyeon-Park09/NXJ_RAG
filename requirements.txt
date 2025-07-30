@@ -1,0 +1,37 @@
+# NXJ_RAG 통합 requirements.txt
+# 모든 모듈의 의존성을 통합한 파일
+
+# ===== NXJ_LLM 모듈 의존성 =====
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+ollama>=0.1.0
+
+# ===== NXJ_Retriever 모듈 의존성 =====
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+rank-bm25>=0.2.2
+numpy>=1.24.0
+pandas>=2.0.0
+
+# ===== NXJ_Embed 모듈 의존성 =====
+torch>=2.0.0
+transformers>=4.30.0
+tqdm>=4.65.0
+json5>=0.9.0
+psutil>=5.9.0
+
+# ===== NXJ_Parser_Text 모듈 의존성 =====
+PyMuPDF==1.23.9
+python-dateutil==2.8.2
+regex==2023.10.3
+llama-index==0.9.48
+llama-index-core==0.10.57
+
+# ===== NXJ_Web 모듈 의존성 =====
+streamlit>=1.28.0
+langchain-openai>=0.0.5
+
+# ===== 공통 의존성 =====
+# 이미 위에서 정의된 패키지들의 중복 제거
+# numpy, pandas, torch, transformers 등은 위에서 이미 포함됨 

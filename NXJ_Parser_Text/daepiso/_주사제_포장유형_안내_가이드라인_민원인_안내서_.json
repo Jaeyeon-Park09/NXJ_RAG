@@ -1,0 +1,4158 @@
+{
+  "file_name": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+  "total_pages": 10,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "26.018733978271484": 1,
+      "23.98040008544922": 3,
+      "12.222691535949707": 1,
+      "12.284893989562988": 2,
+      "12.335345268249512": 1,
+      "17.02608299255371": 2,
+      "11.030982971191406": 81,
+      "14.028532981872559": 12,
+      "12.94941520690918": 70,
+      "9.951866149902344": 10,
+      "14.987749099731445": 10,
+      "11.99020004272461": 8,
+      "15.946965217590332": 4
+    },
+    "heading_sizes": [
+      23.98040008544922,
+      17.02608299255371,
+      15.946965217590332,
+      14.987749099731445,
+      14.028532981872559,
+      12.94941520690918,
+      12.284893989562988,
+      11.99020004272461
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 2,
+    "tables_info": [
+      {
+        "bbox": [
+          66.08418273925781,
+          161.0882568359375,
+          537.1888427734375,
+          700.6626586914062
+        ],
+        "num_rows": 9,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          85.0339126586914,
+          205.3580780029297,
+          462.947509765625,
+          400.7333068847656
+        ],
+        "num_rows": 3,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "주사제 포장유형 안내 가이드라인",
+      "font_size": 26.018733978271484,
+      "font_name": "H2hdrM",
+      "bbox": [
+        96.06793212890625,
+        314.26385498046875,
+        498.81005859375,
+        340.27545166015625
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(민원인 안내서)",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        212.52481079101562,
+        355.8096008300781,
+        382.37713623046875,
+        379.78338623046875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2019. 10.",
+      "font_size": 23.98040008544922,
+      "font_name": "T2",
+      "bbox": [
+        249.58473205566406,
+        525.6255493164062,
+        345.2449035644531,
+        554.3701782226562
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "“청렴한 식약처",
+      "font_size": 12.222691535949707,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        74.11982727050781,
+        126.70153045654297,
+        167.44200134277344,
+        142.22360229492188
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "국민 안심의 시작”",
+      "font_size": 12.284893989562988,
+      "font_name": "T2",
+      "bbox": [
+        65.36457061767578,
+        147.55874633789062,
+        164.59947204589844,
+        163.080810546875
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록번호",
+      "font_size": 12.335345268249512,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        455.8729248046875,
+        118.81266021728516,
+        502.647705078125,
+        132.46649169921875
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서-0981-01",
+      "font_size": 12.284893989562988,
+      "font_name": "T4",
+      "bbox": [
+        440.40130615234375,
+        141.0858154296875,
+        518.04638671875,
+        156.60787963867188
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 7,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침·안내서 제‧개정 점검표",
+      "font_size": 17.02608299255371,
+      "font_name": "H2hdrM",
+      "bbox": [
+        188.29794311523438,
+        80.4449691772461,
+        412.0973815917969,
+        97.46636962890625
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        80.59632110595703,
+        118.0552749633789,
+        460.5417175292969,
+        132.7233123779297
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제 포장유형 안내 가이드라인 [민원인 안내서]",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        80.59632110595703,
+        118.0552749633789,
+        460.5417175292969,
+        132.7233123779297
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        169.8279571533203,
+        143.58737182617188,
+        430.9358215332031,
+        158.2554168701172
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        68.84268951416016,
+        287.43017578125,
+        112.8584976196289,
+        302.09820556640625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "여부",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        79.876708984375,
+        305.0509033203125,
+        101.82447814941406,
+        319.71893310546875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 이미 등록된 지침·안내서 중 동일·유사한 내용의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        161.0882568359375,
+        390.189453125,
+        175.75628662109375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서가 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.9608917236328,
+        177.63018798828125,
+        272.65325927734375,
+        192.2982177734375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        161.68759155273438,
+        510.2034912109375,
+        191.69886779785156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        161.68759155273438,
+        510.2034912109375,
+        191.69886779785156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        197.0489501953125,
+        541.0673217773438,
+        211.7169952392578
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.2412872314453,
+        213.59088134765625,
+        537.3087768554688,
+        244.68096923828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.2412872314453,
+        213.59088134765625,
+        537.3087768554688,
+        244.68096923828125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사유 :                                                            )",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        246.55484008789062,
+        494.0160217285156,
+        261.2228698730469
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        264.6550598144531,
+        430.8477478027344,
+        279.3230895996094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용을 단순 편집 또는 나열한 것입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.9608917236328,
+        281.0771179199219,
+        350.1312561035156,
+        295.7451477050781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        265.1345520019531,
+        510.2034912109375,
+        295.2656555175781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        265.1345520019531,
+        510.2034912109375,
+        295.2656555175781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        294.862060546875,
+        510.2034912109375,
+        324.9931945800781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        294.862060546875,
+        510.2034912109375,
+        324.9931945800781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        294.862060546875,
+        510.2034912109375,
+        324.9931945800781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        324.1100769042969,
+        437.80364990234375,
+        338.7781066894531
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.2412872314453,
+        339.45330810546875,
+        205.24671936035156,
+        354.121337890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        324.1100769042969,
+        510.2034912109375,
+        354.121337890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        324.1100769042969,
+        510.2034912109375,
+        354.121337890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        353.2382507324219,
+        510.2034912109375,
+        383.369384765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        353.2382507324219,
+        510.2034912109375,
+        383.369384765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        353.2382507324219,
+        510.2034912109375,
+        383.369384765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 정보제공 등 직원 교육용 자료입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        382.4862976074219,
+        510.2034912109375,
+        412.49755859375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        382.4862976074219,
+        510.2034912109375,
+        412.49755859375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        382.4862976074219,
+        510.2034912109375,
+        412.49755859375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        414.0118408203125,
+        524.996826171875,
+        445.2218017578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        414.0118408203125,
+        524.996826171875,
+        445.2218017578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        67.64334106445312,
+        471.5489501953125,
+        114.05818176269531,
+        486.21697998046875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "서 구분",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.6011962890625,
+        489.1697082519531,
+        110.10032653808594,
+        503.8377380371094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        449.0135803222656,
+        450.4759216308594,
+        463.6816101074219
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.36122131347656,
+        464.3568115234375,
+        417.25762939453125,
+        479.02484130859375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        449.0135803222656,
+        531.7125244140625,
+        479.02484130859375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        449.0135803222656,
+        531.7125244140625,
+        479.02484130859375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        481.8576965332031,
+        454.3544006347656,
+        496.5257263183594
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.36122131347656,
+        497.200927734375,
+        454.2352294921875,
+        527.3320922851562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식약처의 입장을 기술하는 것입니까? (민원인용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.36122131347656,
+        497.200927734375,
+        454.2352294921875,
+        527.3320922851562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예(☞안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        489.529296875,
+        534.4710693359375,
+        519.5405883789062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        489.529296875,
+        534.4710693359375,
+        519.5405883789062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        66.08418273925781,
+        547.0664672851562,
+        115.61734008789062,
+        561.7344970703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        79.876708984375,
+        564.6871948242188,
+        101.82447814941406,
+        579.355224609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        531.4834594726562,
+        420.7725524902344,
+        546.1514892578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.36122131347656,
+        546.9465942382812,
+        331.7781677246094,
+        561.6146240234375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        531.4834594726562,
+        510.2034912109375,
+        561.6146240234375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        460.6703186035156,
+        531.4834594726562,
+        510.2034912109375,
+        561.6146240234375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        128.81019592285156,
+        565.8858642578125,
+        537.1888427734375,
+        580.5538940429688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내서 제·개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        145.2412872314453,
+        582.4277954101562,
+        358.8605041503906,
+        597.0958251953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        218.0418243408203,
+        603.1651611328125,
+        383.8013610839844,
+        617.8331909179688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2019년   월    일",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        247.4259033203125,
+        638.8861083984375,
+        342.8941650390625,
+        653.5541381835938
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        333.6591796875,
+        671.730224609375,
+        408.3699951171875,
+        700.6626586914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        333.6591796875,
+        671.730224609375,
+        408.3699951171875,
+        700.6626586914062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "홍성한",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        459.3510437011719,
+        670.0520629882812,
+        492.9319763183594,
+        684.7200927734375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "김명호",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        459.3510437011719,
+        687.6727905273438,
+        496.6908264160156,
+        702.3408203125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        82.4290771484375,
+        532.40673828125,
+        101.08299255371094
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        110.47842407226562,
+        532.2877197265625,
+        129.13233947753906
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "것입니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        138.40789794921875,
+        127.3222427368164,
+        157.0618133544922
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        194.38671875,
+        532.2881469726562,
+        213.04063415527344
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        222.31619262695312,
+        532.4080810546875,
+        240.97010803222656
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "준수하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2019년",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        250.24566650390625,
+        532.2874755859375,
+        268.8995666503906
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        278.2950134277344,
+        532.2874755859375,
+        296.94891357421875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        306.2244873046875,
+        532.2874755859375,
+        324.8783874511719
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "수 있음을 알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        334.15399169921875,
+        229.33132934570312,
+        352.8078918457031
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.40347290039062,
+        387.7109069824219,
+        531.908447265625,
+        404.9299011230469
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        91.51040649414062,
+        411.0853576660156,
+        527.3543090820312,
+        428.3043518066406
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        91.51040649414062,
+        434.4598083496094,
+        433.2020568847656,
+        451.6788024902344
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.609317779541016,
+        545.5784301757812,
+        542.7020874023438,
+        562.7974243164062
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "문의하시기 바랍니다.",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        87.07280731201172,
+        566.4356079101562,
+        213.3193817138672,
+        583.6546020507812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화 : 043-719-2609",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.609317779541016,
+        587.1729736328125,
+        212.94671630859375,
+        604.3919677734375
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "팩스 : 043-719-2606",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.609317779541016,
+        607.9102783203125,
+        212.94671630859375,
+        625.1292724609375
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.",
+      "font_size": 9.951866149902344,
+      "font_name": "Gungsuh",
+      "bbox": [
+        131.68862915039062,
+        673.6235961914062,
+        480.176513671875,
+        686.8567504882812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너",
+      "font_size": 9.951866149902344,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        131.68862915039062,
+        692.5628662109375,
+        488.2548828125,
+        705.7960205078125
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너",
+      "font_size": 9.951866149902344,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        131.68862915039062,
+        708.5054321289062,
+        526.775634765625,
+        721.7385864257812
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제․개정 이력",
+      "font_size": 17.02608299255371,
+      "font_name": "H2mjsM",
+      "bbox": [
+        249.2249298095703,
+        103.33995056152344,
+        345.65264892578125,
+        120.3613510131836
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제 포장유형 안내 가이드라인(민원인 안내서)",
+      "font_size": 14.987749099731445,
+      "font_name": "H2mjsM",
+      "bbox": [
+        125.09220123291016,
+        194.03196716308594,
+        469.8453674316406,
+        209.01559448242188
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "연번",
+      "font_size": 11.99020004272461,
+      "font_name": "H2mjsM",
+      "bbox": [
+        71.36132049560547,
+        254.26133728027344,
+        439.92156982421875,
+        266.24822998046875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제·개정번호",
+      "font_size": 11.99020004272461,
+      "font_name": "H2mjsM",
+      "bbox": [
+        71.36132049560547,
+        254.26133728027344,
+        439.92156982421875,
+        266.24822998046875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "승인일자",
+      "font_size": 11.99020004272461,
+      "font_name": "H2mjsM",
+      "bbox": [
+        71.36132049560547,
+        254.26133728027344,
+        439.92156982421875,
+        266.24822998046875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "주요내용",
+      "font_size": 11.99020004272461,
+      "font_name": "H2mjsM",
+      "bbox": [
+        71.36132049560547,
+        254.26133728027344,
+        439.92156982421875,
+        266.24822998046875
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1",
+      "font_size": 11.99020004272461,
+      "font_name": "H2mjsM",
+      "bbox": [
+        79.6368408203125,
+        291.90020751953125,
+        427.9280700683594,
+        303.8871154785156
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2019.10.",
+      "font_size": 11.99020004272461,
+      "font_name": "H2mjsM",
+      "bbox": [
+        79.6368408203125,
+        291.90020751953125,
+        427.9280700683594,
+        303.8871154785156
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제정",
+      "font_size": 11.99020004272461,
+      "font_name": "H2mjsM",
+      "bbox": [
+        79.6368408203125,
+        291.90020751953125,
+        427.9280700683594,
+        303.8871154785156
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "목    차",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        249.4647979736328,
+        111.63644409179688,
+        345.41278076171875,
+        135.61024475097656
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Ⅰ. 서론 ·························································································1",
+      "font_size": 15.946965217590332,
+      "font_name": "H2mjsM",
+      "bbox": [
+        74.9593734741211,
+        192.01011657714844,
+        520.2930297851562,
+        207.95269775390625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "Ⅱ. 정의 ···························································································1",
+      "font_size": 15.946965217590332,
+      "font_name": "H2mjsM",
+      "bbox": [
+        75.07930755615234,
+        240.7967987060547,
+        520.2930297851562,
+        256.7393798828125
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1. 단회투여 용기 ············································································ 1",
+      "font_size": 14.987749099731445,
+      "font_name": "H2mjsM",
+      "bbox": [
+        75.07930755615234,
+        279.49859619140625,
+        520.2930297851562,
+        294.4822082519531
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2. 다회투여 용기 ············································································ 1",
+      "font_size": 14.987749099731445,
+      "font_name": "H2mjsM",
+      "bbox": [
+        75.07930755615234,
+        316.5381164550781,
+        520.2930297851562,
+        331.521728515625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3. 1인 환자투여 용기 ···································································· 2",
+      "font_size": 14.987749099731445,
+      "font_name": "H2mjsM",
+      "bbox": [
+        75.07930755615234,
+        353.457763671875,
+        520.2930297851562,
+        368.4413757324219
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "Ⅲ. 표시기재 권고사항 ·································································3",
+      "font_size": 15.946965217590332,
+      "font_name": "H2mjsM",
+      "bbox": [
+        75.07930755615234,
+        400.4623107910156,
+        520.2930297851562,
+        416.4049072265625
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "Ⅳ. 참고문헌 ···················································································4",
+      "font_size": 15.946965217590332,
+      "font_name": "H2mjsM",
+      "bbox": [
+        75.07930755615234,
+        449.1291198730469,
+        520.2930297851562,
+        465.07171630859375
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1",
+      "font_size": 9.951866149902344,
+      "font_name": "HCRDotum",
+      "bbox": [
+        294.6802978515625,
+        785.5243530273438,
+        300.15533447265625,
+        798.4581909179688
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Ⅰ. 서론",
+      "font_size": 14.987749099731445,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        70.5522689819336,
+        113.09870147705078,
+        86.35531616210938
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        113.05894470214844,
+        544.6253662109375,
+        126.71277618408203
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대한 사항을 안내하는데 그 목적이 있다. 해당 용기는 의약품, 생물의약품, 생약",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        135.23471069335938,
+        544.6250610351562,
+        148.88853454589844
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        157.2906036376953,
+        544.7447509765625,
+        170.94442749023438
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "적용될 수 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        179.3465118408203,
+        151.0112762451172,
+        193.00033569335938
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Ⅱ. 정의",
+      "font_size": 14.987749099731445,
+      "font_name": "H2mjsM",
+      "bbox": [
+        56.609317779541016,
+        235.38677978515625,
+        113.45851135253906,
+        250.3704071044922
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제의 포장유형은 다음과 같다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        277.8788146972656,
+        280.8875427246094,
+        291.5326232910156
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 단회투여 용기(Single-Dose Container)",
+      "font_size": 14.028532981872559,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        316.9879455566406,
+        320.8941955566406,
+        331.77960205078125
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        350.7591857910156,
+        544.7447509765625,
+        364.4129943847656
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사용된다. 단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.39534759521484,
+        372.8150634765625,
+        537.4418334960938,
+        386.4688720703125
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 다회투여 용기(Multiple-Dose Container)",
+      "font_size": 14.028532981872559,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        411.9241943359375,
+        333.36676025390625,
+        426.7158508300781
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        445.6954345703125,
+        544.6243896484375,
+        459.3492431640625
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.5152816772461,
+        467.7513122558594,
+        538.1483764648438,
+        481.4051208496094
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.5152816772461,
+        489.9270935058594,
+        544.6248168945312,
+        503.5809020996094
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있다. 다회투여 용기의 예로는 바이알4)이 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.5152816772461,
+        511.9830017089844,
+        362.9364318847656,
+        525.6368408203125
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        572.1072387695312,
+        541.9420166015625,
+        583.1659545898438
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "예규)」을 참고한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        70.16197204589844,
+        588.56005859375,
+        171.0109100341797,
+        599.5880126953125
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        612.4140014648438,
+        541.8224487304688,
+        623.4419555664062
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        70.16197204589844,
+        628.9559326171875,
+        541.942626953125,
+        656.4059448242188
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등을 제출하여 타당성을 입증한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        70.16197204589844,
+        628.9559326171875,
+        541.942626953125,
+        656.4059448242188
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        669.23193359375,
+        541.8233032226562,
+        680.2598876953125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다.",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        70.40184783935547,
+        685.7738647460938,
+        508.98773193359375,
+        696.8018188476562
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        56.609317779541016,
+        709.5078735351562,
+        541.9423828125,
+        720.5358276367188
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        69.68223571777344,
+        726.0498046875,
+        541.9426879882812,
+        770.041748046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        69.68223571777344,
+        726.0498046875,
+        541.9426879882812,
+        770.041748046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.",
+      "font_size": 11.030982971191406,
+      "font_name": "Batang",
+      "bbox": [
+        69.68223571777344,
+        726.0498046875,
+        541.9426879882812,
+        770.041748046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 9.951866149902344,
+      "font_name": "HCRDotum",
+      "bbox": [
+        294.6802978515625,
+        785.5243530273438,
+        300.15533447265625,
+        798.4581909179688
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 1인 환자투여 용기(Single-Patient-Use Container)",
+      "font_size": 14.028532981872559,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        92.11370849609375,
+        391.8957214355469,
+        106.90535736083984
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        127.32335662841797,
+        538.23828125,
+        140.97718811035156
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "할 수 있는 무균제제 용기이다. 1인 환자투여 용기의 예로는 통증자가조절기",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.5152816772461,
+        150.69781494140625,
+        544.6248168945312,
+        164.3516387939453
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "카트리지 및 인슐린 펜형 주사기 등이 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        82.5152816772461,
+        174.072265625,
+        352.2488708496094,
+        187.72608947753906
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "< 주사제의 포장유형 구분 >",
+      "font_size": 14.987749099731445,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        199.931640625,
+        224.94354248046875,
+        394.76605224609375,
+        240.74658203125
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3",
+      "font_size": 9.951866149902344,
+      "font_name": "HCRDotum",
+      "bbox": [
+        294.6802978515625,
+        785.5243530273438,
+        300.15533447265625,
+        798.4581909179688
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Ⅲ. 표시기재 권고사항",
+      "font_size": 14.987749099731445,
+      "font_name": "H2mjsM",
+      "bbox": [
+        67.1635971069336,
+        70.56690216064453,
+        221.39999389648438,
+        85.55052947998047
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        115.5761947631836,
+        544.6248168945312,
+        129.2300262451172
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        138.95065307617188,
+        544.6255493164062,
+        152.60447692871094
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "품목 허가(신고) 변경을 신청할 수 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        162.32510375976562,
+        297.0787658691406,
+        175.9789276123047
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        196.48777770996094,
+        538.1483764648438,
+        210.1416015625
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        219.8622283935547,
+        538.1483764648438,
+        233.51605224609375
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        243.23667907714844,
+        544.7453002929688,
+        256.8905029296875
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "권고할 수 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        266.61114501953125,
+        151.0112762451172,
+        280.26495361328125
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        313.36004638671875,
+        405.71014404296875,
+        327.01385498046875
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "허가(신고)사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        218.40162658691406,
+        352.8786315917969,
+        291.2021789550781,
+        367.5466613769531
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "표시기재",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        470.744873046875,
+        344.0083312988281,
+        514.7606811523438,
+        358.6763610839844
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(포장유형)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        467.3866882324219,
+        361.62908935546875,
+        518.1229248046875,
+        376.297119140625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        388.83935546875,
+        432.7254943847656,
+        403.50738525390625
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        409.3369445800781,
+        429.2774963378906,
+        424.0049743652344
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        429.95440673828125,
+        442.4699401855469,
+        444.6224365234375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "‘단회투여’",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        468.2262268066406,
+        407.8985290527344,
+        517.3093872070312,
+        422.5665588378906
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        455.72625732421875,
+        441.72113037109375,
+        470.394287109375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        476.3437194824219,
+        448.8376770019531,
+        491.0117492675781
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "반드시 한 명의 환자에게만 사용하여야 한다.’",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        81.43586730957031,
+        493.8446044921875,
+        311.6209411621094,
+        508.51263427734375
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        64.52503204345703,
+        514.4620971679688,
+        448.8379821777344,
+        529.130126953125
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사용할 수 있다.’",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.59632110595703,
+        532.0828247070312,
+        162.54177856445312,
+        546.7508544921875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "‘1인 환자투여’",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        459.1111755371094,
+        492.4061584472656,
+        526.4244995117188,
+        507.0741882324219
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        587.8600463867188,
+        544.62451171875,
+        601.513916015625
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        611.2344970703125,
+        538.1483764648438,
+        624.8883666992188
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        634.6089477539062,
+        446.3978271484375,
+        648.2628173828125
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        668.7716064453125,
+        538.1483764648438,
+        682.4254760742188
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        692.1460571289062,
+        538.1483764648438,
+        705.7999267578125
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        715.5205078125,
+        527.607177734375,
+        729.1743774414062
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4",
+      "font_size": 9.951866149902344,
+      "font_name": "HCRDotum",
+      "bbox": [
+        294.6802978515625,
+        785.5243530273438,
+        300.15533447265625,
+        798.4581909179688
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Ⅳ. 참고문헌",
+      "font_size": 14.987749099731445,
+      "font_name": "H2mjsM",
+      "bbox": [
+        67.1635971069336,
+        70.56690216064453,
+        153.87661743164062,
+        85.55052947998047
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1) Selection of the Appropriate Package type Terms and Recommendations for",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.609317779541016,
+        111.98011779785156,
+        544.74462890625,
+        125.63394927978516
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Labeling",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        132.71746826171875,
+        544.7447509765625,
+        146.3712921142578
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Injectable",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        132.71746826171875,
+        544.7447509765625,
+        146.3712921142578
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Medical",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        132.71746826171875,
+        544.7447509765625,
+        146.3712921142578
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Products",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        132.71746826171875,
+        544.7447509765625,
+        146.3712921142578
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Packaged",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        132.71746826171875,
+        544.7447509765625,
+        146.3712921142578
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "in",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        132.71746826171875,
+        544.7447509765625,
+        146.3712921142578
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Multiple-Dose,",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        132.71746826171875,
+        544.7447509765625,
+        146.3712921142578
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Single-Dose, and Single-Patient-Use Containers for Human Use Guidance",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        153.45480346679688,
+        544.7469482421875,
+        167.10862731933594
+      ],
+      "page_num": 9,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "for Industry (미국 FDA 가이드라인)",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.47638702392578,
+        174.31201171875,
+        293.0911560058594,
+        187.96583557128906
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "“주사제 포장유형 안내 가이드라인”",
+      "font_size": 14.987749099731445,
+      "font_name": "T2",
+      "bbox": [
+        173.66587829589844,
+        95.41572570800781,
+        421.0018310546875,
+        113.38109588623047
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        153.33493041992188,
+        169.948486328125,
+        166.98875427246094
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        153.33493041992188,
+        169.948486328125,
+        166.98875427246094
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        153.33493041992188,
+        169.948486328125,
+        166.98875427246094
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        205.3580780029297,
+        169.948486328125,
+        219.01190185546875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        205.3580780029297,
+        169.948486328125,
+        219.01190185546875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "인",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        205.3580780029297,
+        169.948486328125,
+        219.01190185546875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편 집 위 원 장",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        257.2613525390625,
+        169.948486328125,
+        270.9151611328125
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        325.2270812988281,
+        169.94790649414062,
+        338.8808898925781
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "집",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        325.2270812988281,
+        169.94790649414062,
+        338.8808898925781
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "위",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        325.2270812988281,
+        169.94790649414062,
+        338.8808898925781
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        325.2270812988281,
+        169.94790649414062,
+        338.8808898925781
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        387.0794982910156,
+        169.94790649414062,
+        400.7333068847656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        387.0794982910156,
+        169.94790649414062,
+        400.7333068847656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "처",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        85.0339126586914,
+        387.0794982910156,
+        169.94790649414062,
+        400.7333068847656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2019월  10월",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        151.51441955566406,
+        270.3334655761719,
+        167.03648376464844
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "식품의약품안전처장  이 의 경",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        205.3580780029297,
+        374.3171081542969,
+        219.01190185546875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의약품안전국장  김 영 옥",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        257.2613525390625,
+        348.4111633300781,
+        270.9151611328125
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(의약품정책과)",
+      "font_size": 12.94941520690918,
+      "font_name": "T4",
+      "bbox": [
+        192.6156005859375,
+        307.3441162109375,
+        275.1136169433594,
+        322.8662109375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "김명호, 임상우, 주진영, 박선임, 홍성한",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        333.3556823730469,
+        424.0890808105469,
+        348.8777770996094
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처 의약품안전국 의약품정책과",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        192.6156005859375,
+        387.0794982910156,
+        462.947509765625,
+        400.7333068847656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        115.1375961303711,
+        536.2286376953125,
+        479.6787414550781,
+        553.4476318359375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처 행정동 311호",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        202.2104034423828,
+        556.9659423828125,
+        392.5472412109375,
+        574.1849365234375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처 의약품안전국 의약품정책과",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        161.0727081298828,
+        577.8231811523438,
+        433.8059387207031,
+        595.0421752929688
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "TEL : 043-719-2609  FAX : 043-719-2606",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        171.62698364257812,
+        598.5604858398438,
+        423.1920166015625,
+        615.7794799804688
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "<http://www.mfds.go.kr>",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        223.0791015625,
+        619.2978515625,
+        371.7608947753906,
+        636.516845703125
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "“내가 지킨 청렴실천 모아지면 청렴사회”",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        188.8976287841797,
+        653.7849731445312,
+        414.9952392578125,
+        669.7284545898438
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.",
+      "font_size": 9.951866149902344,
+      "font_name": "Gungsuh",
+      "bbox": [
+        131.68862915039062,
+        701.4331665039062,
+        480.176513671875,
+        714.6663208007812
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너",
+      "font_size": 9.951866149902344,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        131.68862915039062,
+        720.3724975585938,
+        488.2548828125,
+        733.6056518554688
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너",
+      "font_size": 9.951866149902344,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        131.68862915039062,
+        736.3150634765625,
+        526.775634765625,
+        749.5482177734375
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    }
+  ],
+  "markdown_content": "주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n<!-- PAGE_1 -->\n# 2019. 10.\n\n“청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다. |\n**지침·안내서가 있습니까?**\n**Ⅰ. 서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ. 정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1. 단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까? |\n**등록대상**\n| 1 | 2019.10. | 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2. 다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다. | 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까?**\n**표시기재**\n| 3. 1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까? | □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ. 표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. |\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ. 참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? (민원인용) |\n**있다. 다회투여 용기의 예로는 바이알4)이 있다.**\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? |\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다. | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다. | 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다.**\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음.**\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.**\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다.**\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n<!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ. 서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다. 해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n<!-- PAGE_6 -->\n#### Ⅱ. 정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n<!-- PAGE_6 -->\n##### 1. 단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다. 단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n<!-- PAGE_6 -->\n##### 2. 다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n2\n\n<!-- PAGE_7 -->\n##### 3. 1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다. 1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ. 표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n<!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n4\n\n<!-- PAGE_9 -->\n#### Ⅳ. 참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n<!-- PAGE_1 -->\n# 2019. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 72,
+        "word_count": 15,
+        "page_number": 1,
+        "window_text": "주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n<!-- PAGE_1 -->\n# 2019.  10.\n\n “청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다. ",
+        "original_sentence": "주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n<!-- PAGE_1 -->\n# 2019. "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "10.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n<!-- PAGE_1 -->\n# 2019.  10.\n\n “청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다.  |\n**지침·안내서가 있습니까?",
+        "original_sentence": "10.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "“청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 185,
+        "word_count": 35,
+        "page_number": 1,
+        "window_text": "주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n<!-- PAGE_1 -->\n# 2019.  10.\n\n “청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다.  |\n**지침·안내서가 있습니까? **\n**Ⅰ. ",
+        "original_sentence": "“청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 136,
+        "word_count": 38,
+        "page_number": 2,
+        "window_text": "주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n<!-- PAGE_1 -->\n# 2019.  10.\n\n “청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다.  |\n**지침·안내서가 있습니까? **\n**Ⅰ.  서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ. ",
+        "original_sentence": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "|\n**지침·안내서가 있습니까?",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 17,
+        "word_count": 3,
+        "page_number": 2,
+        "window_text": "10.\n\n “청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다.  |\n**지침·안내서가 있습니까? **\n**Ⅰ.  서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ.  정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다. ",
+        "original_sentence": "|\n**지침·안내서가 있습니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "**\n**Ⅰ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 8,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "“청렴한 식약처\n\n<!-- PAGE_1 -->\n###### 국민 안심의 시작”\n\n등록번호\n\n<!-- PAGE_1 -->\n###### 안내서-0981-01\n\n<!-- PAGE_2 -->\n## 지침·안내서 제‧개정 점검표\n\n명칭\n\n주사제 포장유형 안내 가이드라인 [민원인 안내서]\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다.  |\n**지침·안내서가 있습니까? **\n**Ⅰ.  서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ.  정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1. ",
+        "original_sentence": "**\n**Ⅰ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 267,
+        "word_count": 44,
+        "page_number": 5,
+        "window_text": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| for Industry (미국 FDA 가이드라인) | 카트리지 및 인슐린 펜형 주사기 등이 있다.  |\n**지침·안내서가 있습니까? **\n**Ⅰ.  서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ.  정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1.  단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까? ",
+        "original_sentence": "서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 196,
+        "word_count": 10,
+        "page_number": 5,
+        "window_text": "|\n**지침·안내서가 있습니까? **\n**Ⅰ.  서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ.  정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1.  단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까?  |\n**등록대상**\n| 1 | 2019.10. ",
+        "original_sentence": "정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 179,
+        "word_count": 48,
+        "page_number": 4,
+        "window_text": "**\n**Ⅰ.  서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ.  정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1.  단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까?  |\n**등록대상**\n| 1 | 2019.10.  | 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까? ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 112,
+        "word_count": 11,
+        "page_number": 5,
+        "window_text": "서론 ·························································································1**\n| 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 | 주사제 포장유형 안내 가이드라인(민원인 안내서) |\n| 발 | 행 | 인 | 식품의약품안전처장  이 의 경 |\n**기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시**\n**< 주사제의 포장유형 구분 >**\n**Ⅱ.  정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1.  단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까?  |\n**등록대상**\n| 1 | 2019.10.  | 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2. ",
+        "original_sentence": "단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "|\n**등록대상**\n| 1 | 2019.10. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 6,
+        "page_number": 2,
+        "window_text": "정의 ···························································································1**\n**(사유 :                                                            )**\n**준수하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1.  단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까?  |\n**등록대상**\n| 1 | 2019.10.  | 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2.  다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다. ",
+        "original_sentence": "|\n**등록대상**\n| 1 | 2019.10. "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 40,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "또한, 본 안내서는 2019년**\n| 연번 | 제·개정번호 | 승인일자 | 주요내용 | 편 집 위 원 장 | 의약품안전국장  김 영 옥 |\n| □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 | □ 예 | ■ 아니오 |\n| 9월 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로 | 1.  단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까?  |\n**등록대상**\n| 1 | 2019.10.  | 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2.  다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다.  | 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까?",
+        "original_sentence": "| 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "| □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 81,
+        "word_count": 26,
+        "page_number": 2,
+        "window_text": "단회투여 용기 ············································································ 1 | 내용을 단순 편집 또는 나열한 것입니까?  |\n**등록대상**\n| 1 | 2019.10.  | 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2.  다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다.  | 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까? **\n**표시기재**\n| 3. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 173,
+        "word_count": 33,
+        "page_number": 5,
+        "window_text": "|\n**등록대상**\n| 1 | 2019.10.  | 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2.  다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다.  | 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까? **\n**표시기재**\n| 3.  1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "| 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까?",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 36,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "| 제정 |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2.  다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다.  | 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까? **\n**표시기재**\n| 3.  1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+        "original_sentence": "| 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "**\n**표시기재**\n| 3. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 17,
+        "word_count": 4,
+        "page_number": 8,
+        "window_text": "| □ 예 | ■ 아니오 |\n| 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될 | 여부 | (의약품정책과) |\n**2.  다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다.  | 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까? **\n**표시기재**\n| 3.  1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ. ",
+        "original_sentence": "**\n**표시기재**\n| 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 111,
+        "word_count": 12,
+        "page_number": 4,
+        "window_text": "다회투여 용기 ············································································ 1**\n| 편 | 집 | 위 | 원 | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n| 수 있음을 알려드립니다.  | 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까? **\n**표시기재**\n| 3.  1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ.  표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "| □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 63,
+        "word_count": 17,
+        "page_number": 2,
+        "window_text": "| 김명호, 임상우, 주진영, 박선임, 홍성한 |\n**내용입니까? **\n**표시기재**\n| 3.  1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ.  표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "| □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 108,
+        "word_count": 29,
+        "page_number": 2,
+        "window_text": "**\n**표시기재**\n| 3.  1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ.  표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 185,
+        "word_count": 29,
+        "page_number": 2,
+        "window_text": "1인 환자투여 용기 ···································································· 2 | □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ.  표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ.  참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 | 허가(신고)사항 |\n**(포장유형)**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ.  표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ.  참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+        "original_sentence": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "|\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 46,
+        "word_count": 10,
+        "page_number": 3,
+        "window_text": "| □ 예 | ■ 아니오 |\n| 발 | 행 | 처 | 식품의약품안전처 의약품안전국 의약품정책과 |\n**※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등을 알기 쉽게**\n**Ⅲ.  표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ.  참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**있다. ",
+        "original_sentence": "|\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 176,
+        "word_count": 23,
+        "page_number": 5,
+        "window_text": "표시기재 권고사항 ·································································3**\n| 풀어서 설명하거나 특정한 사안에 대하여 식품의약품안전처의 입장을 기술 | ‘단회투여’ |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ.  참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**있다.  다회투여 용기의 예로는 바이알4)이 있다.",
+        "original_sentence": "참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "(공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 189,
+        "word_count": 47,
+        "page_number": 2,
+        "window_text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ.  참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**있다.  다회투여 용기의 예로는 바이알4)이 있다. **\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+        "original_sentence": "(공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "(민원인용) |\n**있다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 15,
+        "word_count": 3,
+        "page_number": 10,
+        "window_text": "|\n**하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| Ⅳ.  참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**있다.  다회투여 용기의 예로는 바이알4)이 있다. **\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다. ",
+        "original_sentence": "(민원인용) |\n**있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "다회투여 용기의 예로는 바이알4)이 있다.",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 23,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "참고문헌 ···················································································4 | □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정사 | □ 예(☞지침) | ■ 아니오 |\n**무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**있다.  다회투여 용기의 예로는 바이알4)이 있다. **\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다.  | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다. ",
+        "original_sentence": "다회투여 용기의 예로는 바이알4)이 있다."
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "**\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 137,
+        "word_count": 36,
+        "page_number": 2,
+        "window_text": "(공무원용)**\n**지침·안내**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 서 구분 | ‘1인 환자투여’ | ■ 예(☞안내서) | □ 아니오 |\n| 반드시 한 명의 환자에게만 사용하여야 한다.’ | 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**있다.  다회투여 용기의 예로는 바이알4)이 있다. **\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다.  | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다.  | 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다.",
+        "original_sentence": "**\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "|\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 43,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "(민원인용) |\n**있다.  다회투여 용기의 예로는 바이알4)이 있다. **\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다.  | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다.  | 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다. **\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음.",
+        "original_sentence": "|\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "| ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 75,
+        "word_count": 19,
+        "page_number": 2,
+        "window_text": "다회투여 용기의 예로는 바이알4)이 있다. **\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다.  | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다.  | 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다. **\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음. **\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.",
+        "original_sentence": "| ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "| 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다.",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 40,
+        "word_count": 7,
+        "page_number": 6,
+        "window_text": "**\n| 사용할 수 있다.’ | □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**(우 28195) 충청북도 청주시 흥덕구 오송읍 오송생명2로 187**\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다.  | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다.  | 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다. **\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음. **\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다. **\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다.",
+        "original_sentence": "| 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "**\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음.",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 65,
+        "word_count": 11,
+        "page_number": 4,
+        "window_text": "|\n**식품의약품안전처 행정동 311호**\n| 사항 | 문의하시기 바랍니다.  | ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다.  | 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다. **\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음. **\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다. **\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다. **\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다. ",
+        "original_sentence": "**\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음."
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "**\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 147,
+        "word_count": 27,
+        "page_number": 2,
+        "window_text": "| ☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·안 |\n| 내서 제·개정 절차를 진행하시기 바랍니다.  | 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다. **\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음. **\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다. **\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다. **\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+        "original_sentence": "**\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "**\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다.",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 52,
+        "word_count": 13,
+        "page_number": 1,
+        "window_text": "| 식품의약품안전처 의약품안전국 의약품정책과 |\n**예규)」을 참고한다. **\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음. **\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다. **\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다. **\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n",
+        "original_sentence": "**\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다."
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "**\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 72,
+        "word_count": 15,
+        "page_number": 2,
+        "window_text": "**\n**TEL : 043-719-2609  FAX : 043-719-2606**\n**상기 사항에 대하여 확인하였음. **\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다. **\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다. **\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n <!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ. ",
+        "original_sentence": "**\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "**\n**<http://www.mfds.go.kr>**\n**2019년   월    일**\n**“내가 지킨 청렴실천 모아지면 청렴사회”**\n| 담당자 | 확  인(부서장) | 홍성한 |\n**【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다. **\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다. **\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n <!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ.  서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다. ",
+        "original_sentence": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 154,
+        "word_count": 29,
+        "page_number": 3,
+        "window_text": "**\n**사용할 수 있도록 보존제가 없는 주사용 제품을 사용하는 것이 품목별로 허용하고 있다. **\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n <!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ.  서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다.  해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n",
+        "original_sentence": "김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "<!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 330,
+        "word_count": 71,
+        "page_number": 3,
+        "window_text": "**\n\n**[표 끝]**\n\n☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n <!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ.  서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다.  해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n <!-- PAGE_6 -->\n#### Ⅱ. ",
+        "original_sentence": "<!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 114,
+        "word_count": 25,
+        "page_number": 6,
+        "window_text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한 경\n\n우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n <!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ.  서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다.  해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n <!-- PAGE_6 -->\n#### Ⅱ.  정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n",
+        "original_sentence": "서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 128,
+        "word_count": 26,
+        "page_number": 6,
+        "window_text": "김명호\n\n<!-- PAGE_3 -->\n##### 이 안내서는 주사제의 포장단위(단회·다회·1인 환자투여) 등에 따른\n\n<!-- PAGE_3 -->\n##### 정의, 표시기재 사항 등에 대한 식품의약품안전처의 입장을 기술한\n\n<!-- PAGE_3 -->\n##### 것입니다.\n\n <!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ.  서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다.  해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n <!-- PAGE_6 -->\n#### Ⅱ.  정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n <!-- PAGE_6 -->\n##### 1. ",
+        "original_sentence": "해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "<!-- PAGE_6 -->\n#### Ⅱ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 24,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "<!-- PAGE_3 -->\n###### ※ 이 안내서에 대해 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품정책과로\n\n<!-- PAGE_3 -->\n###### 전화 : 043-719-2609\n\n<!-- PAGE_3 -->\n###### 팩스 : 043-719-2606\n\n▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n\n<!-- PAGE_4 -->\n## 제․개정 이력\n\n<!-- PAGE_5 -->\n# 목    차\n\n1\n\n<!-- PAGE_6 -->\n#### Ⅰ.  서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다.  해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n <!-- PAGE_6 -->\n#### Ⅱ.  정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n <!-- PAGE_6 -->\n##### 1.  단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다. ",
+        "original_sentence": "<!-- PAGE_6 -->\n#### Ⅱ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 47,
+        "word_count": 9,
+        "page_number": 6,
+        "window_text": "서론\n\n<!-- PAGE_6 -->\n###### 본 안내서는 주사제의 용기에 대한 포장유형 구분·정의 및 표시기재 등에\n\n<!-- PAGE_6 -->\n###### 대한 사항을 안내하는데 그 목적이 있다.  해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n <!-- PAGE_6 -->\n#### Ⅱ.  정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n <!-- PAGE_6 -->\n##### 1.  단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다.  단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n",
+        "original_sentence": "정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "<!-- PAGE_6 -->\n##### 1. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 25,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "해당 용기는 의약품, 생물의약품, 생약\n\n<!-- PAGE_6 -->\n###### 유래 의약품(수액제 등 정맥점적용 백은 제외) 뿐만 아니라, 복합·조합 품목1)에도\n\n<!-- PAGE_6 -->\n###### 적용될 수 있다.\n\n <!-- PAGE_6 -->\n#### Ⅱ.  정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n <!-- PAGE_6 -->\n##### 1.  단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다.  단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n <!-- PAGE_6 -->\n##### 2. ",
+        "original_sentence": "<!-- PAGE_6 -->\n##### 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 128,
+        "word_count": 21,
+        "page_number": 6,
+        "window_text": "<!-- PAGE_6 -->\n#### Ⅱ.  정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n <!-- PAGE_6 -->\n##### 1.  단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다.  단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n <!-- PAGE_6 -->\n##### 2.  다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n",
+        "original_sentence": "단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 38,
+        "word_count": 8,
+        "page_number": 6,
+        "window_text": "정의\n\n<!-- PAGE_6 -->\n###### 주사제의 포장유형은 다음과 같다.\n\n <!-- PAGE_6 -->\n##### 1.  단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다.  단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n <!-- PAGE_6 -->\n##### 2.  다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n 3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n",
+        "original_sentence": "단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "<!-- PAGE_6 -->\n##### 2. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 25,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "<!-- PAGE_6 -->\n##### 1.  단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다.  단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n <!-- PAGE_6 -->\n##### 2.  다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n 3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n 2\n\n<!-- PAGE_7 -->\n##### 3. ",
+        "original_sentence": "<!-- PAGE_6 -->\n##### 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 427,
+        "word_count": 76,
+        "page_number": 6,
+        "window_text": "단회투여 용기(Single-Dose Container)\n\n<!-- PAGE_6 -->\n###### 단회투여 용기는 단회 주사(주입) 무균제제 용기로, 단회 주사(주입)를 위해\n\n<!-- PAGE_6 -->\n###### 사용된다.  단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n <!-- PAGE_6 -->\n##### 2.  다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n 3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n 2\n\n<!-- PAGE_7 -->\n##### 3.  1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다. ",
+        "original_sentence": "다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 261,
+        "word_count": 59,
+        "page_number": 6,
+        "window_text": "단회투여 용기의 예로는 바이알, 앰플, 프리필드시린지 등이 있다.\n\n <!-- PAGE_6 -->\n##### 2.  다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n 3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n 2\n\n<!-- PAGE_7 -->\n##### 3.  1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다.  1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ. ",
+        "original_sentence": "3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_048",
+      "text": "2\n\n<!-- PAGE_7 -->\n##### 3. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 47,
+        "window_size": 3,
+        "char_count": 28,
+        "word_count": 6,
+        "page_number": 7,
+        "window_text": "<!-- PAGE_6 -->\n##### 2.  다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n 3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n 2\n\n<!-- PAGE_7 -->\n##### 3.  1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다.  1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ.  표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n",
+        "original_sentence": "2\n\n<!-- PAGE_7 -->\n##### 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_049",
+      "text": "1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 48,
+        "window_size": 3,
+        "char_count": 149,
+        "word_count": 27,
+        "page_number": 7,
+        "window_text": "다회투여 용기(Multiple-Dose Container)\n\n<!-- PAGE_6 -->\n###### 다회투여 용기는 보존제를 넣거나2), 반감기가 짧은 방사성의약품3)과 같이\n\n<!-- PAGE_6 -->\n###### 보존제가 필요 없는 다회 주사(주입) 무균제제 용기로, 2회 이상의 주사\n\n<!-- PAGE_6 -->\n###### (주입)를 위해 사용되며, 일반적으로 30 mL 이하의 약물을 충전하도록 되어\n\n1) 복합·조합품목 등은 「복합·조합품목 등의 민원신청 처리 등에 관한 규정 (식품의약품안전처\n\n2) 의약품의 품목허가·신고·심사 규정」[별표8] ‘의약품용 보존제 및 그 사용범위’에 적합한\n\n보존제를 넣거나, 필요한 경우 보존력시험자료(Efficacy of antimicrobial preservation)\n\n등을 제출하여 타당성을 입증한다.\n\n 3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n 2\n\n<!-- PAGE_7 -->\n##### 3.  1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다.  1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ.  표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n",
+        "original_sentence": "1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_050",
+      "text": "1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 49,
+        "window_size": 3,
+        "char_count": 52,
+        "word_count": 11,
+        "page_number": 8,
+        "window_text": "3) 일부 특수하게 설계된 포장 또는 짧은 유효기간을 가진 특정 방사성의약품은 여러 환자가\n\n4) 「대한민국약전(식품의약품안전처 고시)」 일반시험법 중 ‘주사제용유리용기시험법’에 따라\n\n분할사용을 목적으로 하는 용기는 고무마개 또는 다른 적당한 마개로 밀봉하여야 하며,\n\n그 마개는 내용의약품과 물리적 또는 화학적으로 작용하지 않는 것으로 주사바늘을 삽입할 때 마개\n\n파편이 혼입되지 않고 또 주사바늘을 뺄 때 곧 외부로부터의 오염을 막을 수 있는 것이어야 한다.\n\n 2\n\n<!-- PAGE_7 -->\n##### 3.  1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다.  1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ.  표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n <!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n",
+        "original_sentence": "1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_051",
+      "text": "표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 50,
+        "window_size": 3,
+        "char_count": 194,
+        "word_count": 38,
+        "page_number": 8,
+        "window_text": "2\n\n<!-- PAGE_7 -->\n##### 3.  1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다.  1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ.  표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n <!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n",
+        "original_sentence": "표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_052",
+      "text": "<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 51,
+        "window_size": 3,
+        "char_count": 235,
+        "word_count": 51,
+        "page_number": 8,
+        "window_text": "1인 환자투여 용기(Single-Patient-Use Container)\n\n<!-- PAGE_7 -->\n###### 1인 환자투여 용기는 여러 환자가 아닌 1인의 환자에게만 다회 주사(주입)\n\n<!-- PAGE_7 -->\n###### 할 수 있는 무균제제 용기이다.  1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ.  표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n <!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n 4\n\n<!-- PAGE_9 -->\n#### Ⅳ. ",
+        "original_sentence": "<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_053",
+      "text": "<!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 52,
+        "window_size": 3,
+        "char_count": 513,
+        "word_count": 121,
+        "page_number": 8,
+        "window_text": "1인 환자투여 용기의 예로는 통증자가조절기\n\n3\n\n<!-- PAGE_8 -->\n#### Ⅲ.  표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n <!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n 4\n\n<!-- PAGE_9 -->\n#### Ⅳ.  참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n",
+        "original_sentence": "<!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_054",
+      "text": "<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 53,
+        "window_size": 3,
+        "char_count": 207,
+        "word_count": 45,
+        "page_number": 8,
+        "window_text": "표시기재 권고사항\n\n<!-- PAGE_8 -->\n###### 주사제의 품목 허가(신고)를 이미 받은 자는 해당 품목의 포장유형을 입증할 수\n\n<!-- PAGE_8 -->\n###### 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비하여 식품의약품안전처에\n\n<!-- PAGE_8 -->\n###### 품목 허가(신고) 변경을 신청할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n <!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n 4\n\n<!-- PAGE_9 -->\n#### Ⅳ.  참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n ▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n",
+        "original_sentence": "<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_055",
+      "text": "4\n\n<!-- PAGE_9 -->\n#### Ⅳ. ",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 54,
+        "window_size": 3,
+        "char_count": 27,
+        "word_count": 6,
+        "page_number": 9,
+        "window_text": "<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·\n\n<!-- PAGE_8 -->\n###### 용량’등에 포장유형을 명시하여 허가(신고) 변경 할 수 있고, 해당 품목 허가\n\n<!-- PAGE_8 -->\n###### (신고)를 받은 자에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을\n\n<!-- PAGE_8 -->\n###### 권고할 수 있다.\n\n <!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n 4\n\n<!-- PAGE_9 -->\n#### Ⅳ.  참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n ▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n",
+        "original_sentence": "4\n\n<!-- PAGE_9 -->\n#### Ⅳ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_056",
+      "text": "참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 55,
+        "window_size": 3,
+        "char_count": 635,
+        "word_count": 101,
+        "page_number": 9,
+        "window_text": "<!-- PAGE_8 -->\n###### (예시) 주사제 품목 허가(신고)사항 및 표시기재(포장유형)\n\n- ○ 바이알 주사제로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘이 약과 이 약을 함유한 주사기는 환자 1인에 대하여 1회 사용한다.’\n- - ‘이 약을 투여하고 남은 제제는 미생물 오염의 가능성이 있으므로 버린다’\n- ○ 인슐린 펜형 주사기로서 사용상의 주의사항 중 다음의 사항이 명시된 경우\n- - ‘질병의 전염 가능성을 막기 위해, 주사바늘을 바꾼 경우에도 각 펜은\n- - ‘첫 사용 후에는 다시 냉장보관하지 않으며, 30℃ 이하에서 보관 시 28일간\n<!-- PAGE_8 -->\n###### 그리고 주사제의 품목 허가(신고)를 신규로 받으려는 자는 해당 품목의\n\n<!-- PAGE_8 -->\n###### 포장유형을 입증할 수 있는 근거자료(용기의 종류, 보존력시험자료 등)를 구비\n\n<!-- PAGE_8 -->\n###### 하여 식품의약품안전처에 품목 허가(신고)를 신청 할 수 있다.\n\n <!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n 4\n\n<!-- PAGE_9 -->\n#### Ⅳ.  참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n ▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n",
+        "original_sentence": "참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_057",
+      "text": "▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n",
+      "metadata": {
+        "source": "☆주사제+포장유형+안내+가이드라인(민원인+안내서).pdf",
+        "chunk_index": 56,
+        "window_size": 3,
+        "char_count": 94,
+        "word_count": 25,
+        "page_number": 3,
+        "window_text": "<!-- PAGE_8 -->\n###### 또한 식품의약품안전처는 심사과정을 통해 해당 품목의 허가사항 중 ‘용법·용량’\n\n<!-- PAGE_8 -->\n###### 등에 포장유형을 명시하여 허가(신고)할 수 있고, 해당 품목 허가(신고)를 받은 자\n\n<!-- PAGE_8 -->\n###### 에게 그 포장유형을 품목의 포장 또는 용기 등에 표시할 것을 권고할 수 있다.\n\n 4\n\n<!-- PAGE_9 -->\n#### Ⅳ.  참고문헌\n\n<!-- PAGE_9 -->\n###### 1) Selection of the Appropriate Package type Terms and Recommendations for\n\n<!-- PAGE_9 -->\n###### Labeling\n\n<!-- PAGE_9 -->\n###### Injectable\n\n<!-- PAGE_9 -->\n###### Medical\n\n<!-- PAGE_9 -->\n###### Products\n\n<!-- PAGE_9 -->\n###### Packaged\n\n<!-- PAGE_9 -->\n###### in\n\n<!-- PAGE_9 -->\n###### Multiple-Dose,\n\n<!-- PAGE_9 -->\n###### Single-Dose, and Single-Patient-Use Containers for Human Use Guidance\n\n<!-- PAGE_10 -->\n#### “주사제 포장유형 안내 가이드라인”\n\n<!-- PAGE_10 -->\n###### 발\n\n<!-- PAGE_10 -->\n###### 행\n\n<!-- PAGE_10 -->\n###### 일\n\n<!-- PAGE_10 -->\n###### 2019월  10월\n\n【공직자 부조리 및 공익신고안내】   ** 신고자 및 신고내용은 보호됩니다.\n\n ▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n",
+        "original_sentence": "▶ 부조리 신고 : 식약처 홈페이지 “국민신문고 > 공직자 부조리 신고” 코너\n\n▶ 공익 신고 : 식약처 홈페이지 \"국민소통 > 신고센터 > 부패․공익신고 상담“ 코너\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 57,
+    "avg_chunk_length": 123.21052631578948,
+    "min_chunk_length": 5,
+    "max_chunk_length": 635,
+    "total_characters": 7023,
+    "total_words": 1398,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 205,
+    "heading_count": 60,
+    "paragraph_count": 28,
+    "list_item_count": 6,
+    "table_cell_count": 111,
+    "tables_detected": 2,
+    "chunks_generated": 57
+  }
+}

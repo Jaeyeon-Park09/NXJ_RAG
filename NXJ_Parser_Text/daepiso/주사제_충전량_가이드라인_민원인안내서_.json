@@ -1,0 +1,3131 @@
+{
+  "file_name": "주사제+충전량+가이드라인(민원인안내서).pdf",
+  "total_pages": 8,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "27.937164306640625": 1,
+      "26.018733978271484": 2,
+      "21.94206428527832": 1,
+      "12.94941520690918": 43,
+      "14.028532981872559": 9,
+      "23.98040008544922": 1,
+      "9.951866149902344": 3,
+      "15.867030143737793": 4,
+      "12.884506225585938": 73,
+      "20.02363395690918": 1,
+      "11.99020004272461": 8,
+      "14.987749099731445": 1
+    },
+    "heading_sizes": [
+      26.018733978271484,
+      15.867030143737793,
+      14.028532981872559,
+      12.94941520690918
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 1,
+    "tables_info": [
+      {
+        "bbox": [
+          94.98851776123047,
+          509.5631103515625,
+          493.4124450683594,
+          706.8787841796875
+        ],
+        "num_rows": 6,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "주사제 충전량 가이드라인",
+      "font_size": 27.937164306640625,
+      "font_name": "H2hdrM",
+      "bbox": [
+        149.4390106201172,
+        254.84068298339844,
+        451.3147277832031,
+        282.7701721191406
+      ],
+      "page_num": 1,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[민원인 안내서]",
+      "font_size": 26.018733978271484,
+      "font_name": "H2hdrM",
+      "bbox": [
+        217.0823516845703,
+        309.5889587402344,
+        383.7035827636719,
+        335.6005554199219
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2019. 11.",
+      "font_size": 21.94206428527832,
+      "font_name": "H2hdrM",
+      "bbox": [
+        248.9850616455078,
+        534.6053466796875,
+        346.1402587890625,
+        556.5413818359375
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품심사부",
+      "font_size": 26.018733978271484,
+      "font_name": "T2",
+      "bbox": [
+        226.0774688720703,
+        696.6785888671875,
+        369.03765869140625,
+        727.8925170898438
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        94.14897155761719,
+        615.8216552734375,
+        509.240234375,
+        633.0406494140625
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        112.13922119140625,
+        636.5589599609375,
+        509.3607177734375,
+        653.7779541015625
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "바랍니다.",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        112.13922119140625,
+        657.2963256835938,
+        166.904541015625,
+        674.5153198242188
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 전화 : 043-719-2958",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        94.14897155761719,
+        687.7430419921875,
+        221.57855224609375,
+        704.9620361328125
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 팩스 : 043-719-2950",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        94.14897155761719,
+        708.4803466796875,
+        221.57855224609375,
+        725.6993408203125
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        98.22676086425781,
+        124.02362060546875,
+        502.66339111328125,
+        142.6775360107422
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "설명하거나 식품의약품안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        149.19610595703125,
+        466.0186767578125,
+        167.8500213623047
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        98.22676086425781,
+        174.3686065673828,
+        502.6650390625,
+        193.02252197265625
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        199.5410919189453,
+        497.85064697265625,
+        218.19500732421875
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        224.7135772705078,
+        502.66314697265625,
+        243.36749267578125
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        249.88607788085938,
+        502.6641540527344,
+        268.53997802734375
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        275.0585632324219,
+        502.6640930175781,
+        293.71246337890625
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        300.2310485839844,
+        502.66448974609375,
+        318.88494873046875
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        325.4035339355469,
+        191.91160583496094,
+        344.05743408203125
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        89.83131408691406,
+        374.2855529785156,
+        505.765869140625,
+        391.5045471191406
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        113.93824768066406,
+        391.1871032714844,
+        510.4408874511719,
+        442.2091369628906
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        113.93824768066406,
+        391.1871032714844,
+        510.4408874511719,
+        442.2091369628906
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "리에 관한 규정 제2조)",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        113.93824768066406,
+        391.1871032714844,
+        510.4408874511719,
+        442.2091369628906
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "목  차",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        263.9769287109375,
+        114.2735595703125,
+        331.1405334472656,
+        138.2473602294922
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 서론 ······································································································· 1",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        100.02578735351562,
+        168.3185577392578,
+        498.8096618652344,
+        181.97238159179688
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1.1. 목적 및 범위 ····················································································1",
+      "font_size": 12.94941520690918,
+      "font_name": "T3",
+      "bbox": [
+        106.50228118896484,
+        187.35525512695312,
+        499.26348876953125,
+        202.89027404785156
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1.2. 배경 ····································································································1",
+      "font_size": 12.94941520690918,
+      "font_name": "T3",
+      "bbox": [
+        106.50228118896484,
+        208.09259033203125,
+        499.26348876953125,
+        223.6276092529297
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 개요 ······································································································· 2",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        100.02578735351562,
+        251.50765991210938,
+        498.8096618652344,
+        265.1614685058594
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2.1. 표시충전량 ························································································2",
+      "font_size": 12.94941520690918,
+      "font_name": "T3",
+      "bbox": [
+        106.50228118896484,
+        270.4244689941406,
+        499.26348876953125,
+        285.9595031738281
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2.2. 초과충전량 ························································································2",
+      "font_size": 12.94941520690918,
+      "font_name": "T3",
+      "bbox": [
+        106.50228118896484,
+        291.16180419921875,
+        499.26348876953125,
+        306.69683837890625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 고려사항 ····························································································· 3",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        100.02578735351562,
+        334.5768737792969,
+        498.8096618652344,
+        348.2306823730469
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4. 참고문헌 ····························································································· 3",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        100.02578735351562,
+        376.1714172363281,
+        499.2893981933594,
+        389.8252258300781
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 1 -",
+      "font_size": 9.951866149902344,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.0854797363281,
+        785.6442260742188,
+        309.8734130859375,
+        798.5780639648438
+      ],
+      "page_num": 4,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 서론",
+      "font_size": 15.867030143737793,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        100.80982971191406,
+        136.68614196777344,
+        119.94092559814453
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1.1. 목적 및 범위",
+      "font_size": 12.94941520690918,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        150.7952117919922,
+        193.93545532226562,
+        166.33023071289062
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        98.22676086425781,
+        179.5637664794922,
+        509.9540100097656,
+        195.09878540039062
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "표시충전량(labeled",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        509.9600830078125,
+        215.83612060546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "vial",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        509.9600830078125,
+        215.83612060546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "fill",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        509.9600830078125,
+        215.83612060546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "size)",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        509.9600830078125,
+        215.83612060546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        509.9600830078125,
+        215.83612060546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "초과충전량(allowable",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        509.9600830078125,
+        215.83612060546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "excess",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        509.9600830078125,
+        215.83612060546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "volume)에 대한 고려사항을 기술한다. 즉 주사제 충전량의 중요성을",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        221.03843688964844,
+        509.95489501953125,
+        236.57345581054688
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        241.89564514160156,
+        509.95391845703125,
+        257.4306640625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "충전량 설정에 대한 권고사항을 안내한다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        262.6329650878906,
+        339.5466003417969,
+        278.1679992675781
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        98.10682678222656,
+        291.4015197753906,
+        509.95391845703125,
+        306.9365539550781
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        312.13885498046875,
+        510.0745544433594,
+        327.67388916015625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "충전량 및 채취 가능한 용량에 대한 사항을 다룬다. 이외 다른 용기포장",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        332.9960632324219,
+        509.9557800292969,
+        348.5310974121094
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        353.7333984375,
+        510.0743103027344,
+        369.2684326171875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        374.47076416015625,
+        509.9444274902344,
+        390.00579833984375
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "므로 제외한다. 본 가이드라인은 신약, 자료제출의약품 및 기허가의약",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        395.32794189453125,
+        509.9542541503906,
+        410.86297607421875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        416.0653076171875,
+        509.9540100097656,
+        431.600341796875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        436.8026428222656,
+        509.953369140625,
+        452.3376770019531
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수 있는 기타 변경 시 고려할 수 있다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        457.65985107421875,
+        315.9194030761719,
+        473.19488525390625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1.2. 배경",
+      "font_size": 12.94941520690918,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        502.3709716796875,
+        140.08465576171875,
+        517.906005859375
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.62709045410156,
+        531.1395263671875,
+        509.95391845703125,
+        546.674560546875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "매개성 질병 전파의 위험성이 증가할 수 있다. 주사제 충전량이 적절",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        551.8768920898438,
+        510.0744323730469,
+        567.4119262695312
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        572.7340698242188,
+        510.09869384765625,
+        588.2691040039062
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        593.471435546875,
+        509.9544982910156,
+        609.0064697265625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항을 제시하고자 한다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        614.208740234375,
+        234.00379943847656,
+        629.7437744140625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 2 -",
+      "font_size": 9.951866149902344,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.0854797363281,
+        785.6442260742188,
+        309.8734130859375,
+        798.5780639648438
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 개요",
+      "font_size": 15.867030143737793,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        100.80982971191406,
+        136.68614196777344,
+        119.94092559814453
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2.1. 표시충전량(labeled vial fill size)",
+      "font_size": 12.884506225585938,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        150.7952117919922,
+        308.9525146484375,
+        166.33023071289062
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.38722229003906,
+        179.5637664794922,
+        509.9544982910156,
+        195.09878540039062
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용량을 고려하여 적절하게 설정되어야 한다. 예를 들어, 단회투여 주",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        200.3011016845703,
+        510.073974609375,
+        215.83612060546875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다. 그러나 1회",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        221.03843688964844,
+        510.073974609375,
+        236.57345581054688
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        241.89564514160156,
+        510.073974609375,
+        257.4306640625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        262.6329650878906,
+        509.9537353515625,
+        278.1679992675781
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약물의 오남용을 초래할 수 있다. 또한 1회 투여에 필요한 양보다",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        283.37030029296875,
+        509.9541931152344,
+        298.90533447265625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        304.2275085449219,
+        509.95379638671875,
+        319.7625427246094
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        324.96484375,
+        456.36328125,
+        340.4998779296875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2.2. 초과충전량(Allowable excess volume)",
+      "font_size": 12.884506225585938,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        369.6759948730469,
+        342.412841796875,
+        385.2110290527344
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "「의약품의 품목허가",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        91.15059661865234,
+        398.4445495605469,
+        211.7939910888672,
+        413.9795837402344
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "신고",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        217.8019561767578,
+        398.4445495605469,
+        243.21804809570312,
+        413.9795837402344
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "심사규정」 및 「대한민국약전」 제제총칙에",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        249.2249298095703,
+        398.4445495605469,
+        509.95184326171875,
+        413.9795837402344
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        419.3017578125,
+        509.9546203613281,
+        434.8367919921875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        440.0390930175781,
+        408.1494140625,
+        455.5741271972656
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.86695861816406,
+        468.8076477050781,
+        509.9444274902344,
+        484.3426818847656
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        489.54498291015625,
+        510.0745544433594,
+        505.08001708984375
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "료(예. 대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        510.4022216796875,
+        510.09869384765625,
+        525.937255859375
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        531.1395263671875,
+        510.07379150390625,
+        546.674560546875
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "할 수 있다. 초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        551.8768920898438,
+        510.0757141113281,
+        567.4119262695312
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        572.7340698242188,
+        443.0505065917969,
+        588.2691040039062
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        98.22676086425781,
+        601.5026245117188,
+        509.953857421875,
+        617.0376586914062
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        622.239990234375,
+        509.9542541503906,
+        637.7750244140625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한다. 예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        642.977294921875,
+        510.073974609375,
+        658.5123291015625
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        663.8345336914062,
+        510.09417724609375,
+        679.3695678710938
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        684.5718383789062,
+        509.9742431640625,
+        700.1068725585938
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 3 -",
+      "font_size": 9.951866149902344,
+      "font_name": "HCRDotum",
+      "bbox": [
+        285.0854797363281,
+        785.6442260742188,
+        309.8734130859375,
+        798.5780639648438
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.38722229003906,
+        101.16943359375,
+        510.07513427734375,
+        116.70446014404297
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "‘과다 투입(overage)’과는 구분되어야 한다. 또한 주사제의 표시량으",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        122.0266342163086,
+        509.9539794921875,
+        137.56166076660156
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "로서 과량 충전(overfill)된 양을 기재해서는 안 된다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        142.7639923095703,
+        416.30499267578125,
+        158.29901123046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.86695861816406,
+        171.5325469970703,
+        509.95391845703125,
+        187.06756591796875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        192.26988220214844,
+        510.07342529296875,
+        207.80490112304688
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하거나 잔류 약물을 오남용할 우려가 있다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        213.12709045410156,
+        337.6276550292969,
+        228.662109375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 고려사항",
+      "font_size": 15.867030143737793,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        257.3587646484375,
+        168.22877502441406,
+        276.4898376464844
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주사제의 충전량(vial fill size)은 제품의 용법",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.38722229003906,
+        307.3441162109375,
+        372.5090026855469,
+        322.879150390625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용량을 고려하여 적절",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        379.4743347167969,
+        307.3441162109375,
+        509.9546203613281,
+        322.879150390625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하게 설정되어야 한다. 그 적절성을 판단할 때 우선적으로 고려해야 하는",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        328.2013244628906,
+        509.9444274902344,
+        343.7363586425781
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항은 아래와 같다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        348.93865966796875,
+        204.73965454101562,
+        364.47369384765625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        377.70721435546875,
+        509.9540100097656,
+        393.24224853515625
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.14734649658203,
+        398.4445495605469,
+        510.073974609375,
+        413.9795837402344
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "다한 용량을 포함해서는 안 된다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.14734649658203,
+        419.3017578125,
+        300.0879821777344,
+        434.8367919921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        448.0703125,
+        510.073974609375,
+        463.6053466796875
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "도록 용량을 설정하여야 한다.",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        97.62709045410156,
+        468.8076477050781,
+        279.3392333984375,
+        484.3426818847656
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인",
+      "font_size": 12.94941520690918,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        493.62054443359375,
+        509.9654846191406,
+        509.15557861328125
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(민원인안내서)’을 참고한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T6",
+      "bbox": [
+        100.02578735351562,
+        516.9949951171875,
+        259.101806640625,
+        532.530029296875
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4. 참고문헌",
+      "font_size": 15.867030143737793,
+      "font_name": "T8",
+      "bbox": [
+        85.0339126586914,
+        577.4089965820312,
+        168.22877502441406,
+        596.5401000976562
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 「의약품의 품목허가·신고·심사규정」(식약처 고시)",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        611.4517822265625,
+        385.2297668457031,
+        626.98681640625
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 「대한민국약전」(식약처 고시)",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        640.2203369140625,
+        272.2510070800781,
+        655.75537109375
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "-",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        668.9888916015625,
+        509.9480895996094,
+        684.52392578125
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Allowable Excess Volume and Labeled Vial Fill Size in Injectable Drug",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        668.9888916015625,
+        509.9480895996094,
+        684.52392578125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "and Biological Products(FDA Guidance for Industry, 2015.6.)",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        106.8620834350586,
+        689.7261962890625,
+        453.71240234375,
+        705.26123046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "-",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        718.4948120117188,
+        463.3043518066406,
+        734.0298461914062
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "USP, General Information <1151> Pharmaceutical Dosage Forms",
+      "font_size": 12.884506225585938,
+      "font_name": "T6",
+      "bbox": [
+        85.0339126586914,
+        718.4948120117188,
+        463.3043518066406,
+        734.0298461914062
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정 이력",
+      "font_size": 20.02363395690918,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        240.3497314453125,
+        94.36575317382812,
+        354.7677307128906,
+        120.99142456054688
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "연번",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        94.50878143310547,
+        170.11354064941406,
+        443.2797546386719,
+        186.05706787109375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정번호",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        94.50878143310547,
+        170.11354064941406,
+        443.2797546386719,
+        186.05706787109375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        94.50878143310547,
+        170.11354064941406,
+        443.2797546386719,
+        186.05706787109375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요내용",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        94.50878143310547,
+        170.11354064941406,
+        443.2797546386719,
+        186.05706787109375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        201.27947998046875,
+        431.2862548828125,
+        217.22299194335938
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서-0984-01",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        201.27947998046875,
+        431.2862548828125,
+        217.22299194335938
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2019.11.",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        201.27947998046875,
+        431.2862548828125,
+        217.22299194335938
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제정",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        103.26403045654297,
+        201.27947998046875,
+        431.2862548828125,
+        217.22299194335938
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "“주사제 충전량 가이드라인[민원인 안내서]”",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        164.67074584960938,
+        456.461181640625,
+        440.19140625,
+        474.4265441894531
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        511.3836364746094,
+        179.903076171875,
+        525.0374755859375
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        511.3836364746094,
+        179.903076171875,
+        525.0374755859375
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "일",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        511.3836364746094,
+        179.903076171875,
+        525.0374755859375
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        537.3952026367188,
+        179.903076171875,
+        551.049072265625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        537.3952026367188,
+        179.903076171875,
+        551.049072265625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "인",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        537.3952026367188,
+        179.903076171875,
+        551.049072265625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편 집 위 원 장",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        563.40673828125,
+        179.903076171875,
+        577.0606079101562
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        589.2984619140625,
+        179.90249633789062,
+        602.9523315429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "집",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        589.2984619140625,
+        179.90249633789062,
+        602.9523315429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "위",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        589.2984619140625,
+        179.90249633789062,
+        602.9523315429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        589.2984619140625,
+        179.90249633789062,
+        602.9523315429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "도 움 주 신  분",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        667.2133178710938,
+        179.90249633789062,
+        680.8671875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        693.2249145507812,
+        179.90249633789062,
+        706.8787841796875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        693.2249145507812,
+        179.90249633789062,
+        706.8787841796875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "처",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        94.98851776123047,
+        693.2249145507812,
+        179.90249633789062,
+        706.8787841796875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2019월 11월",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        202.57020568847656,
+        509.5631103515625,
+        273.81158447265625,
+        525.085205078125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 동 희",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        202.57020568847656,
+        537.3952026367188,
+        260.9785461425781,
+        551.049072265625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "서 경 원",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        202.57020568847656,
+        563.40673828125,
+        254.5020751953125,
+        577.0606079101562
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전평가원 의약품심사부 의약품규격과",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        202.57020568847656,
+        589.2984619140625,
+        475.78326416015625,
+        602.9523315429688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "장정윤, 김영림, 정혜선",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        202.57020568847656,
+        613.4895629882812,
+        332.8194885253906,
+        629.0116577148438
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전평가원 의약품심사부 전문가 협의체",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        202.57020568847656,
+        667.2133178710938,
+        493.4124450683594,
+        680.8671875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전평가원 의약품심사부 의약품규격과",
+      "font_size": 12.94941520690918,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        202.57020568847656,
+        693.2249145507812,
+        475.78326416015625,
+        706.8787841796875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    }
+  ],
+  "markdown_content": "주사제 충전량 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2019. 11.\n<!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n<!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n<!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n<!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n<!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1. 서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1. 목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2. 배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2. 개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1. 표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2. 초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3. 고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4. 참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1. 서론\n\n<!-- PAGE_4 -->\n#### 1.1. 목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다. 즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다. 이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다. 본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n<!-- PAGE_4 -->\n#### 1.2. 배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다. 주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n- - 2 -\n<!-- PAGE_5 -->\n## 2. 개요\n\n- 2.1. 표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다. 예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다. 그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다. 또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n- 2.2. 초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예. 대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다. 초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다. 예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n- - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다. 또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n<!-- PAGE_6 -->\n## 3. 고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다. 그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n- - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n- - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n<!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n<!-- PAGE_6 -->\n## 4. 참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n- -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n제정\n\n“주사제 충전량 가이드라인[민원인 안내서]”\n\n**[표 시작]**\n\n| 발 | 행 | 일 | 2019월 11월 |\n| --- | --- | --- | --- |\n| 발 | 행 | 인 | 이 동 희 |\n| 편 집 위 원 장 | 서 경 원 |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n**장정윤, 김영림, 정혜선**\n| 도 움 주 신  분 | 식품의약품안전평가원 의약품심사부 전문가 협의체 |\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n\n**[표 끝]**\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "주사제 충전량 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2019. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 52,
+        "word_count": 11,
+        "page_number": 1,
+        "window_text": "주사제 충전량 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2019.  11.\n <!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n <!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "주사제 충전량 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2019. "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "11.\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 4,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "주사제 충전량 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2019.  11.\n <!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n <!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n",
+        "original_sentence": "11.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "<!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 168,
+        "word_count": 31,
+        "page_number": 1,
+        "window_text": "주사제 충전량 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2019.  11.\n <!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n <!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n <!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n",
+        "original_sentence": "<!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "<!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 187,
+        "word_count": 37,
+        "page_number": 2,
+        "window_text": "주사제 충전량 가이드라인\n\n<!-- PAGE_1 -->\n# [민원인 안내서]\n\n- 2019.  11.\n <!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n <!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n <!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n <!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1. ",
+        "original_sentence": "<!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "<!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 164,
+        "word_count": 34,
+        "page_number": 2,
+        "window_text": "11.\n <!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n <!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n <!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n <!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1.  서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1. ",
+        "original_sentence": "<!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "<!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 196,
+        "word_count": 44,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품심사부\n\n<!-- PAGE_2 -->\n#### ※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처\n\n<!-- PAGE_2 -->\n#### 식품의약품안전평가원 의약품심사부 의약품규격과에 문의하시기\n\n<!-- PAGE_2 -->\n#### 바랍니다.\n\n <!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n <!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n <!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1.  서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1.  목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2. ",
+        "original_sentence": "<!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "<!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 253,
+        "word_count": 51,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_2 -->\n#### - 전화 : 043-719-2958\n\n<!-- PAGE_2 -->\n#### - 팩스 : 043-719-2950\n\n<!-- PAGE_2 -->\n### 이 안내서는 주사제의 적절한 충전량에 대하여 알기 쉽게\n\n<!-- PAGE_2 -->\n### 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n <!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n <!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1.  서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1.  목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2.  배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2. ",
+        "original_sentence": "<!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 136,
+        "word_count": 8,
+        "page_number": 3,
+        "window_text": "<!-- PAGE_2 -->\n### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로\n\n<!-- PAGE_2 -->\n### 본문의 기술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러\n\n<!-- PAGE_2 -->\n### 분께서 반드시 준수하셔야 하는 사항이 아님을 알려드립니다.\n\n <!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n <!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1.  서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1.  목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2.  배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2.  개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1. ",
+        "original_sentence": "서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 121,
+        "word_count": 9,
+        "page_number": 3,
+        "window_text": "<!-- PAGE_2 -->\n### 또한, 본 안내서는 2019년 11월 현재의 과학적·기술적 사실 및\n\n<!-- PAGE_2 -->\n### 유효한 법규를 토대로 작성되었으므로 이후 최신 개정 법규\n\n<!-- PAGE_2 -->\n### 내용 및 구체적인 사실관계 등에 따라 달리 적용될 수 있음을\n\n<!-- PAGE_2 -->\n### 알려드립니다.\n\n <!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1.  서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1.  목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2.  배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2.  개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1.  표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2. ",
+        "original_sentence": "목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 130,
+        "word_count": 7,
+        "page_number": 3,
+        "window_text": "<!-- PAGE_2 -->\n#### ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n<!-- PAGE_2 -->\n#### 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여\n\n<!-- PAGE_2 -->\n#### 식품의약품안전처의 입장을 기술하는 것(식품의약품안전처 지침서등의 관\n\n<!-- PAGE_2 -->\n#### 리에 관한 규정 제2조)\n\n목  차\n\n<!-- PAGE_3 -->\n#### 1.  서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1.  목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2.  배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2.  개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1.  표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2.  초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3. ",
+        "original_sentence": "배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 136,
+        "word_count": 8,
+        "page_number": 3,
+        "window_text": "서론 ······································································································· 1\n\n<!-- PAGE_3 -->\n#### 1.1.  목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2.  배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2.  개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1.  표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2.  초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3.  고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4. ",
+        "original_sentence": "개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 123,
+        "word_count": 7,
+        "page_number": 3,
+        "window_text": "목적 및 범위 ····················································································1\n\n<!-- PAGE_3 -->\n#### 1.2.  배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2.  개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1.  표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2.  초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3.  고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4.  참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1. ",
+        "original_sentence": "표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 121,
+        "word_count": 7,
+        "page_number": 3,
+        "window_text": "배경 ····································································································1\n\n<!-- PAGE_3 -->\n#### 2.  개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1.  표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2.  초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3.  고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4.  참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1.  서론\n\n<!-- PAGE_4 -->\n#### 1.1. ",
+        "original_sentence": "초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 126,
+        "word_count": 8,
+        "page_number": 3,
+        "window_text": "개요 ······································································································· 2\n\n<!-- PAGE_3 -->\n#### 2.1.  표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2.  초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3.  고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4.  참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1.  서론\n\n<!-- PAGE_4 -->\n#### 1.1.  목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다. ",
+        "original_sentence": "고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 132,
+        "word_count": 12,
+        "page_number": 4,
+        "window_text": "표시충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 2.2.  초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3.  고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4.  참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1.  서론\n\n<!-- PAGE_4 -->\n#### 1.1.  목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다.  즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n",
+        "original_sentence": "참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "서론\n\n<!-- PAGE_4 -->\n#### 1.1. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 6,
+        "page_number": 4,
+        "window_text": "초과충전량 ························································································2\n\n<!-- PAGE_3 -->\n#### 3.  고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4.  참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1.  서론\n\n<!-- PAGE_4 -->\n#### 1.1.  목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다.  즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n 본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다. ",
+        "original_sentence": "서론\n\n<!-- PAGE_4 -->\n#### 1.1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 134,
+        "word_count": 23,
+        "page_number": 4,
+        "window_text": "고려사항 ····························································································· 3\n\n<!-- PAGE_3 -->\n#### 4.  참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1.  서론\n\n<!-- PAGE_4 -->\n#### 1.1.  목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다.  즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n 본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다.  이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다. ",
+        "original_sentence": "목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 17,
+        "page_number": 1,
+        "window_text": "참고문헌 ····························································································· 3\n\n- - 1 -\n<!-- PAGE_4 -->\n## 1.  서론\n\n<!-- PAGE_4 -->\n#### 1.1.  목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다.  즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n 본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다.  이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다.  본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n",
+        "original_sentence": "즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 105,
+        "word_count": 26,
+        "page_number": 4,
+        "window_text": "서론\n\n<!-- PAGE_4 -->\n#### 1.1.  목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다.  즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n 본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다.  이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다.  본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n <!-- PAGE_4 -->\n#### 1.2. ",
+        "original_sentence": "본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 102,
+        "word_count": 26,
+        "page_number": 4,
+        "window_text": "목적 및 범위\n\n본 가이드라인은 주사용 의약품(생물학적 제제 및 생약 제제 포함)의\n\n표시충전량(labeled\n\nvial\n\nfill\n\nsize)\n\n및\n\n초과충전량(allowable\n\nexcess\n\nvolume)에 대한 고려사항을 기술한다.  즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n 본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다.  이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다.  본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n <!-- PAGE_4 -->\n#### 1.2.  배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다. ",
+        "original_sentence": "이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 137,
+        "word_count": 38,
+        "page_number": 4,
+        "window_text": "즉 주사제 충전량의 중요성을\n\n설명하고 제품의 용법용량에 맞는 적절한 표시충전량과 주사제의 초과\n\n충전량 설정에 대한 권고사항을 안내한다.\n\n 본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다.  이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다.  본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n <!-- PAGE_4 -->\n#### 1.2.  배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다.  주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n",
+        "original_sentence": "본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "<!-- PAGE_4 -->\n#### 1.2. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 5,
+        "page_number": 4,
+        "window_text": "본 가이드라인은 바이알과 앰플에 포장된 주사제를 대상으로 하되\n\n사용할 때 녹여 쓰거나 희석이 필요한 제제도 포함하며, 주사제의 표시\n\n충전량 및 채취 가능한 용량에 대한 사항을 다룬다.  이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다.  본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n <!-- PAGE_4 -->\n#### 1.2.  배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다.  주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n - - 2 -\n<!-- PAGE_5 -->\n## 2. ",
+        "original_sentence": "<!-- PAGE_4 -->\n#### 1.2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 68,
+        "word_count": 19,
+        "page_number": 4,
+        "window_text": "이외 다른 용기포장\n\n주사제(예 : 프리필드실린지 및 수액 등 정맥점적용 백) 또는 주사용이\n\n아닌 제제는 각각의 용기 및 포장마다 고유한 고려사항이 있을 수 있으\n\n므로 제외한다.  본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n <!-- PAGE_4 -->\n#### 1.2.  배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다.  주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n - - 2 -\n<!-- PAGE_5 -->\n## 2.  개요\n\n- 2.1. ",
+        "original_sentence": "배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 106,
+        "word_count": 27,
+        "page_number": 4,
+        "window_text": "본 가이드라인은 신약, 자료제출의약품 및 기허가의약\n\n품과 주성분, 그 분량 및 제형이 동일한 의약품의 허가·신고 신청 시 적\n\n용할 수 있으며, 또한 용기 및 포장의 변경 또는 충전량에 영향을 미칠\n\n수 있는 기타 변경 시 고려할 수 있다.\n\n <!-- PAGE_4 -->\n#### 1.2.  배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다.  주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n - - 2 -\n<!-- PAGE_5 -->\n## 2.  개요\n\n- 2.1.  표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다. ",
+        "original_sentence": "주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "- - 2 -\n<!-- PAGE_5 -->\n## 2. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 9,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_4 -->\n#### 1.2.  배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다.  주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n - - 2 -\n<!-- PAGE_5 -->\n## 2.  개요\n\n- 2.1.  표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다.  예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다. ",
+        "original_sentence": "- - 2 -\n<!-- PAGE_5 -->\n## 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "개요\n\n- 2.1. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 11,
+        "word_count": 3,
+        "page_number": 6,
+        "window_text": "배경\n\n주사제를 안전하게 취급하지 않는 경우 제품 오염 및 환자 간 혈액\n\n매개성 질병 전파의 위험성이 증가할 수 있다.  주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n - - 2 -\n<!-- PAGE_5 -->\n## 2.  개요\n\n- 2.1.  표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다.  예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다.  그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다. ",
+        "original_sentence": "개요\n\n- 2.1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 99,
+        "word_count": 18,
+        "page_number": 4,
+        "window_text": "주사제 충전량이 적절\n\n하지 않으면 주사제의 안전한 취급 관리 및 투여를 저해할 수 있는 바,\n\n본 가이드라인은 주사제 안전 사용을 위하여 주사제 충전량에 대한\n\n사항을 제시하고자 한다.\n\n - - 2 -\n<!-- PAGE_5 -->\n## 2.  개요\n\n- 2.1.  표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다.  예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다.  그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다.  또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n",
+        "original_sentence": "표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 47,
+        "word_count": 11,
+        "page_number": 7,
+        "window_text": "- - 2 -\n<!-- PAGE_5 -->\n## 2.  개요\n\n- 2.1.  표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다.  예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다.  그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다.  또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n - 2.2. ",
+        "original_sentence": "예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 104,
+        "word_count": 29,
+        "page_number": 5,
+        "window_text": "개요\n\n- 2.1.  표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다.  예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다.  그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다.  또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n - 2.2.  초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n",
+        "original_sentence": "그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 91,
+        "word_count": 25,
+        "page_number": 7,
+        "window_text": "표시충전량(labeled vial fill size)\n주사제의 충전량(vial fill size)은 제품 개발 단계에서 제제의 용법\n\n용량을 고려하여 적절하게 설정되어야 한다.  예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다.  그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다.  또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n - 2.2.  초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n 실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예. ",
+        "original_sentence": "또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "- 2.2. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 7,
+        "word_count": 2,
+        "page_number": 6,
+        "window_text": "예를 들어, 단회투여 주\n\n사제는 1명의 환자에게 1회 용량을 투여하도록 설계된다.  그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다.  또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n - 2.2.  초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n 실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예.  대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다. ",
+        "original_sentence": "- 2.2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 142,
+        "word_count": 27,
+        "page_number": 4,
+        "window_text": "그러나 1회\n\n투여에 필요한 양보다 훨씬 많은 용량이 충전된 경우, 2차 투여 가\n\n능한 용량이 남거나 또는 남은 약물을 모아서 2차 투여할 수 있어\n\n약물의 오남용을 초래할 수 있다.  또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n - 2.2.  초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n 실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예.  대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다.  초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n",
+        "original_sentence": "초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 23,
+        "page_number": 5,
+        "window_text": "또한 1회 투여에 필요한 양보다\n\n적게 충전된 경우에도 1회 용량을 위해 여러 주사제를 합하여 투여\n\n해야 하므로 투약 과오 및 미생물 오염이 발생할 수 있다.\n\n - 2.2.  초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n 실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예.  대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다.  초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n 또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다. ",
+        "original_sentence": "실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예. "
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 19,
+        "page_number": 4,
+        "window_text": "- 2.2.  초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n 실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예.  대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다.  초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n 또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다.  예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n",
+        "original_sentence": "대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 13,
+        "page_number": 7,
+        "window_text": "초과충전량(Allowable excess volume)\n「의약품의 품목허가\n\n신고\n\n심사규정」 및 「대한민국약전」 제제총칙에\n\n따르면, 주사제는 보통 표시량을 투여하기에 충분한 양이 용기에 충전\n\n되어 있어야 하며 과량은 제품의 특성에 따라 결정된다.\n\n 실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예.  대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다.  초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n 또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다.  예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n 이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n",
+        "original_sentence": "초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 87,
+        "word_count": 20,
+        "page_number": 5,
+        "window_text": "실생산 공정을 대표할 수 있는 하나 이상의 배치에 대하여 공인된 시험\n\n방법 또는 그 외 적절한 방법으로 수행한 시험결과 및 타당한 고찰자\n\n료(예.  대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다.  초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n 또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다.  예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n 이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n - - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다. ",
+        "original_sentence": "또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 78,
+        "word_count": 21,
+        "page_number": 1,
+        "window_text": "대한민국약전 일반시험법 ‘주사제의 실용량시험법’, 점도 분석,\n\n충전량 변동성 분석 및 공정능력 검증 등)를 근거로 초과충전량을 설정\n\n할 수 있다.  초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n 또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다.  예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n 이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n - - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다.  또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n",
+        "original_sentence": "예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 42,
+        "word_count": 11,
+        "page_number": 5,
+        "window_text": "초과충전량 설정과 관련된 참고자료로서 미국약전 일반정보\n\n<1115> Pharmaceutical Dosage Forms를 활용할 수 있다.\n\n 또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다.  예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n 이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n - - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다.  또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n 주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n",
+        "original_sentence": "이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "- - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 82,
+        "word_count": 16,
+        "page_number": 4,
+        "window_text": "또한, 사용할 때 녹여 쓰거나 희석이 필요한 의약품은 올바른 투약을\n\n할 수 있도록 표시량 및 과량 충전(overfill)량을 적절하게 설정하여야\n\n한다.  예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n 이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n - - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다.  또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n 주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n <!-- PAGE_6 -->\n## 3. ",
+        "original_sentence": "- - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 50,
+        "word_count": 10,
+        "page_number": 4,
+        "window_text": "예를 들어 체중에 따라 투여량을 정하는 경우, 쉽게 계산하여 정\n\n확한 용량을 채취할 수 있도록 최종 농도를 정수로 하는 것이 중요하다.\n\n 이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n - - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다.  또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n 주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n <!-- PAGE_6 -->\n## 3.  고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다. ",
+        "original_sentence": "또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 102,
+        "word_count": 25,
+        "page_number": 6,
+        "window_text": "이에 따라 최종 농도에 근거하여 충전량 설정의 타당성을 입증할 수 있다.\n\n - - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다.  또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n 주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n <!-- PAGE_6 -->\n## 3.  고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다.  그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n",
+        "original_sentence": "주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "<!-- PAGE_6 -->\n## 3. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "- - 3 -\n타당하게 설정된 초과충전량은 ‘과량 충전(overfill)’으로 볼 수 있으며\n\n‘과다 투입(overage)’과는 구분되어야 한다.  또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n 주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n <!-- PAGE_6 -->\n## 3.  고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다.  그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n - - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n",
+        "original_sentence": "<!-- PAGE_6 -->\n## 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 66,
+        "word_count": 13,
+        "page_number": 4,
+        "window_text": "또한 주사제의 표시량으\n\n로서 과량 충전(overfill)된 양을 기재해서는 안 된다.\n\n 주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n <!-- PAGE_6 -->\n## 3.  고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다.  그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n - - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n - - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n",
+        "original_sentence": "고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 10,
+        "page_number": 6,
+        "window_text": "주사제의 초과충전량이 타당한 근거 없이 부적절하게 설정된 경우\n\n투약 과오를 초래할 수 있고 약물을 합하여 1회 투여용량을 만들어 사용\n\n하거나 잔류 약물을 오남용할 우려가 있다.\n\n <!-- PAGE_6 -->\n## 3.  고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다.  그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n - - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n - - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n <!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n",
+        "original_sentence": "그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "- - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 103,
+        "word_count": 28,
+        "page_number": 6,
+        "window_text": "<!-- PAGE_6 -->\n## 3.  고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다.  그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n - - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n - - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n <!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n <!-- PAGE_6 -->\n## 4. ",
+        "original_sentence": "- - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "- - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 60,
+        "word_count": 16,
+        "page_number": 6,
+        "window_text": "고려사항\n\n주사제의 충전량(vial fill size)은 제품의 용법\n\n용량을 고려하여 적절\n\n하게 설정되어야 한다.  그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n - - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n - - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n <!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n <!-- PAGE_6 -->\n## 4.  참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n",
+        "original_sentence": "- - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "<!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 100,
+        "word_count": 19,
+        "page_number": 6,
+        "window_text": "그 적절성을 판단할 때 우선적으로 고려해야 하는\n\n사항은 아래와 같다.\n\n - - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n - - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n <!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n <!-- PAGE_6 -->\n## 4.  참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n - -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n",
+        "original_sentence": "<!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_048",
+      "text": "<!-- PAGE_6 -->\n## 4. ",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 47,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "- - 단회투여 주사제는 일반적 또는 최대량을 투여한 후 남은 약물로 2차\n투여가 가능하거나, 남은 약물을 모아서 2차 투여할 수 있을 정도로 과\n\n다한 용량을 포함해서는 안 된다.\n\n - - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n <!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n <!-- PAGE_6 -->\n## 4.  참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n - -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n 제정\n\n“주사제 충전량 가이드라인[민원인 안내서]”\n\n**[표 시작]**\n\n| 발 | 행 | 일 | 2019월 11월 |\n| --- | --- | --- | --- |\n| 발 | 행 | 인 | 이 동 희 |\n| 편 집 위 원 장 | 서 경 원 |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n**장정윤, 김영림, 정혜선**\n| 도 움 주 신  분 | 식품의약품안전평가원 의약품심사부 전문가 협의체 |\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n\n**[표 끝]**\n",
+        "original_sentence": "<!-- PAGE_6 -->\n## 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_049",
+      "text": "참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 48,
+        "window_size": 3,
+        "char_count": 195,
+        "word_count": 30,
+        "page_number": 5,
+        "window_text": "- - 주사제의 일반적인 1회 용량을 투여하기 위해 2개 이상 사용하지 않\n도록 용량을 설정하여야 한다.\n\n <!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n <!-- PAGE_6 -->\n## 4.  참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n - -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n 제정\n\n“주사제 충전량 가이드라인[민원인 안내서]”\n\n**[표 시작]**\n\n| 발 | 행 | 일 | 2019월 11월 |\n| --- | --- | --- | --- |\n| 발 | 행 | 인 | 이 동 희 |\n| 편 집 위 원 장 | 서 경 원 |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n**장정윤, 김영림, 정혜선**\n| 도 움 주 신  분 | 식품의약품안전평가원 의약품심사부 전문가 협의체 |\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n\n**[표 끝]**\n",
+        "original_sentence": "참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_050",
+      "text": "- -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 49,
+        "window_size": 3,
+        "char_count": 125,
+        "word_count": 19,
+        "page_number": 6,
+        "window_text": "<!-- PAGE_6 -->\n#### - 주사제 표시기재와 관련된 사항은 ‘주사제 포장유형 안내 가이드라인\n\n<!-- PAGE_6 -->\n#### (민원인안내서)’을 참고한다.\n\n <!-- PAGE_6 -->\n## 4.  참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n - -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n 제정\n\n“주사제 충전량 가이드라인[민원인 안내서]”\n\n**[표 시작]**\n\n| 발 | 행 | 일 | 2019월 11월 |\n| --- | --- | --- | --- |\n| 발 | 행 | 인 | 이 동 희 |\n| 편 집 위 원 장 | 서 경 원 |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n**장정윤, 김영림, 정혜선**\n| 도 움 주 신  분 | 식품의약품안전평가원 의약품심사부 전문가 협의체 |\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n\n**[표 끝]**\n",
+        "original_sentence": "- -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_051",
+      "text": "제정\n\n“주사제 충전량 가이드라인[민원인 안내서]”\n\n**[표 시작]**\n\n| 발 | 행 | 일 | 2019월 11월 |\n| --- | --- | --- | --- |\n| 발 | 행 | 인 | 이 동 희 |\n| 편 집 위 원 장 | 서 경 원 |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n**장정윤, 김영림, 정혜선**\n| 도 움 주 신  분 | 식품의약품안전평가원 의약품심사부 전문가 협의체 |\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n\n**[표 끝]**\n",
+      "metadata": {
+        "source": "주사제+충전량+가이드라인(민원인안내서).pdf",
+        "chunk_index": 50,
+        "window_size": 3,
+        "char_count": 296,
+        "word_count": 89,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_6 -->\n## 4.  참고문헌\n\n- - 「의약품의 품목허가·신고·심사규정」(식약처 고시)\n- - 「대한민국약전」(식약처 고시)\n- -\nAllowable Excess Volume and Labeled Vial Fill Size in Injectable Drug\n\nand Biological Products(FDA Guidance for Industry, 2015.6.)\n\n - -\nUSP, General Information <1151> Pharmaceutical Dosage Forms\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-0984-01\n\n- 2019.11.\n 제정\n\n“주사제 충전량 가이드라인[민원인 안내서]”\n\n**[표 시작]**\n\n| 발 | 행 | 일 | 2019월 11월 |\n| --- | --- | --- | --- |\n| 발 | 행 | 인 | 이 동 희 |\n| 편 집 위 원 장 | 서 경 원 |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n**장정윤, 김영림, 정혜선**\n| 도 움 주 신  분 | 식품의약품안전평가원 의약품심사부 전문가 협의체 |\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n\n**[표 끝]**\n",
+        "original_sentence": "제정\n\n“주사제 충전량 가이드라인[민원인 안내서]”\n\n**[표 시작]**\n\n| 발 | 행 | 일 | 2019월 11월 |\n| --- | --- | --- | --- |\n| 발 | 행 | 인 | 이 동 희 |\n| 편 집 위 원 장 | 서 경 원 |\n| 편 | 집 | 위 | 원 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n**장정윤, 김영림, 정혜선**\n| 도 움 주 신  분 | 식품의약품안전평가원 의약품심사부 전문가 협의체 |\n| 발 | 행 | 처 | 식품의약품안전평가원 의약품심사부 의약품규격과 |\n\n**[표 끝]**\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 51,
+    "avg_chunk_length": 99.70588235294117,
+    "min_chunk_length": 4,
+    "max_chunk_length": 296,
+    "total_characters": 5085,
+    "total_words": 978,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 147,
+    "heading_count": 36,
+    "paragraph_count": 76,
+    "list_item_count": 13,
+    "table_cell_count": 22,
+    "tables_detected": 1,
+    "chunks_generated": 51
+  }
+}

@@ -1,0 +1,4855 @@
+{
+  "file_name": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+  "total_pages": 10,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "26.977949142456055": 2,
+      "23.98040008544922": 2,
+      "21.94206428527832": 2,
+      "9.951866149902344": 6,
+      "17.02608299255371": 2,
+      "11.030982971191406": 58,
+      "14.028532981872559": 16,
+      "12.94941520690918": 123,
+      "11.99020004272461": 14,
+      "14.987749099731445": 1,
+      "17.985300064086914": 2,
+      "8.752802848815918": 3
+    },
+    "heading_sizes": [
+      26.977949142456055,
+      23.98040008544922,
+      21.94206428527832,
+      17.985300064086914,
+      17.02608299255371,
+      14.028532981872559
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 1,
+    "tables_info": [
+      {
+        "bbox": [
+          69.44236755371094,
+          180.02755737304688,
+          535.5504760742188,
+          758.9190063476562
+        ],
+        "num_rows": 8,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "의약품 임상시험 관련 데이터",
+      "font_size": 26.977949142456055,
+      "font_name": "H2hdrM",
+      "bbox": [
+        115.25753021240234,
+        200.7638397216797,
+        488.4864501953125,
+        227.73435974121094
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관리업무 수행 시 주요 고려사항",
+      "font_size": 26.977949142456055,
+      "font_name": "H2hdrM",
+      "bbox": [
+        95.10845184326172,
+        243.91668701171875,
+        499.7691345214844,
+        270.88720703125
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(민원인 안내서)",
+      "font_size": 23.98040008544922,
+      "font_name": "T2",
+      "bbox": [
+        217.44215393066406,
+        285.6478271484375,
+        389.3569641113281,
+        314.3924255371094
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2016.12.30.",
+      "font_size": 21.94206428527832,
+      "font_name": "H2hdrM",
+      "bbox": [
+        238.0709686279297,
+        434.39483642578125,
+        356.7242431640625,
+        456.33087158203125
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품안전국 임상제도과",
+      "font_size": 21.94206428527832,
+      "font_name": "H2hdrM",
+      "bbox": [
+        132.52816772460938,
+        685.8800048828125,
+        462.34942626953125,
+        707.8160400390625
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        294.56036376953125,
+        802.7330322265625,
+        300.2764892578125,
+        812.6821899414062
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침·안내서 제‧개정 점검표",
+      "font_size": 17.02608299255371,
+      "font_name": "H2hdrM",
+      "bbox": [
+        186.25904846191406,
+        89.55501556396484,
+        410.0584716796875,
+        106.576416015625
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.95449829101562,
+        121.17186737060547,
+        492.3328552246094,
+        144.59034729003906
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.95449829101562,
+        121.17186737060547,
+        492.3328552246094,
+        144.59034729003906
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(민원인 안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        293.84075927734375,
+        140.71051025390625,
+        372.6293640136719,
+        155.37855529785156
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        167.7890625,
+        158.33126831054688,
+        429.0168762207031,
+        172.99929809570312
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        72.20086669921875,
+        312.1231994628906,
+        116.2166748046875,
+        326.7912292480469
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "여부",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        329.7439270019531,
+        105.30292510986328,
+        344.4119567871094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 이미 등록된 지침·안내서 중 동일·유사한 내용의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        180.02755737304688,
+        395.4665832519531,
+        194.69558715820312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서가 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        151.238037109375,
+        196.56948852539062,
+        278.0503234863281,
+        211.23751831054688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        180.62689208984375,
+        507.804443359375,
+        210.63816833496094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        180.62689208984375,
+        507.804443359375,
+        210.63816833496094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        221.74197387695312,
+        535.55029296875,
+        236.41000366210938
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        238.16403198242188,
+        535.5506591796875,
+        269.37396240234375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        238.16403198242188,
+        535.5506591796875,
+        269.37396240234375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사유 :                                                                 )",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        271.24786376953125,
+        526.6383666992188,
+        285.9158935546875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        292.1050720214844,
+        436.1248779296875,
+        306.7731018066406
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용을 단순 편집 또는 나열한 것입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        151.238037109375,
+        308.5271301269531,
+        355.40838623046875,
+        323.1951599121094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        292.58453369140625,
+        507.804443359375,
+        322.7156677246094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        292.58453369140625,
+        507.804443359375,
+        322.7156677246094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        322.4319152832031,
+        507.804443359375,
+        352.44317626953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        322.4319152832031,
+        507.804443359375,
+        352.44317626953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        322.4319152832031,
+        507.804443359375,
+        352.44317626953125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        351.5600891113281,
+        443.0807800292969,
+        366.2281188964844
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        366.9033203125,
+        210.643798828125,
+        381.57135009765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        351.5600891113281,
+        507.804443359375,
+        381.57135009765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        351.5600891113281,
+        507.804443359375,
+        381.57135009765625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        380.8081359863281,
+        507.804443359375,
+        410.81939697265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        380.8081359863281,
+        507.804443359375,
+        410.81939697265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        380.8081359863281,
+        507.804443359375,
+        410.81939697265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 정보제공 등 직원 교육용 자료입니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        409.936279296875,
+        507.804443359375,
+        439.9475402832031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        409.936279296875,
+        507.804443359375,
+        439.9475402832031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        409.936279296875,
+        507.804443359375,
+        439.9475402832031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        444.33868408203125,
+        530.2739868164062,
+        475.42877197265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        444.33868408203125,
+        530.2739868164062,
+        475.42877197265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        65.48451232910156,
+        510.3865051269531,
+        126.81218719482422,
+        525.0545654296875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        527.8873901367188,
+        105.30292510986328,
+        542.555419921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        484.9742736816406,
+        448.0770263671875,
+        499.6423034667969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        500.3175354003906,
+        432.84918212890625,
+        514.985595703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        484.9742736816406,
+        529.4337768554688,
+        514.985595703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        484.9742736816406,
+        529.4337768554688,
+        514.985595703125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        523.4522705078125,
+        451.9553527832031,
+        538.1203002929688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        538.7954711914062,
+        451.9564514160156,
+        568.9266357421875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식약처의 입장을 기술하는 것입니까? (민원인용)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        538.7954711914062,
+        451.9564514160156,
+        568.9266357421875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예(☞안내서)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        531.1239013671875,
+        535.5504760742188,
+        561.2550048828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        531.1239013671875,
+        535.5504760742188,
+        561.2550048828125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.44236755371094,
+        597.1716918945312,
+        118.97551727294922,
+        611.8397216796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사항",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.2348861694336,
+        614.7924194335938,
+        105.30292510986328,
+        629.46044921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        578.8317260742188,
+        426.0497131347656,
+        593.499755859375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.6383514404297,
+        594.1749877929688,
+        337.0552978515625,
+        608.843017578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        578.8317260742188,
+        507.804443359375,
+        608.843017578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        458.3915710449219,
+        578.8317260742188,
+        507.804443359375,
+        608.843017578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        134.0873260498047,
+        618.8679809570312,
+        531.6868286132812,
+        633.5360107421875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서 제·개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        150.51841735839844,
+        635.2900390625,
+        375.1716613769531,
+        649.9580688476562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        216.0029296875,
+        658.9042358398438,
+        381.7624816894531,
+        673.572265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2017년    6 월   2 일",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        220.20065307617188,
+        694.6251831054688,
+        366.16156005859375,
+        709.293212890625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.4209289550781,
+        729.86669921875,
+        405.2516784667969,
+        758.9190063476562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.4209289550781,
+        729.86669921875,
+        405.2516784667969,
+        758.9190063476562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 철 승",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        479.9798583984375,
+        728.3084106445312,
+        523.9959716796875,
+        742.9764404296875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 남 희",
+      "font_size": 11.030982971191406,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        479.9798583984375,
+        745.8092651367188,
+        523.9959716796875,
+        760.477294921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        71.76073455810547,
+        532.2874755859375,
+        90.4146499633789
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        94.05636596679688,
+        453.13006591796875,
+        112.71028137207031
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        116.47187805175781,
+        527.47412109375,
+        135.12579345703125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        138.8873748779297,
+        527.474609375,
+        157.54129028320312
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2014년 3월",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        161.18301391601562,
+        532.2881469726562,
+        179.83692932128906
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        183.5985107421875,
+        532.4074096679688,
+        202.25242614746094
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        206.01402282714844,
+        532.4083251953125,
+        224.66793823242188
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수 있음을 알려드립니다.",
+      "font_size": 14.028532981872559,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        228.3096466064453,
+        223.2146453857422,
+        246.96356201171875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        67.40347290039062,
+        273.3558654785156,
+        527.3541870117188,
+        290.5748596191406
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        91.51040649414062,
+        290.25738525390625,
+        531.908447265625,
+        324.3779296875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처의 입장을 기술하는 것",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        91.51040649414062,
+        290.25738525390625,
+        531.908447265625,
+        324.3779296875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        65.72438049316406,
+        355.58599853515625,
+        542.8236083984375,
+        372.80499267578125
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상제도과에 문의하시기 바랍니다.",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        83.71463012695312,
+        376.3233337402344,
+        275.8055114746094,
+        393.5423278808594
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화번호: 043-719-1881",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        85.75352478027344,
+        397.1805419921875,
+        232.13070678710938,
+        414.3995361328125
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "팩스번호: 043-719-1850",
+      "font_size": 12.94941520690918,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        85.75352478027344,
+        417.9178771972656,
+        232.13070678710938,
+        435.1368713378906
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제․개정 이력",
+      "font_size": 17.02608299255371,
+      "font_name": "H2gtrE",
+      "bbox": [
+        249.2249298095703,
+        82.72248077392578,
+        345.65264892578125,
+        99.74388122558594
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "연번",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        138.46812438964844,
+        439.92156982421875,
+        154.41165161132812
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정번호",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        138.46812438964844,
+        439.92156982421875,
+        154.41165161132812
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        138.46812438964844,
+        439.92156982421875,
+        154.41165161132812
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요내용",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.36132049560547,
+        138.46812438964844,
+        439.92156982421875,
+        154.41165161132812
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        80.1165771484375,
+        169.75393676757812,
+        430.92645263671875,
+        185.69744873046875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "B2-2016-2-006",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        80.1165771484375,
+        169.75393676757812,
+        430.92645263671875,
+        185.69744873046875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2016.12.30",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        80.1165771484375,
+        169.75393676757812,
+        430.92645263671875,
+        185.69744873046875
+      ],
+      "page_num": 4,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제 정",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        80.1165771484375,
+        169.75393676757812,
+        430.92645263671875,
+        185.69744873046875
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        80.1165771484375,
+        214.46507263183594,
+        257.74029541015625,
+        230.40859985351562
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서-0060-01",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        80.1165771484375,
+        214.46507263183594,
+        257.74029541015625,
+        230.40859985351562
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅡ",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        80.1165771484375,
+        214.46507263183594,
+        257.74029541015625,
+        230.40859985351562
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "「식약처 지침서등의 관리에 관한",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        325.62353515625,
+        195.28602600097656,
+        510.58203125,
+        211.22955322265625
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "규정」에 따른 등록 번호 일괄 정비",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        319.62677001953125,
+        214.46507263183594,
+        512.3623046875,
+        230.40859985351562
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(규제개혁담당관실-3761호, 2017.05.16.)",
+      "font_size": 11.99020004272461,
+      "font_name": "MalgunGothicRegular",
+      "bbox": [
+        307.9930725097656,
+        233.64410400390625,
+        523.9323120117188,
+        249.58761596679688
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1. 목적(Purpose) ·············································································1",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        62.24626541137695,
+        146.36004638671875,
+        507.02520751953125,
+        164.34039306640625
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 범위(Scope) ··················································································1",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        62.24626541137695,
+        195.62620544433594,
+        507.02520751953125,
+        213.60655212402344
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 책임(Responsibility) ································································1",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        62.24626541137695,
+        244.7725067138672,
+        507.02520751953125,
+        262.75286865234375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4. 기본원칙 ·························································································1",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        62.24626541137695,
+        303.98779296875,
+        507.02520751953125,
+        321.9681396484375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5. 조직 및 인력 ················································································3",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        62.24626541137695,
+        363.0832214355469,
+        507.02520751953125,
+        381.0635681152344
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "6. Data Management 업무 수행 시 고려사항 ··················3",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        62.24626541137695,
+        422.2984924316406,
+        507.02520751953125,
+        440.2788391113281
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "7. 데이터 관리 계획(Data Management Plan, DMP) 관련 고려",
+      "font_size": 14.987749099731445,
+      "font_name": "T11",
+      "bbox": [
+        62.24626541137695,
+        481.5137939453125,
+        531.7918090820312,
+        499.494140625
+      ],
+      "page_num": 5,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항 ··································································································4",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        117.41636657714844,
+        504.6485290527344,
+        507.02520751953125,
+        522.6288452148438
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "8. 외․내부 데이터 전송 관련 고려사항 ·······························5",
+      "font_size": 14.028532981872559,
+      "font_name": "T12",
+      "bbox": [
+        62.24626541137695,
+        563.86376953125,
+        507.02520751953125,
+        581.8441162109375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "목  차",
+      "font_size": 23.98040008544922,
+      "font_name": "H2hdrM",
+      "bbox": [
+        255.701416015625,
+        78.79232788085938,
+        333.8990478515625,
+        102.76612854003906
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        294.56036376953125,
+        802.7330322265625,
+        300.2764892578125,
+        812.6821899414062
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 임상시험 관련 데이터 관리업무 수행 시 주요",
+      "font_size": 17.985300064086914,
+      "font_name": "T11",
+      "bbox": [
+        85.51365661621094,
+        71.20217895507812,
+        518.359619140625,
+        92.77860260009766
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "고려사항",
+      "font_size": 17.985300064086914,
+      "font_name": "T11",
+      "bbox": [
+        261.3383483886719,
+        103.56681823730469,
+        332.70025634765625,
+        125.14323425292969
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 목적(Purpose)",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        172.01202392578125,
+        163.5167999267578,
+        187.5470428466797
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        201.3799285888672,
+        538.1474609375,
+        216.91494750976562
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        224.75437927246094,
+        538.1483764648438,
+        240.28939819335938
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        248.1288299560547,
+        538.1477661132812,
+        263.6638488769531
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "도움을 주고자하는 목적으로 작성되었다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        271.5032653808594,
+        292.68359375,
+        287.0382995605469
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 범위(Scope)",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        330.23907470703125,
+        149.84494018554688,
+        345.77410888671875
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        359.60699462890625,
+        538.1488647460938,
+        375.14202880859375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "실시기관,",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "중앙실험실,",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "각종",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "vendor",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등으로부터",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "데이터를",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수집,",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관리(",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "data",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        382.9814453125,
+        538.2661743164062,
+        398.5164794921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "management) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        406.35589599609375,
+        538.1483764648438,
+        421.89093017578125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "업무에 적용된다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        429.7303466796875,
+        157.1570587158203,
+        445.265380859375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 책임(Responsibility)",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        488.4661560058594,
+        203.6943359375,
+        504.0011901855469
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        517.8340454101562,
+        538.1939086914062,
+        533.3690795898438
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        541.2085571289062,
+        538.1905517578125,
+        556.7435913085938
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        564.5830078125,
+        538.148681640625,
+        580.1180419921875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        587.9574584960938,
+        538.1483764648438,
+        603.4924926757812
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정확성에 대한 관리책임은 의뢰자에게 있다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        56.609317779541016,
+        611.3319091796875,
+        319.5490417480469,
+        626.866943359375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4. 기본원칙",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        670.0676879882812,
+        127.97185516357422,
+        685.6027221679688
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        699.4356079101562,
+        538.1488647460938,
+        714.9706420898438
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.71300506591797,
+        722.81005859375,
+        538.1467895507812,
+        738.3450927734375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한다. 반드시 필요한 SOP는 다음과 같다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.71300506591797,
+        746.1845092773438,
+        333.5814514160156,
+        761.7195434570312
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        294.56036376953125,
+        802.7330322265625,
+        300.2764892578125,
+        812.6821899414062
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1) 데이터 관리 담당인력의 자격, 교육 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        71.92140197753906,
+        317.7077941894531,
+        87.45642852783203
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2) 사용되는 전산시스템의 밸리데이션 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        101.289306640625,
+        314.7094421386719,
+        116.82433319091797
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3) 증례기록서(CRF1)) 작성·검토·구축 절차 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        130.65721130371094,
+        343.8536376953125,
+        146.19223022460938
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        160.02511596679688,
+        538.2049560546875,
+        175.5601348876953
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인 절차 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        88.87183380126953,
+        183.3995819091797,
+        166.82958984375,
+        198.93460083007812
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "5) external/internal data transfer 관련 절차 및 규격서 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        212.76748657226562,
+        417.73358154296875,
+        228.30250549316406
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "6) data validation, data review 관련",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        242.13539123535156,
+        288.92340087890625,
+        257.67041015625
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        271.5032653808594,
+        406.459716796875,
+        287.0382995605469
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        300.8711853027344,
+        538.1483764648438,
+        316.4062194824219
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.87345886230469,
+        324.2456359863281,
+        538.148193359375,
+        339.7806701660156
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.87345886230469,
+        347.6200866699219,
+        527.3964233398438,
+        363.1551208496094
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. 사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        376.9880065917969,
+        538.1939086914062,
+        392.5230407714844
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.95287322998047,
+        400.3624572753906,
+        538.1482543945312,
+        415.8974914550781
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.95287322998047,
+        423.7369079589844,
+        114.82001495361328,
+        439.2719421386719
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "라. 임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        453.1048278808594,
+        538.1483764648438,
+        468.6398620605469
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "고려하여 사전에 적절히 정해져 문서화되어야 한다. 임상시험 종료시까지",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.87345886230469,
+        476.4792785644531,
+        538.1488647460938,
+        492.0143127441406
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "전담부서에서 접속권한을 관리하여야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.87345886230469,
+        499.85369873046875,
+        342.3367004394531,
+        515.3887329101562
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        529.2216186523438,
+        538.1483764648438,
+        544.7566528320312
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "상태가 되어야 한다. 평가변수로 사용되는 데이터에 대해서는 눈가림이 유지",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        88.51203155517578,
+        552.5960693359375,
+        538.1486206054688,
+        568.131103515625
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        88.51203155517578,
+        575.9705200195312,
+        432.2879333496094,
+        591.5055541992188
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "바. 임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        605.3384399414062,
+        538.1488647460938,
+        620.8734741210938
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.71300506591797,
+        628.712890625,
+        538.1483764648438,
+        644.2479248046875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하여야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.71300506591797,
+        652.0873413085938,
+        161.3547821044922,
+        667.6223754882812
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사. 의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        681.4552612304688,
+        538.1486206054688,
+        696.9902954101562
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.75352478027344,
+        704.8297119140625,
+        538.1488647460938,
+        720.36474609375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는",
+      "font_size": 8.752802848815918,
+      "font_name": "Dotum",
+      "bbox": [
+        56.609317779541016,
+        749.4953002929688,
+        541.1151123046875,
+        758.4854736328125
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "EDC(electronic Data Capture))라고 지칭함",
+      "font_size": 8.752802848815918,
+      "font_name": "Dotum",
+      "bbox": [
+        70.40184783935547,
+        761.1226196289062,
+        240.9564208984375,
+        770.11279296875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        294.56036376953125,
+        802.7330322265625,
+        300.2764892578125,
+        812.6821899414062
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있음을 확인하여야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.75352478027344,
+        68.92467498779297,
+        231.87657165527344,
+        84.45970153808594
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5. 조직 및 인력",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        127.66048431396484,
+        154.476318359375,
+        143.1955108642578
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        157.0283966064453,
+        538.1483764648438,
+        172.56341552734375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "자격을 증명할 수 있어야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        87.19274139404297,
+        180.40284729003906,
+        272.1747131347656,
+        195.9378662109375
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 눈가림",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        209.770751953125,
+        538.1939086914062,
+        225.30577087402344
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        209.770751953125,
+        538.1939086914062,
+        225.30577087402344
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "업무범위 등은 사전에 문서화되어야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.75352478027344,
+        233.1452178955078,
+        335.7402648925781,
+        248.68023681640625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        262.5130920410156,
+        538.1480712890625,
+        278.0481262207031
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.87345886230469,
+        285.8875732421875,
+        538.1478271484375,
+        301.422607421875
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "권장)을 할당하고 스케쥴 관리를 하여야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.87345886230469,
+        309.26202392578125,
+        360.2070007324219,
+        324.79705810546875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "6. Data management 업무 수행 시 고려사항",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        367.9978332519531,
+        340.0169372558594,
+        383.5328674316406
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 준비단계에서 DMP(data management plan), CRF layout design, Data",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        397.36572265625,
+        538.1461791992188,
+        412.9007568359375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "validation rule(specification),",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        89.47151184082031,
+        420.74017333984375,
+        538.1483764648438,
+        436.27520751953125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "eCRF 구축 및 검증, 외부 데이터 전송 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        89.47151184082031,
+        420.74017333984375,
+        538.1483764648438,
+        436.27520751953125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        89.47151184082031,
+        444.1146545410156,
+        538.1483764648438,
+        459.6496887207031
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        89.47151184082031,
+        467.4891052246094,
+        536.2716064453125,
+        483.0241394042969
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        496.85699462890625,
+        538.1483764648438,
+        512.3920288085938
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.99339294433594,
+        520.2314453125,
+        538.14794921875,
+        535.7664794921875
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(Production environment) 순서로 작업이 진행되며, unit test, integration test 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.99339294433594,
+        543.6058959960938,
+        538.1483764648438,
+        559.1409301757812
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "필요한 검사를 거쳐야 한다. 의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.99339294433594,
+        566.9803466796875,
+        538.2133178710938,
+        582.515380859375
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "User Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.99339294433594,
+        590.3547973632812,
+        538.1487426757812,
+        605.8898315429688
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "되는지 확인하여야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.99339294433594,
+        613.729248046875,
+        219.28338623046875,
+        629.2642822265625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. 수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        643.09716796875,
+        538.1483764648438,
+        658.6322021484375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.59307098388672,
+        666.4716186523438,
+        538.1472778320312,
+        682.0066528320312
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관련 부서와 reconciliation을 통해 database 관리를 하여야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.59307098388672,
+        689.8460693359375,
+        471.8664855957031,
+        705.381103515625
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "라. 완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        719.2139892578125,
+        538.1551513671875,
+        734.7490234375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "lock 등을 진행한다. 통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.75352478027344,
+        742.5884399414062,
+        538.1477661132812,
+        758.1234741210938
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        294.56036376953125,
+        802.7330322265625,
+        300.2764892578125,
+        812.6821899414062
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.75352478027344,
+        68.92467498779297,
+        538.1482543945312,
+        84.45970153808594
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "보관한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        85.75352478027344,
+        92.29912567138672,
+        138.3272705078125,
+        107.83415222167969
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "7. 데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        151.03494262695312,
+        484.5386047363281,
+        166.56996154785156
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        180.40284729003906,
+        538.1490478515625,
+        195.9378662109375
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "검토, 승인 절차를 거친다. 검토에는 관련 부서가 모두 참여하여야 하며, 사전에",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.23326110839844,
+        203.77731323242188,
+        538.147216796875,
+        219.3123321533203
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "검토자 명단이 정해져 있어야 한다. DMP는 개정되는 경우 버전 관리가 되어야",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.23326110839844,
+        227.15176391601562,
+        538.14794921875,
+        242.68678283691406
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        86.23326110839844,
+        250.52622985839844,
+        113.7406005859375,
+        266.0612487792969
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        63.08580780029297,
+        279.89410400390625,
+        443.921630859375,
+        295.42913818359375
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1) 목적",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        309.26202392578125,
+        119.8150634765625,
+        324.79705810546875
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2) 적용범위",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        338.6299133300781,
+        145.84149169921875,
+        354.1649475097656
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3) 사용되는 데이터의 종류 및 기원(source)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        367.9978332519531,
+        336.9424743652344,
+        383.5328674316406
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        397.36572265625,
+        490.821044921875,
+        412.9007568359375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "5) non-CRF 데이터 관련 상세내용",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        426.733642578125,
+        285.5652160644531,
+        442.2686767578125
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "가) (e)PRO(Patient Reported Outcomes)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        82.5152816772461,
+        456.1015319824219,
+        324.71026611328125,
+        471.6365661621094
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        82.5152816772461,
+        485.4694519042969,
+        537.9555053710938,
+        501.0044860839844
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        82.5152816772461,
+        514.8373413085938,
+        467.0268859863281,
+        530.3723754882812
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "6) Data Quality 방법",
+      "font_size": 12.94941520690918,
+      "font_name": "T14",
+      "bbox": [
+        76.03878784179688,
+        544.2052612304688,
+        203.16989135742188,
+        559.7402954101562
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "Data review, data reconciliation, 쿼리(Query) 관리 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        82.5152816772461,
+        573.5731811523438,
+        408.378662109375,
+        589.1082153320312
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        602.9410400390625,
+        538.139404296875,
+        618.47607421875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "방법 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        94.14897155761719,
+        626.3155517578125,
+        137.56544494628906,
+        641.8505859375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "8) coding 작업",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        655.6834106445312,
+        164.91061401367188,
+        671.2184448242188
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        82.5152816772461,
+        685.0513305664062,
+        454.9134521484375,
+        700.5863647460938
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "9) database lock 절차",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        76.03878784179688,
+        714.4192504882812,
+        207.84735107421875,
+        729.9542846679688
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2) Interactive Reponse Technology",
+      "font_size": 8.752802848815918,
+      "font_name": "Dotum",
+      "bbox": [
+        56.609317779541016,
+        761.1226196289062,
+        191.55287170410156,
+        770.11279296875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        294.56036376953125,
+        802.7330322265625,
+        300.2764892578125,
+        812.6821899414062
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "10) 자료 보관 관련",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        71.92140197753906,
+        184.81982421875,
+        87.45642852783203
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "8. 외·내부 데이터 전송 관련 고려사항",
+      "font_size": 12.94941520690918,
+      "font_name": "T11",
+      "bbox": [
+        56.609317779541016,
+        130.65721130371094,
+        295.76092529296875,
+        146.19223022460938
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        160.02511596679688,
+        538.1487426757812,
+        175.5601348876953
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있어야 한다. 포함되어야 하는 항목은 다음과 같다.",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        68.60282135009766,
+        183.3995819091797,
+        379.99627685546875,
+        198.93460083007812
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 일차 접촉 대상(담당자 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        212.76748657226562,
+        242.7954559326172,
+        228.30250549316406
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 전송되는 데이터의 종류(예 : Lab data 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        242.13539123535156,
+        338.8634033203125,
+        257.67041015625
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 전송 주기(매일, 매주 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        271.5032653808594,
+        232.84085083007812,
+        287.0382995605469
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 파일 포맷(SAS, CSV, excel 파일 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        300.8711853027344,
+        307.6802978515625,
+        316.4062194824219
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 데이터셋/파일명",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        330.23907470703125,
+        179.42276000976562,
+        345.77410888671875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 변수명, 속성, 코드리스트 등",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        359.60699462890625,
+        251.86349487304688,
+        375.14202880859375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법",
+      "font_size": 12.94941520690918,
+      "font_name": "T14",
+      "bbox": [
+        69.56230163574219,
+        388.9748840332031,
+        400.22308349609375,
+        404.5099182128906
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 전송시 보안대책(암호화 등)",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        418.3428039550781,
+        249.27194213867188,
+        433.8778381347656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 기타 필요한 사항",
+      "font_size": 12.94941520690918,
+      "font_name": "T12",
+      "bbox": [
+        69.56230163574219,
+        447.7107238769531,
+        187.33847045898438,
+        463.2457580566406
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    }
+  ],
+  "markdown_content": "<!-- PAGE_1 -->\n# 의약품 임상시험 관련 데이터\n\n<!-- PAGE_1 -->\n# 관리업무 수행 시 주요 고려사항\n\n<!-- PAGE_1 -->\n## (민원인 안내서)\n\n<!-- PAGE_1 -->\n### 2016.12.30.\n\n<!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n**[표 시작]**\n\n| 자격을 증명할 수 있어야 한다. | □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까? | 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다. | (규제개혁담당관실-3761호, 2017.05.16.) |\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다.**\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다. | 내용을 단순 편집 또는 나열한 것입니까? |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다. | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까?**\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다.**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까? | □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다. |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. |\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다. | 사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? (민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다. |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? |\n| 사항 | 되는지 확인하여야 한다. |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다.**\n**하여야 한다.**\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음.**\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다.**\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n<!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1. 목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2. 범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3. 책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4. 기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5. 조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6. Data Management 업무 수행 시 고려사항 ··················3\n\n- 7. 데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8. 외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1. 목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n- 2. 범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n- 3. 책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n- 4. 기본원칙\n- 가. 임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다. 반드시 필요한 SOP는 다음과 같다.\n\n2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다. 사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라. 임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다. 임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다. 평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바. 임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사. 의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n- 5. 조직 및 인력\n- 가. 담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나. 눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6. Data management 업무 수행 시 고려사항\n- 가. 준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n- 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다. 의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다. 수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라. 완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다. 통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n- 7. 데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가. 담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다. 검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다. DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8. 외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다. 포함되어야 하는 항목은 다음과 같다.\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "<!-- PAGE_1 -->\n# 의약품 임상시험 관련 데이터\n\n<!-- PAGE_1 -->\n# 관리업무 수행 시 주요 고려사항\n\n<!-- PAGE_1 -->\n## (민원인 안내서)\n\n<!-- PAGE_1 -->\n### 2016.12.30.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 135,
+        "word_count": 28,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 임상시험 관련 데이터\n\n<!-- PAGE_1 -->\n# 관리업무 수행 시 주요 고려사항\n\n<!-- PAGE_1 -->\n## (민원인 안내서)\n\n<!-- PAGE_1 -->\n### 2016.12.30.\n\n <!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| 자격을 증명할 수 있어야 한다.  | □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까? ",
+        "original_sentence": "<!-- PAGE_1 -->\n# 의약품 임상시험 관련 데이터\n\n<!-- PAGE_1 -->\n# 관리업무 수행 시 주요 고려사항\n\n<!-- PAGE_1 -->\n## (민원인 안내서)\n\n<!-- PAGE_1 -->\n### 2016.12.30.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "<!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 155,
+        "word_count": 32,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 임상시험 관련 데이터\n\n<!-- PAGE_1 -->\n# 관리업무 수행 시 주요 고려사항\n\n<!-- PAGE_1 -->\n## (민원인 안내서)\n\n<!-- PAGE_1 -->\n### 2016.12.30.\n\n <!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| 자격을 증명할 수 있어야 한다.  | □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까?  | 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다. ",
+        "original_sentence": "<!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "**[표 시작]**\n\n| 자격을 증명할 수 있어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 8,
+        "page_number": 7,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 임상시험 관련 데이터\n\n<!-- PAGE_1 -->\n# 관리업무 수행 시 주요 고려사항\n\n<!-- PAGE_1 -->\n## (민원인 안내서)\n\n<!-- PAGE_1 -->\n### 2016.12.30.\n\n <!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| 자격을 증명할 수 있어야 한다.  | □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까?  | 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다.  | (규제개혁담당관실-3761호, 2017.05.16.) ",
+        "original_sentence": "**[표 시작]**\n\n| 자격을 증명할 수 있어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 101,
+        "word_count": 30,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n# 의약품 임상시험 관련 데이터\n\n<!-- PAGE_1 -->\n# 관리업무 수행 시 주요 고려사항\n\n<!-- PAGE_1 -->\n## (민원인 안내서)\n\n<!-- PAGE_1 -->\n### 2016.12.30.\n\n <!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| 자격을 증명할 수 있어야 한다.  | □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까?  | 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다.  | (규제개혁담당관실-3761호, 2017.05.16.)  |\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다.",
+        "original_sentence": "| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "| 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 212,
+        "word_count": 52,
+        "page_number": 4,
+        "window_text": "<!-- PAGE_1 -->\n### 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n##### 지침·안내서 제‧개정 점검표\n\n명칭\n\n의약품 임상시험 관련 데이터 관리업무 수행 시 주요 고려사항\n\n(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| 자격을 증명할 수 있어야 한다.  | □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까?  | 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다.  | (규제개혁담당관실-3761호, 2017.05.16.)  |\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다. **\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다. ",
+        "original_sentence": "| 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "| (규제개혁담당관실-3761호, 2017.05.16.) ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 3,
+        "page_number": 2,
+        "window_text": "**[표 시작]**\n\n| 자격을 증명할 수 있어야 한다.  | □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까?  | 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다.  | (규제개혁담당관실-3761호, 2017.05.16.)  |\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다. **\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다.  | 내용을 단순 편집 또는 나열한 것입니까? ",
+        "original_sentence": "| (규제개혁담당관실-3761호, 2017.05.16.) "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "|\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다.",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 19,
+        "page_number": 6,
+        "window_text": "| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- | --- |\n**승인 절차 등**\n| 지침·안내서가 있습니까?  | 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다.  | (규제개혁담당관실-3761호, 2017.05.16.)  |\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다. **\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다.  | 내용을 단순 편집 또는 나열한 것입니까?  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "|\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "**\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 337,
+        "word_count": 68,
+        "page_number": 7,
+        "window_text": "| 「식약처 지침서등의 관리에 관한 |\n| 5) external/internal data transfer 관련 절차 및 규격서 등 | - 일차 접촉 대상(담당자 등) | 2 | 안내서-0060-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로**\n| 업무범위 등은 사전에 문서화되어야 한다.  | (규제개혁담당관실-3761호, 2017.05.16.)  |\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다. **\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다.  | 내용을 단순 편집 또는 나열한 것입니까?  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다. ",
+        "original_sentence": "**\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "| 내용을 단순 편집 또는 나열한 것입니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 25,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "| (규제개혁담당관실-3761호, 2017.05.16.)  |\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다. **\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다.  | 내용을 단순 편집 또는 나열한 것입니까?  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다.  | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까?",
+        "original_sentence": "| 내용을 단순 편집 또는 나열한 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "|\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 35,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "|\n| 6) data validation, data review 관련 | - 전송되는 데이터의 종류(예 : Lab data 등) |\n**한다. **\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다.  | 내용을 단순 편집 또는 나열한 것입니까?  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다.  | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까? **\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다.",
+        "original_sentence": "|\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "| □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 95,
+        "word_count": 28,
+        "page_number": 2,
+        "window_text": "**\n| 7) 임상 데이터베이스(Clinical DB) 관리 및 품질관리 등 | - 전송 주기(매일, 매주 등) | (사유 :                                                                 ) |\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| □ 예 | ■ 아니오 |\n**- 파일 포맷(SAS, CSV, excel 파일 등)**\n| 등록대상 | 1) 목적 | 권장)을 할당하고 스케쥴 관리를 하여야 한다.  | 내용을 단순 편집 또는 나열한 것입니까?  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다.  | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까? **\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까?",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 83,
+        "word_count": 23,
+        "page_number": 2,
+        "window_text": "| 내용을 단순 편집 또는 나열한 것입니까?  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다.  | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까? **\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+        "original_sentence": "| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "**\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다.",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 56,
+        "word_count": 10,
+        "page_number": 8,
+        "window_text": "|\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다.  | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까? **\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다. ",
+        "original_sentence": "**\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n| - 데이터셋/파일명 | 여부 |\n**2) 적용범위**\n| 유지 등을 고려하여 작성, 검토, 승인 등 적절한 절차가 마련되어 있어야 한다.  | □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까? **\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "| □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 145,
+        "word_count": 38,
+        "page_number": 2,
+        "window_text": "| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**- 변수명, 속성, 코드리스트 등**\n**내용입니까? **\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "| □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 90,
+        "word_count": 24,
+        "page_number": 2,
+        "window_text": "**\n**3) 사용되는 데이터의 종류 및 기원(source)**\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "|\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 56,
+        "word_count": 15,
+        "page_number": 2,
+        "window_text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다.  | 사무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "|\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n**- 테스트용 데이터의 전송방법 / 실재 데이터 전송방법**\n| 4) eCRF 개발, 유지 및 관련 문서의 종류(eCRF 작성 가이드라인 등) | 전화번호: 043-719-1881 |\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다.  | 사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+        "original_sentence": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "|\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 142,
+        "word_count": 30,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n| - 전송시 보안대책(암호화 등) | 팩스번호: 043-719-1850 |\n| 5) non-CRF 데이터 관련 상세내용 | 한다.  |\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다.  | 사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다. ",
+        "original_sentence": "|\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "| 사무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 28,
+        "word_count": 6,
+        "page_number": 1,
+        "window_text": "|\n| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다.  | 사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다.  |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+        "original_sentence": "| 사무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "(공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 300,
+        "word_count": 48,
+        "page_number": 2,
+        "window_text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다.  | 사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다.  |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 사항 | 되는지 확인하여야 한다. ",
+        "original_sentence": "(공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "(민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 121,
+        "word_count": 23,
+        "page_number": 9,
+        "window_text": "|\n**- 기타 필요한 사항**\n**가) (e)PRO(Patient Reported Outcomes)**\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n| 전담부서에서 접속권한을 관리하여야 한다.  | 사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다.  |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 사항 | 되는지 확인하여야 한다.  |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다.",
+        "original_sentence": "(민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "|\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 81,
+        "word_count": 24,
+        "page_number": 2,
+        "window_text": "| 사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다.  |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 사항 | 되는지 확인하여야 한다.  |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**하여야 한다.",
+        "original_sentence": "|\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "|\n| 사항 | 되는지 확인하여야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 23,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "(공무원용) |\n**사항 ··································································································4**\n**다) IRT2), 심전도(ECG), 영상(x-ray, CT, MRI 등), PK data 등**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다.  |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 사항 | 되는지 확인하여야 한다.  |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**하여야 한다. **\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음.",
+        "original_sentence": "|\n| 사항 | 되는지 확인하여야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "|\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다.",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 85,
+        "word_count": 19,
+        "page_number": 2,
+        "window_text": "(민원인용) |\n**6) Data Quality 방법**\n| Data review, data reconciliation, 쿼리(Query) 관리 등 | 되도록 go-live 전에 적절한 방안이 마련되어 있어야 한다.  |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 사항 | 되는지 확인하여야 한다.  |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**하여야 한다. **\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음. **\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다.",
+        "original_sentence": "|\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "**\n**하여야 한다.",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 12,
+        "word_count": 3,
+        "page_number": 7,
+        "window_text": "|\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n| 기타 확인 | 민원인을 구속하는 내용이 있습니까?  |\n| 사항 | 되는지 확인하여야 한다.  |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**하여야 한다. **\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음. **\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다. **\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다. ",
+        "original_sentence": "**\n**하여야 한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "**\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음.",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 39,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "|\n| 사항 | 되는지 확인하여야 한다.  |\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**하여야 한다. **\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음. **\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다. **\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+        "original_sentence": "**\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음."
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "**\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다.",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 97,
+        "word_count": 17,
+        "page_number": 9,
+        "window_text": "|\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**방법 등**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**하여야 한다. **\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음. **\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다. **\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "**\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "**\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 102,
+        "word_count": 24,
+        "page_number": 2,
+        "window_text": "**\n**하여야 한다. **\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음. **\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다. **\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다. ",
+        "original_sentence": "**\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 57,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "**\n**8) coding 작업**\n**상기 사항에 대하여 확인하였음. **\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다. **\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n",
+        "original_sentence": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 134,
+        "word_count": 28,
+        "page_number": 3,
+        "window_text": "**\n**코딩에 사용되는 사전(dictionaries), 코딩 절차 및 책임범위 등**\n**관련 부서와 reconciliation을 통해 database 관리를 하여야 한다. **\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1. ",
+        "original_sentence": "지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "<!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 173,
+        "word_count": 35,
+        "page_number": 3,
+        "window_text": "**\n**2017년    6 월   2 일**\n**9) database lock 절차**\n| 담당자 | 확  인(부서장) | 이 철 승 |\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1.  목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2. ",
+        "original_sentence": "<!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 188,
+        "word_count": 41,
+        "page_number": 3,
+        "window_text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1.  목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2.  범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3. ",
+        "original_sentence": "또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 207,
+        "word_count": 40,
+        "page_number": 4,
+        "window_text": "지침·안내서\n\n이 남 희\n\n<!-- PAGE_3 -->\n###### 이 안내서는 의약품 임상시험 데이터 수집 및 관리업무에 대한 사항을\n\n<!-- PAGE_3 -->\n###### 쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1.  목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2.  범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3.  책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4. ",
+        "original_sentence": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 118,
+        "word_count": 7,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_3 -->\n###### 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n<!-- PAGE_3 -->\n###### 술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n<!-- PAGE_3 -->\n###### 하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1.  목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2.  범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3.  책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4.  기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5. ",
+        "original_sentence": "목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 121,
+        "word_count": 7,
+        "page_number": 5,
+        "window_text": "또한, 본 안내서는 2014년 3월\n\n<!-- PAGE_3 -->\n###### 31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n<!-- PAGE_3 -->\n###### 이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n<!-- PAGE_3 -->\n###### 수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1.  목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2.  범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3.  책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4.  기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5.  조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6. ",
+        "original_sentence": "범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 112,
+        "word_count": 7,
+        "page_number": 5,
+        "window_text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n##### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB2-2016-2-006\n\n- 2016.12.30\n제 정\n\n<!-- PAGE_5 -->\n###### 1.  목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2.  범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3.  책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4.  기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5.  조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6.  Data Management 업무 수행 시 고려사항 ··················3\n\n- 7. ",
+        "original_sentence": "책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 123,
+        "word_count": 7,
+        "page_number": 5,
+        "window_text": "목적(Purpose) ·············································································1\n\n<!-- PAGE_5 -->\n###### 2.  범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3.  책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4.  기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5.  조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6.  Data Management 업무 수행 시 고려사항 ··················3\n\n- 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8. ",
+        "original_sentence": "기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5. "
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 117,
+        "word_count": 9,
+        "page_number": 5,
+        "window_text": "범위(Scope) ··················································································1\n\n<!-- PAGE_5 -->\n###### 3.  책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4.  기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5.  조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6.  Data Management 업무 수행 시 고려사항 ··················3\n\n- 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8.  외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1. ",
+        "original_sentence": "조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6. "
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "Data Management 업무 수행 시 고려사항 ··················3\n\n- 7. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 55,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "책임(Responsibility) ································································1\n\n<!-- PAGE_5 -->\n###### 4.  기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5.  조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6.  Data Management 업무 수행 시 고려사항 ··················3\n\n- 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8.  외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1.  목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n",
+        "original_sentence": "Data Management 업무 수행 시 고려사항 ··················3\n\n- 7. "
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 69,
+        "word_count": 13,
+        "page_number": 5,
+        "window_text": "기본원칙 ·························································································1\n\n<!-- PAGE_5 -->\n###### 5.  조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6.  Data Management 업무 수행 시 고려사항 ··················3\n\n- 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8.  외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1.  목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n - 2. ",
+        "original_sentence": "데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8. "
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 165,
+        "word_count": 32,
+        "page_number": 5,
+        "window_text": "조직 및 인력 ················································································3\n\n<!-- PAGE_5 -->\n###### 6.  Data Management 업무 수행 시 고려사항 ··················3\n\n- 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8.  외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1.  목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n - 2.  범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n",
+        "original_sentence": "외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 166,
+        "word_count": 35,
+        "page_number": 1,
+        "window_text": "Data Management 업무 수행 시 고려사항 ··················3\n\n- 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8.  외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1.  목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n - 2.  범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n - 3. ",
+        "original_sentence": "목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "- 2. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 2,
+        "window_text": "데이터 관리 계획(Data Management Plan, DMP) 관련 고려\n<!-- PAGE_5 -->\n###### 8.  외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1.  목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n - 2.  범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n - 3.  책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n",
+        "original_sentence": "- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 165,
+        "word_count": 28,
+        "page_number": 6,
+        "window_text": "외․내부 데이터 전송 관련 고려사항 ·······························5\n\n<!-- PAGE_5 -->\n## 목  차\n\n1\n\n<!-- PAGE_6 -->\n#### 의약품 임상시험 관련 데이터 관리업무 수행 시 주요\n\n<!-- PAGE_6 -->\n#### 고려사항\n\n- 1.  목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n - 2.  범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n - 3.  책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n 의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n",
+        "original_sentence": "범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "- 3. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 8,
+        "window_text": "목적(Purpose)\n동 가이드라인은 의약품 개발업체가 품목허가를 받기 위해 임상시험을 수행하고\n\n통계분석, 결과보고서 작성을 위해 사용되는 데이터의 수집 및 관리업무를 수행\n\n하거나 외부에 업무를 위탁할 때 고려하여야 하는 사항을 제공하여 관련 업무에\n\n도움을 주고자하는 목적으로 작성되었다.\n\n - 2.  범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n - 3.  책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n 의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n - 4. ",
+        "original_sentence": "- 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 113,
+        "word_count": 19,
+        "page_number": 1,
+        "window_text": "- 2.  범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n - 3.  책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n 의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n - 4.  기본원칙\n- 가. ",
+        "original_sentence": "책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_048",
+      "text": "의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 47,
+        "window_size": 3,
+        "char_count": 110,
+        "word_count": 22,
+        "page_number": 6,
+        "window_text": "범위(Scope)\n동 가이드라인은 품목허가를 목적으로 하는 임상시험을 실시하면서 임상시험\n\n실시기관,\n\n중앙실험실,\n\n각종\n\nvendor\n\n등으로부터\n\n데이터를\n\n수집,\n\n관리(\n\ndata\n\nmanagement) 업무를 수행하는 임상시험 의뢰자 또는 임상시험수탁기관의 해당\n\n업무에 적용된다.\n\n - 3.  책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n 의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n - 4.  기본원칙\n- 가.  임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다. ",
+        "original_sentence": "의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_049",
+      "text": "- 4. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 48,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 9,
+        "window_text": "- 3.  책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n 의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n - 4.  기본원칙\n- 가.  임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다.  반드시 필요한 SOP는 다음과 같다.\n\n",
+        "original_sentence": "- 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_050",
+      "text": "기본원칙\n- 가. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 49,
+        "window_size": 3,
+        "char_count": 10,
+        "word_count": 3,
+        "page_number": 1,
+        "window_text": "책임(Responsibility)\n임상시험관리기준(KGCP)에 따르면 의뢰자(Sponsor)는 임상시험의 계획, 관리,\n\n재정 등에 관련된 책임을 갖고 있는 개인, 회사, 실시기관 및 단체를 말한다.\n\n 의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n - 4.  기본원칙\n- 가.  임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다.  반드시 필요한 SOP는 다음과 같다.\n\n 2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다. ",
+        "original_sentence": "기본원칙\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_051",
+      "text": "임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 50,
+        "window_size": 3,
+        "char_count": 92,
+        "word_count": 16,
+        "page_number": 6,
+        "window_text": "의뢰자는 계약을 통해 임상시험과 관련된 데이터 수집 및 관리업무의 일부나\n\n전부를 임상시험수탁기관(CRO)에게 위임할 수 있으나 임상시험자료의 품질과\n\n정확성에 대한 관리책임은 의뢰자에게 있다.\n\n - 4.  기본원칙\n- 가.  임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다.  반드시 필요한 SOP는 다음과 같다.\n\n 2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다.  사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라. ",
+        "original_sentence": "임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_052",
+      "text": "반드시 필요한 SOP는 다음과 같다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 51,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "- 4.  기본원칙\n- 가.  임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다.  반드시 필요한 SOP는 다음과 같다.\n\n 2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다.  사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라.  임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다. ",
+        "original_sentence": "반드시 필요한 SOP는 다음과 같다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_053",
+      "text": "2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 52,
+        "window_size": 3,
+        "char_count": 264,
+        "word_count": 48,
+        "page_number": 2,
+        "window_text": "기본원칙\n- 가.  임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다.  반드시 필요한 SOP는 다음과 같다.\n\n 2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다.  사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라.  임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다.  임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다. ",
+        "original_sentence": "2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_054",
+      "text": "사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 53,
+        "window_size": 3,
+        "char_count": 98,
+        "word_count": 16,
+        "page_number": 1,
+        "window_text": "임상시험 관련 데이터 관리(Data Management) 업무를 수행하기 위해서는\n데이터의 품질확보, 눈가림 유지 등을 표준작업지침서(SOP)를 구비하여야\n\n한다.  반드시 필요한 SOP는 다음과 같다.\n\n 2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다.  사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라.  임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다.  임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다.  평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바. ",
+        "original_sentence": "사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라. "
+      }
+    },
+    {
+      "chunk_id": "chunk_055",
+      "text": "임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 54,
+        "window_size": 3,
+        "char_count": 68,
+        "word_count": 16,
+        "page_number": 1,
+        "window_text": "반드시 필요한 SOP는 다음과 같다.\n\n 2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다.  사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라.  임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다.  임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다.  평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바.  임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사. ",
+        "original_sentence": "임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_056",
+      "text": "임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 55,
+        "window_size": 3,
+        "char_count": 74,
+        "word_count": 14,
+        "page_number": 1,
+        "window_text": "2\n\n1) 데이터 관리 담당인력의 자격, 교육 등\n\n2) 사용되는 전산시스템의 밸리데이션 등\n\n3) 증례기록서(CRF1)) 작성·검토·구축 절차 등\n\n4) data management 관련 서류 및 각종 규격서(specifications)의 작성·검토·\n\n- 나. data management 업무에 사용되는 각종 계획(plan) 이나 규격서(specifications)는\n사전에 서식(template)이 마련되어 있어야 하며, 임상 데이터의 품질확보, 눈가림\n\n- 다.  사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라.  임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다.  임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다.  평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바.  임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사.  의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n",
+        "original_sentence": "임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_057",
+      "text": "평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 56,
+        "window_size": 3,
+        "char_count": 35,
+        "word_count": 8,
+        "page_number": 1,
+        "window_text": "사용되는 시스템(소프트웨어)는 임상시험에 사용되기 전에 임상시험관리기준,\n가이드라인 등에 따라 컴퓨터 밸리데이션(Computer Validation)이 되어 있어야\n\n- 라.  임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다.  임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다.  평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바.  임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사.  의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n - 5. ",
+        "original_sentence": "평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바. "
+      }
+    },
+    {
+      "chunk_id": "chunk_058",
+      "text": "임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 57,
+        "window_size": 3,
+        "char_count": 93,
+        "word_count": 19,
+        "page_number": 1,
+        "window_text": "임상시험 관련 자의 임상데이터 접속 권한은 수행업무, 눈가림 유지 등을\n고려하여 사전에 적절히 정해져 문서화되어야 한다.  임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다.  평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바.  임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사.  의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n - 5.  조직 및 인력\n- 가. ",
+        "original_sentence": "임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사. "
+      }
+    },
+    {
+      "chunk_id": "chunk_059",
+      "text": "의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 58,
+        "window_size": 3,
+        "char_count": 237,
+        "word_count": 43,
+        "page_number": 1,
+        "window_text": "임상시험 종료시까지\n\n- 마. eCRF는 임상시험 수행전(첫 환자 방문전)까지 실제 사용가능(go-live)한\n상태가 되어야 한다.  평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바.  임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사.  의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n - 5.  조직 및 인력\n- 가.  담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나. ",
+        "original_sentence": "의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_060",
+      "text": "- 5. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 59,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 10,
+        "window_text": "평가변수로 사용되는 데이터에 대해서는 눈가림이 유지\n\n- 바.  임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사.  의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n - 5.  조직 및 인력\n- 가.  담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나.  눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6. ",
+        "original_sentence": "- 5. "
+      }
+    },
+    {
+      "chunk_id": "chunk_061",
+      "text": "조직 및 인력\n- 가. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 60,
+        "window_size": 3,
+        "char_count": 13,
+        "word_count": 5,
+        "page_number": 1,
+        "window_text": "임상시험계획서에 변경이 발생할 경우 eCRF 등 사용되는 시스템에 미치는\n영향을 평가하고 변경이 필요한 경우 적절한 변경관리(change control)를\n\n- 사.  의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n - 5.  조직 및 인력\n- 가.  담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나.  눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6.  Data management 업무 수행 시 고려사항\n- 가. ",
+        "original_sentence": "조직 및 인력\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_062",
+      "text": "담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 61,
+        "window_size": 3,
+        "char_count": 45,
+        "word_count": 12,
+        "page_number": 1,
+        "window_text": "의뢰자는 외부 시스템 사용 또는 데이터 관리 업무 등을 외부에 위탁할 경우\n정기적인 vendor audit을 실시하여 data, audit trail 등이 적절히 보관되고\n\n1) Case Report Form; 전자적인 방법을 사용하는 경우는 전자증례기록서(eCRF(Electronic Case Report Form) 또는\n\nEDC(electronic Data Capture))라고 지칭함\n\n3\n\n있음을 확인하여야 한다.\n\n - 5.  조직 및 인력\n- 가.  담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나.  눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6.  Data management 업무 수행 시 고려사항\n- 가.  준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n",
+        "original_sentence": "담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_063",
+      "text": "눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 62,
+        "window_size": 3,
+        "char_count": 149,
+        "word_count": 34,
+        "page_number": 8,
+        "window_text": "- 5.  조직 및 인력\n- 가.  담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나.  눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6.  Data management 업무 수행 시 고려사항\n- 가.  준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n - 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다. ",
+        "original_sentence": "눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6. "
+      }
+    },
+    {
+      "chunk_id": "chunk_064",
+      "text": "Data management 업무 수행 시 고려사항\n- 가. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 63,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "조직 및 인력\n- 가.  담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나.  눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6.  Data management 업무 수행 시 고려사항\n- 가.  준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n - 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다.  의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다. ",
+        "original_sentence": "Data management 업무 수행 시 고려사항\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_065",
+      "text": "준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 64,
+        "window_size": 3,
+        "char_count": 213,
+        "word_count": 37,
+        "page_number": 6,
+        "window_text": "담당 인력은 충분한 경력과 전문성을 갖추고 있어야 하며, 이력서 등으로\n- 나.  눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6.  Data management 업무 수행 시 고려사항\n- 가.  준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n - 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다.  의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다.  수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라. ",
+        "original_sentence": "준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_066",
+      "text": "- 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 65,
+        "window_size": 3,
+        "char_count": 218,
+        "word_count": 30,
+        "page_number": 1,
+        "window_text": "눈가림\n유지를 위해 blind team/ unblind team을 구별하여야 하며, 명단,\n\n- 다. eCRF를 구축시 해당 임상시험 디자인의 복잡성, 수행 업무 및 책임범위 등을\n고려하여 적절한 인원으로 팀을 구성하여야 하며, 충분한 개발기간(8주 이상\n\n- 6.  Data management 업무 수행 시 고려사항\n- 가.  준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n - 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다.  의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다.  수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라.  완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다. ",
+        "original_sentence": "- 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_067",
+      "text": "의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 66,
+        "window_size": 3,
+        "char_count": 92,
+        "word_count": 18,
+        "page_number": 1,
+        "window_text": "Data management 업무 수행 시 고려사항\n- 가.  준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n - 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다.  의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다.  수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라.  완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다.  통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n",
+        "original_sentence": "의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_068",
+      "text": "수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 67,
+        "window_size": 3,
+        "char_count": 102,
+        "word_count": 22,
+        "page_number": 6,
+        "window_text": "준비단계에서 DMP(data management plan), CRF layout design, Data\nvalidation rule(specification),\n\neCRF 구축 및 검증, 외부 데이터 전송 등\n\n관리, 사용자 등록 및 접근권한 관리, UAT(User Acceptance test) 등이\n\n수행되어야 하며, 최종 완성 시점은 임상시험계획서가 승인된 후이어야 한다.\n\n - 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다.  의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다.  수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라.  완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다.  통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n - 7. ",
+        "original_sentence": "수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라. "
+      }
+    },
+    {
+      "chunk_id": "chunk_069",
+      "text": "완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 68,
+        "window_size": 3,
+        "char_count": 66,
+        "word_count": 12,
+        "page_number": 6,
+        "window_text": "- 나. eCRF 구축은 일반적으로 사용자 요구사양(URS; User Requirement Specification)에\n따라 개발환경(Development environment), 테스트환경(Test environment), 사용환경\n\n(Production environment) 순서로 작업이 진행되며, unit test, integration test 등\n\n필요한 검사를 거쳐야 한다.  의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다.  수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라.  완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다.  통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n - 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가. ",
+        "original_sentence": "완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_070",
+      "text": "통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 69,
+        "window_size": 3,
+        "char_count": 89,
+        "word_count": 18,
+        "page_number": 6,
+        "window_text": "의뢰자는 go-live 이전에 사용자 적합성 검사(UAT;\n\nUser Acceptance Test)를 실시하여 사전에 요구된 기능과 내용들이 적절히 수행\n\n- 다.  수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라.  완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다.  통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n - 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가.  담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다. ",
+        "original_sentence": "통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_071",
+      "text": "- 7. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 70,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "수행단계에서는 data monitoring 또는 data review 등을 통해 data의 품질\n관리를 하여야 하며, 이상반응, 병용약물 등에 대해 필요한 코딩을 수행하고\n\n- 라.  완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다.  통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n - 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가.  담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다.  검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다. ",
+        "original_sentence": "- 7. "
+      }
+    },
+    {
+      "chunk_id": "chunk_072",
+      "text": "데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 71,
+        "window_size": 3,
+        "char_count": 50,
+        "word_count": 10,
+        "page_number": 2,
+        "window_text": "완료단계에서는 data cleaning을 확인하고 사전에 정해진 절차에 따라 database\nlock 등을 진행한다.  통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n - 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가.  담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다.  검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다.  DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n",
+        "original_sentence": "데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_073",
+      "text": "담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 72,
+        "window_size": 3,
+        "char_count": 61,
+        "word_count": 13,
+        "page_number": 1,
+        "window_text": "통계부서와 사전에 정해진 업무범위에 따라 dataset을 생성\n\n4\n\n하여 제공하고 관련 규정, 임상시험계획서, 표준작업지침서 등에 따라 자료를\n\n보관한다.\n\n - 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가.  담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다.  검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다.  DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n 나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8. ",
+        "original_sentence": "담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_074",
+      "text": "검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 73,
+        "window_size": 3,
+        "char_count": 50,
+        "word_count": 12,
+        "page_number": 7,
+        "window_text": "- 7.  데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가.  담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다.  검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다.  DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n 나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8.  외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다. ",
+        "original_sentence": "검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_075",
+      "text": "DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 74,
+        "window_size": 3,
+        "char_count": 63,
+        "word_count": 15,
+        "page_number": 1,
+        "window_text": "데이터 관리 계획(Data Management Plan, DMP) 관련 고려사항\n- 가.  담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다.  검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다.  DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n 나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8.  외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다.  포함되어야 하는 항목은 다음과 같다.\n",
+        "original_sentence": "DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_076",
+      "text": "나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 75,
+        "window_size": 3,
+        "char_count": 167,
+        "word_count": 29,
+        "page_number": 6,
+        "window_text": "담당부서에서는 해당 임상시험에 적합한 template 에 따라 DMP를 작성하여\n검토, 승인 절차를 거친다.  검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다.  DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n 나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8.  외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다.  포함되어야 하는 항목은 다음과 같다.\n",
+        "original_sentence": "나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8. "
+      }
+    },
+    {
+      "chunk_id": "chunk_077",
+      "text": "외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다. ",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 76,
+        "window_size": 3,
+        "char_count": 82,
+        "word_count": 16,
+        "page_number": 2,
+        "window_text": "검토에는 관련 부서가 모두 참여하여야 하며, 사전에\n\n검토자 명단이 정해져 있어야 한다.  DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n 나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8.  외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다.  포함되어야 하는 항목은 다음과 같다.\n",
+        "original_sentence": "외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_078",
+      "text": "포함되어야 하는 항목은 다음과 같다.\n",
+      "metadata": {
+        "source": "의약품_임상시험_관련_데이터_관리업무_수행_시_주요_고려사항_민원인안내서.pdf",
+        "chunk_index": 77,
+        "window_size": 3,
+        "char_count": 21,
+        "word_count": 5,
+        "page_number": 10,
+        "window_text": "DMP는 개정되는 경우 버전 관리가 되어야\n\n- 나. DMP에는 최소한 다음의 항목을 포함하여 작성하여야 한다.\n 나) 실험실 검사치(중앙실험실, 병원내 실험실 등 수집되는 항목, 관리방법 등)\n\n7) 이상사례(Adverse Events), 중대한 이상사례(SAE)의 수집, 분류, reconciliation\n\n2) Interactive Reponse Technology\n\n5\n\n10) 자료 보관 관련\n\n- 8.  외·내부 데이터 전송 관련 고려사항\n데이터를 주고 받는 부서는 사전에 data transfer specification이 마련되어\n\n있어야 한다.  포함되어야 하는 항목은 다음과 같다.\n",
+        "original_sentence": "포함되어야 하는 항목은 다음과 같다.\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 78,
+    "avg_chunk_length": 96.01282051282051,
+    "min_chunk_length": 5,
+    "max_chunk_length": 337,
+    "total_characters": 7489,
+    "total_words": 1464,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 231,
+    "heading_count": 25,
+    "paragraph_count": 81,
+    "list_item_count": 26,
+    "table_cell_count": 99,
+    "tables_detected": 1,
+    "chunks_generated": 78
+  }
+}

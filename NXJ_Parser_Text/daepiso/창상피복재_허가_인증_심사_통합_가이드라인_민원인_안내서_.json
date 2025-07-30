@@ -1,0 +1,34 @@
+{
+  "file_name": "창상피복재+허가·인증·심사+통합+가이드라인(민원인+안내서).pdf",
+  "total_pages": 0,
+  "pdf_type": "scanned",
+  "font_analysis": {
+    "font_sizes_frequency": {},
+    "heading_sizes": []
+  },
+  "table_analysis": {
+    "total_tables": 0,
+    "tables_info": []
+  },
+  "text_blocks": [],
+  "markdown_content": "",
+  "chunks": [],
+  "chunking_analysis": {
+    "total_chunks": 0,
+    "avg_chunk_length": 0,
+    "min_chunk_length": 0,
+    "max_chunk_length": 0,
+    "total_characters": 0,
+    "total_words": 0,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 0,
+    "heading_count": 0,
+    "paragraph_count": 0,
+    "list_item_count": 0,
+    "table_cell_count": 0,
+    "tables_detected": 0,
+    "chunks_generated": 0
+  }
+}

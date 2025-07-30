@@ -1,0 +1,4856 @@
+{
+  "file_name": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+  "total_pages": 10,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "9.951866149902344": 1,
+      "24.0": 3,
+      "21.959999084472656": 1,
+      "17.03999900817871": 1,
+      "11.039999961853027": 72,
+      "14.039999961853027": 12,
+      "12.960000038146973": 21,
+      "20.03999900817871": 1,
+      "12.0": 93,
+      "23.03999900817871": 1,
+      "15.0": 3,
+      "9.960000038146973": 28,
+      "9.0": 13
+    },
+    "heading_sizes": [
+      24.0,
+      15.0,
+      14.039999961853027,
+      12.960000038146973
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 3,
+    "tables_info": [
+      {
+        "bbox": [
+          83.27999877929688,
+          171.34429931640625,
+          535.8406982421875,
+          738.6282958984375
+        ],
+        "num_rows": 7,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          166.55999755859375,
+          332.9245910644531,
+          491.03997802734375,
+          362.2952880859375
+        ],
+        "num_rows": 3,
+        "num_cols": 3
+      },
+      {
+        "bbox": [
+          68.04000091552734,
+          402.98248291015625,
+          364.9205322265625,
+          470.6512451171875
+        ],
+        "num_rows": 3,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "- 1 -",
+      "font_size": 9.951866149902344,
+      "font_name": "Gulim",
+      "bbox": [
+        283.2864685058594,
+        788.5885009765625,
+        311.57611083984375,
+        798.5376586914062
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약국제제 및 의료기관 조제실제제",
+      "font_size": 24.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        104.63999938964844,
+        275.4384460449219,
+        498.55218505859375,
+        299.4384460449219
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "범위 검토 요청 시 제출자료 예시",
+      "font_size": 24.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        104.63999938964844,
+        313.83843994140625,
+        490.55999755859375,
+        337.83843994140625
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(민원인 안내서)",
+      "font_size": 24.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        209.27999877929688,
+        355.2384338378906,
+        385.8243713378906,
+        379.2384338378906
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2022. 5.",
+      "font_size": 21.959999084472656,
+      "font_name": "H2hdrM",
+      "bbox": [
+        255.47999572753906,
+        509.7495422363281,
+        339.72784423828125,
+        531.7095336914062
+      ],
+      "page_num": 1,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침·안내서 제‧개정 점검표",
+      "font_size": 17.03999900817871,
+      "font_name": "H2hdrM",
+      "bbox": [
+        186.36000061035156,
+        93.37289428710938,
+        410.2807312011719,
+        110.41288757324219
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.0,
+        126.70429992675781,
+        506.2799987792969,
+        141.38836669921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.0,
+        126.70429992675781,
+        506.2799987792969,
+        141.38836669921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        167.87998962402344,
+        150.9442901611328,
+        429.2493591308594,
+        165.62835693359375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        72.23999786376953,
+        300.70428466796875,
+        116.2796630859375,
+        315.38836669921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "여부",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        318.2242736816406,
+        105.36000061035156,
+        332.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        171.34429931640625,
+        423.88092041015625,
+        186.0283660888672
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서가 있습니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        187.7843017578125,
+        297.041015625,
+        202.46836853027344
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        171.8242950439453,
+        508.07965087890625,
+        201.9883575439453
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        171.8242950439453,
+        508.07965087890625,
+        201.9883575439453
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        210.1042938232422,
+        531.9595947265625,
+        224.78836059570312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        226.66429138183594,
+        535.8414306640625,
+        257.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        226.66429138183594,
+        535.8414306640625,
+        257.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "(사유 :                                                                 )",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        259.6642761230469,
+        526.9237670898438,
+        274.3483581542969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        279.2242736816406,
+        448.32373046875,
+        293.9083557128906
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의 내용을 단순 편집 또는 나열한 것입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.3199920654297,
+        295.6642761230469,
+        362.6809997558594,
+        310.3483581542969
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        279.70428466796875,
+        508.07965087890625,
+        309.86834716796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        279.70428466796875,
+        508.07965087890625,
+        309.86834716796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        309.4642639160156,
+        508.07965087890625,
+        339.62835693359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        309.4642639160156,
+        508.07965087890625,
+        339.62835693359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        309.4642639160156,
+        508.07965087890625,
+        339.62835693359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 일회성 지시ㆍ명령에 해당하는 내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        338.7442626953125,
+        508.07965087890625,
+        368.7883605957031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        338.7442626953125,
+        508.07965087890625,
+        368.7883605957031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        338.7442626953125,
+        508.07965087890625,
+        368.7883605957031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        367.9042663574219,
+        508.07965087890625,
+        398.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        367.9042663574219,
+        508.07965087890625,
+        398.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        367.9042663574219,
+        508.07965087890625,
+        398.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        397.18426513671875,
+        440.3209228515625,
+        411.86834716796875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "정리한 자료입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        412.5442810058594,
+        253.0010223388672,
+        427.2283630371094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        397.18426513671875,
+        508.07965087890625,
+        427.2283630371094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        397.18426513671875,
+        508.07965087890625,
+        427.2283630371094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        430.18426513671875,
+        529.121337890625,
+        461.308349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        430.18426513671875,
+        529.121337890625,
+        461.308349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        65.5199966430664,
+        491.9842834472656,
+        126.88090515136719,
+        506.6683654785156
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        509.6242980957031,
+        105.36000061035156,
+        524.308349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        467.9842834472656,
+        448.3198547363281,
+        482.6683654785156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        483.3442687988281,
+        376.8037414550781,
+        498.0283508300781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침서)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        467.9842834472656,
+        531.9637451171875,
+        498.0283508300781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        467.9842834472656,
+        531.9637451171875,
+        498.0283508300781
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        503.7442932128906,
+        448.32000732421875,
+        518.4283447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        519.1043090820312,
+        448.32000732421875,
+        549.268310546875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "외적인 입장을 기술하는 것입니까? (민원인용)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        519.1043090820312,
+        448.32000732421875,
+        549.268310546875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예(☞안내서)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        511.4242858886719,
+        535.8406982421875,
+        541.4683227539062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        511.4242858886719,
+        535.8406982421875,
+        541.4683227539062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.47999572753906,
+        573.2243041992188,
+        119.04000091552734,
+        587.9083251953125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        590.8643188476562,
+        105.36000061035156,
+        605.54833984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        556.3043212890625,
+        434.9202880859375,
+        570.9883422851562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        571.664306640625,
+        337.23797607421875,
+        586.3483276367188
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        556.3043212890625,
+        508.07965087890625,
+        586.3483276367188
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        556.3043212890625,
+        508.07965087890625,
+        586.3483276367188
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        593.5042724609375,
+        531.9615478515625,
+        608.1882934570312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서 제ㆍ개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        610.0642700195312,
+        372.2550048828125,
+        624.748291015625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        216.1199951171875,
+        635.0242919921875,
+        381.9693603515625,
+        649.7083129882812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2022  년   5  월   10  일",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        222.83999633789062,
+        676.42431640625,
+        363.8399963378906,
+        691.1083374023438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.6000061035156,
+        709.5443115234375,
+        405.4713134765625,
+        738.6282958984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.6000061035156,
+        709.5443115234375,
+        405.4713134765625,
+        738.6282958984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "김 남 윤",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        449.3999938964844,
+        707.9843139648438,
+        494.0400085449219,
+        722.6683349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 수 정",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        449.3999938964844,
+        725.5042724609375,
+        494.0400085449219,
+        740.1882934570312
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        97.19999694824219,
+        126.43916320800781,
+        512.0403442382812,
+        145.11346435546875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.04000091552734,
+        148.7591552734375,
+        500.0555725097656,
+        167.43345642089844
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.04000091552734,
+        181.15916442871094,
+        516.9754028320312,
+        199.83346557617188
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다. 또한,",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.04000091552734,
+        206.35916137695312,
+        517.0955200195312,
+        225.03346252441406
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.04000091552734,
+        231.5591583251953,
+        517.0958862304688,
+        250.23345947265625
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.04000091552734,
+        256.7591552734375,
+        512.1597900390625,
+        275.4334716796875
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관계 등에 따라 달리 적용될 수 있음을 알려드립니다.",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.04000091552734,
+        281.9591369628906,
+        434.0556335449219,
+        300.6334533691406
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.04000091552734,
+        332.6946105957031,
+        516.5974731445312,
+        349.9324035644531
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        106.68000030517578,
+        356.0946044921875,
+        516.717529296875,
+        373.3323974609375
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        106.68000030517578,
+        380.3346252441406,
+        494.02874755859375,
+        397.5724182128906
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.76000213623047,
+        453.65460205078125,
+        542.9962768554688,
+        470.89239501953125
+      ],
+      "page_num": 3,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "문의하시기 바랍니다.",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.75999450683594,
+        474.41461181640625,
+        210.0749969482422,
+        491.65240478515625
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화번호: 043-719-2339",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.79999542236328,
+        495.17462158203125,
+        232.25650024414062,
+        512.4124145507812
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "팩스번호: 043-719-2300",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.79999542236328,
+        516.0545654296875,
+        232.25650024414062,
+        533.2924194335938
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제·개정 이력",
+      "font_size": 20.03999900817871,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        240.36000061035156,
+        80.30888366699219,
+        354.8399963378906,
+        106.9636459350586
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "연번",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        157.57945251464844,
+        440.1600036621094,
+        173.54039001464844
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정번호",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        157.57945251464844,
+        440.1600036621094,
+        173.54039001464844
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        157.57945251464844,
+        440.1600036621094,
+        173.54039001464844
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요내용",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        157.57945251464844,
+        440.1600036621094,
+        173.54039001464844
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        186.0194549560547,
+        428.1600036621094,
+        201.9803924560547
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안내서-1199-01",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        186.0194549560547,
+        428.1600036621094,
+        201.9803924560547
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2022.5.10.",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        186.0194549560547,
+        428.1600036621094,
+        201.9803924560547
+      ],
+      "page_num": 4,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제정",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        186.0194549560547,
+        428.1600036621094,
+        201.9803924560547
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "목    차",
+      "font_size": 23.03999900817871,
+      "font_name": "H2gtrE",
+      "bbox": [
+        252.83999633789062,
+        127.46249389648438,
+        344.760009765625,
+        150.5024871826172
+      ],
+      "page_num": 5,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 개요 ···········································································································  1",
+      "font_size": 14.039999961853027,
+      "font_name": "H2hdrM",
+      "bbox": [
+        59.52000045776367,
+        196.76402282714844,
+        527.785400390625,
+        211.76402282714844
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 관련 규정 ································································································  1",
+      "font_size": 14.039999961853027,
+      "font_name": "H2hdrM",
+      "bbox": [
+        59.52000045776367,
+        243.08401489257812,
+        527.785400390625,
+        258.0840148925781
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 정의 ···········································································································  1",
+      "font_size": 14.039999961853027,
+      "font_name": "H2hdrM",
+      "bbox": [
+        59.52000045776367,
+        289.5240173339844,
+        527.785400390625,
+        304.5240173339844
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4. 제출자료 및 검토예시 ········································································  1",
+      "font_size": 14.039999961853027,
+      "font_name": "H2hdrM",
+      "bbox": [
+        59.52000045776367,
+        335.9640197753906,
+        527.785400390625,
+        350.9640197753906
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4.1. 자료 작성 예시 ··············································································  3",
+      "font_size": 15.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        59.52000045776367,
+        383.9640197753906,
+        532.755126953125,
+        398.9640197753906
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4.2. 검토 및 회신 예시 ···········································································  4",
+      "font_size": 14.039999961853027,
+      "font_name": "H2hdrM",
+      "bbox": [
+        59.52000045776367,
+        431.8280944824219,
+        527.785400390625,
+        445.86810302734375
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 1 -",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        283.44000244140625,
+        789.4503784179688,
+        311.7449951171875,
+        799.4103393554688
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 개요",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        83.27999877929688,
+        95.5199966430664,
+        97.66799926757812
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        128.16749572753906,
+        544.5599975585938,
+        140.82374572753906
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        56.63999938964844,
+        148.0800018310547,
+        519.2160034179688,
+        162.46800231933594
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 관련 규정",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        191.27999877929688,
+        125.5199966430664,
+        205.66799926757812
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙「약사법」(법률) 제41조",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        234.47999572753906,
+        202.55999755859375,
+        248.87998962402344
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        256.0799865722656,
+        333.239990234375,
+        270.47998046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙「약국제제지정」(식품의약품안전처고시) 제2조",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        277.67999267578125,
+        315.6000061035156,
+        292.0799865722656
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        299.2799987792969,
+        406.79998779296875,
+        313.67999267578125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 정의",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        342.47998046875,
+        95.5199966430664,
+        356.86798095703125
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3.1. ‘약국제제’는 약국에서 제조하는 제제를 말한다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        62.63999938964844,
+        385.67999267578125,
+        348.09600830078125,
+        400.0679931640625
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.63999938964844,
+        428.8800048828125,
+        544.5599975585938,
+        443.26800537109375
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제제를 말한다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        83.75999450683594,
+        450.47998046875,
+        164.73599243164062,
+        464.86798095703125
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "3.3 민원인",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.63999938964844,
+        493.67999267578125,
+        119.5199966430664,
+        508.0679931640625
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.63999938964844,
+        515.2799682617188,
+        538.5599975585938,
+        529.66796875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제조하려는 제제의 범위 검토를 신청하는 자를 말한다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        80.63999938964844,
+        536.8800048828125,
+        383.6159973144531,
+        551.2680053710938
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4. 제출자료 및 검토 예시",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        601.6799926757812,
+        197.51998901367188,
+        616.0679931640625
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "• 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.15999984741211,
+        644.8800048828125,
+        538.5599975585938,
+        659.280029296875
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢",
+      "font_size": 12.0,
+      "font_name": "T12",
+      "bbox": [
+        80.27999877929688,
+        666.47998046875,
+        431.8800048828125,
+        680.8800048828125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 등의 안전에",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        431.7599792480469,
+        668.16748046875,
+        538.5599975585938,
+        680.82373046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관한 규칙｣",
+      "font_size": 12.0,
+      "font_name": "T12",
+      "bbox": [
+        80.27999877929688,
+        688.0799560546875,
+        139.8000030517578,
+        702.47998046875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        145.55999755859375,
+        688.0799560546875,
+        459.8160095214844,
+        702.4679565429688
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 관련 규정은 다음과 같다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        68.63999938964844,
+        709.6799926757812,
+        219.57598876953125,
+        724.0679931640625
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 2 -",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        283.44000244140625,
+        789.4503784179688,
+        311.7449951171875,
+        799.4103393554688
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "<의약품 등의 안전에 관한 규칙(총리령)>",
+      "font_size": 12.0,
+      "font_name": "T14",
+      "bbox": [
+        64.55999755859375,
+        106.19999694824219,
+        297.864013671875,
+        120.5999984741211
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        125.39999389648438,
+        530.5199584960938,
+        139.79998779296875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "실제제의 범위는 다음 각 호와 같다.",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        144.59999084472656,
+        265.5,
+        158.99998474121094
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        72.1199951171875,
+        163.8000030517578,
+        530.5199584960938,
+        178.1999969482422
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        87.47999572753906,
+        183.0,
+        459.47998046875,
+        197.39999389648438
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "가. 약국제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        72.1199951171875,
+        202.1999969482422,
+        141.0,
+        216.59999084472656
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1) 마약 또는 향정신성의약품을 함유하는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        78.1199951171875,
+        221.39999389648438,
+        333.47998046875,
+        235.79998779296875
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2) 항생물질제제, 생물학적 제제 및 성호르몬제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        78.1199951171875,
+        240.59999084472656,
+        348.3599853515625,
+        254.99998474121094
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3) 국내에서 생산되거나 수입되는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        78.1199951171875,
+        259.79998779296875,
+        291.47998046875,
+        274.1999816894531
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4) 주사제ㆍ정제ㆍ환제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        78.1199951171875,
+        279.0,
+        201.47999572753906,
+        293.3999938964844
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5) 전문의약품에 해당하는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        78.1199951171875,
+        298.1999816894531,
+        249.47999572753906,
+        312.5999755859375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. 조제실제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        72.1199951171875,
+        317.3999938964844,
+        153.0,
+        331.79998779296875
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1) 가목 1)부터 3)까지에 해당하는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        78.1199951171875,
+        336.6000061035156,
+        292.1999816894531,
+        351.0
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2) 일반의약품에 해당하는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        78.1199951171875,
+        355.79998779296875,
+        249.47999572753906,
+        370.1999816894531
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        72.1199951171875,
+        375.0,
+        530.5199584960938,
+        389.3999938964844
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "고시하는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        72.1199951171875,
+        394.1999816894531,
+        150.1199951171875,
+        408.5999755859375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "<약국제제지정(식품의약품안전처고시)>",
+      "font_size": 12.0,
+      "font_name": "T14",
+      "bbox": [
+        64.55999755859375,
+        432.5999755859375,
+        286.7040100097656,
+        446.9999694824219
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        451.79998779296875,
+        417.53997802734375,
+        466.1999816894531
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "<의료기관 조제실제제 관리기준(식품의약품안전처고시)>",
+      "font_size": 12.0,
+      "font_name": "T14",
+      "bbox": [
+        64.55999755859375,
+        490.1999816894531,
+        387.6239929199219,
+        504.5999755859375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        509.39996337890625,
+        530.6400146484375,
+        523.7999877929688
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        528.5999755859375,
+        530.6400146484375,
+        543.0
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "에 해당하는 것으로 한다. 다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        547.7999877929688,
+        530.5199584960938,
+        562.2000122070312
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        567.0,
+        530.531982421875,
+        581.4000244140625
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        586.2000122070312,
+        530.5199584960938,
+        600.6000366210938
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및 한약제제는 예외로 한다)은 제외한다.",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        64.55999755859375,
+        605.3999633789062,
+        286.8599853515625,
+        619.7999877929688
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        72.1199951171875,
+        624.5999755859375,
+        530.5199584960938,
+        639.0
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        87.23999786376953,
+        643.7999877929688,
+        530.6400146484375,
+        658.2000122070312
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "물질제제, 생물학적제제 및 성호르몬제제가 아닌 것",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        87.23999786376953,
+        663.0,
+        372.239990234375,
+        677.4000244140625
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2. 식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        72.1199951171875,
+        682.2000122070312,
+        530.6400146484375,
+        696.6000366210938
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하다고 인정하여 별표에서 정하는 의약품",
+      "font_size": 12.0,
+      "font_name": "T7",
+      "bbox": [
+        88.68000030517578,
+        701.3999633789062,
+        323.1600036621094,
+        715.7999877929688
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 3 -",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        283.44000244140625,
+        789.4503784179688,
+        311.7449951171875,
+        799.4103393554688
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4.1. 자료 작성 예시",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        83.27999877929688,
+        164.51998901367188,
+        97.66799926757812
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "• 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.15999984741211,
+        121.67999267578125,
+        544.5599975585938,
+        136.07998657226562
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        81.0,
+        143.27999877929688,
+        544.4400024414062,
+        157.67999267578125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등이다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        81.0,
+        164.87998962402344,
+        119.97599792480469,
+        179.2679901123047
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "<제출자료 작성 예시>",
+      "font_size": 12.0,
+      "font_name": "T9",
+      "bbox": [
+        236.27999877929688,
+        208.0800018310547,
+        358.8600158691406,
+        222.46800231933594
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "연번",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        62.7599983215332,
+        257.5997619628906,
+        127.55999755859375,
+        270.8473205566406
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제제명",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        62.7599983215332,
+        257.5997619628906,
+        127.55999755859375,
+        270.8473205566406
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "처방(포장단위당)",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        208.0800018310547,
+        237.4397430419922,
+        284.72479248046875,
+        250.68731689453125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "용법·용량",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "효능·효과",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "포장",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "단위",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "배합",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "목적",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "원료약품",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "규격",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "주성분",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "함량",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        144.1199951171875,
+        252.6797332763672,
+        523.2000122070312,
+        284.16729736328125
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "1",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.95999908447266,
+        293.9597473144531,
+        75.73271179199219,
+        307.2073059082031
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.95999908447266,
+        309.55975341796875,
+        75.73271179199219,
+        322.80731201171875
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3",
+      "font_size": 9.960000038146973,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.95999908447266,
+        325.2797546386719,
+        75.73271179199219,
+        338.5273132324219
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        356.5394592285156,
+        438.1199951171875,
+        372.5003967285156
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        385.8194580078125,
+        402.6000061035156,
+        401.7803955078125
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "*",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관련",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "용어는",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "「의약품의",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "품목허가·신고·심사",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "규정」제12조(원료약품",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "그",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "분량)",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        411.1199951171875,
+        538.5599365234375,
+        424.3680114746094
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[별표7] 제형별 의약품 첨가제 등 참고",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        86.4000015258789,
+        428.7599792480469,
+        279.0,
+        442.00799560546875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        455.179443359375,
+        368.3999938964844,
+        471.140380859375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        73.08000183105469,
+        479.41943359375,
+        449.65875244140625,
+        495.38037109375
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        508.5794677734375,
+        345.1762390136719,
+        524.5404052734375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        534.0,
+        513.6005249023438,
+        547.2479858398438
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "⑤ 주성분 : 해당 원료약품의 주성분 명칭",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        560.41943359375,
+        293.2799987792969,
+        576.38037109375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        589.5794677734375,
+        319.3762512207031,
+        605.5404052734375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        618.7394409179688,
+        334.55999755859375,
+        634.7003784179688
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        644.1600341796875,
+        453.4800109863281,
+        657.4080200195312
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        670.5794677734375,
+        334.55999755859375,
+        686.5404052734375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        696.0,
+        453.4800109863281,
+        709.2479858398438
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "⑨ 포장단위 : 제제의 포장단위",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        56.63999938964844,
+        722.41943359375,
+        233.27999877929688,
+        738.38037109375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재",
+      "font_size": 11.039999961853027,
+      "font_name": "T7",
+      "bbox": [
+        73.08000183105469,
+        747.7200317382812,
+        528.359619140625,
+        760.968017578125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 4 -",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        283.44000244140625,
+        789.4503784179688,
+        311.7449951171875,
+        799.4103393554688
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4.2. 검토 및 회신 예시",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.63999938964844,
+        83.27999877929688,
+        188.51998901367188,
+        97.66799926757812
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "• 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.15999984741211,
+        121.67999267578125,
+        544.5599975585938,
+        136.07998657226562
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "확인 후 회신하며, 회신 예시는 다음과 같다.",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        81.0,
+        143.27999877929688,
+        326.97601318359375,
+        157.66799926757812
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.63999938964844,
+        164.87998962402344,
+        538.5599975585938,
+        179.2679901123047
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "양식 없이 해당여부만을 회신",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        79.08000183105469,
+        188.16749572753906,
+        241.0800018310547,
+        200.82374572753906
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "- 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)",
+      "font_size": 12.0,
+      "font_name": "T11",
+      "bbox": [
+        68.63999938964844,
+        208.0800018310547,
+        538.4639892578125,
+        222.47999572753906
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제3조에 해당하는 경우 다음의 예시에 따라 회신",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        79.08000183105469,
+        229.67999267578125,
+        354.1199951171875,
+        244.0679931640625
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "<검토 회신 예시>",
+      "font_size": 12.0,
+      "font_name": "T9",
+      "bbox": [
+        248.27999877929688,
+        272.8800048828125,
+        346.8600158691406,
+        287.26800537109375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "①고시 별표",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        100.91999816894531,
+        325.7245788574219,
+        158.0840606689453,
+        337.6952819824219
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "해당 제제",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        107.63999938964844,
+        340.12457275390625,
+        151.3640594482422,
+        352.09527587890625
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "해당 유무",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        276.3599853515625,
+        311.20458984375,
+        316.79998779296875,
+        323.17529296875
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "⑦검토 결과",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        441.5999755859375,
+        332.9245910644531,
+        491.03997802734375,
+        344.8952941894531
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "②기허가",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        166.55999755859375,
+        343.12457275390625,
+        242.0399932861328,
+        355.09527587890625
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "③마약",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        166.55999755859375,
+        343.12457275390625,
+        242.0399932861328,
+        355.09527587890625
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "④항생물질",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        259.91998291015625,
+        328.7245788574219,
+        304.91998291015625,
+        340.6952819824219
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "생물학적제제",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        255.47999572753906,
+        343.12457275390625,
+        309.47998046875,
+        355.09527587890625
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "성호르몬제제",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        255.47999572753906,
+        357.5245666503906,
+        309.47998046875,
+        369.4952697753906
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "⑤일반",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        324.239990234375,
+        335.9245910644531,
+        351.239990234375,
+        347.8952941894531
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "의약품",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        324.239990234375,
+        350.3245849609375,
+        351.239990234375,
+        362.2952880859375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "⑥안전성유효성",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        364.44000244140625,
+        335.9245910644531,
+        427.44000244140625,
+        347.8952941894531
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "문제성분",
+      "font_size": 9.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        377.8800048828125,
+        350.3245849609375,
+        413.8800048828125,
+        362.2952880859375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○/X",
+      "font_size": 9.960000038146973,
+      "font_name": "Batang",
+      "bbox": [
+        117.5999984741211,
+        374.2503356933594,
+        493.0799865722656,
+        384.2103271484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○/X",
+      "font_size": 9.960000038146973,
+      "font_name": "Batang",
+      "bbox": [
+        117.5999984741211,
+        374.2503356933594,
+        493.0799865722656,
+        384.2103271484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○/X",
+      "font_size": 9.960000038146973,
+      "font_name": "Batang",
+      "bbox": [
+        117.5999984741211,
+        374.2503356933594,
+        493.0799865722656,
+        384.2103271484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○/X",
+      "font_size": 9.960000038146973,
+      "font_name": "Batang",
+      "bbox": [
+        117.5999984741211,
+        374.2503356933594,
+        493.0799865722656,
+        384.2103271484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○/X",
+      "font_size": 9.960000038146973,
+      "font_name": "Batang",
+      "bbox": [
+        117.5999984741211,
+        374.2503356933594,
+        493.0799865722656,
+        384.2103271484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "○/X",
+      "font_size": 9.960000038146973,
+      "font_name": "Batang",
+      "bbox": [
+        117.5999984741211,
+        374.2503356933594,
+        493.0799865722656,
+        384.2103271484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "적합/부적합",
+      "font_size": 9.960000038146973,
+      "font_name": "Batang",
+      "bbox": [
+        117.5999984741211,
+        374.2503356933594,
+        493.0799865722656,
+        384.2103271484375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.27999877929688,
+        403.91998291015625,
+        459.5999755859375,
+        418.3199768066406
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.27999877929688,
+        433.0799865722656,
+        523.4400024414062,
+        447.47998046875
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        79.31999969482422,
+        462.3599853515625,
+        538.4400024414062,
+        476.7599792480469
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "인지 여부",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        104.39999389648438,
+        483.24749755859375,
+        157.9199981689453,
+        495.90374755859375
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        79.31999969482422,
+        510.719970703125,
+        402.3599853515625,
+        525.1199951171875
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        79.31999969482422,
+        539.8800048828125,
+        544.4400024414062,
+        554.280029296875
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        96.95999908447266,
+        559.0800170898438,
+        522.5999755859375,
+        573.468017578125
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        80.27999877929688,
+        588.3599853515625,
+        538.4400024414062,
+        602.760009765625
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "인지 여부",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        98.15999603271484,
+        609.2474975585938,
+        151.67999267578125,
+        621.9037475585938
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합",
+      "font_size": 12.0,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        98.04000091552734,
+        658.9199829101562,
+        327.7200012207031,
+        673.3200073242188
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "- 5 -",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        283.44000244140625,
+        789.4503784179688,
+        311.7449951171875,
+        799.4103393554688
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료",
+      "font_size": 15.0,
+      "font_name": "Batang",
+      "bbox": [
+        84.83999633789062,
+        313.16400146484375,
+        515.235107421875,
+        328.16400146484375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "예시[민원인 안내서]",
+      "font_size": 15.0,
+      "font_name": "Batang",
+      "bbox": [
+        229.0800018310547,
+        337.16400146484375,
+        366.17999267578125,
+        352.16400146484375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        378.98248291015625,
+        147.36038208007812,
+        392.6512451171875
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "행",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        378.98248291015625,
+        147.36038208007812,
+        392.6512451171875
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "일",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        378.98248291015625,
+        147.36038208007812,
+        392.6512451171875
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "발",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        405.0224914550781,
+        147.36038208007812,
+        418.6912536621094
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "행",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        405.0224914550781,
+        147.36038208007812,
+        418.6912536621094
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "인",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        405.0224914550781,
+        147.36038208007812,
+        418.6912536621094
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편 집 위 원 장",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        430.9424743652344,
+        147.36038208007812,
+        444.6112365722656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "편 집 위 원",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        456.98248291015625,
+        147.36000061035156,
+        470.6512451171875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "발 행 부 서",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.04000091552734,
+        483.0224914550781,
+        147.359619140625,
+        496.6912536621094
+      ],
+      "page_num": 10,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2022년 5월",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        170.0399932861328,
+        375.1199951171875,
+        247.92051696777344,
+        390.6590270996094
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처 차장 김진석",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        170.0399932861328,
+        402.98248291015625,
+        364.9205322265625,
+        416.6512451171875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "허가총괄담당관 이수정",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        170.0399932861328,
+        429.0224914550781,
+        300.35986328125,
+        442.6912536621094
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처 허가총괄담당관",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        170.0399932861328,
+        454.9424743652344,
+        362.1596374511719,
+        468.6112365722656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처 허가총괄담당관",
+      "font_size": 12.960000038146973,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        170.0399932861328,
+        480.98248291015625,
+        362.1596374511719,
+        494.6512451171875
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    }
+  ],
+  "markdown_content": "- - 1 -\n<!-- PAGE_1 -->\n# 약국제제 및 의료기관 조제실제제\n\n<!-- PAGE_1 -->\n# 범위 검토 요청 시 제출자료 예시\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2022. 5.\n지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까?**\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까?**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까? | □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까?**\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. | 허가총괄담당관 이수정 |\n**제제를 말한다.**\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다.**\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까? (공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까? (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까?**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다. |\n**상기 사항에 대하여 확인하였음.**\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다.**\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. 그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n<!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다. 또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n<!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1. 개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2. 관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3. 정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4. 제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1. 자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2. 검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1. 개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n- 2. 관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3. 정의\n- 3.1. ‘약국제제’는 약국에서 제조하는 제제를 말한다.\n- 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n- 4. 제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n- - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n- 1. 대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가. 약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나. 조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2. 대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n<의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다. 다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n- 1. 국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2. 식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1. 자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2. 검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n- - 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도\n양식 없이 해당여부만을 회신\n\n- - 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)\n제3조에 해당하는 경우 다음의 예시에 따라 회신\n\n- ① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부\n- ② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부\n- ③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제\n- ④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부\n- ⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를\n- ⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분\n- - 5 -\n<!-- PAGE_10 -->\n#### 발\n\n<!-- PAGE_10 -->\n#### 행\n\n<!-- PAGE_10 -->\n#### 일\n\n**[표 시작]**\n\n| 발 | 행 | 인 |\n| --- | --- | --- |\n**편 집 위 원 장**\n**편 집 위 원**\n\n**[표 끝]**\n\n<!-- PAGE_10 -->\n#### 발 행 부 서\n",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "- - 1 -\n<!-- PAGE_1 -->\n# 약국제제 및 의료기관 조제실제제\n\n<!-- PAGE_1 -->\n# 범위 검토 요청 시 제출자료 예시\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2022. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 120,
+        "word_count": 30,
+        "page_number": 1,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 약국제제 및 의료기관 조제실제제\n\n<!-- PAGE_1 -->\n# 범위 검토 요청 시 제출자료 예시\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2022.  5.\n 지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까?",
+        "original_sentence": "- - 1 -\n<!-- PAGE_1 -->\n# 약국제제 및 의료기관 조제실제제\n\n<!-- PAGE_1 -->\n# 범위 검토 요청 시 제출자료 예시\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2022. "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "5.\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 3,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 약국제제 및 의료기관 조제실제제\n\n<!-- PAGE_1 -->\n# 범위 검토 요청 시 제출자료 예시\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2022.  5.\n 지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까? **\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까?",
+        "original_sentence": "5.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 88,
+        "word_count": 20,
+        "page_number": 1,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 약국제제 및 의료기관 조제실제제\n\n<!-- PAGE_1 -->\n# 범위 검토 요청 시 제출자료 예시\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2022.  5.\n 지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까? **\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까?",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 141,
+        "word_count": 34,
+        "page_number": 2,
+        "window_text": "- - 1 -\n<!-- PAGE_1 -->\n# 약국제제 및 의료기관 조제실제제\n\n<!-- PAGE_1 -->\n# 범위 검토 요청 시 제출자료 예시\n\n<!-- PAGE_1 -->\n# (민원인 안내서)\n\n- 2022.  5.\n 지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까? **\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까? ",
+        "original_sentence": "등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "**\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까?",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 310,
+        "word_count": 64,
+        "page_number": 2,
+        "window_text": "5.\n 지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까? **\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "**\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 36,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "지침·안내서 제‧개정 점검표\n\n명칭\n\n약국제제 및 의료기관 조제실제제 범위 검토 요청 시 제출자료 예시\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n 등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까? **\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까?",
+        "original_sentence": "**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "| □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까? ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 167,
+        "word_count": 44,
+        "page_number": 2,
+        "window_text": "등록대상\n\n**[표 시작]**\n\n| □ 이미 등록된 지침서ㆍ안내서 중 동일ㆍ유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n**지 아니하는 제제로서 식품의약품안전처장이 정하여 고시하는 제제**\n**지침서ㆍ안내서가 있습니까? **\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까? **\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": "| □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 138,
+        "word_count": 36,
+        "page_number": 2,
+        "window_text": "**\n| ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침서ㆍ안내서의 개정을 우선적 | <제출자료 작성 예시> |\n**처방(포장단위당)**\n| 용법·용량 | 효능·효과 | 포장 | 단위 | 배합 | 목적 | 원료약품 | 규격 | 주성분 | 함량 |\n**(사유 :                                                                 )**\n**<검토 회신 예시>**\n| □ 법령(법ㆍ시행령ㆍ시행규칙) 또는 행정규칙(고시ㆍ훈령ㆍ예규) | □ 예 | ■ 아니오 |\n**의 내용을 단순 편집 또는 나열한 것입니까? **\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까? **\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "| □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까?",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 198,
+        "word_count": 55,
+        "page_number": 2,
+        "window_text": "**\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까? **\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  | 허가총괄담당관 이수정 |\n**제제를 말한다.",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "**\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 83,
+        "word_count": 22,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 | 해당 유무 |\n**약국제제 및 의료기관 조제실 제제 범위 검토 요청 시 제출자료**\n**여부**\n**①고시 별표**\n**④항생물질**\n| 예시[민원인 안내서] | ⑤일반 | ⑥안전성유효성 | ⑦검토 결과 |\n| 해당 제제 | □ 일회성 지시ㆍ명령에 해당하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까? **\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  | 허가총괄담당관 이수정 |\n**제제를 말한다. **\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다.",
+        "original_sentence": "**\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n| ②기허가 | ③마약 | 생물학적제제 |\n| 의약품 | 문제성분 |\n**알기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대외적인 입장을**\n**성호르몬제제**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까? **\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  | 허가총괄담당관 이수정 |\n**제제를 말한다. **\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다. **\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "| 허가총괄담당관 이수정 |\n**제제를 말한다.",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 6,
+        "page_number": 6,
+        "window_text": "| □ 예 | ■ 아니오 |\n| ○/X | ○/X | ○/X | ○/X | ○/X | ○/X | 적합/부적합 | 2022년 5월 |\n**기술하는 것(식품의약품안전처 지침서등의 관리에 관한 규정 제2조)**\n| □ 신규 직원 교육을 위해 법령 또는 행정규칙을 알기 쉽게 | □ 예 | ■ 아니오 |\n**식품의약품안전처 차장 김진석**\n**정리한 자료입니까? **\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  | 허가총괄담당관 이수정 |\n**제제를 말한다. **\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다. **\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까? ",
+        "original_sentence": "| 허가총괄담당관 이수정 |\n**제제를 말한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "**\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다.",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 96,
+        "word_count": 21,
+        "page_number": 8,
+        "window_text": "**\n| [별표7] 제형별 의약품 첨가제 등 참고 | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침서ㆍ안내서 등록 대상이 아닙니다.  | 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  | 허가총괄담당관 이수정 |\n**제제를 말한다. **\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다. **\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까?",
+        "original_sentence": "**\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "**\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 54,
+        "word_count": 11,
+        "page_number": 2,
+        "window_text": "| 지침서ㆍ안내서 제ㆍ개정 절차를 적용하실 필요는 없습니다.  | 허가총괄담당관 이수정 |\n**제제를 말한다. **\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다. **\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까? **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다. ",
+        "original_sentence": "**\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "(공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까? ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 173,
+        "word_count": 38,
+        "page_number": 3,
+        "window_text": "| 허가총괄담당관 이수정 |\n**제제를 말한다. **\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다. **\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까? **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음.",
+        "original_sentence": "(공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까?",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 125,
+        "word_count": 31,
+        "page_number": 2,
+        "window_text": "**\n**식품의약품안전처 허가총괄담당관**\n| □ 행정사무의 통일을 기하기 위하여 내부적으로 행정사무의 세부 | □ 예(☞지침서) | ■ 아니오 |\n**문의하시기 바랍니다. **\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까? **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다.",
+        "original_sentence": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 94,
+        "word_count": 22,
+        "page_number": 2,
+        "window_text": "**\n**식품의약품안전처 허가총괄담당관**\n| 인지 여부 | 기준이나 절차를 제시하는 것입니까?  (공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까? **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다. **\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. ",
+        "original_sentence": "**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "|\n**상기 사항에 대하여 확인하였음.",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 21,
+        "word_count": 5,
+        "page_number": 2,
+        "window_text": "(공무원용) |\n**전화번호: 043-719-2339**\n**□ 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을 알**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n**팩스번호: 043-719-2300**\n| 기 쉽게 설명하거나 특정 민원업무에 대한 행정기관의 대 | 외적인 입장을 기술하는 것입니까?  (민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까? **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다. **\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+        "original_sentence": "|\n**상기 사항에 대하여 확인하였음."
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "**\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다.",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 174,
+        "word_count": 40,
+        "page_number": 7,
+        "window_text": "(민원인용) |\n| □ 상위 법령을 일탈하여 새로운 규제를 신설ㆍ강화하거나 | □ 예 | ■ 아니오 |\n**위하여 사용되는 제제 및 한약제제는 예외로 한다)에 해당하는 제제인지 여부**\n**민원인을 구속하는 내용이 있습니까? **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다. **\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "**\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다."
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "**\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 21,
+        "page_number": 2,
+        "window_text": "**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침서ㆍ**\n| 인지 여부 | 안내서 제ㆍ개정 절차를 진행하시기 바랍니다.  |\n**상기 사항에 대하여 확인하였음. **\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다. **\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다. ",
+        "original_sentence": "**\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 58,
+        "word_count": 13,
+        "page_number": 4,
+        "window_text": "|\n**상기 사항에 대하여 확인하였음. **\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다. **\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n",
+        "original_sentence": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 136,
+        "word_count": 31,
+        "page_number": 3,
+        "window_text": "**\n**안전처장의 확인을 받아야 한다)으로서 마약 또는 향정신성의약품 함유제제, 항생**\n**⇨ ① ~ ⑥의 내용 모두 ‘X’인 경우 적합**\n**물질제제, 생물학적제제 및 성호르몬제제가 아닌 것**\n**2022  년   5  월   10  일**\n**제54조 등에 따른 범위에 해당 여부 등을 검토하고 있다. **\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n",
+        "original_sentence": "지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "<!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 118,
+        "word_count": 24,
+        "page_number": 3,
+        "window_text": "**\n**하다고 인정하여 별표에서 정하는 의약품**\n| 담당자 | 확  인(부서장) | 김 남 윤 |\n\n**[표 끝]**\n\n으로 고려하시기 바랍니다.  그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n 제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1. ",
+        "original_sentence": "<!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 176,
+        "word_count": 41,
+        "page_number": 3,
+        "window_text": "그럼에도 불구하고 동 지침서ㆍ안내서의 제정이\n\n필요한 경우 그 사유를 아래에 기재해 주시기 바랍니다.\n\n 지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n 제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1.  개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2. ",
+        "original_sentence": "또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "<!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 186,
+        "word_count": 37,
+        "page_number": 3,
+        "window_text": "지침·안내서\n\n기타 확인\n\n이 수 정\n\n<!-- PAGE_3 -->\n### 본 안내서는 약국제제 또는 의료기관 조제실제제 범위 검토 시 제출\n\n<!-- PAGE_3 -->\n### 자료에 대한 예시를 식품의약품안전처의 입장을 기술한 것입니다.\n\n <!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n 제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1.  개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2.  관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3. ",
+        "original_sentence": "<!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 35,
+        "word_count": 8,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_3 -->\n### 또한 이 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의\n\n<!-- PAGE_3 -->\n### 기술방식(‘∼한다’ 등)에도 불구하고 참고로만 활용하시기 바랍니다.  또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n 제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1.  개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2.  관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3.  정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4. ",
+        "original_sentence": "제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 138,
+        "word_count": 8,
+        "page_number": 5,
+        "window_text": "또한,\n\n<!-- PAGE_3 -->\n### 본 안내서는 2022년 5월 현재의 과학적ㆍ기술적 사실 및 유효한 법규를\n\n<!-- PAGE_3 -->\n### 토대로 작성되었으므로 이후 최신 개정 법규 내용 및 구체적인 사실\n\n<!-- PAGE_3 -->\n### 관계 등에 따라 달리 적용될 수 있음을 알려드립니다.\n\n <!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n 제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1.  개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2.  관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3.  정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4.  제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1. ",
+        "original_sentence": "개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 130,
+        "word_count": 9,
+        "page_number": 5,
+        "window_text": "<!-- PAGE_3 -->\n#### ※ “민원인 안내서”란 민원인들의 이해를 돕기 위하여 법령 또는 행정규칙을\n\n<!-- PAGE_3 -->\n#### ※ 본 지침서에 대한 의견이나 문의사항이 있을 경우 허가총괄담당관에\n\n제·개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\n안내서-1199-01\n\n- 2022.5.10.\n 제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1.  개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2.  관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3.  정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4.  제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1.  자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2. ",
+        "original_sentence": "관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 138,
+        "word_count": 8,
+        "page_number": 5,
+        "window_text": "제정\n\n목    차\n\n<!-- PAGE_5 -->\n### 1.  개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2.  관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3.  정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4.  제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1.  자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2.  검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1. ",
+        "original_sentence": "정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 113,
+        "word_count": 10,
+        "page_number": 5,
+        "window_text": "개요 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 2.  관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3.  정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4.  제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1.  자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2.  검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1.  개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n",
+        "original_sentence": "제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 117,
+        "word_count": 10,
+        "page_number": 5,
+        "window_text": "관련 규정 ································································································  1\n\n<!-- PAGE_5 -->\n### 3.  정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4.  제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1.  자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2.  검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1.  개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n - 2. ",
+        "original_sentence": "자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 104,
+        "word_count": 12,
+        "page_number": 5,
+        "window_text": "정의 ···········································································································  1\n\n<!-- PAGE_5 -->\n### 4.  제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1.  자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2.  검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1.  개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n - 2.  관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3. ",
+        "original_sentence": "검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 97,
+        "word_count": 22,
+        "page_number": 1,
+        "window_text": "제출자료 및 검토예시 ········································································  1\n\n<!-- PAGE_5 -->\n## 4.1.  자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2.  검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1.  개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n - 2.  관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3.  정의\n- 3.1. ",
+        "original_sentence": "개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "- 2. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 8,
+        "window_text": "자료 작성 예시 ··············································································  3\n\n<!-- PAGE_5 -->\n### 4.2.  검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1.  개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n - 2.  관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3.  정의\n- 3.1.  ‘약국제제’는 약국에서 제조하는 제제를 말한다.\n",
+        "original_sentence": "- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 122,
+        "word_count": 18,
+        "page_number": 4,
+        "window_text": "검토 및 회신 예시 ···········································································  4\n\n- - 1 -\n- 1.  개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n - 2.  관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3.  정의\n- 3.1.  ‘약국제제’는 약국에서 제조하는 제제를 말한다.\n - 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n",
+        "original_sentence": "관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "정의\n- 3.1. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 10,
+        "word_count": 3,
+        "page_number": 4,
+        "window_text": "개요\n민원인이 식품의약품안전처에 약국제제 및 의료기관 조제실제제 범위 검토를 요청함에\n\n있어 제출자료 예시를 설명함으로써 민원인이 관련 업무 수행 시 도움이 되고자 한다.\n\n - 2.  관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3.  정의\n- 3.1.  ‘약국제제’는 약국에서 제조하는 제제를 말한다.\n - 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n - 4. ",
+        "original_sentence": "정의\n- 3.1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "‘약국제제’는 약국에서 제조하는 제제를 말한다.\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 27,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "- 2.  관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3.  정의\n- 3.1.  ‘약국제제’는 약국에서 제조하는 제제를 말한다.\n - 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n - 4.  제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n",
+        "original_sentence": "‘약국제제’는 약국에서 제조하는 제제를 말한다.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "- 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 136,
+        "word_count": 27,
+        "page_number": 6,
+        "window_text": "관련 규정\n∙「약사법」(법률) 제41조\n\n∙「의약품 등의 안전에 관한 규칙」(총리령) 제54조\n\n∙「약국제제지정」(식품의약품안전처고시) 제2조\n\n∙「의료기관 조제실제제 관리기준」(식품의약품안전처고시) 제3조\n\n- 3.  정의\n- 3.1.  ‘약국제제’는 약국에서 제조하는 제제를 말한다.\n - 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n - 4.  제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n - - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n",
+        "original_sentence": "- 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "- 4. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "정의\n- 3.1.  ‘약국제제’는 약국에서 제조하는 제제를 말한다.\n - 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n - 4.  제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n - - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n - 1. ",
+        "original_sentence": "- 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 137,
+        "word_count": 35,
+        "page_number": 8,
+        "window_text": "‘약국제제’는 약국에서 제조하는 제제를 말한다.\n - 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n - 4.  제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n - - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n - 1.  대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가. ",
+        "original_sentence": "제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "- - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 103,
+        "word_count": 25,
+        "page_number": 6,
+        "window_text": "- 3.2 ‘의료기관 조제실제제’는 보건복지부장관이 지정한 의료기관의 조제실에서 제조하는\n- 3.3 민원인\n약국제제 및 의료기관 조제실제제를 제조하려는 자로서 우리 처(허가총괄담당관)에\n\n제조하려는 제제의 범위 검토를 신청하는 자를 말한다.\n\n - 4.  제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n - - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n - 1.  대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가.  약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나. ",
+        "original_sentence": "- - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "- 1. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 4,
+        "window_text": "- 4.  제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n - - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n - 1.  대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가.  약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나.  조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2. ",
+        "original_sentence": "- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 48,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "제출자료 및 검토 예시\n- • 약국제제 및 조제실제제를 제조하려는 자가 해당 약국 또는 조제실에서 제조하고자\n하는 제제에 관한 정보를 우리 처(허가총괄담당관)에 제출하면 ｢\n\n의약품 등의 안전에\n\n관한 규칙｣\n\n- - 관련 규정은 다음과 같다.\n - - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n - 1.  대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가.  약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나.  조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2.  대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n",
+        "original_sentence": "대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 122,
+        "word_count": 26,
+        "page_number": 4,
+        "window_text": "- - 2 -\n<의약품 등의 안전에 관한 규칙(총리령)>\n\n제54조(약국제제 및 조제실제제의 범위) 법 제41조제3항에 따른 약국제제 및 조제\n\n실제제의 범위는 다음 각 호와 같다.\n\n - 1.  대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가.  약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나.  조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2.  대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n <의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다. ",
+        "original_sentence": "약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 56,
+        "word_count": 13,
+        "page_number": 4,
+        "window_text": "- 1.  대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가.  약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나.  조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2.  대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n <의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다.  다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n",
+        "original_sentence": "조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 110,
+        "word_count": 17,
+        "page_number": 7,
+        "window_text": "대한민국약전에 실려 있는 의약품 중 다음 각 목의 구분에 따른 제제에 해당하\n- 가.  약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나.  조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2.  대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n <의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다.  다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n - 1. ",
+        "original_sentence": "대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "<의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 139,
+        "word_count": 29,
+        "page_number": 7,
+        "window_text": "약국제제\n1) 마약 또는 향정신성의약품을 함유하는 제제\n\n2) 항생물질제제, 생물학적 제제 및 성호르몬제제\n\n3) 국내에서 생산되거나 수입되는 제제\n\n4) 주사제ㆍ정제ㆍ환제\n\n5) 전문의약품에 해당하는 제제\n\n- 나.  조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2.  대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n <의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다.  다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n - 1.  국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2. ",
+        "original_sentence": "<의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_048",
+      "text": "다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 47,
+        "window_size": 3,
+        "char_count": 150,
+        "word_count": 29,
+        "page_number": 8,
+        "window_text": "조제실제제\n1) 가목 1)부터 3)까지에 해당하는 제제\n\n2) 일반의약품에 해당하는 제제\n\n- 2.  대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n <의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다.  다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n - 1.  국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2.  식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1. ",
+        "original_sentence": "다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_049",
+      "text": "- 1. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 48,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 4,
+        "window_text": "대한민국약전에 실려 있지 아니한 의약품 중에서 식품의약품안전처장이 정하여\n고시하는 제제\n\n<약국제제지정(식품의약품안전처고시)>\n\n제2조(약국제제의 지정) 약국제제의 지정은[별표1]과 같이 한다.\n\n <의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다.  다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n - 1.  국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2.  식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1.  자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n",
+        "original_sentence": "- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_050",
+      "text": "국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 49,
+        "window_size": 3,
+        "char_count": 47,
+        "word_count": 10,
+        "page_number": 8,
+        "window_text": "<의료기관 조제실제제 관리기준(식품의약품안전처고시)>\n\n제3조(조제실제제의 범위지정) 의료기관에서 조제실제제로 제조할 수 있는 의약품\n\n은 「의약품 등의 안전에 관한 규칙」 제54조의 규정에 의한 것과 다음 각 호의 1\n\n에 해당하는 것으로 한다.  다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n - 1.  국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2.  식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1.  자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n 연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2. ",
+        "original_sentence": "국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_051",
+      "text": "식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 50,
+        "window_size": 3,
+        "char_count": 54,
+        "word_count": 13,
+        "page_number": 8,
+        "window_text": "다만, 「의약품의 품목허가·신고·심사 규정」(식품의약품\n\n안전처 고시)에 의한 \"안전성·유효성 문제성분 함유 제제\"와 일반의약품(다만, 검사·\n\n수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를 위하여 사용되는 제제\n\n및 한약제제는 예외로 한다)은 제외한다.\n\n - 1.  국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2.  식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1.  자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n 연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2.  검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n",
+        "original_sentence": "식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_052",
+      "text": "자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 51,
+        "window_size": 3,
+        "char_count": 113,
+        "word_count": 25,
+        "page_number": 10,
+        "window_text": "- 1.  국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2.  식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1.  자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n 연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2.  검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n - - 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도\n양식 없이 해당여부만을 회신\n\n- - 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)\n제3조에 해당하는 경우 다음의 예시에 따라 회신\n\n- ① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부\n- ② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부\n- ③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제\n- ④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부\n- ⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를\n- ⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분\n- - 5 -\n<!-- PAGE_10 -->\n#### 발\n\n<!-- PAGE_10 -->\n#### 행\n\n<!-- PAGE_10 -->\n#### 일\n\n**[표 시작]**\n\n| 발 | 행 | 인 |\n| --- | --- | --- |\n**편 집 위 원 장**\n**편 집 위 원**\n\n**[표 끝]**\n\n<!-- PAGE_10 -->\n#### 발 행 부 서\n",
+        "original_sentence": "자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_053",
+      "text": "연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2. ",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 52,
+        "window_size": 3,
+        "char_count": 613,
+        "word_count": 146,
+        "page_number": 4,
+        "window_text": "국내제조품목 허가가 없거나 생산공급되지 아니하는 의약품(이 경우 식품의약품\n- 2.  식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1.  자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n 연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2.  검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n - - 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도\n양식 없이 해당여부만을 회신\n\n- - 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)\n제3조에 해당하는 경우 다음의 예시에 따라 회신\n\n- ① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부\n- ② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부\n- ③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제\n- ④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부\n- ⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를\n- ⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분\n- - 5 -\n<!-- PAGE_10 -->\n#### 발\n\n<!-- PAGE_10 -->\n#### 행\n\n<!-- PAGE_10 -->\n#### 일\n\n**[표 시작]**\n\n| 발 | 행 | 인 |\n| --- | --- | --- |\n**편 집 위 원 장**\n**편 집 위 원**\n\n**[표 끝]**\n\n<!-- PAGE_10 -->\n#### 발 행 부 서\n",
+        "original_sentence": "연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_054",
+      "text": "검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 53,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 19,
+        "page_number": 8,
+        "window_text": "식품의약품안전처장이 의료기관의 내원환자를 위해 치료의약품 수급상 필요\n- - 3 -\n- 4.1.  자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n 연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2.  검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n - - 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도\n양식 없이 해당여부만을 회신\n\n- - 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)\n제3조에 해당하는 경우 다음의 예시에 따라 회신\n\n- ① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부\n- ② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부\n- ③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제\n- ④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부\n- ⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를\n- ⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분\n- - 5 -\n<!-- PAGE_10 -->\n#### 발\n\n<!-- PAGE_10 -->\n#### 행\n\n<!-- PAGE_10 -->\n#### 일\n\n**[표 시작]**\n\n| 발 | 행 | 인 |\n| --- | --- | --- |\n**편 집 위 원 장**\n**편 집 위 원**\n\n**[표 끝]**\n\n<!-- PAGE_10 -->\n#### 발 행 부 서\n",
+        "original_sentence": "검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_055",
+      "text": "- - 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도\n양식 없이 해당여부만을 회신\n\n- - 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)\n제3조에 해당하는 경우 다음의 예시에 따라 회신\n\n- ① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부\n- ② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부\n- ③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제\n- ④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부\n- ⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를\n- ⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분\n- - 5 -\n<!-- PAGE_10 -->\n#### 발\n\n<!-- PAGE_10 -->\n#### 행\n\n<!-- PAGE_10 -->\n#### 일\n\n**[표 시작]**\n\n| 발 | 행 | 인 |\n| --- | --- | --- |\n**편 집 위 원 장**\n**편 집 위 원**\n\n**[표 끝]**\n\n<!-- PAGE_10 -->\n#### 발 행 부 서\n",
+      "metadata": {
+        "source": "약국제제+및+의료기관+조제실제제+범위+검토+시+제출자료+예시(민원인안내서).pdf",
+        "chunk_index": 54,
+        "window_size": 3,
+        "char_count": 603,
+        "word_count": 143,
+        "page_number": 10,
+        "window_text": "자료 작성 예시\n- • 약국제제 또는 조제실제제의 범위를 확인하기 위하여 필요한 정보는 해당 제제의\n제제명, 포장단위당 처방(배합목적, 원료약품, 규격, 함량 등), 용법·용량, 효능·효과\n\n등이다.\n\n 연번\n\n제제명\n\n1\n\n2\n\n3\n\n- ① 제제명 : 약국제제 또는 의료기관 조제실제제(이하 ‘제제’)의 명칭\n- ② 배합목적 : 주성분(유효성분)과 부형제 등 성분의 배합목적\n*\n\n관련\n\n용어는\n\n「의약품의\n\n품목허가·신고·심사\n\n규정」제12조(원료약품\n\n및\n\n그\n\n분량)\n\n및\n\n- ③ 원료약품 : 제제의 제조에 사용하는 원료약품의 명칭\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 제품명을 정확히 기재\n\n- ④ 규격 : 해당 원료약품의 규격(공정서명, 별규 등)\n* 원료약품으로 기 허가된 의약품을 사용하는 경우 허가된 “기준 및 시험방법”에 따라 기재\n\n- ⑤ 주성분 : 해당 원료약품의 주성분 명칭\n- ⑥ 함량 : 제제의 포장단위당 분량(mL, mg 등)\n- ⑦ 용법·용량 : 제조하고자 하는 제제의 용법·용량\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제16조(용법·용량) 참고\n\n- ⑧ 효능·효과 : 제조하고자 하는 제제의 효능·효과\n* 작성요령은 「의약품의 품목허가·신고·심사 규정」제15조(효능·효과) 참고\n\n- ⑨ 포장단위 : 제제의 포장단위\n* 주사제·액제의 경우 1포장단위 당 용량(mL), 정제의 경우 1포장단위 당 정 수 등을 기재\n\n- - 4 -\n- 4.2.  검토 및 회신 예시\n- • 식품의약품안전처(허가총괄담당관)은 약국제제 또는 의료기관 조제실제제의 범위\n확인 후 회신하며, 회신 예시는 다음과 같다.\n\n - - 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도\n양식 없이 해당여부만을 회신\n\n- - 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)\n제3조에 해당하는 경우 다음의 예시에 따라 회신\n\n- ① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부\n- ② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부\n- ③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제\n- ④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부\n- ⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를\n- ⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분\n- - 5 -\n<!-- PAGE_10 -->\n#### 발\n\n<!-- PAGE_10 -->\n#### 행\n\n<!-- PAGE_10 -->\n#### 일\n\n**[표 시작]**\n\n| 발 | 행 | 인 |\n| --- | --- | --- |\n**편 집 위 원 장**\n**편 집 위 원**\n\n**[표 끝]**\n\n<!-- PAGE_10 -->\n#### 발 행 부 서\n",
+        "original_sentence": "- - 약국제제 또는 의료기관 조제실제제가 관련 규정의 [별표]에 해당하는 경우에는 별도\n양식 없이 해당여부만을 회신\n\n- - 의료기관 조제실제제가 「의료기관 조제실제제 관리기준」(식품의약품안전처고시)\n제3조에 해당하는 경우 다음의 예시에 따라 회신\n\n- ① 「의료기관 조제실제제 관리기준」[별표] 에 해당하는 제제인지 여부\n- ② 국내 제조판매·수입 품목허가가 없거나 생산·공급되지 아니하는 의약품인지 여부\n- ③ 「마약류 관리에 관한 법률」에 따른 마약 또는 향정신성의약품을 함유하는 제제\n- ④ 항생물질제제, 생물학적 제제 및 성호르몬제제인지 여부\n- ⑤ 일반의약품(다만, 검사·수술 및 처치에 사용되는 제제와 응급환자 또는 입원환자를\n- ⑥ 안전성·유효성 문제성분 함유제제 공고(식품의약품안전처 공고)에 해당하는 성분\n- - 5 -\n<!-- PAGE_10 -->\n#### 발\n\n<!-- PAGE_10 -->\n#### 행\n\n<!-- PAGE_10 -->\n#### 일\n\n**[표 시작]**\n\n| 발 | 행 | 인 |\n| --- | --- | --- |\n**편 집 위 원 장**\n**편 집 위 원**\n\n**[표 끝]**\n\n<!-- PAGE_10 -->\n#### 발 행 부 서\n"
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 55,
+    "avg_chunk_length": 116.45454545454545,
+    "min_chunk_length": 3,
+    "max_chunk_length": 613,
+    "total_characters": 6405,
+    "total_words": 1355,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 250,
+    "heading_count": 22,
+    "paragraph_count": 75,
+    "list_item_count": 44,
+    "table_cell_count": 109,
+    "tables_detected": 3,
+    "chunks_generated": 55
+  }
+}

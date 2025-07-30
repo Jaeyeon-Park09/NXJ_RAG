@@ -1,0 +1,5334 @@
+{
+  "file_name": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+  "total_pages": 10,
+  "pdf_type": "normal",
+  "font_analysis": {
+    "font_sizes_frequency": {
+      "24.0": 3,
+      "21.959999084472656": 2,
+      "9.960000038146973": 6,
+      "17.03999900817871": 2,
+      "11.039999961853027": 57,
+      "14.039999961853027": 135,
+      "12.960000038146973": 7,
+      "12.0": 14,
+      "18.0": 3,
+      "15.0": 3,
+      "14.644218444824219": 3
+    },
+    "heading_sizes": [
+      24.0,
+      21.959999084472656,
+      18.0,
+      17.03999900817871,
+      15.0,
+      14.644218444824219
+    ]
+  },
+  "table_analysis": {
+    "total_tables": 2,
+    "tables_info": [
+      {
+        "bbox": [
+          72.23999786376953,
+          180.2242889404297,
+          535.8406982421875,
+          759.748291015625
+        ],
+        "num_rows": 7,
+        "num_cols": 2
+      },
+      {
+        "bbox": [
+          95.5199966430664,
+          68.75999450683594,
+          399.9619140625,
+          514.0079956054688
+        ],
+        "num_rows": 3,
+        "num_cols": 2
+      }
+    ]
+  },
+  "text_blocks": [
+    {
+      "text": "임상시험 및 대상자보호프로그램(HRPP)",
+      "font_size": 24.0,
+      "font_name": "T2",
+      "bbox": [
+        76.31999969482422,
+        236.75997924804688,
+        518.8079833984375,
+        265.5359802246094
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "운영 가이드라인 (민원인 안내서)",
+      "font_size": 24.0,
+      "font_name": "T2",
+      "bbox": [
+        115.55999755859375,
+        279.9599914550781,
+        479.5679626464844,
+        308.7359924316406
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2014.  3.",
+      "font_size": 21.959999084472656,
+      "font_name": "H2hdrM",
+      "bbox": [
+        252.72000122070312,
+        443.98956298828125,
+        342.4878234863281,
+        465.9495544433594
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품안전국 임상제도과",
+      "font_size": 21.959999084472656,
+      "font_name": "H2hdrM",
+      "bbox": [
+        132.59999084472656,
+        695.7495727539062,
+        462.5999755859375,
+        717.7095336914062
+      ],
+      "page_num": 1,
+      "block_type": "heading",
+      "level": 2,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        294.7200012207031,
+        803.6103515625,
+        300.439208984375,
+        813.5703125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침·안내서 제‧개정 점검표",
+      "font_size": 17.03999900817871,
+      "font_name": "H2hdrM",
+      "bbox": [
+        186.36000061035156,
+        89.65289306640625,
+        410.2807312011719,
+        106.69288635253906
+      ],
+      "page_num": 2,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "명칭",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.0,
+        130.06430053710938,
+        516.2313232421875,
+        144.7483673095703
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        84.0,
+        130.06430053710938,
+        516.2313232421875,
+        144.7483673095703
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "아래에 해당하는 사항에 체크하여 주시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        167.87998962402344,
+        158.50428771972656,
+        429.2493591308594,
+        173.1883544921875
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "등록대상",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        72.23999786376953,
+        312.4642639160156,
+        116.2796630859375,
+        327.1483459472656
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "여부",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        330.1042785644531,
+        105.36000061035156,
+        344.7883605957031
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 이미 등록된 지침·안내서 중 동일·유사한 내용의",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        180.2242889404297,
+        395.6809387207031,
+        194.90835571289062
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서가 있습니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.3199920654297,
+        196.78428649902344,
+        278.2010192871094,
+        211.46835327148438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        180.8242950439453,
+        508.07965087890625,
+        210.8683624267578
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        180.8242950439453,
+        508.07965087890625,
+        210.8683624267578
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        221.9842987060547,
+        535.8405151367188,
+        236.66836547851562
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        238.42428588867188,
+        535.8408813476562,
+        253.1083526611328
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        254.9842987060547,
+        394.93499755859375,
+        269.6683654785156
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(사유 :                                                                 )",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        271.5442810058594,
+        526.9237670898438,
+        286.2283630371094
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        292.4242858886719,
+        436.3612365722656,
+        307.1083679199219
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용을 단순 편집 또는 나열한 것입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        151.3199920654297,
+        308.8642883300781,
+        355.60101318359375,
+        323.5483703613281
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        292.9042663574219,
+        508.07965087890625,
+        323.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        292.9042663574219,
+        508.07965087890625,
+        323.068359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        322.7842712402344,
+        508.07965087890625,
+        352.828369140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        322.7842712402344,
+        508.07965087890625,
+        352.828369140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        322.7842712402344,
+        508.07965087890625,
+        352.828369140625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        351.94427490234375,
+        443.3209228515625,
+        366.62835693359375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        367.30426025390625,
+        210.75796508789062,
+        381.98834228515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        351.94427490234375,
+        508.07965087890625,
+        381.98834228515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        351.94427490234375,
+        508.07965087890625,
+        381.98834228515625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 외국 규정을 번역하거나 설명하는 내용입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        381.2242736816406,
+        508.07965087890625,
+        411.26837158203125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        381.2242736816406,
+        508.07965087890625,
+        411.26837158203125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        381.2242736816406,
+        508.07965087890625,
+        411.26837158203125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 정보제공 등 직원 교육용 자료입니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        410.38427734375,
+        508.07965087890625,
+        440.4283447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        410.38427734375,
+        508.07965087890625,
+        440.4283447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        410.38427734375,
+        508.07965087890625,
+        440.4283447265625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        444.82427978515625,
+        530.5613403320312,
+        475.9483642578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        444.82427978515625,
+        530.5613403320312,
+        475.9483642578125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "지침·안내서",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        65.5199966430664,
+        510.9442443847656,
+        126.88090515136719,
+        525.6282958984375
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "구분",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        528.4642944335938,
+        105.36000061035156,
+        543.1483154296875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        485.5042724609375,
+        448.3198547363281,
+        500.1883544921875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        500.8642883300781,
+        433.083740234375,
+        515.54833984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예(☞지침)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        485.5042724609375,
+        529.720703125,
+        515.54833984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        485.5042724609375,
+        529.720703125,
+        515.54833984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        524.0242919921875,
+        452.2003173828125,
+        538.7083129882812
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        539.38427734375,
+        452.2013854980469,
+        569.54833984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식약처의 입장을 기술하는 것입니까? (민원인용)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        539.38427734375,
+        452.2013854980469,
+        569.54833984375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 예(☞안내서)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        531.7042846679688,
+        535.8406982421875,
+        561.8683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        531.7042846679688,
+        535.8406982421875,
+        561.8683471679688
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "기타 확인",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        69.47999572753906,
+        597.8242797851562,
+        119.04000091552734,
+        612.50830078125
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        83.27999877929688,
+        615.4642944335938,
+        105.36000061035156,
+        630.1483154296875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        579.4642944335938,
+        426.2806091308594,
+        594.1483154296875
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "민원인을 구속하는 내용이 있습니까?",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.72000122070312,
+        594.8242797851562,
+        337.23797607421875,
+        609.50830078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "□ 예",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        579.4642944335938,
+        508.07965087890625,
+        609.50830078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "■ 아니오",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        458.6399841308594,
+        579.4642944335938,
+        508.07965087890625,
+        609.50830078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        134.16000366210938,
+        619.5443115234375,
+        531.9749755859375,
+        634.2283325195312
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서 제·개정 절차를 진행하시기 바랍니다.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        150.59999084472656,
+        635.9843139648438,
+        375.375,
+        650.6683349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "상기 사항에 대하여 확인하였음.",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        216.1199951171875,
+        659.6243286132812,
+        381.9693603515625,
+        674.308349609375
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "2017년    5 월   31 일",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        217.3199920654297,
+        695.38427734375,
+        369.3599853515625,
+        710.0682983398438
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "담당자",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.6000061035156,
+        730.664306640625,
+        405.4713134765625,
+        759.748291015625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "확  인(부서장)",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        330.6000061035156,
+        730.664306640625,
+        405.4713134765625,
+        759.748291015625
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "조 정 은",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        480.239990234375,
+        729.1043090820312,
+        524.2799682617188,
+        743.788330078125
+      ],
+      "page_num": 2,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "이 남 희",
+      "font_size": 11.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        480.239990234375,
+        746.624267578125,
+        524.2799682617188,
+        761.3082885742188
+      ],
+      "page_num": 2,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        71.83915710449219,
+        532.5769653320312,
+        90.5134506225586
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        94.1591567993164,
+        457.9356384277344,
+        112.83345031738281
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        116.59915161132812,
+        527.7599487304688,
+        135.27345275878906
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        139.03915405273438,
+        527.7604370117188,
+        157.7134552001953
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2014년 3월",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        161.35916137695312,
+        532.5765380859375,
+        180.03346252441406
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        183.79916381835938,
+        532.6959228515625,
+        202.4734649658203
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        206.23915100097656,
+        532.6968383789062,
+        224.9134521484375
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "수 있음을 알려드립니다.",
+      "font_size": 14.039999961853027,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        228.5591583251953,
+        223.33563232421875,
+        247.23345947265625
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        67.43999481201172,
+        273.65460205078125,
+        527.6400146484375,
+        290.89239501953125
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        91.55999755859375,
+        290.5746154785156,
+        532.1967163085938,
+        324.732421875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "식품의약품안전처의 입장을 기술하는 것",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        91.55999755859375,
+        290.5746154785156,
+        532.1967163085938,
+        324.732421875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        65.76000213623047,
+        355.974609375,
+        543.1178588867188,
+        373.21240234375
+      ],
+      "page_num": 3,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상제도과에 문의하시기 바랍니다.",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        83.75999450683594,
+        376.734619140625,
+        275.9549865722656,
+        393.972412109375
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "전화번호: 043-719-1864",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.79999542236328,
+        397.6146240234375,
+        232.25650024414062,
+        414.8524169921875
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "팩스번호: 043-719-1850",
+      "font_size": 12.960000038146973,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        85.79999542236328,
+        418.3746032714844,
+        232.25650024414062,
+        435.6123962402344
+      ],
+      "page_num": 3,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제․개정 이력",
+      "font_size": 17.03999900817871,
+      "font_name": "H2gtrE",
+      "bbox": [
+        249.36000061035156,
+        82.8128890991211,
+        345.8399963378906,
+        99.8528823852539
+      ],
+      "page_num": 4,
+      "block_type": "heading",
+      "level": 4,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "연번",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        138.61944580078125,
+        440.1600036621094,
+        154.58038330078125
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제·개정번호",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        138.61944580078125,
+        440.1600036621094,
+        154.58038330078125
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "승인일자",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        138.61944580078125,
+        440.1600036621094,
+        154.58038330078125
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "주요내용",
+      "font_size": 12.0,
+      "font_name": "MalgunGothicBold",
+      "bbox": [
+        71.4000015258789,
+        138.61944580078125,
+        440.1600036621094,
+        154.58038330078125
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        169.939453125,
+        431.1600036621094,
+        185.900390625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "B1-2014-2-001",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        169.939453125,
+        431.1600036621094,
+        185.900390625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2014. 3.31",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        169.939453125,
+        431.1600036621094,
+        185.900390625
+      ],
+      "page_num": 4,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "제 정",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        169.939453125,
+        431.1600036621094,
+        185.900390625
+      ],
+      "page_num": 4,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        214.69944763183594,
+        257.8800048828125,
+        230.66038513183594
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "안내서-0053-01",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        214.69944763183594,
+        257.8800048828125,
+        230.66038513183594
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "ㅡ",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        80.15999603271484,
+        214.69944763183594,
+        257.8800048828125,
+        230.66038513183594
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "「식약처 지침서등의 관리에 관한",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        325.79998779296875,
+        195.49945068359375,
+        510.8587341308594,
+        211.46038818359375
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "규정」에 따른 등록 번호 일괄 정비",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        319.79998779296875,
+        214.69944763183594,
+        512.6400146484375,
+        230.66038513183594
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "(규제개혁담당관실-3761호, 2017.05.16.)",
+      "font_size": 12.0,
+      "font_name": "MalgunGothic",
+      "bbox": [
+        308.1600036621094,
+        233.89944458007812,
+        524.2162475585938,
+        249.86038208007812
+      ],
+      "page_num": 4,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "Ⅰ. 총 칙 ········································································ 1",
+      "font_size": 18.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        72.83999633789062,
+        167.51998901367188,
+        511.3141174316406,
+        189.1199951171875
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 3,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Ⅱ. 대상자보호프로그램의 운영 ·································· 2",
+      "font_size": 18.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        72.83999633789062,
+        242.51998901367188,
+        519.8347778320312,
+        264.1199951171875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "Ⅲ. 대상자보호프그램의 기본 업무 ···························· 3",
+      "font_size": 18.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        72.83999633789062,
+        317.5199890136719,
+        519.8347778320312,
+        339.1199951171875
+      ],
+      "page_num": 5,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "목  차",
+      "font_size": 24.0,
+      "font_name": "H2hdrM",
+      "bbox": [
+        255.83999633789062,
+        78.87843322753906,
+        334.0799865722656,
+        102.87843322753906
+      ],
+      "page_num": 5,
+      "block_type": "heading",
+      "level": 1,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        294.7200012207031,
+        803.6103515625,
+        300.439208984375,
+        813.5703125
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "1. 목적",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        144.0,
+        109.1399917602539,
+        160.83395385742188
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        171.1743621826172,
+        545.4625244140625,
+        185.982177734375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        196.37437438964844,
+        559.5011596679688,
+        211.18218994140625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "사항을 알기 쉽게 제공함을 목적으로 한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        219.60000610351562,
+        343.4419250488281,
+        236.4339599609375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2. 용어의 정의",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        270.0,
+        151.0806427001953,
+        286.8339538574219
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 기준에서 사용하는 용어의 뜻은 다음과 같다. 그 외 용어의 정의는",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        295.1999816894531,
+        552.540283203125,
+        312.033935546875
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "｢",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        70.68000030517578,
+        320.3999938964844,
+        77.69999694824219,
+        337.2480163574219
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 등의 안전에 관한 규칙｣",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        77.5199966430664,
+        320.3999938964844,
+        279.41998291015625,
+        337.2480163574219
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "[별표 4] 의약품 임상시험 관리기준에서",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        286.55999755859375,
+        320.3999938964844,
+        545.5804443359375,
+        337.23394775390625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정하는 용어를 준용한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        345.5999755859375,
+        225.9619140625,
+        362.4339294433594
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        370.79998779296875,
+        538.571044921875,
+        387.6339416503906
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "“임상시험 및 대상자보호프로그램 (Human",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        370.79998779296875,
+        538.571044921875,
+        387.6339416503906
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Research",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        370.79998779296875,
+        538.571044921875,
+        387.6339416503906
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Protection",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        370.79998779296875,
+        538.571044921875,
+        387.6339416503906
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Program,",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.75999450683594,
+        395.9999694824219,
+        545.5805053710938,
+        412.83392333984375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이하 “대상자보호프로그램”이라 한다.)”이란 임상시험실시",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.75999450683594,
+        395.9999694824219,
+        545.5805053710938,
+        412.83392333984375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.75999450683594,
+        423.17437744140625,
+        545.5802001953125,
+        437.982177734375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.75999450683594,
+        446.3999938964844,
+        545.4606323242188,
+        463.23394775390625
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "인력 및 수행하는 모든 활동을 포괄적으로 말한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.75999450683594,
+        471.5999755859375,
+        421.2019348144531,
+        488.4339294433594
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        496.79998779296875,
+        545.5803833007812,
+        513.6339721679688
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        97.07999420166016,
+        522.0,
+        545.4603271484375,
+        538.8339233398438
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        97.07999420166016,
+        549.1743774414062,
+        538.5598754882812,
+        563.982177734375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        97.07999420166016,
+        574.3743896484375,
+        559.5010375976562,
+        589.1821899414062
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "말하며, 시험대상자 보호부서 운영을 총괄한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        97.07999420166016,
+        597.6000366210938,
+        380.16192626953125,
+        614.4339599609375
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. “시험대상자 보호부서(Office of Human Research Protection Program,",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        69.72000122070312,
+        622.7999877929688,
+        538.5621948242188,
+        639.6339111328125
+      ],
+      "page_num": 6,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        648.0,
+        545.5808715820312,
+        664.8339233398438
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        675.1743774414062,
+        559.5006713867188,
+        689.982177734375
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        95.5199966430664,
+        698.4000244140625,
+        411.0599670410156,
+        715.2479858398438
+      ],
+      "page_num": 6,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "개정 관리, 규정 준수",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        410.5199890136719,
+        698.4000244140625,
+        538.560302734375,
+        715.2339477539062
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.5199966430664,
+        723.5999755859375,
+        537.9619140625,
+        740.4338989257812
+      ],
+      "page_num": 6,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "I.",
+      "font_size": 15.0,
+      "font_name": "T2",
+      "bbox": [
+        68.15999603271484,
+        77.15999603271484,
+        124.09696960449219,
+        95.1449966430664
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "총칙",
+      "font_size": 14.644218444824219,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        68.15999603271484,
+        77.15999603271484,
+        124.09696960449219,
+        95.1449966430664
+      ],
+      "page_num": 6,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "2",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        294.7200012207031,
+        803.6103515625,
+        300.439208984375,
+        813.5703125
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3. 기본원칙",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        68.75999450683594,
+        137.1006622314453,
+        85.59395599365234
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험실시기관의 장은 ｢",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        70.68000030517578,
+        93.95999908447266,
+        232.3800048828125,
+        110.80799865722656
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "의약품 등의 안전에 관한 규칙｣",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        232.0800018310547,
+        93.95999908447266,
+        427.4999694824219,
+        110.80799865722656
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "[별표 4] 의약품",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        440.7599792480469,
+        93.95999908447266,
+        538.560546875,
+        110.79396057128906
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.43999481201172,
+        121.13436889648438,
+        538.5604858398438,
+        135.9421844482422
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "따른다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.43999481201172,
+        144.36000061035156,
+        115.92191314697266,
+        161.19395446777344
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4. 적용범위",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        194.75999450683594,
+        130.08065795898438,
+        211.5939483642578
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "이 기준은 ｢",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        70.68000030517578,
+        219.9600067138672,
+        145.5,
+        236.80799865722656
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "약사법｣",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        145.3199920654297,
+        219.9600067138672,
+        193.02000427246094,
+        236.80799865722656
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "제34조에 따라 실시하는 의약품 임상시험에 적용한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        199.55999755859375,
+        219.9600067138672,
+        535.3218994140625,
+        236.79396057128906
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "II.",
+      "font_size": 15.0,
+      "font_name": "T2",
+      "bbox": [
+        65.4000015258789,
+        303.6000061035156,
+        278.1768798828125,
+        321.5849914550781
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대상자보호프로그램의 운영",
+      "font_size": 14.644218444824219,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        65.4000015258789,
+        303.6000061035156,
+        278.1768798828125,
+        321.5849914550781
+      ],
+      "page_num": 7,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5. 임상시험실시기관장의 의무",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        363.1199951171875,
+        249.1199951171875,
+        379.9539489746094
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        388.3199768066406,
+        538.5599365234375,
+        405.1539306640625
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        96.36000061035156,
+        415.494384765625,
+        538.5609741210938,
+        430.30218505859375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하며, 이를 위한 대상자보호프로그램을 운영한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        96.36000061035156,
+        438.719970703125,
+        411.3619384765625,
+        455.5539245605469
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        69.95999908447266,
+        463.91998291015625,
+        538.5595092773438,
+        480.7539367675781
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        94.55999755859375,
+        489.1199951171875,
+        486.48193359375,
+        505.9539489746094
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "6. 대상자보호프로그램의 운영",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        539.52001953125,
+        249.1199951171875,
+        556.3539428710938
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        564.7200317382812,
+        538.5594482421875,
+        581.553955078125
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        591.8943481445312,
+        552.541015625,
+        606.7021484375
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.5199966430664,
+        615.1199951171875,
+        538.5619506835938,
+        631.9539184570312
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        642.2943725585938,
+        545.5819702148438,
+        657.1021728515625
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관련 업무의 독립성이 보장되도록 운영한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.5199966430664,
+        665.52001953125,
+        378.9619140625,
+        682.3539428710938
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        690.7200317382812,
+        538.5604858398438,
+        707.553955078125
+      ],
+      "page_num": 7,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        715.9199829101562,
+        545.4613037109375,
+        732.75390625
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "인적･",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        95.5199966430664,
+        741.1199951171875,
+        129.4199981689453,
+        757.9679565429688
+      ],
+      "page_num": 7,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        129.1199951171875,
+        743.0943603515625,
+        538.5596313476562,
+        757.9021606445312
+      ],
+      "page_num": 7,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "3",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        294.7200012207031,
+        803.6103515625,
+        300.439208984375,
+        813.5703125
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "으로 구성･",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        95.5199966430664,
+        68.75999450683594,
+        165.5399932861328,
+        85.60799407958984
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "운영한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        165.47999572753906,
+        68.75999450683594,
+        225.0019073486328,
+        85.59395599365234
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. 임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        93.95999908447266,
+        538.5596313476562,
+        110.79396057128906
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        121.13436889648438,
+        552.541015625,
+        135.9421844482422
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        146.33436584472656,
+        552.541015625,
+        161.14218139648438
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        169.55999755859375,
+        545.4606323242188,
+        186.39395141601562
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "모든 조직･",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        95.5199966430664,
+        194.75999450683594,
+        165.5399932861328,
+        211.6079864501953
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "부서의 협조 체계를 구축, 운영한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        165.47999572753906,
+        194.75999450683594,
+        396.48193359375,
+        211.5939483642578
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "7. 대상자보호부서 등",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        245.1599884033203,
+        193.07998657226562,
+        261.9939270019531
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        270.3599853515625,
+        545.579833984375,
+        287.1939392089844
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.5199966430664,
+        295.55999755859375,
+        538.5588989257812,
+        312.3939514160156
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "그램 관련 업무의 독립성이 보장되도록 운영한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.5199966430664,
+        320.7599792480469,
+        413.16192626953125,
+        337.59393310546875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        345.9599914550781,
+        545.5800170898438,
+        362.7939453125
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        97.19999694824219,
+        373.1343688964844,
+        538.4400634765625,
+        387.9421691894531
+      ],
+      "page_num": 8,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        97.19999694824219,
+        396.3599853515625,
+        127.20191192626953,
+        413.1939392089844
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. 대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        421.5599670410156,
+        538.559814453125,
+        438.3939208984375
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "할 수 있는 적절한 인원을 배치한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.5199966430664,
+        446.7599792480469,
+        327.8419189453125,
+        463.59393310546875
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "라. 대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        471.9599914550781,
+        538.559814453125,
+        488.7939453125
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "교육･",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        95.5199966430664,
+        497.15997314453125,
+        130.5,
+        514.0079956054688
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "훈련을 정기적으로 받은 사람이어야 한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        130.55999755859375,
+        497.15997314453125,
+        399.9619140625,
+        513.9939575195312
+      ],
+      "page_num": 8,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "마. 대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        522.3599853515625,
+        519.6019287109375,
+        539.1939086914062
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "III.",
+      "font_size": 15.0,
+      "font_name": "T2",
+      "bbox": [
+        62.52000045776367,
+        606.0,
+        314.8969421386719,
+        623.9849853515625
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 5,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "대상자보호프로그램의 기본 업무",
+      "font_size": 14.644218444824219,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        62.52000045776367,
+        606.0,
+        314.8969421386719,
+        623.9849853515625
+      ],
+      "page_num": 8,
+      "block_type": "heading",
+      "level": 6,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "8. 대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T2",
+      "bbox": [
+        56.63999938964844,
+        665.52001953125,
+        497.52191162109375,
+        682.3539428710938
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 자체 점검",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        690.7200317382812,
+        158.1599884033203,
+        707.553955078125
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. 헬프데스크(Helpdesk) 운영",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        715.9199829101562,
+        269.1600036621094,
+        732.75390625
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "다. 이해상충 관리",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        741.1199951171875,
+        186.1206512451172,
+        757.9539184570312
+      ],
+      "page_num": 8,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "4",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        294.7200012207031,
+        803.6103515625,
+        300.439208984375,
+        813.5703125
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "라. 규정 제․개정 관리",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        68.75999450683594,
+        221.1599884033203,
+        85.60799407958984
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "마. 규정 준수 및 위반 관리",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        93.95999908447266,
+        249.1206512451172,
+        110.79396057128906
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "바. 교육",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        119.15999603271484,
+        123.12065887451172,
+        135.99395751953125
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "9. 자체점검(Internal Audit)",
+      "font_size": 14.039999961853027,
+      "font_name": "T2",
+      "bbox": [
+        56.63999938964844,
+        169.55999755859375,
+        234.7002716064453,
+        186.39395141601562
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        194.75999450683594,
+        538.5601196289062,
+        211.5939483642578
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.4000015258789,
+        219.9600067138672,
+        538.44189453125,
+        236.79396057128906
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "필요 시 적절한 조치를 취할 수 있도록 한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.4000015258789,
+        245.1599884033203,
+        380.28192138671875,
+        261.9939270019531
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        270.3599853515625,
+        538.5604248046875,
+        287.1939392089844
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.27999877929688,
+        295.55999755859375,
+        545.4606323242188,
+        312.3939514160156
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "준수 여부를 확인하기 위해 정기점검 등을 시행하고,",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.27999877929688,
+        320.7599792480469,
+        538.441162109375,
+        337.59393310546875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "필요 시 적절한",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.27999877929688,
+        320.7599792480469,
+        538.441162109375,
+        337.59393310546875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "조치를 취할 수 있도록 한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.27999877929688,
+        345.9599914550781,
+        280.6819152832031,
+        362.7939453125
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "10. 헬프데스크(Helpdesk) 운영",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        396.3599853515625,
+        257.2806396484375,
+        413.1939392089844
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        421.5599670410156,
+        538.5619506835938,
+        438.3939208984375
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        95.27999877929688,
+        446.7599792480469,
+        538.4398193359375,
+        463.59393310546875
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.27999877929688,
+        471.9599914550781,
+        533.7619018554688,
+        488.7939453125
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        497.15997314453125,
+        538.44189453125,
+        513.9939575195312
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        98.27999877929688,
+        522.3599853515625,
+        545.5800170898438,
+        539.1939086914062
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        98.27999877929688,
+        547.5599975585938,
+        538.4398803710938,
+        564.3939208984375
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "데스크(Helpdesk) 운영 절차를 마련한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        98.27999877929688,
+        572.760009765625,
+        350.6419372558594,
+        589.5939331054688
+      ],
+      "page_num": 9,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "11. 이해상충 관리",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        623.1600341796875,
+        172.07998657226562,
+        639.9939575195312
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        648.3599853515625,
+        510.3619079589844,
+        665.1939086914062
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. 임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        673.5599975585938,
+        538.5628662109375,
+        690.3939208984375
+      ],
+      "page_num": 9,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        97.55999755859375,
+        700.734375,
+        538.5593872070312,
+        715.5421752929688
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        97.55999755859375,
+        723.9600219726562,
+        538.6007080078125,
+        740.7939453125
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "Board)를 설치･",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        97.55999755859375,
+        749.1600341796875,
+        191.4600067138672,
+        766.0079956054688
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "운영할 수 있다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        190.9199981689453,
+        749.1600341796875,
+        284.5219421386719,
+        765.9939575195312
+      ],
+      "page_num": 9,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "5",
+      "font_size": 9.960000038146973,
+      "font_name": "Gulim",
+      "bbox": [
+        294.7200012207031,
+        803.6103515625,
+        300.439208984375,
+        813.5703125
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "12. 규정 제․개정 관리",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        93.95999908447266,
+        207.83999633789062,
+        110.80799865722656
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        119.15999603271484,
+        538.4404296875,
+        135.99395751953125
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "향상을 위한 포괄적이고 체계적인 정책을 수립한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        95.5199966430664,
+        144.36000061035156,
+        428.04193115234375,
+        161.19395446777344
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "나. 임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        169.55999755859375,
+        538.5614013671875,
+        186.39395141601562
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        97.68000030517578,
+        196.73435974121094,
+        538.560546875,
+        211.54217529296875
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "작업지침서 제･",
+      "font_size": 14.039999961853027,
+      "font_name": "T12",
+      "bbox": [
+        97.68000030517578,
+        219.9600067138672,
+        197.94000244140625,
+        236.80799865722656
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "개정 시, 임상시험 대상자의 안전과 권리의 보호 및",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        198.0,
+        219.9600067138672,
+        545.4606323242188,
+        236.79396057128906
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "복지 향상에 적절한가를 검토하고 승인한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        97.68000030517578,
+        245.1599884033203,
+        376.3219299316406,
+        261.9939270019531
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "다. 임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        270.3599853515625,
+        538.5594482421875,
+        287.1939392089844
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "지침서에 대한 문서관리, 유지 및 보관한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        97.68000030517578,
+        295.55999755859375,
+        377.6419372558594,
+        312.3939514160156
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "13. 규정의 준수와 위반관리",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        345.9599914550781,
+        249.06028747558594,
+        362.7939453125
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        371.15997314453125,
+        545.4625244140625,
+        387.9939270019531
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        97.43999481201172,
+        398.3343811035156,
+        538.441162109375,
+        413.1421813964844
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "취한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        97.43999481201172,
+        421.5599670410156,
+        142.9219207763672,
+        438.3939208984375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "14. 교육",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        56.63999938964844,
+        471.9599914550781,
+        116.09999084472656,
+        488.7939453125
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "가. 임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        70.68000030517578,
+        497.15997314453125,
+        538.5604248046875,
+        513.9939575195312
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을",
+      "font_size": 14.039999961853027,
+      "font_name": "ÈÞ¸Õ¸íÁ¶",
+      "bbox": [
+        96.72000122070312,
+        524.3343505859375,
+        538.560546875,
+        539.1421508789062
+      ],
+      "page_num": 10,
+      "block_type": "paragraph",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    },
+    {
+      "text": "정기적으로 시행하고 기록을 유지, 관리한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        96.72000122070312,
+        547.5599975585938,
+        383.7619323730469,
+        564.3939208984375
+      ],
+      "page_num": 10,
+      "block_type": "table_cell",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": true
+    },
+    {
+      "text": "나. 교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다.",
+      "font_size": 14.039999961853027,
+      "font_name": "T11",
+      "bbox": [
+        70.68000030517578,
+        572.760009765625,
+        452.04193115234375,
+        589.5939331054688
+      ],
+      "page_num": 10,
+      "block_type": "list_item",
+      "level": 0,
+      "table_info": null,
+      "is_in_table": false
+    }
+  ],
+  "markdown_content": "<!-- PAGE_1 -->\n# 임상시험 및 대상자보호프로그램(HRPP)\n\n<!-- PAGE_1 -->\n# 운영 가이드라인 (민원인 안내서)\n\n<!-- PAGE_1 -->\n## 2014.  3.\n\n<!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까? | 부서의 협조 체계를 구축, 운영한다. | 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다. |\n**(규제개혁담당관실-3761호, 2017.05.16.)**\n| Ⅱ. 대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다. | 복지 향상에 적절한가를 검토하고 승인한다. |\n**경우 그 사유를 아래에 기재해 주시기 바랍니다.**\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다. | □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까? |\n| Ⅲ. 대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다. |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? | □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다.**\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?**\n**임상제도과에 문의하시기 바랍니다.**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? | □ 예 | ■ 아니오 |\n**한다.**\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까? | □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다. |\n**하며, 이를 위한 대상자보호프로그램을 운영한다.**\n| 할 수 있는 적절한 인원을 배치한다. | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. |\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다. | 인력 및 수행하는 모든 활동을 포괄적으로 말한다. |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다.**\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다. |\n**사무의 세부기준이나 절차를 제시하는 것입니까? (공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? (민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다.**\n**데스크(Helpdesk) 운영 절차를 마련한다.**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까?**\n**말하며, 시험대상자 보호부서 운영을 총괄한다.**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다.**\n**상기 사항에 대하여 확인하였음.**\n**관련 업무의 독립성이 보장되도록 운영한다.**\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다. 그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다. 또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014. 3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ. 총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1. 목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n- 2. 용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다. 그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n- 가.\n“임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다.)”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나. “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다. “시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n<!-- PAGE_6 -->\n##### I.\n\n<!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3. 기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n- 4. 적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n<!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5. 임상시험실시기관장의 의무\n- 가. 임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나. 임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6. 대상자보호프로그램의 운영\n- 가. 임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나. 임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다. |\n| --- | --- |\n\n**[표 끝]**\n\n- 다. 임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7. 대상자보호부서 등\n- 가. 대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나. 대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다. 대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라. 대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마. 대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n<!-- PAGE_8 -->\n##### III.\n\n<!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8. 대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n- 가. 자체 점검\n- 나. 헬프데스크(Helpdesk) 운영\n- 다. 이해상충 관리\n4\n\n- 라. 규정 제․개정 관리\n- 마. 규정 준수 및 위반 관리\n- 바. 교육\n- 9. 자체점검(Internal Audit)\n- 가. 임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나. 임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10. 헬프데스크(Helpdesk) 운영\n- 가. 임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나. 임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11. 이해상충 관리\n- 가. 임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n- 나. 임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n5\n\n- 12. 규정 제․개정 관리\n- 가. 임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n- 나. 임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다. 임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13. 규정의 준수와 위반관리\n- 가. 임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14. 교육\n- 가. 임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나. 교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다.",
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "text": "<!-- PAGE_1 -->\n# 임상시험 및 대상자보호프로그램(HRPP)\n\n<!-- PAGE_1 -->\n# 운영 가이드라인 (민원인 안내서)\n\n<!-- PAGE_1 -->\n## 2014.  ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 0,
+        "window_size": 3,
+        "char_count": 106,
+        "word_count": 20,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험 및 대상자보호프로그램(HRPP)\n\n<!-- PAGE_1 -->\n# 운영 가이드라인 (민원인 안내서)\n\n<!-- PAGE_1 -->\n## 2014.   3.\n\n <!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까? ",
+        "original_sentence": "<!-- PAGE_1 -->\n# 임상시험 및 대상자보호프로그램(HRPP)\n\n<!-- PAGE_1 -->\n# 운영 가이드라인 (민원인 안내서)\n\n<!-- PAGE_1 -->\n## 2014.  "
+      }
+    },
+    {
+      "chunk_id": "chunk_002",
+      "text": "3.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 1,
+        "window_size": 3,
+        "char_count": 4,
+        "word_count": 1,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험 및 대상자보호프로그램(HRPP)\n\n<!-- PAGE_1 -->\n# 운영 가이드라인 (민원인 안내서)\n\n<!-- PAGE_1 -->\n## 2014.   3.\n\n <!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까?  | 부서의 협조 체계를 구축, 운영한다. ",
+        "original_sentence": "3.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_003",
+      "text": "<!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 2,
+        "window_size": 3,
+        "char_count": 149,
+        "word_count": 27,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험 및 대상자보호프로그램(HRPP)\n\n<!-- PAGE_1 -->\n# 운영 가이드라인 (민원인 안내서)\n\n<!-- PAGE_1 -->\n## 2014.   3.\n\n <!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까?  | 부서의 협조 체계를 구축, 운영한다.  | 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다. ",
+        "original_sentence": "<!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_004",
+      "text": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까? ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 3,
+        "window_size": 3,
+        "char_count": 104,
+        "word_count": 30,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n# 임상시험 및 대상자보호프로그램(HRPP)\n\n<!-- PAGE_1 -->\n# 운영 가이드라인 (민원인 안내서)\n\n<!-- PAGE_1 -->\n## 2014.   3.\n\n <!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까?  | 부서의 협조 체계를 구축, 운영한다.  | 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다.  |\n**(규제개혁담당관실-3761호, 2017.05.16.",
+        "original_sentence": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_005",
+      "text": "| 부서의 협조 체계를 구축, 운영한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 4,
+        "window_size": 3,
+        "char_count": 23,
+        "word_count": 6,
+        "page_number": 8,
+        "window_text": "3.\n\n <!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까?  | 부서의 협조 체계를 구축, 운영한다.  | 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다.  |\n**(규제개혁담당관실-3761호, 2017.05.16. )**\n| Ⅱ. ",
+        "original_sentence": "| 부서의 협조 체계를 구축, 운영한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_006",
+      "text": "| 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 5,
+        "window_size": 3,
+        "char_count": 164,
+        "word_count": 43,
+        "page_number": 2,
+        "window_text": "<!-- PAGE_1 -->\n## 의약품안전국 임상제도과\n\n2\n\n<!-- PAGE_2 -->\n#### 지침·안내서 제‧개정 점검표\n\n명칭\n\n임상시험 및 대상자보호프로그램(HRPP) 운영 가이드라인(민원인 안내서)\n\n아래에 해당하는 사항에 체크하여 주시기 바랍니다.\n\n **[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까?  | 부서의 협조 체계를 구축, 운영한다.  | 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다.  |\n**(규제개혁담당관실-3761호, 2017.05.16. )**\n| Ⅱ.  대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다. ",
+        "original_sentence": "| 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_007",
+      "text": "|\n**(규제개혁담당관실-3761호, 2017.05.16.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 6,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 3,
+        "page_number": 2,
+        "window_text": "**[표 시작]**\n\n| □ 이미 등록된 지침·안내서 중 동일·유사한 내용의 | □ 예 | ■ 아니오 |\n| --- | --- | --- |\n| 모든 조직･ | 지침·안내서가 있습니까?  | 부서의 협조 체계를 구축, 운영한다.  | 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다.  |\n**(규제개혁담당관실-3761호, 2017.05.16. )**\n| Ⅱ.  대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다.  | 복지 향상에 적절한가를 검토하고 승인한다. ",
+        "original_sentence": "|\n**(규제개혁담당관실-3761호, 2017.05.16."
+      }
+    },
+    {
+      "chunk_id": "chunk_008",
+      "text": ")**\n| Ⅱ. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 7,
+        "window_size": 3,
+        "char_count": 9,
+        "word_count": 3,
+        "page_number": 1,
+        "window_text": "| 부서의 협조 체계를 구축, 운영한다.  | 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다.  |\n**(규제개혁담당관실-3761호, 2017.05.16. )**\n| Ⅱ.  대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다.  | 복지 향상에 적절한가를 검토하고 승인한다.  |\n**경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+        "original_sentence": ")**\n| Ⅱ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_009",
+      "text": "대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 8,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "| 「식약처 지침서등의 관리에 관한 |\n| 2 | 안내서-0053-01 | ㅡ | 규정」에 따른 등록 번호 일괄 정비 |\n| 작업지침서 제･ | ☞ 상기 질문에 ‘예’라고 답하신 경우 기존의 지침·안내서의 개정을 우선적으로 | 약사법｣ | 제34조에 따라 실시하는 의약품 임상시험에 적용한다.  |\n**(규제개혁담당관실-3761호, 2017.05.16. )**\n| Ⅱ.  대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다.  | 복지 향상에 적절한가를 검토하고 승인한다.  |\n**경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다. ",
+        "original_sentence": "대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_010",
+      "text": "| 복지 향상에 적절한가를 검토하고 승인한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 9,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 6,
+        "page_number": 8,
+        "window_text": "|\n**(규제개혁담당관실-3761호, 2017.05.16. )**\n| Ⅱ.  대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다.  | 복지 향상에 적절한가를 검토하고 승인한다.  |\n**경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다.  | □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까? ",
+        "original_sentence": "| 복지 향상에 적절한가를 검토하고 승인한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_011",
+      "text": "|\n**경우 그 사유를 아래에 기재해 주시기 바랍니다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 10,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": ")**\n| Ⅱ.  대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다.  | 복지 향상에 적절한가를 검토하고 승인한다.  |\n**경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다.  | □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까?  |\n| Ⅲ. ",
+        "original_sentence": "|\n**경우 그 사유를 아래에 기재해 주시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_012",
+      "text": "**\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 11,
+        "window_size": 3,
+        "char_count": 211,
+        "word_count": 32,
+        "page_number": 1,
+        "window_text": "대상자보호프로그램의 운영 ·································· 2 | 필요 시 적절한 조치를 취할 수 있도록 한다.  | 복지 향상에 적절한가를 검토하고 승인한다.  |\n**경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다.  | □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까?  |\n| Ⅲ.  대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다. ",
+        "original_sentence": "**\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_013",
+      "text": "| □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까? ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 12,
+        "window_size": 3,
+        "char_count": 48,
+        "word_count": 16,
+        "page_number": 2,
+        "window_text": "| 복지 향상에 적절한가를 검토하고 승인한다.  |\n**경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다.  | □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까?  |\n| Ⅲ.  대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다.  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_014",
+      "text": "|\n| Ⅲ. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 13,
+        "window_size": 3,
+        "char_count": 7,
+        "word_count": 3,
+        "page_number": 1,
+        "window_text": "|\n**경우 그 사유를 아래에 기재해 주시기 바랍니다. **\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다.  | □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까?  |\n| Ⅲ.  대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다.  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다.",
+        "original_sentence": "|\n| Ⅲ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_015",
+      "text": "대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 14,
+        "window_size": 3,
+        "char_count": 96,
+        "word_count": 18,
+        "page_number": 8,
+        "window_text": "**\n**(사유 :                                                                 )**\n| 정규칙”이라 한다)을 알기 쉽게 풀어서 설명하거나 특정한 사안에 대하여 | 식품의약품안전처의 입장을 기술하는 것 | □ 법령(법‧시행령‧시행규칙) 또는 행정규칙(고시‧훈령‧예규)의 |\n| 지침서에 대한 문서관리, 유지 및 보관한다.  | □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까?  |\n| Ⅲ.  대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다.  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다. **\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?",
+        "original_sentence": "대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_016",
+      "text": "|\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 15,
+        "window_size": 3,
+        "char_count": 35,
+        "word_count": 9,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n| 등록대상 | 내용을 단순 편집 또는 나열한 것입니까?  |\n| Ⅲ.  대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다.  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다. **\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n**임상제도과에 문의하시기 바랍니다.",
+        "original_sentence": "|\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_017",
+      "text": "| □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 16,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 13,
+        "page_number": 2,
+        "window_text": "|\n| Ⅲ.  대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다.  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다. **\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_018",
+      "text": "**\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 17,
+        "window_size": 3,
+        "char_count": 63,
+        "word_count": 19,
+        "page_number": 2,
+        "window_text": "대상자보호프그램의 기본 업무 ···························· 3 | 의약품 등의 안전에 관한 규칙｣ | 그램 관련 업무의 독립성이 보장되도록 운영한다.  |\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다. **\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**한다.",
+        "original_sentence": "**\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_019",
+      "text": "**\n**임상제도과에 문의하시기 바랍니다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 18,
+        "window_size": 3,
+        "char_count": 23,
+        "word_count": 4,
+        "page_number": 3,
+        "window_text": "|\n| □ 단순한 사실을 대외적으로 알리는 공고의 내용입니까?  | □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다. **\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**한다. **\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+        "original_sentence": "**\n**임상제도과에 문의하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_020",
+      "text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 19,
+        "window_size": 3,
+        "char_count": 32,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n**여부**\n**조치를 취할 수 있도록 한다. **\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**한다. **\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다. ",
+        "original_sentence": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_021",
+      "text": "| □ 예 | ■ 아니오 |\n**한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 20,
+        "window_size": 3,
+        "char_count": 21,
+        "word_count": 8,
+        "page_number": 2,
+        "window_text": "**\n| □ 1년 이내 한시적 적용 또는 일회성 지시·명령에 해당하는 | □ 예 | ■ 아니오 |\n**내용입니까? **\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**한다. **\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다.  |\n**하며, 이를 위한 대상자보호프로그램을 운영한다.",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n**한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_022",
+      "text": "**\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까? ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 21,
+        "window_size": 3,
+        "char_count": 51,
+        "word_count": 10,
+        "page_number": 2,
+        "window_text": "**\n**임상제도과에 문의하시기 바랍니다. **\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**한다. **\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다.  |\n**하며, 이를 위한 대상자보호프로그램을 운영한다. **\n| 할 수 있는 적절한 인원을 배치한다. ",
+        "original_sentence": "**\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_023",
+      "text": "| □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 22,
+        "window_size": 3,
+        "char_count": 44,
+        "word_count": 12,
+        "page_number": 2,
+        "window_text": "**\n| □ 외국 규정을 번역하거나 설명하는 내용입니까?  | □ 예 | ■ 아니오 |\n**한다. **\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다.  |\n**하며, 이를 위한 대상자보호프로그램을 운영한다. **\n| 할 수 있는 적절한 인원을 배치한다.  | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+        "original_sentence": "| □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_024",
+      "text": "|\n**하며, 이를 위한 대상자보호프로그램을 운영한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 23,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 6,
+        "page_number": 7,
+        "window_text": "| □ 예 | ■ 아니오 |\n**한다. **\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다.  |\n**하며, 이를 위한 대상자보호프로그램을 운영한다. **\n| 할 수 있는 적절한 인원을 배치한다.  | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+        "original_sentence": "|\n**하며, 이를 위한 대상자보호프로그램을 운영한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_025",
+      "text": "**\n| 할 수 있는 적절한 인원을 배치한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 24,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 8,
+        "page_number": 8,
+        "window_text": "**\n**전화번호: 043-719-1864**\n| □ 정보제공 등 직원 교육용 자료입니까?  | □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다.  |\n**하며, 이를 위한 대상자보호프로그램을 운영한다. **\n| 할 수 있는 적절한 인원을 배치한다.  | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다. ",
+        "original_sentence": "**\n| 할 수 있는 적절한 인원을 배치한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_026",
+      "text": "| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 25,
+        "window_size": 3,
+        "char_count": 54,
+        "word_count": 14,
+        "page_number": 2,
+        "window_text": "| □ 예 | ■ 아니오 |\n| 팩스번호: 043-719-1850 | 취한다.  |\n**하며, 이를 위한 대상자보호프로그램을 운영한다. **\n| 할 수 있는 적절한 인원을 배치한다.  | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다.  | 인력 및 수행하는 모든 활동을 포괄적으로 말한다. ",
+        "original_sentence": "| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_027",
+      "text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 26,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 7,
+        "page_number": 2,
+        "window_text": "|\n**하며, 이를 위한 대상자보호프로그램을 운영한다. **\n| 할 수 있는 적절한 인원을 배치한다.  | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다.  | 인력 및 수행하는 모든 활동을 포괄적으로 말한다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다.",
+        "original_sentence": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_028",
+      "text": "|\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 27,
+        "window_size": 3,
+        "char_count": 46,
+        "word_count": 10,
+        "page_number": 8,
+        "window_text": "**\n| 할 수 있는 적절한 인원을 배치한다.  | ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다.  | 인력 및 수행하는 모든 활동을 포괄적으로 말한다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다. **\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다. ",
+        "original_sentence": "|\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_029",
+      "text": "| 인력 및 수행하는 모든 활동을 포괄적으로 말한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 28,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 8,
+        "page_number": 6,
+        "window_text": "| ☞ 상기 사항 중 어느 하나라도 ‘예’에 해당되는 경우에 지침·안내서 등록 대상이 아닙니다.  | 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다.  | 인력 및 수행하는 모든 활동을 포괄적으로 말한다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다. **\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다.  |\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+        "original_sentence": "| 인력 및 수행하는 모든 활동을 포괄적으로 말한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_030",
+      "text": "|\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 29,
+        "window_size": 3,
+        "char_count": 97,
+        "word_count": 26,
+        "page_number": 2,
+        "window_text": "| 지침·안내서 제·개정 절차를 적용하실 필요는 없습니다.  |\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다.  | 인력 및 수행하는 모든 활동을 포괄적으로 말한다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다. **\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다.  |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+        "original_sentence": "|\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_031",
+      "text": "**\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 30,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 9,
+        "page_number": 8,
+        "window_text": "|\n| 하는 절차 등을 포함한 헬프데스크(Helpdesk) 운영 절차를 마련한다.  | 인력 및 수행하는 모든 활동을 포괄적으로 말한다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다. **\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다.  |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다.",
+        "original_sentence": "**\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_032",
+      "text": "|\n**사무의 세부기준이나 절차를 제시하는 것입니까? ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 31,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 6,
+        "page_number": 1,
+        "window_text": "| 인력 및 수행하는 모든 활동을 포괄적으로 말한다.  |\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다. **\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다.  |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다. **\n**데스크(Helpdesk) 운영 절차를 마련한다.",
+        "original_sentence": "|\n**사무의 세부기준이나 절차를 제시하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_033",
+      "text": "(공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 32,
+        "window_size": 3,
+        "char_count": 137,
+        "word_count": 35,
+        "page_number": 2,
+        "window_text": "|\n| □ 내부적으로 행정사무의 통일을 기하기 위하여 반복적으로 행정 | □ 예(☞지침) | ■ 아니오 |\n**조직, 인력, 예산, 공간 및 장비를 충분히 확보하고 지원한다. **\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다.  |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다. **\n**데스크(Helpdesk) 운영 절차를 마련한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까?",
+        "original_sentence": "(공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까? "
+      }
+    },
+    {
+      "chunk_id": "chunk_034",
+      "text": "(민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 33,
+        "window_size": 3,
+        "char_count": 35,
+        "word_count": 7,
+        "page_number": 8,
+        "window_text": "**\n| 교육･ | 훈련을 정기적으로 받은 사람이어야 한다.  |\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다. **\n**데스크(Helpdesk) 운영 절차를 마련한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까? **\n**말하며, 시험대상자 보호부서 운영을 총괄한다.",
+        "original_sentence": "(민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_035",
+      "text": "**\n**데스크(Helpdesk) 운영 절차를 마련한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 34,
+        "window_size": 3,
+        "char_count": 31,
+        "word_count": 5,
+        "page_number": 8,
+        "window_text": "|\n**사무의 세부기준이나 절차를 제시하는 것입니까?  (공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다. **\n**데스크(Helpdesk) 운영 절차를 마련한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까? **\n**말하며, 시험대상자 보호부서 운영을 총괄한다. **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다.",
+        "original_sentence": "**\n**데스크(Helpdesk) 운영 절차를 마련한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_036",
+      "text": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까?",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 35,
+        "window_size": 3,
+        "char_count": 73,
+        "word_count": 20,
+        "page_number": 2,
+        "window_text": "(공무원용)**\n**□ 법령, 고시‧훈령‧예규와 같은 규정 또는 식약처장이 정한 특정한**\n| 구분 | ■ 예(☞안내서) | □ 아니오 |\n| 사안에 대하여 그 절차 등의 내용을 알기 쉽게 풀어 설명하거나 | 식약처의 입장을 기술하는 것입니까?  (민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다. **\n**데스크(Helpdesk) 운영 절차를 마련한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까? **\n**말하며, 시험대상자 보호부서 운영을 총괄한다. **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음.",
+        "original_sentence": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까?"
+      }
+    },
+    {
+      "chunk_id": "chunk_037",
+      "text": "**\n**말하며, 시험대상자 보호부서 운영을 총괄한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 36,
+        "window_size": 3,
+        "char_count": 30,
+        "word_count": 6,
+        "page_number": 6,
+        "window_text": "(민원인용) |\n**정기적으로 시행하고 기록을 유지, 관리한다. **\n**데스크(Helpdesk) 운영 절차를 마련한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까? **\n**말하며, 시험대상자 보호부서 운영을 총괄한다. **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**관련 업무의 독립성이 보장되도록 운영한다.",
+        "original_sentence": "**\n**말하며, 시험대상자 보호부서 운영을 총괄한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_038",
+      "text": "**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 37,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 18,
+        "page_number": 2,
+        "window_text": "**\n**데스크(Helpdesk) 운영 절차를 마련한다. **\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까? **\n**말하며, 시험대상자 보호부서 운영을 총괄한다. **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**관련 업무의 독립성이 보장되도록 운영한다. **\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다. ",
+        "original_sentence": "**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다."
+      }
+    },
+    {
+      "chunk_id": "chunk_039",
+      "text": "**\n**상기 사항에 대하여 확인하였음.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 38,
+        "window_size": 3,
+        "char_count": 22,
+        "word_count": 5,
+        "page_number": 2,
+        "window_text": "**\n| □ 상위 법령을 일탈하여 새로운 규제를 신설·강화하거나 | □ 예 | ■ 아니오 |\n**민원인을 구속하는 내용이 있습니까? **\n**말하며, 시험대상자 보호부서 운영을 총괄한다. **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**관련 업무의 독립성이 보장되도록 운영한다. **\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+        "original_sentence": "**\n**상기 사항에 대하여 확인하였음."
+      }
+    },
+    {
+      "chunk_id": "chunk_040",
+      "text": "**\n**관련 업무의 독립성이 보장되도록 운영한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 39,
+        "window_size": 3,
+        "char_count": 28,
+        "word_count": 6,
+        "page_number": 7,
+        "window_text": "**\n**말하며, 시험대상자 보호부서 운영을 총괄한다. **\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**관련 업무의 독립성이 보장되도록 운영한다. **\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다. ",
+        "original_sentence": "**\n**관련 업무의 독립성이 보장되도록 운영한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_041",
+      "text": "**\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 40,
+        "window_size": 3,
+        "char_count": 122,
+        "word_count": 28,
+        "page_number": 2,
+        "window_text": "**\n**사항**\n**☞ 상기 질문에 ‘예’라고 답하신 경우 상위법령 일탈 내용을 삭제하시고 지침·**\n**안내서 제·개정 절차를 진행하시기 바랍니다. **\n**상기 사항에 대하여 확인하였음. **\n**관련 업무의 독립성이 보장되도록 운영한다. **\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n",
+        "original_sentence": "**\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_042",
+      "text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 41,
+        "window_size": 3,
+        "char_count": 127,
+        "word_count": 26,
+        "page_number": 2,
+        "window_text": "**\n**상기 사항에 대하여 확인하였음. **\n**관련 업무의 독립성이 보장되도록 운영한다. **\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014. ",
+        "original_sentence": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_043",
+      "text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 42,
+        "window_size": 3,
+        "char_count": 104,
+        "word_count": 23,
+        "page_number": 3,
+        "window_text": "**\n**관련 업무의 독립성이 보장되도록 운영한다. **\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014.  3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ. ",
+        "original_sentence": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_044",
+      "text": "또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 43,
+        "window_size": 3,
+        "char_count": 119,
+        "word_count": 29,
+        "page_number": 2,
+        "window_text": "**\n**2017년    5 월   31 일**\n**자체점검, 헬프데스크 운영, 이해상충 관리, 규정 제･**\n| 담당자 | 확  인(부서장) | 조 정 은 |\n**인적･**\n\n**[표 끝]**\n\n고려하시기 바랍니다.  그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014.  3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ.  총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1. ",
+        "original_sentence": "또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_045",
+      "text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 44,
+        "window_size": 3,
+        "char_count": 170,
+        "word_count": 33,
+        "page_number": 4,
+        "window_text": "그럼에도 불구하고 동 지침·안내서의 제정이 필요한\n\n지침·안내서\n\n기타 확인\n\n이 남 희\n\n이 안내서는 임상시험 및 대상자보호프로그램(HRPP) 운영에 대하여 알기\n\n쉽게 설명하거나 식품의약품안전처의 입장을 기술한 것입니다.\n\n 본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014.  3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ.  총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1.  목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n",
+        "original_sentence": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014. "
+      }
+    },
+    {
+      "chunk_id": "chunk_046",
+      "text": "3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 45,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 8,
+        "page_number": 5,
+        "window_text": "본 안내서는 대외적으로 법적 효력을 가지는 것이 아니므로 본문의 기\n\n술방식(‘∼하여야 한다’ 등)에도 불구하고 민원인 여러분께서 반드시 준수\n\n하셔야 하는 사항이 아님을 알려드립니다.  또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014.  3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ.  총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1.  목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n - 2. ",
+        "original_sentence": "3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ. "
+      }
+    },
+    {
+      "chunk_id": "chunk_047",
+      "text": "총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 46,
+        "window_size": 3,
+        "char_count": 112,
+        "word_count": 13,
+        "page_number": 5,
+        "window_text": "또한, 본 안내서는 2014년 3월\n\n31일 현재의 과학적·기술적 사실 및 유효한 법규를 토대로 작성되었으므로\n\n이후 최신 개정 법규 내용 및 구체적인 사실관계 등에 따라 달리 적용될\n\n수 있음을 알려드립니다.\n\n ※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014.  3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ.  총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1.  목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n - 2.  용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다. ",
+        "original_sentence": "총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1. "
+      }
+    },
+    {
+      "chunk_id": "chunk_048",
+      "text": "목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 47,
+        "window_size": 3,
+        "char_count": 105,
+        "word_count": 23,
+        "page_number": 6,
+        "window_text": "※ “민원인 안내서”란 대내외적으로 법령 또는 고시ㆍ훈령ㆍ예규 등(이하 “행\n\n※ 본 안내서에 대한 의견이나 문의사항이 있을 경우 식품의약품안전처 의약품안전국\n\n<!-- PAGE_4 -->\n#### 제․개정 이력\n\n연번\n\n제·개정번호\n\n승인일자\n\n주요내용\n\n1\n\nB1-2014-2-001\n\n- 2014.  3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ.  총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1.  목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n - 2.  용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다.  그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n",
+        "original_sentence": "목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_049",
+      "text": "- 2. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 48,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 2,
+        "window_text": "3.31\n제 정\n\n<!-- PAGE_5 -->\n### Ⅰ.  총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1.  목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n - 2.  용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다.  그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n - 가.\n",
+        "original_sentence": "- 2. "
+      }
+    },
+    {
+      "chunk_id": "chunk_050",
+      "text": "용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 49,
+        "window_size": 3,
+        "char_count": 34,
+        "word_count": 9,
+        "page_number": 1,
+        "window_text": "총 칙 ········································································ 1\n\n<!-- PAGE_5 -->\n# 목  차\n\n1\n\n- 1.  목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n - 2.  용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다.  그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n - 가.\n “임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다.",
+        "original_sentence": "용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_051",
+      "text": "그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 50,
+        "window_size": 3,
+        "char_count": 55,
+        "word_count": 13,
+        "page_number": 6,
+        "window_text": "목적\n이 가이드라인은 임상시험실시기관에서 수행하는 임상시험 및 임상시험에\n\n참여하는 시험대상자의 안전과 권리 및 복지를 보호하기 위해 필요한\n\n사항을 알기 쉽게 제공함을 목적으로 한다.\n\n - 2.  용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다.  그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n - 가.\n “임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다. )”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나. ",
+        "original_sentence": "그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_052",
+      "text": "- 가.\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 51,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 6,
+        "window_text": "- 2.  용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다.  그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n - 가.\n “임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다. )”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나.  “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다. ",
+        "original_sentence": "- 가.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_053",
+      "text": "“임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 52,
+        "window_size": 3,
+        "char_count": 78,
+        "word_count": 10,
+        "page_number": 6,
+        "window_text": "용어의 정의\n이 기준에서 사용하는 용어의 뜻은 다음과 같다.  그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n - 가.\n “임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다. )”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나.  “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다.  “시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n",
+        "original_sentence": "“임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다."
+      }
+    },
+    {
+      "chunk_id": "chunk_054",
+      "text": ")”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 53,
+        "window_size": 3,
+        "char_count": 97,
+        "word_count": 24,
+        "page_number": 6,
+        "window_text": "그 외 용어의 정의는\n\n｢\n\n[별표 4] 의약품 임상시험 관리기준에서\n\n정하는 용어를 준용한다.\n\n - 가.\n “임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다. )”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나.  “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다.  “시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n <!-- PAGE_6 -->\n##### I.\n\n",
+        "original_sentence": ")”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_055",
+      "text": "“임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 54,
+        "window_size": 3,
+        "char_count": 173,
+        "word_count": 29,
+        "page_number": 6,
+        "window_text": "- 가.\n “임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다. )”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나.  “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다.  “시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n <!-- PAGE_6 -->\n##### I.\n\n <!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3. ",
+        "original_sentence": "“임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_056",
+      "text": "“시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 55,
+        "window_size": 3,
+        "char_count": 191,
+        "word_count": 38,
+        "page_number": 6,
+        "window_text": "“임상시험 및 대상자보호프로그램 (Human\n\nResearch\n\nProtection\n\nProgram,\n\n이하 “대상자보호프로그램”이라 한다. )”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나.  “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다.  “시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n <!-- PAGE_6 -->\n##### I.\n\n <!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3.  기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n",
+        "original_sentence": "“시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_057",
+      "text": "<!-- PAGE_6 -->\n##### I.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 56,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": ")”이란 임상시험실시\n\n기관이 임상시험에 참여하는 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위하여 수립한 포괄적인 정책 및 모든 규정, 이를 위한 조직과\n\n- 나.  “임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다.  “시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n <!-- PAGE_6 -->\n##### I.\n\n <!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3.  기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n - 4. ",
+        "original_sentence": "<!-- PAGE_6 -->\n##### I.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_058",
+      "text": "<!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 57,
+        "window_size": 3,
+        "char_count": 35,
+        "word_count": 8,
+        "page_number": 6,
+        "window_text": "“임상시험 및 대상자보호프로그램 운영책임자(Institutional Official, 이하\n”대상자보호프로그램 운영책임자“라고 한다)”란 임상시험실시기관의 장이\n\n대상자보호프로그램의 전반적인 업무를 위임하여 지정한 자로서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 책임지는 자를\n\n- 다.  “시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n <!-- PAGE_6 -->\n##### I.\n\n <!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3.  기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n - 4.  적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n",
+        "original_sentence": "<!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3. "
+      }
+    },
+    {
+      "chunk_id": "chunk_059",
+      "text": "기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 58,
+        "window_size": 3,
+        "char_count": 97,
+        "word_count": 22,
+        "page_number": 6,
+        "window_text": "“시험대상자 보호부서(Office of Human Research Protection Program,\n이하 “대상자보호부서”라고 한다)”란 임상시험실시기관에서 임상시험에\n\n참여하는 대상자의 안전과 권리 보호와 복지 향상을 위하여 기관 내\n\n개정 관리, 규정 준수\n\n및 위반 관리, 교육 등의 기능을 수행하는 모든 부서 또는 조직을 말한다.\n\n <!-- PAGE_6 -->\n##### I.\n\n <!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3.  기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n - 4.  적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n <!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5. ",
+        "original_sentence": "기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_060",
+      "text": "- 4. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 59,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 9,
+        "window_text": "<!-- PAGE_6 -->\n##### I.\n\n <!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3.  기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n - 4.  적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n <!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5.  임상시험실시기관장의 의무\n- 가. ",
+        "original_sentence": "- 4. "
+      }
+    },
+    {
+      "chunk_id": "chunk_061",
+      "text": "적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 60,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 9,
+        "page_number": 7,
+        "window_text": "<!-- PAGE_6 -->\n###### 총칙\n\n2\n\n- 3.  기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n - 4.  적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n <!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5.  임상시험실시기관장의 의무\n- 가.  임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나. ",
+        "original_sentence": "적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_062",
+      "text": "<!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 61,
+        "window_size": 3,
+        "char_count": 43,
+        "word_count": 8,
+        "page_number": 7,
+        "window_text": "기본원칙\n임상시험실시기관의 장은 ｢\n\n의약품 등의 안전에 관한 규칙｣\n\n[별표 4] 의약품\n\n임상시험 관리기준을 준수하고 그 외 사항에 대해서는 본 가이드라인을\n\n따른다.\n\n - 4.  적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n <!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5.  임상시험실시기관장의 의무\n- 가.  임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나.  임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6. ",
+        "original_sentence": "<!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5. "
+      }
+    },
+    {
+      "chunk_id": "chunk_063",
+      "text": "임상시험실시기관장의 의무\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 62,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 4,
+        "page_number": 6,
+        "window_text": "- 4.  적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n <!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5.  임상시험실시기관장의 의무\n- 가.  임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나.  임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6.  대상자보호프로그램의 운영\n- 가. ",
+        "original_sentence": "임상시험실시기관장의 의무\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_064",
+      "text": "임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 63,
+        "window_size": 3,
+        "char_count": 80,
+        "word_count": 20,
+        "page_number": 1,
+        "window_text": "적용범위\n이 기준은 ｢\n\n<!-- PAGE_7 -->\n##### II.\n\n <!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5.  임상시험실시기관장의 의무\n- 가.  임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나.  임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6.  대상자보호프로그램의 운영\n- 가.  임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나. ",
+        "original_sentence": "임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_065",
+      "text": "임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 64,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 8,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_7 -->\n###### 대상자보호프로그램의 운영\n\n- 5.  임상시험실시기관장의 의무\n- 가.  임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나.  임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6.  대상자보호프로그램의 운영\n- 가.  임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다. ",
+        "original_sentence": "임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6. "
+      }
+    },
+    {
+      "chunk_id": "chunk_066",
+      "text": "대상자보호프로그램의 운영\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 65,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 4,
+        "page_number": 6,
+        "window_text": "임상시험실시기관장의 의무\n- 가.  임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나.  임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6.  대상자보호프로그램의 운영\n- 가.  임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다.  |\n| --- | --- |\n\n**[표 끝]**\n\n- 다. ",
+        "original_sentence": "대상자보호프로그램의 운영\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_067",
+      "text": "임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 66,
+        "window_size": 3,
+        "char_count": 148,
+        "word_count": 27,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장은 기관 내 임상시험을 수행하는 데 있어 시험\n대상자의 안전과 권리의 보호 및 복지 향상을 최우선으로 고려하여야\n\n- 나.  임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6.  대상자보호프로그램의 운영\n- 가.  임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다.  |\n| --- | --- |\n\n**[표 끝]**\n\n- 다.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7. ",
+        "original_sentence": "임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_068",
+      "text": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 67,
+        "window_size": 3,
+        "char_count": 141,
+        "word_count": 30,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장은 대상자보호프로그램을 수행하기 위해 필요한\n- 6.  대상자보호프로그램의 운영\n- 가.  임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다.  |\n| --- | --- |\n\n**[표 끝]**\n\n- 다.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7.  대상자보호부서 등\n- 가. ",
+        "original_sentence": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_069",
+      "text": "|\n| --- | --- |\n\n**[표 끝]**\n\n- 다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 68,
+        "window_size": 3,
+        "char_count": 33,
+        "word_count": 10,
+        "page_number": 1,
+        "window_text": "대상자보호프로그램의 운영\n- 가.  임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다.  |\n| --- | --- |\n\n**[표 끝]**\n\n- 다.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7.  대상자보호부서 등\n- 가.  대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나. ",
+        "original_sentence": "|\n| --- | --- |\n\n**[표 끝]**\n\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_070",
+      "text": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 69,
+        "window_size": 3,
+        "char_count": 153,
+        "word_count": 32,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장은 시험대상자 보호프로그램을 원활히 수행하기\n위해 대상자보호프로그램 운영책임자를 지정하여 대상자보호프로\n\n그램을 총괄하여 운영할 수  있도록 그 임무를 위임할 수 있으며,\n\n대상자보호부서를 임상시험실시기관에 설치하고 대상자보호프로그램\n\n- 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다.  |\n| --- | --- |\n\n**[표 끝]**\n\n- 다.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7.  대상자보호부서 등\n- 가.  대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나.  대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다. ",
+        "original_sentence": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7. "
+      }
+    },
+    {
+      "chunk_id": "chunk_071",
+      "text": "대상자보호부서 등\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 70,
+        "window_size": 3,
+        "char_count": 15,
+        "word_count": 4,
+        "page_number": 6,
+        "window_text": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 기관의 규모, 임상시험 건수, 임상시험 관련\n\n물적자원 등을 고려하여 기관에 적합한 대상자보호부서를 효율적\n\n3\n\n**[표 시작]**\n\n| 으로 구성･ | 운영한다.  |\n| --- | --- |\n\n**[표 끝]**\n\n- 다.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7.  대상자보호부서 등\n- 가.  대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나.  대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다.  대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라. ",
+        "original_sentence": "대상자보호부서 등\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_072",
+      "text": "대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 71,
+        "window_size": 3,
+        "char_count": 79,
+        "word_count": 15,
+        "page_number": 1,
+        "window_text": "|\n| --- | --- |\n\n**[표 끝]**\n\n- 다.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7.  대상자보호부서 등\n- 가.  대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나.  대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다.  대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라.  대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마. ",
+        "original_sentence": "대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_073",
+      "text": "대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 72,
+        "window_size": 3,
+        "char_count": 80,
+        "word_count": 19,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 대상자\n보호프로그램 운영 시 시험대상자의 안전과 권리의 보호 및 복지\n\n향상을 위해 임상시험관리기준과 조화될 수 있도록 임상시험심사\n\n위원회(IRB), 대상자보호부서, 시험자 등 기관 내 임상시험과 관련된\n\n- 7.  대상자보호부서 등\n- 가.  대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나.  대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다.  대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라.  대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마.  대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n",
+        "original_sentence": "대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_074",
+      "text": "대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 73,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 8,
+        "page_number": 1,
+        "window_text": "대상자보호부서 등\n- 가.  대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나.  대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다.  대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라.  대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마.  대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n <!-- PAGE_8 -->\n##### III.\n\n",
+        "original_sentence": "대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라. "
+      }
+    },
+    {
+      "chunk_id": "chunk_075",
+      "text": "대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 74,
+        "window_size": 3,
+        "char_count": 41,
+        "word_count": 8,
+        "page_number": 1,
+        "window_text": "대상자보호프로그램 운영책임자는 임상시험실시기관장의 위임을 받아\n대상자보호프로그램 운영을 총괄할 수 있으며, 이 경우 대상자보호프로\n\n- 나.  대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다.  대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라.  대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마.  대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n <!-- PAGE_8 -->\n##### III.\n\n <!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8. ",
+        "original_sentence": "대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마. "
+      }
+    },
+    {
+      "chunk_id": "chunk_076",
+      "text": "대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 75,
+        "window_size": 3,
+        "char_count": 37,
+        "word_count": 7,
+        "page_number": 8,
+        "window_text": "대상자보호프로그램 운영책임자는 시험대상자의 안전과 권리의 보호\n및 복지 향상을 위하여 이 기준에 관한 충분한 지식을 가진 사람이어야\n\n- 다.  대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라.  대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마.  대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n <!-- PAGE_8 -->\n##### III.\n\n <!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8.  대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n",
+        "original_sentence": "대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_077",
+      "text": "<!-- PAGE_8 -->\n##### III.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 76,
+        "window_size": 3,
+        "char_count": 28,
+        "word_count": 5,
+        "page_number": 8,
+        "window_text": "대상자보호프로그램 운영책임자는 시험대상자 보호업무를 적절히 수행\n- 라.  대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마.  대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n <!-- PAGE_8 -->\n##### III.\n\n <!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8.  대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n - 가. ",
+        "original_sentence": "<!-- PAGE_8 -->\n##### III.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_078",
+      "text": "<!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 77,
+        "window_size": 3,
+        "char_count": 46,
+        "word_count": 9,
+        "page_number": 8,
+        "window_text": "대상자보호부서 구성원은 시험대상자보호프로그램 및 담당업무에 관한\n- 마.  대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n <!-- PAGE_8 -->\n##### III.\n\n <!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8.  대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n - 가.  자체 점검\n- 나. ",
+        "original_sentence": "<!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8. "
+      }
+    },
+    {
+      "chunk_id": "chunk_079",
+      "text": "대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 78,
+        "window_size": 3,
+        "char_count": 35,
+        "word_count": 7,
+        "page_number": 8,
+        "window_text": "대상자보호프로그램을 수행하는 자는 업무상 이해상충을 피해야 한다.\n <!-- PAGE_8 -->\n##### III.\n\n <!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8.  대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n - 가.  자체 점검\n- 나.  헬프데스크(Helpdesk) 운영\n- 다. ",
+        "original_sentence": "대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_080",
+      "text": "- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 79,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 6,
+        "window_text": "<!-- PAGE_8 -->\n##### III.\n\n <!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8.  대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n - 가.  자체 점검\n- 나.  헬프데스크(Helpdesk) 운영\n- 다.  이해상충 관리\n4\n\n- 라. ",
+        "original_sentence": "- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_081",
+      "text": "자체 점검\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 80,
+        "window_size": 3,
+        "char_count": 11,
+        "word_count": 4,
+        "page_number": 1,
+        "window_text": "<!-- PAGE_8 -->\n###### 대상자보호프로그램의 기본 업무\n\n- 8.  대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n - 가.  자체 점검\n- 나.  헬프데스크(Helpdesk) 운영\n- 다.  이해상충 관리\n4\n\n- 라.  규정 제․개정 관리\n- 마. ",
+        "original_sentence": "자체 점검\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_082",
+      "text": "헬프데스크(Helpdesk) 운영\n- 다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 81,
+        "window_size": 3,
+        "char_count": 24,
+        "word_count": 4,
+        "page_number": 1,
+        "window_text": "대상자보호프로그램에서 수행하여야 할 기본 업무는 다음과 같다.\n - 가.  자체 점검\n- 나.  헬프데스크(Helpdesk) 운영\n- 다.  이해상충 관리\n4\n\n- 라.  규정 제․개정 관리\n- 마.  규정 준수 및 위반 관리\n- 바. ",
+        "original_sentence": "헬프데스크(Helpdesk) 운영\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_083",
+      "text": "이해상충 관리\n4\n\n- 라. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 82,
+        "window_size": 3,
+        "char_count": 16,
+        "word_count": 5,
+        "page_number": 9,
+        "window_text": "- 가.  자체 점검\n- 나.  헬프데스크(Helpdesk) 운영\n- 다.  이해상충 관리\n4\n\n- 라.  규정 제․개정 관리\n- 마.  규정 준수 및 위반 관리\n- 바.  교육\n- 9. ",
+        "original_sentence": "이해상충 관리\n4\n\n- 라. "
+      }
+    },
+    {
+      "chunk_id": "chunk_084",
+      "text": "규정 제․개정 관리\n- 마. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 83,
+        "window_size": 3,
+        "char_count": 16,
+        "word_count": 5,
+        "page_number": 1,
+        "window_text": "자체 점검\n- 나.  헬프데스크(Helpdesk) 운영\n- 다.  이해상충 관리\n4\n\n- 라.  규정 제․개정 관리\n- 마.  규정 준수 및 위반 관리\n- 바.  교육\n- 9.  자체점검(Internal Audit)\n- 가. ",
+        "original_sentence": "규정 제․개정 관리\n- 마. "
+      }
+    },
+    {
+      "chunk_id": "chunk_085",
+      "text": "규정 준수 및 위반 관리\n- 바. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 84,
+        "window_size": 3,
+        "char_count": 19,
+        "word_count": 7,
+        "page_number": 1,
+        "window_text": "헬프데스크(Helpdesk) 운영\n- 다.  이해상충 관리\n4\n\n- 라.  규정 제․개정 관리\n- 마.  규정 준수 및 위반 관리\n- 바.  교육\n- 9.  자체점검(Internal Audit)\n- 가.  임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나. ",
+        "original_sentence": "규정 준수 및 위반 관리\n- 바. "
+      }
+    },
+    {
+      "chunk_id": "chunk_086",
+      "text": "교육\n- 9. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 85,
+        "window_size": 3,
+        "char_count": 8,
+        "word_count": 3,
+        "page_number": 1,
+        "window_text": "이해상충 관리\n4\n\n- 라.  규정 제․개정 관리\n- 마.  규정 준수 및 위반 관리\n- 바.  교육\n- 9.  자체점검(Internal Audit)\n- 가.  임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나.  임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10. ",
+        "original_sentence": "교육\n- 9. "
+      }
+    },
+    {
+      "chunk_id": "chunk_087",
+      "text": "자체점검(Internal Audit)\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 86,
+        "window_size": 3,
+        "char_count": 26,
+        "word_count": 4,
+        "page_number": 6,
+        "window_text": "규정 제․개정 관리\n- 마.  규정 준수 및 위반 관리\n- 바.  교육\n- 9.  자체점검(Internal Audit)\n- 가.  임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나.  임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10.  헬프데스크(Helpdesk) 운영\n- 가. ",
+        "original_sentence": "자체점검(Internal Audit)\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_088",
+      "text": "임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 87,
+        "window_size": 3,
+        "char_count": 82,
+        "word_count": 18,
+        "page_number": 1,
+        "window_text": "규정 준수 및 위반 관리\n- 바.  교육\n- 9.  자체점검(Internal Audit)\n- 가.  임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나.  임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10.  헬프데스크(Helpdesk) 운영\n- 가.  임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나. ",
+        "original_sentence": "임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_089",
+      "text": "임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 88,
+        "window_size": 3,
+        "char_count": 122,
+        "word_count": 28,
+        "page_number": 2,
+        "window_text": "교육\n- 9.  자체점검(Internal Audit)\n- 가.  임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나.  임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10.  헬프데스크(Helpdesk) 운영\n- 가.  임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나.  임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11. ",
+        "original_sentence": "임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10. "
+      }
+    },
+    {
+      "chunk_id": "chunk_090",
+      "text": "헬프데스크(Helpdesk) 운영\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 89,
+        "window_size": 3,
+        "char_count": 24,
+        "word_count": 4,
+        "page_number": 6,
+        "window_text": "자체점검(Internal Audit)\n- 가.  임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나.  임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10.  헬프데스크(Helpdesk) 운영\n- 가.  임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나.  임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11.  이해상충 관리\n- 가. ",
+        "original_sentence": "헬프데스크(Helpdesk) 운영\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_091",
+      "text": "임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 90,
+        "window_size": 3,
+        "char_count": 84,
+        "word_count": 18,
+        "page_number": 2,
+        "window_text": "임상시험실시기관의 장은 기관에서 실시하는 임상시험 및 시험대상자 보호\n업무와 관련한 규정 및 표준작업지침서에 대해 정기적으로 평가하고,\n\n- 나.  임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10.  헬프데스크(Helpdesk) 운영\n- 가.  임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나.  임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11.  이해상충 관리\n- 가.  임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n",
+        "original_sentence": "임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_092",
+      "text": "임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 91,
+        "window_size": 3,
+        "char_count": 124,
+        "word_count": 27,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장은 임상시험심사위원회, 시험자, 임상시험 관련\n업무 담당자가 임상시험 관련 법규 및 제9호가목에서 정한 규정 등의\n\n준수 여부를 확인하기 위해 정기점검 등을 시행하고,\n\n필요 시 적절한\n\n- 10.  헬프데스크(Helpdesk) 운영\n- 가.  임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나.  임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11.  이해상충 관리\n- 가.  임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n - 나. ",
+        "original_sentence": "임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11. "
+      }
+    },
+    {
+      "chunk_id": "chunk_093",
+      "text": "이해상충 관리\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 92,
+        "window_size": 3,
+        "char_count": 13,
+        "word_count": 4,
+        "page_number": 6,
+        "window_text": "헬프데스크(Helpdesk) 운영\n- 가.  임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나.  임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11.  이해상충 관리\n- 가.  임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n - 나.  임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n",
+        "original_sentence": "이해상충 관리\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_094",
+      "text": "임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 93,
+        "window_size": 3,
+        "char_count": 36,
+        "word_count": 7,
+        "page_number": 8,
+        "window_text": "임상시험실시기관의 장은 임상시험과 관련하여 시험대상자의 질의, 요청,\n고충사항 등을 접수하고 그 내용을 조사, 확인하여 시험대상자에게 회신\n\n- 나.  임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11.  이해상충 관리\n- 가.  임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n - 나.  임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n 5\n\n- 12. ",
+        "original_sentence": "임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_095",
+      "text": "- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 94,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장은 시험대상자 보호업무와 관련하여 시험자,\n임상시험심사위원회, 의뢰자 등의 질의, 요청, 고충사항 등을 접수하고 그\n\n내용을 조사, 확인하여 관련 당사자에게 회신하는 절차 등을 포함한 헬프\n\n- 11.  이해상충 관리\n- 가.  임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n - 나.  임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n 5\n\n- 12.  규정 제․개정 관리\n- 가. ",
+        "original_sentence": "- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_096",
+      "text": "임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 95,
+        "window_size": 3,
+        "char_count": 153,
+        "word_count": 28,
+        "page_number": 1,
+        "window_text": "이해상충 관리\n- 가.  임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n - 나.  임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n 5\n\n- 12.  규정 제․개정 관리\n- 가.  임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n",
+        "original_sentence": "임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_097",
+      "text": "5\n\n- 12. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 96,
+        "window_size": 3,
+        "char_count": 9,
+        "word_count": 3,
+        "page_number": 2,
+        "window_text": "임상시험실시기관의 장은 이해상충의 기준 및 관리절차를 수립한다.\n - 나.  임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n 5\n\n- 12.  규정 제․개정 관리\n- 가.  임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n - 나. ",
+        "original_sentence": "5\n\n- 12. "
+      }
+    },
+    {
+      "chunk_id": "chunk_098",
+      "text": "규정 제․개정 관리\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 97,
+        "window_size": 3,
+        "char_count": 16,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "- 나.  임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n 5\n\n- 12.  규정 제․개정 관리\n- 가.  임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n - 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다. ",
+        "original_sentence": "규정 제․개정 관리\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_099",
+      "text": "임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 98,
+        "window_size": 3,
+        "char_count": 66,
+        "word_count": 15,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장은 필요 시 기관 및 시험자의 이해상충문제를\n심사하고 임상시험심사위원회 등 관련 기구에 권고사항을 회신하는 등의\n\n업무를 위해 이해상충심사위원회(COIRB; Conflict of Interests Review\n\nBoard)를 설치･\n\n운영할 수 있다.\n\n 5\n\n- 12.  규정 제․개정 관리\n- 가.  임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n - 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다.  임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13. ",
+        "original_sentence": "임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n"
+      }
+    },
+    {
+      "chunk_id": "chunk_100",
+      "text": "- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 99,
+        "window_size": 3,
+        "char_count": 5,
+        "word_count": 2,
+        "page_number": 1,
+        "window_text": "5\n\n- 12.  규정 제․개정 관리\n- 가.  임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n - 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다.  임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13.  규정의 준수와 위반관리\n- 가. ",
+        "original_sentence": "- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_101",
+      "text": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 100,
+        "window_size": 3,
+        "char_count": 110,
+        "word_count": 25,
+        "page_number": 1,
+        "window_text": "규정 제․개정 관리\n- 가.  임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n - 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다.  임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13.  규정의 준수와 위반관리\n- 가.  임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14. ",
+        "original_sentence": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다. "
+      }
+    },
+    {
+      "chunk_id": "chunk_102",
+      "text": "임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 101,
+        "window_size": 3,
+        "char_count": 43,
+        "word_count": 11,
+        "page_number": 4,
+        "window_text": "임상시험실시기관의 장은 시험 대상자의 안전과 권리의 보호 및 복지\n향상을 위한 포괄적이고 체계적인 정책을 수립한다.\n\n - 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다.  임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13.  규정의 준수와 위반관리\n- 가.  임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14.  교육\n- 가. ",
+        "original_sentence": "임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13. "
+      }
+    },
+    {
+      "chunk_id": "chunk_103",
+      "text": "규정의 준수와 위반관리\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 102,
+        "window_size": 3,
+        "char_count": 18,
+        "word_count": 5,
+        "page_number": 6,
+        "window_text": "- 나.  임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다.  임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13.  규정의 준수와 위반관리\n- 가.  임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14.  교육\n- 가.  임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나. ",
+        "original_sentence": "규정의 준수와 위반관리\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_104",
+      "text": "임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 103,
+        "window_size": 3,
+        "char_count": 83,
+        "word_count": 22,
+        "page_number": 1,
+        "window_text": "임상시험실시기관의 장 또는 대상자보호프로그램 운영책임자는 기관에서\n실시하는 임상시험 및 시험대상자 보호업무와 관련한 규정 또는 표준\n\n개정 시, 임상시험 대상자의 안전과 권리의 보호 및\n\n- 다.  임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13.  규정의 준수와 위반관리\n- 가.  임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14.  교육\n- 가.  임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나.  교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다.",
+        "original_sentence": "임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14. "
+      }
+    },
+    {
+      "chunk_id": "chunk_105",
+      "text": "교육\n- 가. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 104,
+        "window_size": 3,
+        "char_count": 8,
+        "word_count": 3,
+        "page_number": 6,
+        "window_text": "임상시험실시기관의 장은 나목에 따라 작성된 모든 규정 및 표준작업\n- 13.  규정의 준수와 위반관리\n- 가.  임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14.  교육\n- 가.  임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나.  교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다.",
+        "original_sentence": "교육\n- 가. "
+      }
+    },
+    {
+      "chunk_id": "chunk_106",
+      "text": "임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나. ",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 105,
+        "window_size": 3,
+        "char_count": 81,
+        "word_count": 18,
+        "page_number": 2,
+        "window_text": "규정의 준수와 위반관리\n- 가.  임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14.  교육\n- 가.  임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나.  교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다.",
+        "original_sentence": "임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나. "
+      }
+    },
+    {
+      "chunk_id": "chunk_107",
+      "text": "교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다.",
+      "metadata": {
+        "source": "임상시험+및+대상자보호프로그램(HRPP)+운영가이드라인(민원인+안내서).pdf",
+        "chunk_index": 106,
+        "window_size": 3,
+        "char_count": 31,
+        "word_count": 9,
+        "page_number": 8,
+        "window_text": "임상시험실시기관의 장은 임상시험 관련 법규 및 기관 내 시험대상자\n보호를 위한 관련 규정 등을 위반한 사실을 인지한 경우 적절한 조치를\n\n- 14.  교육\n- 가.  임상시험실시기관의 장은 임상시험심사위원회 위원, 시험자 및 임상시험\n관련 업무 담당자를 대상으로 임상시험 대상자의 보호에 관한 교육을\n\n- 나.  교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다.",
+        "original_sentence": "교육은 기관 내, 외부 교육 및 온라인 교육을 포함한다."
+      }
+    }
+  ],
+  "chunking_analysis": {
+    "total_chunks": 107,
+    "avg_chunk_length": 58.58878504672897,
+    "min_chunk_length": 4,
+    "max_chunk_length": 211,
+    "total_characters": 6269,
+    "total_words": 1377,
+    "window_size": 3
+  },
+  "statistics": {
+    "total_text_blocks": 235,
+    "heading_count": 14,
+    "paragraph_count": 84,
+    "list_item_count": 46,
+    "table_cell_count": 91,
+    "tables_detected": 2,
+    "chunks_generated": 107
+  }
+}
