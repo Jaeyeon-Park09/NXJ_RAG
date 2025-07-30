@@ -9,12 +9,8 @@ import logging
 from typing import List
 
 from langchain.retrievers.document_compressors.chain_extract import LLMChainExtractor
-<<<<<<< HEAD
-from langchain.schema import BaseLanguageModel, Document
-=======
 from langchain.schema import Document
 from langchain_core.language_models import BaseLanguageModel
->>>>>>> 60b74fa (2)
 
 logger = logging.getLogger(__name__)
 

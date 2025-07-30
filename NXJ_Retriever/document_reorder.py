@@ -9,33 +9,12 @@ import logging
 
 from langchain_community.document_transformers import LongContextReorder
 from langchain.schema import Document
-<<<<<<< HEAD
-=======
 from langchain_core.documents.compressor import BaseDocumentCompressor
 from pydantic import Field
->>>>>>> 60b74fa (2)
 
 logger = logging.getLogger(__name__)
 
 
-<<<<<<< HEAD
-def create_long_context_reorder() -> LongContextReorder:
-    """
-    LongContextReorder 객체를 생성합니다.
-    
-    Returns:
-        LongContextReorder: 생성된 LongContextReorder 객체
-    """
-    try:
-        # LongContextReorder 객체 생성 (추가 인자 없음)
-        reorder = LongContextReorder()
-        
-        logger.info("LongContextReorder 객체가 성공적으로 생성되었습니다")
-        return reorder
-        
-    except Exception as e:
-        logger.error(f"LongContextReorder 객체 생성 중 오류 발생: {str(e)}")
-=======
 class LongContextReorderCompressor(BaseDocumentCompressor):
     """
     LongContextReorder를 BaseDocumentCompressor로 래핑하는 클래스
@@ -86,7 +65,6 @@ def create_long_context_reorder() -> LongContextReorderCompressor:
         
     except Exception as e:
         logger.error(f"LongContextReorderCompressor 객체 생성 중 오류 발생: {str(e)}")
->>>>>>> 60b74fa (2)
         raise
 
 
@@ -109,19 +87,11 @@ def reorder_documents(documents: List[Document]) -> List[Document]:
         if not isinstance(documents, list):
             raise ValueError("documents는 리스트여야 합니다")
         
-<<<<<<< HEAD
-        # LongContextReorder 객체 생성
-        reorder = create_long_context_reorder()
-        
-        # 문서 재정렬
-        reordered_docs = reorder.transform_documents(documents)
-=======
         # LongContextReorderCompressor 객체 생성
         reorder = create_long_context_reorder()
         
         # 문서 재정렬 (query는 빈 문자열로 전달)
         reordered_docs = reorder.compress_documents(documents, "")
->>>>>>> 60b74fa (2)
         
         logger.info(f"문서 재정렬 완료: {len(documents)}개 문서")
         return reordered_docs
@@ -134,11 +104,7 @@ def reorder_documents(documents: List[Document]) -> List[Document]:
 # 사용 예시 함수 (테스트용)
 def example_reorder_usage():
     """
-<<<<<<< HEAD
-    LongContextReorder 사용 예시
-=======
     LongContextReorderCompressor 사용 예시
->>>>>>> 60b74fa (2)
     """
     from langchain.schema import Document
     
@@ -152,11 +118,7 @@ def example_reorder_usage():
     ]
     
     try:
-<<<<<<< HEAD
-        print("=== LongContextReorder 사용 예시 ===")
-=======
         print("=== LongContextReorderCompressor 사용 예시 ===")
->>>>>>> 60b74fa (2)
         print(f"원본 문서 수: {len(sample_documents)}")
         
         # 문서 재정렬

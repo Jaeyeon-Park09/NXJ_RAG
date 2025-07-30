@@ -10,17 +10,9 @@ import json
 from typing import List, Dict, Any
 import logging
 
-<<<<<<< HEAD
-from langchain.retrievers import EnsembleRetriever
-from langchain_community.retrievers import FAISSRetriever, BM25Retriever
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.schema.embeddings import BaseEmbedding
-=======
 from langchain.retrievers import BM25Retriever, EnsembleRetriever
 from langchain.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
-
->>>>>>> 60b74fa (2)
 from langchain.schema import Document
 
 # 로깅 설정
@@ -28,25 +20,15 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-<<<<<<< HEAD
-def load_faiss_index(faiss_path: str) -> FAISSRetriever:
-    """
-    FAISS 인덱스를 로드하여 FAISSRetriever를 생성합니다.
-=======
 def load_faiss_index(faiss_path: str):
     """
     FAISS 인덱스를 로드하여 FAISS vectorstore를 생성합니다.
->>>>>>> 60b74fa (2)
     
     Args:
         faiss_path: FAISS 인덱스가 저장된 디렉토리 경로
         
     Returns:
-<<<<<<< HEAD
-        FAISSRetriever: 로드된 FAISS 리트리버
-=======
         FAISS: 로드된 FAISS vectorstore
->>>>>>> 60b74fa (2)
     """
     try:
         # FAISS 인덱스 파일 경로 확인
@@ -66,31 +48,11 @@ def load_faiss_index(faiss_path: str):
             encode_kwargs={'normalize_embeddings': True}
         )
         
-<<<<<<< HEAD
-        # FAISS 인덱스 로드
-        import faiss
-        faiss_index = faiss.read_index(faiss_index_path)
-        
-        # 메타데이터 로드
-        with open(metadata_path, 'r', encoding='utf-8') as f:
-            metadata = json.load(f)
-        
-        # FAISSRetriever 생성
-        faiss_retriever = FAISSRetriever(
-            index=faiss_index,
-            embedding_function=embedding_model,
-            metadata=metadata
-        )
-        
-        logger.info(f"FAISS 리트리버가 성공적으로 로드되었습니다: {faiss_path}")
-        return faiss_retriever
-=======
         # FAISS vectorstore 로드 (faiss_index.bin 파일 사용)
         faiss_vectorstore = FAISS.load_local(faiss_path, embedding_model, allow_dangerous_deserialization=True)
         
         logger.info(f"FAISS vectorstore가 성공적으로 로드되었습니다: {faiss_path}")
         return faiss_vectorstore
->>>>>>> 60b74fa (2)
         
     except Exception as e:
         logger.error(f"FAISS 인덱스 로드 중 오류 발생: {str(e)}")
@@ -129,12 +91,7 @@ def create_bm25_retriever(texts: List[str], metadatas: List[dict]) -> BM25Retrie
 def build_ensemble_retriever(
     faiss_path: str,
     bm25_texts: List[str],
-<<<<<<< HEAD
-    bm25_metadatas: List[dict],
-    embedding_model: BaseEmbedding = None
-=======
     bm25_metadatas: List[dict]
->>>>>>> 60b74fa (2)
 ) -> EnsembleRetriever:
     """
     FAISS와 BM25 리트리버를 결합한 앙상블 리트리버를 구축합니다.
@@ -143,11 +100,6 @@ def build_ensemble_retriever(
         faiss_path: FAISS 인덱스가 저장된 디렉토리 경로
         bm25_texts: BM25 리트리버용 텍스트 리스트
         bm25_metadatas: BM25 리트리버용 메타데이터 리스트
-<<<<<<< HEAD
-        embedding_model: 임베딩 모델 (기본값: None, 내장 모델 사용)
-=======
-
->>>>>>> 60b74fa (2)
         
     Returns:
         EnsembleRetriever: 구성된 앙상블 리트리버
@@ -167,16 +119,11 @@ def build_ensemble_retriever(
         if len(bm25_texts) != len(bm25_metadatas):
             raise ValueError("BM25 텍스트와 메타데이터의 길이가 일치하지 않습니다")
         
-<<<<<<< HEAD
-        # FAISS 리트리버 로드
-        faiss_retriever = load_faiss_index(faiss_path)
-=======
         # FAISS vectorstore 로드
         faiss_vectorstore = load_faiss_index(faiss_path)
         
         # FAISS 리트리버 생성
         faiss_retriever = faiss_vectorstore.as_retriever(search_kwargs={"k": 10})
->>>>>>> 60b74fa (2)
         
         # BM25 리트리버 생성
         bm25_retriever = create_bm25_retriever(bm25_texts, bm25_metadatas)
@@ -185,7 +132,7 @@ def build_ensemble_retriever(
         # 가중치: FAISS 60%, BM25 40%
         ensemble_retriever = EnsembleRetriever(
             retrievers=[faiss_retriever, bm25_retriever],
-            weights=[0.6, 0.4]
+            weights=[0.6, 0.4]   # Dense retriever(Faiss): 의미적 유사성 기반 검색에 효과적 / Sparse retriever(BM25): 키워드 기반 검색에 효과적
         )
         
         logger.info("앙상블 리트리버가 성공적으로 구성되었습니다")

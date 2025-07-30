@@ -1,94 +1,66 @@
 """
-Ensemble Retriever 유틸리티 함수들
+Utility Functions for NXJ_Retriever
 
-메타데이터 처리 및 BM25 리트리버 구성을 위한 헬퍼 함수들
+NXJ_Retriever 패키지에서 사용하는 유틸리티 함수들을 제공합니다.
 """
 
-import json
 import os
-from typing import List, Dict, Any, Tuple
+import json
 import logging
+from typing import List, Dict, Any, Tuple
 
 logger = logging.getLogger(__name__)
 
 
 def load_metadata_for_bm25(metadata_path: str, max_docs: int = None) -> Tuple[List[str], List[dict]]:
     """
-    메타데이터 파일에서 BM25 리트리버용 텍스트와 메타데이터를 추출합니다.
-<<<<<<< HEAD
-=======
-    JSON 배열 형식과 JSONL 형식 모두 지원합니다.
->>>>>>> 60b74fa (2)
+    메타데이터 JSON 파일을 로드하여 BM25 리트리버용 데이터를 생성합니다.
     
     Args:
         metadata_path: 메타데이터 JSON 파일 경로
-        max_docs: 로드할 최대 문서 수 (None이면 전체 로드)
+        max_docs: 최대 문서 수 (None이면 전체 로드)
         
     Returns:
         Tuple[List[str], List[dict]]: (텍스트 리스트, 메타데이터 리스트)
+        
+    Raises:
+        FileNotFoundError: 메타데이터 파일을 찾을 수 없는 경우
+        ValueError: JSON 파일 형식이 잘못된 경우
     """
     try:
+        # 파일 존재 확인
+        if not os.path.exists(metadata_path):
+            raise FileNotFoundError(f"메타데이터 파일을 찾을 수 없습니다: {metadata_path}")
+        
+        # JSON 파일 로드
+        with open(metadata_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # 데이터 형식 검증
+        if not isinstance(data, list):
+            raise ValueError("메타데이터 파일은 JSON 배열 형식이어야 합니다")
+        
+        # 최대 문서 수 제한
+        if max_docs is not None:
+            data = data[:max_docs]
+        
+        # 텍스트와 메타데이터 분리
         texts = []
         metadatas = []
         
-        with open(metadata_path, 'r', encoding='utf-8') as f:
-<<<<<<< HEAD
-=======
-            content = f.read().strip()
-            
-            # JSON 배열 형식인지 확인
-            if content.startswith('[') and content.endswith(']'):
-                try:
-                    data_list = json.loads(content)
-                    if isinstance(data_list, list):
-                        # JSON 배열 형식 처리
-                        for i, data in enumerate(data_list):
-                            if max_docs and i >= max_docs:
-                                break
-                                
-                            if isinstance(data, dict):
-                                # 텍스트 추출 (page_content 또는 text 필드에서)
-                                text = data.get('page_content') or data.get('text', '')
-                                if text:
-                                    texts.append(text)
-                                    
-                                    # 전체 메타데이터 포함 (page_content/text도 포함)
-                                    metadatas.append(data)
-                        
-                        logger.info(f"JSON 배열 형식으로 BM25용 데이터 로드 완료: {len(texts)}개 문서")
-                        return texts, metadatas
-                        
-                except json.JSONDecodeError:
-                    logger.warning("JSON 배열 파싱 실패, JSONL 형식으로 시도")
-            
-            # JSONL 형식으로 처리
-            f.seek(0)  # 파일 포인터를 처음으로 되돌림
->>>>>>> 60b74fa (2)
-            for i, line in enumerate(f):
-                if max_docs and i >= max_docs:
-                    break
-                    
-                try:
-                    data = json.loads(line.strip())
-                    
-                    # 텍스트 추출 (page_content 또는 text 필드에서)
-                    text = data.get('page_content') or data.get('text', '')
-                    if text:
-                        texts.append(text)
-                        
-<<<<<<< HEAD
-                        # 메타데이터에서 page_content/text 제외
-                        metadata = {k: v for k, v in data.items() 
-                                  if k not in ['page_content', 'text']}
-                        metadatas.append(metadata)
-=======
-                        # 전체 메타데이터 포함 (page_content/text도 포함)
-                        metadatas.append(data)
->>>>>>> 60b74fa (2)
-                        
-                except json.JSONDecodeError:
-                    logger.warning(f"라인 {i+1}에서 JSON 파싱 오류 발생, 건너뜀")
+        for i, item in enumerate(data):
+            try:
+                if isinstance(item, dict) and 'text' in item:
+                    texts.append(item['text'])
+                    # text 필드를 제외한 나머지를 메타데이터로 사용
+                    metadata = {k: v for k, v in item.items() if k != 'text'}
+                    metadatas.append(metadata)
+                else:
+                    logger.warning(f"라인 {i+1}에서 'text' 필드를 찾을 수 없음, 건너뜀")
                     continue
+            except Exception as e:
+                logger.warning(f"라인 {i+1}에서 JSON 파싱 오류 발생, 건너뜀")
+                continue
         
         logger.info(f"BM25용 데이터 로드 완료: {len(texts)}개 문서")
         return texts, metadatas
@@ -179,23 +151,47 @@ def get_retriever_stats(ensemble_retriever) -> Dict[str, Any]:
             retriever_name = type(retriever).__name__
             stats["retriever_names"].append(retriever_name)
             
-            # 각 리트리버별 추가 정보
-<<<<<<< HEAD
-            if hasattr(retriever, 'index') and retriever.index is not None:
-                stats[f"retriever_{i}_index_size"] = retriever.index.ntotal
-            elif hasattr(retriever, 'docstore') and retriever.docstore is not None:
-=======
-            if hasattr(retriever, 'vectorstore') and retriever.vectorstore is not None:
-                # FAISS vectorstore의 경우
-                if hasattr(retriever.vectorstore, 'index') and retriever.vectorstore.index is not None:
-                    stats[f"retriever_{i}_index_size"] = retriever.vectorstore.index.ntotal
-            elif hasattr(retriever, 'docstore') and retriever.docstore is not None:
-                # BM25 리트리버의 경우
->>>>>>> 60b74fa (2)
-                stats[f"retriever_{i}_docstore_size"] = len(retriever.docstore._dict)
+            # 각 리트리버별 추가 정보 (가능한 경우)
+            try:
+                if hasattr(retriever, 'docstore') and hasattr(retriever.docstore, '_dict'):
+                    stats[f"retriever_{i}_docstore_size"] = len(retriever.docstore._dict)
+                elif hasattr(retriever, 'vectorstore'):
+                    stats[f"retriever_{i}_vectorstore_type"] = type(retriever.vectorstore).__name__
+            except Exception as e:
+                logger.warning(f"리트리버 {i}의 추가 정보 수집 실패: {str(e)}")
         
         return stats
         
     except Exception as e:
         logger.error(f"리트리버 통계 수집 중 오류 발생: {str(e)}")
-        return {"error": str(e)} 
+        return {"error": str(e)}
+
+
+# 사용 예시 함수 (테스트용)
+def example_utils_usage():
+    """
+    유틸리티 함수 사용 예시
+    """
+    # 메타데이터 파일 경로
+    metadata_path = "/home/james4u1/NXJ_RAG/NXJ_Embed/emb/metadata.json"
+    
+    try:
+        print("=== 유틸리티 함수 사용 예시 ===")
+        
+        # 메타데이터 로드
+        if os.path.exists(metadata_path):
+            texts, metadatas = load_metadata_sample(metadata_path, sample_size=5)
+            print(f"로드된 문서 수: {len(texts)}")
+            print(f"첫 번째 문서: {texts[0][:100]}...")
+            print(f"첫 번째 메타데이터: {metadatas[0]}")
+        else:
+            print("메타데이터 파일이 존재하지 않습니다")
+        
+        print("=== 예시 완료 ===")
+        
+    except Exception as e:
+        print(f"오류 발생: {str(e)}")
+
+
+if __name__ == "__main__":
+    example_utils_usage() 

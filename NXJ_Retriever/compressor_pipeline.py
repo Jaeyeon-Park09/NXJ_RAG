@@ -46,17 +46,6 @@ def build_compressor_pipeline(
             raise ValueError("extractor는 BaseDocumentCompressor의 인스턴스여야 합니다")
         
         # 압축기 리스트 구성 (순서: 1. LongContextReorder, 2. LLMChainExtractor)
-<<<<<<< HEAD
-        compressors = [reorder, extractor]
-        
-        # DocumentCompressorPipeline 생성
-        pipeline = DocumentCompressorPipeline(compressors=compressors)
-=======
-        transformers = [reorder, extractor]
-        
-        # DocumentCompressorPipeline 생성
-        pipeline = DocumentCompressorPipeline(transformers=transformers)
->>>>>>> 60b74fa (2)
         
         logger.info("문서 압축 파이프라인이 성공적으로 구성되었습니다")
         logger.info("실행 순서: 1. LongContextReorder, 2. LLMChainExtractor")

@@ -8,15 +8,6 @@ LangChain의 LLMChain을 사용하여 PromptTemplate과 LLM 객체를 결합합�
 import logging
 from typing import Dict, Any, List
 
-<<<<<<< HEAD
-from langchain.chains import LLMChain
-from langchain.schema import BaseLanguageModel, PromptTemplate, Document
-=======
-from langchain.chains.llm import LLMChain
-from langchain.schema import Document
-from langchain_core.prompts import PromptTemplate
-from langchain_core.language_models import BaseLanguageModel
->>>>>>> 60b74fa (2)
 
 logger = logging.getLogger(__name__)
 
@@ -96,11 +87,6 @@ def run_chain_with_documents(
             return "참조할 문서가 없어 답변을 생성할 수 없습니다."
         
         # Document 객체들을 context 문자열로 변환
-<<<<<<< HEAD
-        from .prompt_templates import format_context_with_sources
-=======
-        from NXJ_LLM.prompt_templates import format_context_with_sources
->>>>>>> 60b74fa (2)
         context = format_context_with_sources(documents)
         
         # 체인 실행
@@ -167,13 +153,6 @@ def create_full_chain(
         LLMChain: 완전한 LLMChain 객체
     """
     try:
-<<<<<<< HEAD
-        from .ollama_llm import build_llm
-        from .prompt_templates import build_report_prompt, build_simple_report_prompt
-=======
-        from NXJ_LLM.ollama_llm import build_llm
-        from NXJ_LLM.prompt_templates import build_report_prompt, build_simple_report_prompt
->>>>>>> 60b74fa (2)
         
         # LLM 생성
         llm = build_llm(model_name)

@@ -8,14 +8,6 @@ LangChain의 RetrievalQA를 사용하여 LLM 객체와 Retriever를 조합합니
 import logging
 from typing import Dict, Any, List
 
-<<<<<<< HEAD
-from langchain.chains import RetrievalQA
-from langchain.schema import BaseLanguageModel, BaseRetriever, Document
-=======
-from langchain.chains.retrieval_qa.base import RetrievalQA
-from langchain.schema import BaseRetriever, Document
-from langchain_core.language_models import BaseLanguageModel
->>>>>>> 60b74fa (2)
 
 logger = logging.getLogger(__name__)
 

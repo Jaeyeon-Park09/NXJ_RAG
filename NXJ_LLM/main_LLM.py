@@ -212,11 +212,7 @@ def run_interactive_mode():
         for key, value in info.items():
             print(f"  {key}: {value}")
         
-<<<<<<< HEAD
-        print("\n대화형 모드 시작 (종료하려면 'quit' 또는 'exit' 입력)")
-=======
         print("\n안녕하세요❗ 의료제품 인허가를 지원하기 위해 개발된 인허스턴트 NXJ_LLM입니다☺️ \n종료하려면 'quit' 또는 'exit'를 입력하세요.")
->>>>>>> 60b74fa (2)
         print("-" * 60)
         
         # 대화형 루프
@@ -254,77 +250,15 @@ def run_interactive_mode():
     except Exception as e:
         print(f"시스템 실행 중 오류 발생: {str(e)}")
 
-
-<<<<<<< HEAD
-def run_test_mode():
-    """
-    테스트 모드로 시스템을 실행합니다.
-    """
-    try:
-        print("=" * 60)
-        print("LLM RAG 시스템 테스트 모드")
-        print("=" * 60)
-        
-        # 시스템 초기화
-        print("시스템 초기화 중...")
-        rag_system = LLMRAGSystem()
-        rag_system.initialize_system(sample_size=200)  # 테스트용으로 적은 문서 수
-        
-        # 테스트 질문들
-        test_questions = [
-            "휠체어 사용자를 위한 건물 설계 시 고려사항은 무엇인가요?",
-            "접근성 관련 규정에 대해 설명해주세요.",
-            "장애인 편의시설의 종류는 무엇인가요?",
-            "건축물의 접근성 기준은 어떻게 되나요?"
-        ]
-        
-        # 테스트 실행
-        for i, question in enumerate(test_questions, 1):
-            print(f"\n--- 테스트 {i} ---")
-            print(f"질문: {question}")
-            
-            try:
-                result = rag_system.ask_question(question)
-                print("답변:")
-                print(result["formatted_response"])
-                print("-" * 40)
-                
-            except Exception as e:
-                print(f"테스트 {i} 실패: {str(e)}")
-        
-        print("\n테스트 완료")
-        
-    except Exception as e:
-        print(f"테스트 모드 실행 중 오류 발생: {str(e)}")
-
-
-=======
->>>>>>> 60b74fa (2)
 if __name__ == "__main__":
     """
     메인 실행 함수
     F5로 실행하면 전체 LLM RAG 시스템이 가동됩니다.
     """
     try:
-<<<<<<< HEAD
-        print("LLM RAG 시스템을 시작합니다...")
-        print("1. 대화형 모드")
-        print("2. 테스트 모드")
-        
-        choice = input("모드를 선택하세요 (1 또는 2): ").strip()
-        
-        if choice == "1":
-            run_interactive_mode()
-        elif choice == "2":
-            run_test_mode()
-        else:
-            print("잘못된 선택입니다. 대화형 모드로 시작합니다.")
-            run_interactive_mode()
-=======
         print("NXJ_LLM RAG 시스템을 시작합니다...")
         print("의료 인허가 어시스턴트 모드를 시작합니다...")
         run_interactive_mode()
->>>>>>> 60b74fa (2)
             
     except Exception as e:
         print(f"시스템 시작 중 오류 발생: {str(e)}")

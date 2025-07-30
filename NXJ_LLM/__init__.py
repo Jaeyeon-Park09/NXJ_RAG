@@ -7,10 +7,6 @@ Ollama 기반 LLM 모델을 LangChain으로 wrapping하는 패키지
 # LLM 관련 함수들
 from .ollama_llm import (
     build_llm,
-<<<<<<< HEAD
-    build_llm_with_custom_config,
-=======
->>>>>>> 60b74fa (2)
     validate_llm_connection,
     get_llm_info
 )
@@ -49,10 +45,6 @@ __version__ = "1.0.0"
 __all__ = [
     # LLM 관련
     "build_llm",
-<<<<<<< HEAD
-    "build_llm_with_custom_config", 
-=======
->>>>>>> 60b74fa (2)
     "validate_llm_connection",
     "get_llm_info",
     
